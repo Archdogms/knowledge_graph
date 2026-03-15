@@ -1,0 +1,16 @@
+# 运行输出（可选：若希望把结果也提交可删掉下面两行）
+output/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.egg
+
+# 系统
+.DS_Store
+Thumbs.db
+*.tmp
