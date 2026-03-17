@@ -1,0 +1,5695 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "龙狮",
+          "target": "南海非遗",
+          "relation": "承载文化",
+          "evidence": "南海非遗",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海特产",
+          "relation": "属于时期",
+          "evidence": "南海特产",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "南海美食篇",
+          "target": "南海特产篇",
+          "relation": "同类",
+          "evidence": "《南海美食篇 南海特产篇 南海传说篇 南海历史文化系列丛书4》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海美食篇",
+          "target": "南海传说篇",
+          "relation": "同类",
+          "evidence": "《南海美食篇 南海特产篇 南海传说篇 南海历史文化系列丛书4》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海美食篇",
+          "target": "佛山市南海区委宣传部",
+          "relation": "关联人物",
+          "evidence": "中共佛山巿南海区委宣传部 佛山巿南海区文体旅游局 主编",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海特产篇",
+          "target": "佛山市南海区委宣传部",
+          "relation": "关联人物",
+          "evidence": "中共佛山巿南海区委宣传部 佛山巿南海区文体旅游局 主编",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "南越王赵伦",
+          "target": "南海传说篇",
+          "relation": "记载于",
+          "evidence": "南越王赵伦、广绣始祖卢媚娘也都活在南海传说之中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "广绣始祖卢媚娘",
+          "target": "南海传说篇",
+          "relation": "记载于",
+          "evidence": "南越王赵伦、广绣始祖卢媚娘也都活在南海传说之中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "关祥",
+          "target": "玉女峰",
+          "relation": "关联人物",
+          "evidence": "玉女峰 和 关祥",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山",
+          "target": "玉女峰",
+          "relation": "位于",
+          "evidence": "西樵和自去 Xx 祥",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "丹灶镇",
+          "target": "华平村",
+          "relation": "位于",
+          "evidence": "华平村与六祖",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "六祖",
+          "target": "华平村",
+          "relation": "关联人物",
+          "evidence": "华平村与六祖",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "金凤草",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "九江 镇 宣传 文体办 供稿 165 盐 步 老龙 的故事 南区方海志办供稿167 南海 传说 篇 001 Pa AE AIzAs 很 久 以 前珠江 三 角 洲 上 空出现两条 巨 龙 一 条 是 金龙 自西奔涌 而 来 遍 体金光 闪 闪  一 条 是 银 龙 从 北 奔 腾 而 至  浑身银 光 兆 目 。这 两 条 龙 不 期而遇 了 。 人金龙要 银 龙 让 路银 龙 不 肯银 龙 要 金龙避 开金 龙 不 依。两 条龙于 是 动 起 武 来 斗",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "小塘",
+          "relation": "关联人物",
+          "evidence": "海瑞与小塘",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "九江镇",
+          "target": "盐步",
+          "relation": "承载文化",
+          "evidence": "盐 步 老龙 的故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "金龙",
+          "target": "银龙",
+          "relation": "同类",
+          "evidence": "两条 巨 龙 一 条 是 金龙 自西奔涌 而 来 遍 体金光 闪 闪  一 条 是 银 龙 从 北 奔 腾 而 至  浑身银 光 兆 目 。这 两 条 龙 不 期而遇 了 。",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大樵",
+          "target": "云姐",
+          "relation": "同族",
+          "evidence": "夫妻 两人 男 的叫大 樵 女 的 叫 云 姐 靠打柴 过 活 。大 樵",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "大樵",
+          "target": "东海",
+          "relation": "活动于",
+          "evidence": "大樵站到两龙的中间调解",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大樵",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "大樵站到两龙的中间调解",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "南海",
+          "relation": "位于",
+          "evidence": "西樵山即今日的西樵山",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南越王赵伦",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "南越王赵伦常到西樵山游玩",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "赵伦",
+          "target": "大科峰",
+          "relation": "活动于",
+          "evidence": "赵伦站在大科峰上面对寒风扫兴极了",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大科峰",
+          "target": "杜鹏",
+          "relation": "承载文化",
+          "evidence": "大科峰上杜鹏登时争妍夺丽有如烈火烛天",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "玉妹",
+          "target": "玉女像",
+          "relation": "承载文化",
+          "evidence": "玉女像。为了把玉女塑得体娇貌美他天天逛街串户细心观察捉摸女子的脸形、身段、眼神和笑影",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "玉妹",
+          "target": "东村",
+          "relation": "活动于",
+          "evidence": "有一次来到东村看见有个名叫玉妹的姑娘比西权山上的锦萝花还美",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "老石匠",
+          "target": "玉女像",
+          "relation": "创建修建",
+          "evidence": "老石匠说有个人上门约他再造一个玉女像",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "老石匠",
+          "target": "玉女像",
+          "relation": "承载文化",
+          "evidence": "村里人敬重老石匠的好技艺和好品德，把玉女像和老人一起埋葬在西樵山上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "玉女像",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "村里人敬重老石匠的好技艺和好品德，把玉女像和老人一起埋葬在西樵山上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "玉女峰",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "玉女峰在西樵山西南部",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "云门",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云门是西樵山的山门",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "云门",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "樵山白云从此门而入故有云门的美誉",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "莲峰",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "莲峰是当年泳海群仙聚会之后从莲花岛移来的。你看那青山上就是仙丹么",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吉水峰",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "僧人落在西樵山吉水峰的半山",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "天镇峰",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "道人落在天镇峰的半山",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "云门",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云门成为游客进出的必经之地",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "云门",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云门是西樵山清代道观的题名砖门楼",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "牌坊",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "牌坊成为游人进出的必经之门",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "云雾茶",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "云雾茶是西樵山的特产",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "亚香",
+          "target": "云雾茶",
+          "relation": "关联人物",
+          "evidence": "亚香依恋地留在山里云气终年不散滋养着山里的茶株",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "亚香",
+          "target": "云雾茶",
+          "relation": "承载文化",
+          "evidence": "人们说这是亚香的化身。山人把里面这种茶称为云雾茶",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "药王峰",
+          "relation": "活动于",
+          "evidence": "西樵山上有个药王峰峰上几乎是有苗皆药",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "药王峰",
+          "relation": "承载文化",
+          "evidence": "这许多药是当年吕洞宾到西樵山采得灵芝仙草后播种下来的",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "吕洞宾",
+          "target": "罗浮山",
+          "relation": "活动于",
+          "evidence": "吕洞宾从罗浮山跨到西樵山上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "吕洞宾来到西樵山的马鞍岗上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "马鞍岗",
+          "relation": "活动于",
+          "evidence": "吕洞宾来到西樵山的马鞍岗上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "罗浮山",
+          "target": "西樵山",
+          "relation": "关联人物",
+          "evidence": "吕洞宾从罗浮山跨到西樵山上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "吕洞宾",
+          "target": "试剑石",
+          "relation": "创建修建",
+          "evidence": "那蛤蜡跳开后打一筋斗跳进鉴湖劳的浅水里化为石头。吕洞宾随手采下一颗榕树种籽放近嘴边一吹说声去长在这亏畜背上用根络住它叫它永世不得翻身这这块石就是现在鉴湖旁被一株古榕的盘根包拢着的蛤虹石。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "试剑石",
+          "relation": "活动于",
+          "evidence": "吕洞宾不慌不忙地说灵芝是炎帝的女儿瑶姬的精神化育而成和对天正气服了能够延年益寿。我采去济世救治黎民于理何伤你万界外妖孽与仙草无缘休得件狂说黑手起剑落在它斩去。那蛤蜡大吃一惊急忙跳开。剑锋砍着了一块大石把大石劈成两截断面光滑整齐分离在山坡上。这块石后人叫它试剑石。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "试剑石",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "吕洞宾登上云头回头俯梧西樵山只见峭壁冲天出奇岩云底生岭伏峰回苍林掩映好",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "药王峰",
+          "relation": "位于",
+          "evidence": "西樵山西北角的峰蛮上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "药王峰",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "西樵山西北角的峰蛮上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "体全",
+          "target": "药王峰",
+          "relation": "活动于",
+          "evidence": "经常到药王峰上采药",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "体全",
+          "target": "药王峰",
+          "relation": "承载文化",
+          "evidence": "有2000多种药用植物",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "体全",
+          "target": "陈李济药厂",
+          "relation": "创建修建",
+          "evidence": "陈、李两人在广州市双门底下街开设了一间药厂",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "体全",
+          "target": "陈李济药厂",
+          "relation": "关联人物",
+          "evidence": "陈、李两人合伙制药济世",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "桂花",
+          "relation": "活动于",
+          "evidence": "桂花在西樵山上采茶",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "陈子壮",
+          "target": "桂花了",
+          "relation": "承载文化",
+          "evidence": "桂花树下望哥归 桂花开时哥未回",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "鹰强",
+          "target": "桂花了",
+          "relation": "承载文化",
+          "evidence": "桂花树下望哥归 桂花开时哥未回",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "桂花",
+          "target": "桂花酒",
+          "relation": "承载文化",
+          "evidence": "桂花收集起来酿造成桂花酒",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "桂花",
+          "target": "鹰强",
+          "relation": "关联人物",
+          "evidence": "传说中的角色，与桂花姑娘的爱情故事相关",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "霍帮重孙尚守",
+          "target": "所华堂",
+          "relation": "活动于",
+          "evidence": "尚守在途中迷路，看到所华堂的灯光",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山",
+          "target": "所华堂",
+          "relation": "位于",
+          "evidence": "所华堂位于西樵山半林中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "霍尚守",
+          "target": "天下名山水志",
+          "relation": "著有",
+          "evidence": "从此霍尚守隐居山中不鸽功名洪心钻研典籍从事《天下名山水志》和《粤东名臣录》等书",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "霍尚守",
+          "target": "遇仙桥",
+          "relation": "创建修建",
+          "evidence": "并在读书岩下筑起一桥跨润而过题名遇仙桥借此纪怀这一夜偶遇仙妇思维顿爽的经过。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "霍尚守",
+          "target": "天下名山水志",
+          "relation": "活动于",
+          "evidence": "从此霍尚守隐居山中不鸽功名洪心钻研典籍从事《天下名山水志》和《粤东名臣录》等书",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "时家井",
+          "target": "恬云村",
+          "relation": "位于",
+          "evidence": "时家井在恬云村里",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "时家井",
+          "target": "叶氏",
+          "relation": "属于时期",
+          "evidence": "叶家自认为有族人在朝廷当官便把村里唯一的公用井据为己有",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "无叶井",
+          "target": "恬云村",
+          "relation": "位于",
+          "evidence": "无叶井是南海村中的一口奇特水井",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "叶家井",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "叶家井终于回到全村人手里大家高兴极了把定名为无叶井。其侧又刻有诗一首仰辰台上",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "湛若水",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "诗是明正德年间曾在山中讲学的理学大师湛若水甘泉所写。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "湛若水",
+          "target": "西樵山",
+          "relation": "著有",
+          "evidence": "诗是明正德年间曾在山中讲学的理学大师湛若水甘泉所写。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "叶家井",
+          "target": "无叶井",
+          "relation": "承载文化",
+          "evidence": "叶家井终于回到全村人手里大家高兴极了把定名为无叶井。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "风蛋石",
+          "target": "凤台",
+          "relation": "承载文化",
+          "evidence": "现在仍在这块石旁有称它为风蛋石。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "鸭春石",
+          "target": "凤台",
+          "relation": "承载文化",
+          "evidence": "现在仍在这块石旁有称它为风蛋石。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "前炸鲫鱼的传说",
+          "target": "前炸鲫鱼",
+          "relation": "记载于",
+          "evidence": "这当中流传着一个传说。话说很久以前山里有一间佛庙",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "前炸鲫鱼的传说",
+          "target": "前炸鲫鱼",
+          "relation": "承载文化",
+          "evidence": "这当中流传着一个传说。话说很久以前山里有一间佛庙",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小和尚",
+          "target": "前炸鲫鱼的传说",
+          "relation": "关联人物",
+          "evidence": "有很长一段时间山里住着两个僧人一老一小。有很长一段时间山里住着两个僧人一老一小",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "瑞塔",
+          "target": "白云塔",
+          "relation": "承载文化",
+          "evidence": "白塔原名瑞塔又唤作飞来塔传说是从天上飞来的宝塔",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "枫林白塔",
+          "target": "白云塔",
+          "relation": "承载文化",
+          "evidence": "塔下的岩石上有枫林白塔四个大字",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "参和尚",
+          "target": "白云塔",
+          "relation": "关联人物",
+          "evidence": "相传在明朝万历年间南海里水麻奢的象林寺住持僧在参和尚有一次",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "晋葛洪",
+          "target": "浮丘石",
+          "relation": "活动于",
+          "evidence": "相传晋葛洪曾居此炼丹",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "晋葛洪",
+          "target": "浮丘石",
+          "relation": "同族",
+          "evidence": "晋葛洪曾居此炼丹",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "浮丘叔",
+          "target": "石岗街",
+          "relation": "关联人物",
+          "evidence": "种麦豆的那片田野现在称石岗街",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "石门",
+          "target": "石岗街",
+          "relation": "同类",
+          "evidence": "石门和石岗街都是地名",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "伯夷",
+          "target": "首阳山",
+          "relation": "活动于",
+          "evidence": "伯夷和叔齐路过周朝管辖的首阳山时宁愿饿死也不吃周朝粮食的故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "叔齐",
+          "target": "首阳山",
+          "relation": "活动于",
+          "evidence": "伯夷和叔齐路过周朝管辖的首阳山时宁愿饿死也不吃周朝粮食的故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伯夷",
+          "target": "首阳山",
+          "relation": "同族",
+          "evidence": "伯夷和叔齐路过周朝管辖的首阳山时宁愿饿死也不吃周朝粮食的故事",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "叔齐",
+          "target": "首阳山",
+          "relation": "同族",
+          "evidence": "伯夷和叔齐路过周朝管辖的首阳山时宁愿饿死也不吃周朝粮食的故事",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "李群玉",
+          "target": "宝陀禅院",
+          "relation": "记载于",
+          "evidence": "有诗咏云到此空思吴隐之潮痕草草上幽碑",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "宝陀禅院",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "晋慧波和尚在峰上建有宝陀禅院后易名金山古寺",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "金山古寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "晋慧波和尚在峰上建有宝陀禅院后易名金山古寺",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "鳌峰",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "鳌峰：西樵山上的形似鳌鱼的山峰",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "和顺境",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "南海和顺境内西江北江会合的郁水中有一座灵洲山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "卢眉娘",
+          "target": "广绣",
+          "relation": "著有",
+          "evidence": "卢眉娘在丝绢上绣出《法华经》七薄卷",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "卢眉娘",
+          "target": "广绣",
+          "relation": "活动于",
+          "evidence": "卢眉娘在南海绣花",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "眉娘",
+          "target": "西樵山龙爪峰",
+          "relation": "活动于",
+          "evidence": "晚年眉娘深隐于西樵山龙爪峰上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "眉娘",
+          "target": "西樵山龙爪峰",
+          "relation": "活动于",
+          "evidence": "现西樵山上仍留有紫姑井和紫姑峰",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "眉娘",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "晚年眉娘深隐于西樵山龙爪峰上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "眉娘",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "现西樵山上仍留有紫姑井和紫姑峰",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "眉娘",
+          "target": "西樵山龙爪峰",
+          "relation": "位于",
+          "evidence": "西樵山上仍留有紫姑井和紫姑峰",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "大丰田村",
+          "target": "罗村",
+          "relation": "位于",
+          "evidence": "大丰田村：位于罗村",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小丰田村",
+          "target": "罗村",
+          "relation": "位于",
+          "evidence": "小丰田村：位于罗村",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "九牧遗风",
+          "target": "大丰田村",
+          "relation": "承载文化",
+          "evidence": "为了纪念这位领羊赐穗的仙翁，后人在大小丰田村之间建起了一座石牌坊题名为‘九牧遗风’",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "九牧遗风",
+          "target": "小丰田村",
+          "relation": "承载文化",
+          "evidence": "为了纪念这位领羊赐穗的仙翁，后人在大小丰田村之间建起了这座石牌坊题名为‘九牧遗风’",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "何梦瑶",
+          "target": "珠江竹枝词",
+          "relation": "著有",
+          "evidence": "清代南海诗人何梦瑶有《珠江竹枝词》咏云",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "荒村",
+          "target": "芳村",
+          "relation": "位于",
+          "evidence": "从荒村到芳村是一个大改变",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南汉时期",
+          "target": "素馨",
+          "relation": "属于时期",
+          "evidence": "南汉时期的一位女官人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "素馨",
+          "target": "芳村",
+          "relation": "承载文化",
+          "evidence": "归功于南汉时期的一位女官人",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "素世姑奶",
+          "target": "流花湖",
+          "relation": "创建修建",
+          "evidence": "宫女们梳洗盆内的水球浮着花流入宫内开挖的小湖中变成如今的流花湖",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "素世姑奶",
+          "target": "流花桥",
+          "relation": "创建修建",
+          "evidence": "宫女们梳洗盆内的水球浮着花流入宫内开挖的小湖中变成如今的流花桥和流花湖",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "大通古寺",
+          "target": "乾隆",
+          "relation": "承载文化",
+          "evidence": "乾隆帝论书大通烟雨四字刻于寺前石牌坊之上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "烟雨井",
+          "target": "大通古寺",
+          "relation": "位于",
+          "evidence": "大通古寺内的烟雨井又称云霞井",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "烟雨井",
+          "target": "流花湖",
+          "relation": "位于",
+          "evidence": "大通古寺内的烟雨井又称云霞井",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "天阶井",
+          "target": "大通古寺",
+          "relation": "位于",
+          "evidence": "天阶井旁休息可隐隐听到井内传来珠江夜游小艇的琴歌和叫卖声。井从何处来据说在大通古寺建成后有达岸禅师在碟上讲经听者甚众。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "天阶井",
+          "target": "大通古寺",
+          "relation": "创建修建",
+          "evidence": "井从何处来据说在大通古寺建成后有达岸禅师在碟上讲经听者甚众。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "达岸禅师",
+          "target": "大通古寺",
+          "relation": "活动于",
+          "evidence": "据说在大通古寺建成后有达岸禅师在碟上讲经听者甚众。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "达岸禅师",
+          "target": "天阶井",
+          "relation": "活动于",
+          "evidence": "达岸禅师站起来手持禅杖匆匆走下天阶用禅杖敲击天阶井有水声从井中传出。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "达岸禅师",
+          "target": "天阶井",
+          "relation": "承载文化",
+          "evidence": "有远方游僧慕名到寺观赏至井旁换饮不慎将布履跌下井中儿寻不获。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "王氏",
+          "target": "佛山祖庙",
+          "relation": "活动于",
+          "evidence": "王氏扶着丈夫躲避债务进寺里",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "顺德祠堂",
+          "relation": "同族",
+          "evidence": "佛山祖庙最有名，顺德祠堂常言道提及的祠堂",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "北帝",
+          "target": "佛山祖庙",
+          "relation": "承载文化",
+          "evidence": "佛山祖庙供奉北方真武玄天上帝，司水之神",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李待问",
+          "target": "佛山祖庙",
+          "relation": "创建修建",
+          "evidence": "崇祯年间曾任户部尚书的佛山居民李待问大建祖庙",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李待问",
+          "target": "佛山祖庙",
+          "relation": "活动于",
+          "evidence": "李待问大建祖庙亲撰庙联一副公开征求下联奖金甚巨",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "李待问",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "佛山居民李待问大建祖庙亲撰庙联一副",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙地理位置在佛山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "阿能",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "补鞋能在祖庙门前补鞋",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "阿能",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "阿能在佛山补鞋",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "补鞋能",
+          "target": "北帝",
+          "relation": "关联人物",
+          "evidence": "阿能向老人请教为什么北帝和爷令人那么信奉",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "补鞋能",
+          "target": "洞天",
+          "relation": "著有",
+          "evidence": "回到家后星夜写了 一副 下联翌日早马上张贴出来 龙势生成一洞天",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "北帝",
+          "target": "洞天",
+          "relation": "承载文化",
+          "evidence": "龙势生成一洞天",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": []
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "补鞋匠",
+          "target": "蠕岗游家",
+          "relation": "关联人物",
+          "evidence": "补鞋匠只得把初生儿忍痛卖给蠕岗游家",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "补鞋匠",
+          "target": "游际泰",
+          "relation": "关联人物",
+          "evidence": "补鞋匠含着泪水卖往蠕岗游家去的初生儿取名游际泰",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "游际泰",
+          "target": "蠕岗游家",
+          "relation": "关联人物",
+          "evidence": "在游家的哺育下生性聪慧长大后考取进士",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "佛山烧大炮弹仔",
+          "target": "祖庙铺",
+          "relation": "盛产",
+          "evidence": "祖庙所在的地方明代时期南海区的地名",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "景泰",
+          "target": "佛山祖庙",
+          "relation": "属于时期",
+          "evidence": "景泰年间1453年佛山祖庙所在地段被划为祖庙铺",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "孔庙",
+          "relation": "位于",
+          "evidence": "在佛山祖庙旁边建了一所孔庙",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔庙",
+          "target": "景泰",
+          "relation": "始建于",
+          "evidence": "景泰年间1453年在佛山祖庙旁边建了一所孔庙",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔庙",
+          "target": "麒麟",
+          "relation": "承载文化",
+          "evidence": "孔庙前建立一座石壁壁上浮现一具神兽麒麟",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "忠义社",
+          "target": "石壁",
+          "relation": "创建修建",
+          "evidence": "忠义社的石壁建成了成为祖庙园中一景",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "石壁",
+          "target": "忠义社",
+          "relation": "属于时期",
+          "evidence": "忠义社的石壁建成了成为祖庙园中一景",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "仙井",
+          "target": "南海丹灶仙岗村",
+          "relation": "位于",
+          "evidence": "南海丹灶仙岗村有了一口泉水井，相传为葛洪所题名",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "仙井",
+          "target": "葛洪",
+          "relation": "活动于",
+          "evidence": "据说东晋葛洪曾在仙井汲泉炼丹制药",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "葛洪",
+          "target": "仙井",
+          "relation": "承载文化",
+          "evidence": "据说东晋葛洪曾在仙井汲泉炼丹制药",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "鲍砚",
+          "target": "南海丹灶仙岗村",
+          "relation": "关联人物",
+          "evidence": "后人敬称他为葛仙。葛洪南下拜南海太守鲍砚为师",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "葛洪",
+          "target": "色漏",
+          "relation": "活动于",
+          "evidence": "在色漏采丹砂运回罗浮山设炉炼丹",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "葛洪",
+          "target": "罗浮山",
+          "relation": "活动于",
+          "evidence": "在罗浮山设炉炼丹",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "葛洪",
+          "target": "丹灶镇",
+          "relation": "活动于",
+          "evidence": "把丹灶作为炼丹制药地之一建有丹井、丹炉和洗药池等",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "葛洪",
+          "target": "丹灶镇",
+          "relation": "同族",
+          "evidence": "南海人",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "丹灶镇",
+          "target": "仙岗",
+          "relation": "位于",
+          "evidence": "途经的现丹灶镇一带的小岗岭作为中转站",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "仙岗",
+          "target": "丹灶镇",
+          "relation": "关联人物",
+          "evidence": "途经的现丹灶镇一带的小岗岭作为中转站",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "苏东坡",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "北宋天圣年间大学士苏东坡被朝廷贬职流放经九江月山外江段",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山",
+          "target": "九江",
+          "relation": "位于",
+          "evidence": "西樵山：位于佛山市南海区的山脉",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "大眼八",
+          "target": "九江铜鼓滩",
+          "relation": "活动于",
+          "evidence": "大眼八在九江铜鼓滩击鼓捕鱼",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈子壮",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "陈子壮在九江组成义师抗击南下的清兵",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大眼八",
+          "target": "陈子壮",
+          "relation": "关联人物",
+          "evidence": "大眼八被分配在陈子壮的指挥船上充当击鼓手",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "九江铜鼓滩",
+          "target": "羚羊峡",
+          "relation": "位于",
+          "evidence": "义师从九江出发水军盘千沿西江上淹秘庆企图与新立的福王队伍会合。不料在羚羊峡上为清兵所阻展开激战",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "和顺东坡洲",
+          "target": "灵洲宝陀禅院",
+          "relation": "位于",
+          "evidence": "灵洲山上金山古寺原名灵洲宝陀禅院",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "金山古寺",
+          "target": "大雄宝殿",
+          "relation": "位于",
+          "evidence": "大雄宝殿前有一副对联",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "哼哈二将",
+          "target": "岸慈航大殿",
+          "relation": "位于",
+          "evidence": "哼哈二将位于岸慈航大殿左侧",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "德云",
+          "target": "南海传说",
+          "relation": "记载于",
+          "evidence": "南海传说篇045德云长叹一声双手合十低声说阿弥陀佛老宰侥HHFAREHESESEERRBSSLK授人以柄祈望女施主见谅。也罢老宰指派两小沙弥陪女施主回主家去。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "德云",
+          "target": "金山古寺",
+          "relation": "活动于",
+          "evidence": "民间流传着和顺灵洲山上金山古寺的一段干秋佳话",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "苏东坡",
+          "target": "金山古寺",
+          "relation": "活动于",
+          "evidence": "苏东坡环顾房内摆设，似是依稀见过",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "苏东坡",
+          "target": "金山古寺",
+          "relation": "同族",
+          "evidence": "德云大师乃是我的前身",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "苏东坡",
+          "target": "灵峰山",
+          "relation": "活动于",
+          "evidence": "灵峰山上宝陀院白发东坡又来到。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "苏东坡",
+          "target": "宝陀院",
+          "relation": "活动于",
+          "evidence": "灵峰山上宝陀院白发东坡又来到。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "东坡洲",
+          "target": "和顺",
+          "relation": "位于",
+          "evidence": "东坡洲位于顺流而下的和顺山下",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "乾隆三十七年",
+          "relation": "属于时期",
+          "evidence": "武状元姚大宁清代乾隆三十七年",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "姚老大",
+          "target": "清代嘉庆年间",
+          "relation": "属于时期",
+          "evidence": "清代嘉庆年间 的武状元是姚老大的儿子",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "清代嘉庆年间",
+          "target": "武状元",
+          "relation": "承载文化",
+          "evidence": "清代嘉庆年间 的武状元是姚老大的儿子",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大文教村",
+          "target": "清代嘉庆年间",
+          "relation": "承载文化",
+          "evidence": "大文教村 成为 状元故里",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大文教村",
+          "target": "武状元",
+          "relation": "承载文化",
+          "evidence": "大文教村 成为 状元故里",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "私熟的 老 先生",
+          "relation": "活动于",
+          "evidence": "私熟的 老 先生问清了姚大令家中的困境后收留他人整读书",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "齐眉棍",
+          "relation": "承载文化",
+          "evidence": "特别是一条齐眉棍做得娴熟",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "裕丰",
+          "relation": "活动于",
+          "evidence": "15岁的姚大宁告别父母 到 广西桂平地区谋生在一间名唤 裕丰的 米 铺 当 伙计。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0094": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "桂平",
+          "relation": "活动于",
+          "evidence": "他在工作之余在街上闲逛得知附近有一间振远武馆",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "振远武馆",
+          "relation": "活动于",
+          "evidence": "他在工作之余在街上闲逛得知附近有一间振远武馆",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "钟江洪",
+          "target": "桂平",
+          "relation": "活动于",
+          "evidence": "他被逼亡命江湖猎转来到岭南隐姓埋名在桂平开设武馆授徒度日",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0095": {
+      "relations": []
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "关氏",
+          "relation": "同族",
+          "evidence": "文中提及的宗族名称为关氏",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "米铺老板",
+          "target": "钟江洪",
+          "relation": "关联人物",
+          "evidence": "米铺 老板 拱手 致谢 钟 教头恭 喜 你 又 添 一个爱 徒",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "钟江洪",
+          "target": "尚武檀木牌匾",
+          "relation": "承载文化",
+          "evidence": "钟江洪在尚武檀木牌匾前喝茶",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "振远武馆",
+          "relation": "活动于",
+          "evidence": "姚大宁在振远武馆跟钟江洪教头习武",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "振远武馆",
+          "relation": "活动于",
+          "evidence": "姚大宁在振远武馆跟钟江洪教头习武",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "钟江洪",
+          "target": "振远武馆",
+          "relation": "创建修建",
+          "evidence": "振远武馆由钟江洪创立",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0102": {
+      "relations": [
+        {
+          "source": "武举人",
+          "target": "京城",
+          "relation": "活动于",
+          "evidence": "国 的 数 千 名 武举人 云集 京城",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "武状元",
+          "target": "京城",
+          "relation": "承载文化",
+          "evidence": "跃跃欲试 都 想 力争 武 状 元 这 项 桂冠",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "《武经》",
+          "target": "武举人",
+          "relation": "著有",
+          "evidence": "笔试以《 武 经》为 题 写 一 篇对策",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "京城",
+          "relation": "活动于",
+          "evidence": "他 挥毫写 了 一篇《 策 论》应 对",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": []
+    },
+    "chunk_0105": {
+      "relations": [
+        {
+          "source": "嘉庆",
+          "target": "御林军",
+          "relation": "活动于",
+          "evidence": "嘉庆皇帝来到演武厅上的虎皮椅坐下",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "嘉庆",
+          "target": "演武厅",
+          "relation": "活动于",
+          "evidence": "嘉庆皇帝来到演武厅上的虎皮椅坐下",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "嘉庆",
+          "target": "虎皮椅",
+          "relation": "活动于",
+          "evidence": "嘉庆皇帝来到演武厅上的虎皮椅坐下",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "杏黄旗",
+          "target": "演武厅",
+          "relation": "位于",
+          "evidence": "那些参加殿试的进士云集在一面绣着飞虎图案的杏黄旗下列队待命",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0106": {
+      "relations": [
+        {
+          "source": "嘉庆皇帝",
+          "target": "弓箭",
+          "relation": "承载文化",
+          "evidence": "恩准了他的请求。姚大宁在演武厅的兵器架上挑选了一张铁胎硬号取了九支箭别在腰间的络纱带上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "演武厅",
+          "target": "弓箭",
+          "relation": "承载文化",
+          "evidence": "姚大宁在演武厅的兵器架上挑选了一张铁胎硬号取了九支箭别在腰间的络纱带上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": [
+        {
+          "source": "姚大末",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "南海传说篇059",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0109": {
+      "relations": []
+    },
+    "chunk_0110": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "嘉庆皇帝",
+          "relation": "关联人物",
+          "evidence": "嘉庆皇帝赐予姚大宁黑骏马",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "钟江洪",
+          "relation": "关联人物",
+          "evidence": "姚大宁牵着那匹御赐的黑马回到师傅钟江洪旁边",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "嘉庆皇帝",
+          "target": "黑骏马",
+          "relation": "承载文化",
+          "evidence": "嘉庆皇帝赐予姚大宁黑骏马",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "嘉庆",
+          "target": "演武厅",
+          "relation": "活动于",
+          "evidence": "嘉庆皇帝登上演武厅坐在虎皮椅上监看取得前十名的考生进行器械比赛",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "购星踢斗",
+          "relation": "著有",
+          "evidence": "皇上这招式叫做叫做购星踢斗是草民自创的",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "魁星踢斗",
+          "relation": "著有",
+          "evidence": "姚大宁一招‘魁星踢斗’成就了广东最后一位武状元",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "和顺大文教村",
+          "relation": "活动于",
+          "evidence": "状元故里一一广东南海和顺大文教村一直流传着姚大宁的故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "姚大宁",
+          "target": "和顺大文教村",
+          "relation": "出生于",
+          "evidence": "状元故里一一广东南海和顺大文教村一直流传着姚大宁的故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "戚继光",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "一 日 他 带 着 几 个 随员 到 西 樵 山 游 览",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0117": {
+      "relations": [
+        {
+          "source": "戚继光",
+          "target": "茶仙庙",
+          "relation": "关联人物",
+          "evidence": "于是把木杖留在 茶仙庙前",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "指甲山",
+          "target": "丹灶",
+          "relation": "位于",
+          "evidence": "指甲山在南海丹灶沙深村与李边村交界处",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "方献夫",
+          "target": "丹灶",
+          "relation": "活动于",
+          "evidence": "方献夫年幼时贩货经过孔边与小塘",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "何维柏",
+          "target": "丹灶",
+          "relation": "活动于",
+          "evidence": "何维柏位至南京礼部尚书，与方献夫居距不远",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "方献夫",
+          "target": "孔边",
+          "relation": "活动于",
+          "evidence": "方献夫年幼时贩货经过孔边与小塘",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "方献夫",
+          "target": "小塘",
+          "relation": "活动于",
+          "evidence": "方献夫年幼时贩货经过孔边与小塘",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "何逸溪",
+          "target": "沙深",
+          "relation": "属于时期",
+          "evidence": "何逸溪是沙深一中年男子",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": [
+        {
+          "source": "何维柏",
+          "target": "方献夫",
+          "relation": "同族",
+          "evidence": "方献夫与何维柏同时处理母亲遗产纠纷",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0120": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "古寺",
+          "relation": "位于",
+          "evidence": "西樵山上有一间破旧的古寺",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "古寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山上有一间破旧的古寺",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0121": {
+      "relations": [
+        {
+          "source": "老和尚",
+          "target": "寺门",
+          "relation": "位于",
+          "evidence": "老和尚微闭双目坐在寺门前",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "老和尚",
+          "target": "四条红薯",
+          "relation": "承载文化",
+          "evidence": "老和尚用手扒开身边的一个土堆取出四条红薯双手捧给小偷",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "老和尚",
+          "target": "寺门",
+          "relation": "活动于",
+          "evidence": "老和尚起床开门发现寺门整齐地放着四条红薯",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "赵员",
+          "target": "松岗石泉村",
+          "relation": "活动于",
+          "evidence": "赵员遭元兵追击南逃经官密抵松岗石泉村旁一座小山中躲进山上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吊睛白额虎",
+          "target": "松岗石泉村",
+          "relation": "活动于",
+          "evidence": "在松岗石泉村旁一座小山中",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "国母",
+          "target": "松岗石泉村",
+          "relation": "活动于",
+          "evidence": "由国母和群臣护卫等待天明",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": []
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": [
+        {
+          "source": "镇东",
+          "target": "大岸村",
+          "relation": "活动于",
+          "evidence": "镇东于于是备好行装步行至江岸搭船赴试",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "镇东",
+          "target": "霍氏宗祠",
+          "relation": "关联人物",
+          "evidence": "霍氏族人不禁喜出望外大家议论如何立旗杆祭祖",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "霍氏宗祠",
+          "target": "镇东",
+          "relation": "关联人物",
+          "evidence": "霍氏族人不禁喜出望外大家议论如何立旗杆祭祖",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "霍氏宗祠",
+          "target": "佛山大道中段",
+          "relation": "位于",
+          "evidence": "不 动一间 屋 衬旗 杆 照样可 以 在霍氏 宗祠前立 起 来。 镇 东 认 为母亲 说得有 理并 叮嘱 立 杆袜上 要 敬 请 外 姓着老 到 宗祠一起 举 杯。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "红泥卡",
+          "target": "佛山大道中段",
+          "relation": "位于",
+          "evidence": "今属佛山大道中 段 有 一 条 西瓜 路。此 路原名 红 泥 卡两 旁低丘 夹 峙境 颇 荒 俯晚清时 曾 设 守 兵 于 此以 保 行人。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "骆家才子秉章",
+          "target": "红泥卡",
+          "relation": "活动于",
+          "evidence": "一 日 骆 家 才子 秉 章带 着 书童 上 路出 城 门头往 南 行 路 过 红 泥 卡 时 值 炎 夏  四 处 荒丘暑热 蒸人。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "骆家才子秉章",
+          "target": "西路瓜",
+          "relation": "活动于",
+          "evidence": "一 日 骆 家 才子 秉 章带 着 书童 上 路出 城 门头往 南 行 路 过 红 泥 卡 时 值 炎 夏  四 处 荒丘暑热 蒸人。 秉 章 口 渴 难 耐 忽 见 路 旁 荒 乓上长 着一个 大 西瓜。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "花都炭步骆村",
+          "target": "西路瓜",
+          "relation": "同族",
+          "evidence": "一 日 骆 家 才子 秉 章带 着 书童 上 路出 城 门头往 南 行 路 过 红 泥 卡 时 值 炎 夏  四 处 荒丘暑热 蒸人。 秉 章 口 渴 难 耐 忽 见 路 旁 荒 乓上长 着一个 大 西瓜。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": []
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "关祥",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "作者 关祥。072 南海",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "季指顺",
+          "target": "红泥卡茶亭",
+          "relation": "活动于",
+          "evidence": "曾 在 红 泥 卡 茶亭里设 档 理发",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": [
+        {
+          "source": "潘其勤",
+          "target": "西樵",
+          "relation": "活动于",
+          "evidence": "潘其勤清代西樵民乐云深村的读书人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "潘其勤",
+          "target": "佛山南海",
+          "relation": "属于时期",
+          "evidence": "潘其勤清代西樵民乐云深村的读书人",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0131": {
+      "relations": []
+    },
+    "chunk_0132": {
+      "relations": [
+        {
+          "source": "其勤",
+          "target": "潘秀才",
+          "relation": "关联人物",
+          "evidence": "潘秀才你近来有没有做过好事",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "解元",
+          "target": "南海传说",
+          "relation": "承载文化",
+          "evidence": "深山藏古寺是古代画作中的一个常见题材，象征着隐逸与神秘。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海传说",
+          "target": "深山藏古寺",
+          "relation": "承载文化",
+          "evidence": "深山藏古寺是古代画作中的一个常见题材，象征着隐逸与神秘。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": []
+    },
+    "chunk_0135": {
+      "relations": [
+        {
+          "source": "陈开",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "清咸丰年间陈开、李文度率领红巾军在佛山起义",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李文度",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "清咸丰年间陈开、李文度率领红巾军在佛山起义",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "佛山",
+          "target": "大成国",
+          "relation": "承载文化",
+          "evidence": "就是利用此芯趁夜占领广西浔州府",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0136": {
+      "relations": []
+    },
+    "chunk_0137": {
+      "relations": []
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "状元",
+          "relation": "承载文化",
+          "evidence": "伦文叙高中状元后给粥店题名及第",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "三及第粥",
+          "target": "状元",
+          "relation": "承载文化",
+          "evidence": "从此这种以猪肉、猪肝和猪粉肠为料的缆品被称作三及第粥",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": [
+        {
+          "source": "肉贩",
+          "target": "赖祖宗积德",
+          "relation": "记载于",
+          "evidence": "文中提到肉贩靠祖宗积德和运气高中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": [
+        {
+          "source": "肉贩",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "肉贩自知不是当官的料子辞绝了朝的廷封官",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "肉贩",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "他出生于蚕桑之乡自幼靠摘桑捕虾维持家计供养老母在乡中有孝子之称",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0142": {
+      "relations": [
+        {
+          "source": "阿玉",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "阿玉乐于潜心习武练得臂力千斤指",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0143": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "九龙岩前龙头石上的明太史甘泉",
+          "relation": "盛产",
+          "evidence": "南海美食南海特产南海传说_合辑中的九龙岩前龙头石上的明太史甘泉",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海美食",
+          "target": "雷坛峰右立的明赠太子少保霍华幕",
+          "relation": "盛产",
+          "evidence": "南海美食南海特产南海传说_合辑中的雷坛峰右立的明赠太子少保霍华幕",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海美食",
+          "target": "紫云峰上莫王幕",
+          "relation": "盛产",
+          "evidence": "南海美食南海特产南海传说_合辑中的紫云峰上莫王幕",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0144": {
+      "relations": [
+        {
+          "source": "一伦",
+          "target": "石碑",
+          "relation": "承载文化",
+          "evidence": "石碑上刻有对联一副",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "一伦",
+          "target": "石碑",
+          "relation": "活动于",
+          "evidence": "随乡人远赴安南谋生",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "石碑",
+          "target": "昭阳宫内一枝梅",
+          "relation": "记载于",
+          "evidence": "联意与公主的贤淑招夫紧相配",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "莫一伦",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "临死前叮嘱后人要把他的遗骨运回故乡安匡。南海传说篇卖油六筑路西樵山东部有个场口上有条大石板路长约两公里东通山沙下头墟",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "莫一伦",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "莫一伦时常想念孕育自己的祖国时常想念年幼时踏遍的西樵山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "卖油六",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "每天清早亚六便挑着空油桶到官山墟油坊买油然后挑着满满两桶油吃力地登上西樵山东部均口",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": [
+        {
+          "source": "卖油六",
+          "target": "均顶",
+          "relation": "活动于",
+          "evidence": "卖油六挑着一担油来到均顶坐下稍息",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "宝盒",
+          "target": "均顶",
+          "relation": "位于",
+          "evidence": "宝盒说有请代为看管些时要到林中小解片刻即回",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0147": {
+      "relations": [
+        {
+          "source": "卖油六",
+          "target": "宝盒",
+          "relation": "活动于",
+          "evidence": "卖油六挑油过场时特意在场顶稍作停留等待娘子来取盒",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "卖油六",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "故事发生地，位于佛山市",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "卖油六",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "当日进林人不见借问娘居子何方路人总是播摇头摆摆手说卖油六患相思病啦己等川问呀卖油六寻找了半个月仍不见娘子的踪影",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0148": {
+      "relations": [
+        {
+          "source": "卖油六",
+          "target": "臂山扩道",
+          "relation": "活动于",
+          "evidence": "卖油六筑路的佳话一直流传下来",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0149": {
+      "relations": []
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "棺材铺",
+          "target": "有天装",
+          "relation": "关联人物",
+          "evidence": "叮嘱病人说你每天要到棺材铺嗅那棺材木的气味",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": []
+    },
+    "chunk_0152": {
+      "relations": []
+    },
+    "chunk_0153": {
+      "relations": [
+        {
+          "source": "芳茜",
+          "target": "佛山大基头",
+          "relation": "活动于",
+          "evidence": "当时戏班会馆设在佛山大基头",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0154": {
+      "relations": []
+    },
+    "chunk_0155": {
+      "relations": [
+        {
+          "source": "佛山文昌桥",
+          "target": "松戎路",
+          "relation": "位于",
+          "evidence": "从佛山文昌桥步行至南海松戎路",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0156": {
+      "relations": [
+        {
+          "source": "归宁",
+          "target": "旱岗",
+          "relation": "承载文化",
+          "evidence": "每次回娘家探亲 必乘坐轿子行走于田间小路上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "归宁",
+          "target": "旱岗",
+          "relation": "发生于",
+          "evidence": "财主女儿嫁往旱岗",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0157": {
+      "relations": []
+    },
+    "chunk_0158": {
+      "relations": [
+        {
+          "source": "黄步村",
+          "target": "马头岗",
+          "relation": "位于",
+          "evidence": "在马头岗附近一带建立皇城",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "黄步村",
+          "target": "沙坑岗",
+          "relation": "位于",
+          "evidence": "沙坑岗头九十凑足百座出王侯",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "皇城",
+          "target": "马头岗",
+          "relation": "位于",
+          "evidence": "在马头岗附近一带建立皇城",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0159": {
+      "relations": [
+        {
+          "source": "黄萧养",
+          "target": "沙口",
+          "relation": "活动于",
+          "evidence": "被官兵押进监牢后和囚徒们密谋越狱",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "黄萧养",
+          "target": "竹简",
+          "relation": "承载文化",
+          "evidence": "利用竹简发芽来激励囚徒",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "竹简",
+          "target": "沙口",
+          "relation": "位于",
+          "evidence": "丢在沙口附近隐形逃去",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0160": {
+      "relations": [
+        {
+          "source": "黄萧养",
+          "target": "潘村",
+          "relation": "活动于",
+          "evidence": "起义时东村有个打石匠叫石鬼仔",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "王彦章",
+          "target": "潘村",
+          "relation": "活动于",
+          "evidence": "潘村附近有个船工叫王彦章",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "石鬼仔",
+          "target": "潘村",
+          "relation": "活动于",
+          "evidence": "潘村附近有个打石匠叫石鬼仔",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "王彦章",
+          "target": "石鬼仔",
+          "relation": "关联人物",
+          "evidence": "石鬼仔说人齐了开船啦王彦章说且慢还从一人",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0161": {
+      "relations": [
+        {
+          "source": "王彦章",
+          "target": "大良立国",
+          "relation": "活动于",
+          "evidence": "攻和大良立国号大东国",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "石鬼仔",
+          "target": "大良立国",
+          "relation": "活动于",
+          "evidence": "两人相约一起加入了黄萧养的起义队伍",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "蔡顺",
+          "target": "大良立国",
+          "relation": "活动于",
+          "evidence": "两人相约一起加入了黄萧养的起义队伍",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "黄萧养",
+          "target": "大良立国",
+          "relation": "创建修建",
+          "evidence": "自号大东国",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "黄萧养",
+          "target": "新会",
+          "relation": "活动于",
+          "evidence": "先是退至新会一带",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0162": {
+      "relations": []
+    },
+    "chunk_0163": {
+      "relations": [
+        {
+          "source": "梁储",
+          "target": "晚浴池塘",
+          "relation": "活动于",
+          "evidence": "晚浴池塘涌动一天星斗",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "梁储",
+          "target": "晚浴池塘",
+          "relation": "活动于",
+          "evidence": "傍晚父亲带领粱储兄弟数人到村边池塘洗浴",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0164": {
+      "relations": []
+    },
+    "chunk_0165": {
+      "relations": [
+        {
+          "source": "梁储",
+          "target": "南海传说",
+          "relation": "著有",
+          "evidence": "梁储继续写只听东山鸣巾克 西山鸣杜宇。行不得也哥哥 行不得也哥哥 不如归去 不如归去 突然爆出一阵热烈",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0166": {
+      "relations": []
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "他便背着米走上山上云路村中时隔一两月后才见他头戴大帽身穿厚衣带着画幅跟着走下山来",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0169": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "广州高第街",
+          "relation": "活动于",
+          "evidence": "后在广州高第街卖鱼过活",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "南海传说",
+          "relation": "记载于",
+          "evidence": "《南海传说》篇097记载了关于李子长发明鱼保鲜技术的民间传说",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0170": {
+      "relations": [
+        {
+          "source": "子长",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "离开市场后子长登上西樵山结茅为庐粗衣蔬食闲则挥毫作画到山下卖钱",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "子长",
+          "target": "西樵山",
+          "relation": "同族",
+          "evidence": "子长能作活画的传说很多择在民间流传较多的几个传加说以介绍",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "子长",
+          "target": "西樵山",
+          "relation": "关联人物",
+          "evidence": "离开市场后子长登上西樵山结茅为庐粗衣蔬食闲则挥毫作画到山下卖钱",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0171": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "李子长住的茅庐在西樵山上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "梁老爷",
+          "relation": "关联人物",
+          "evidence": "梁老爷命家丁携款到西樵山上李子长住的茅庐里",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "梁老爷",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "梁老爷命家丁到西樵山上买李子长画的一幅画",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0172": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "匆匆走下西樵山乘船回澜石",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0173": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "金边扑藩",
+          "relation": "著有",
+          "evidence": "说 是 李子 长 的 画 变 的",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "金边扑藩",
+          "relation": "活动于",
+          "evidence": "李子长的女儿送到了店里",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0174": {
+      "relations": []
+    },
+    "chunk_0175": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "西樵山云路村",
+          "relation": "活动于",
+          "evidence": "李子长回到西樵山云路村中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "西樵山云路村",
+          "relation": "同族",
+          "evidence": "李子长深居山村林木阴森时",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "当铺",
+          "target": "西樵山云路村",
+          "relation": "位于",
+          "evidence": "到赎画时已过半 个 月 别的都 看 不到了 。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0176": {
+      "relations": []
+    },
+    "chunk_0177": {
+      "relations": []
+    },
+    "chunk_0178": {
+      "relations": [
+        {
+          "source": "山凤",
+          "target": "藏画",
+          "relation": "承载文化",
+          "evidence": "山凤面前的画幅",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "藏画",
+          "target": "山凤",
+          "relation": "关联人物",
+          "evidence": "山凤面前的画幅",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0179": {
+      "relations": [
+        {
+          "source": "金针菜蒸蛋",
+          "target": "古榨树",
+          "relation": "承载文化",
+          "evidence": "古榨一株树上栖息着一百只鸟儿",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "狗山风",
+          "target": "古榨树",
+          "relation": "关联人物",
+          "evidence": "想起父亲的画来走上小木楼把第三幅画拿出来",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "古榨树",
+          "target": "大德南海志",
+          "relation": "记载于",
+          "evidence": "这是一幅中堂长轴画面古榨一株树上栖息着一百只鸟儿",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0180": {
+      "relations": []
+    },
+    "chunk_0181": {
+      "relations": [
+        {
+          "source": "山风",
+          "target": "小木楼",
+          "relation": "活动于",
+          "evidence": "山风藏画的小木楼",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0182": {
+      "relations": [
+        {
+          "source": "剥芋头",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山东天湖旁有座小岗状如一位安详蠕坐的美女",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "罗青",
+          "relation": "关联人物",
+          "evidence": "罗青有副热心肠不时替李子长送柴挑水秀药使老人晚年的生活赖以安闲。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "李子长画的最后一幅画约化",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "罗青",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "李子长画的最后一幅画约化",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0183": {
+      "relations": []
+    },
+    "chunk_0184": {
+      "relations": []
+    },
+    "chunk_0185": {
+      "relations": [
+        {
+          "source": "罗青",
+          "target": "李长老人",
+          "relation": "关联人物",
+          "evidence": "李长老人临终前画给罗青的画",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0186": {
+      "relations": []
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "珠糯米酒",
+          "target": "南海传说",
+          "relation": "记载于",
+          "evidence": "VER KH 南海 传说 篇 105 一轮明 月 挂 半 天淑女才 子 并 头 缠。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "文叙",
+          "target": "南海传说",
+          "relation": "记载于",
+          "evidence": "VER KH 南海 传说 篇 105 一轮明 月 挂 半 天淑女才 子 并 头 缠。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "伦文叙（人物）：清代诗人，南海县人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0190": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "县太公",
+          "relation": "活动于",
+          "evidence": "县太公和他 的幕僚看后不禁面面相觑大惊失色",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "县南官赏月圆海",
+          "relation": "活动于",
+          "evidence": "县南官赏月圆海。伦文叙写完第四句把笔一委轻项地看了县太公一眼说请大老爷指教",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "县南官赏月圆海",
+          "relation": "活动于",
+          "evidence": "书生脚短。伦文叙当即指着考场的大门道天子门高。进了考场主考官对伦文叙说",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0191": {
+      "relations": []
+    },
+    "chunk_0192": {
+      "relations": []
+    },
+    "chunk_0193": {
+      "relations": [
+        {
+          "source": "文叙",
+          "target": "弘治十年",
+          "relation": "活动于",
+          "evidence": "弘治十年1497年，伦文叙在京参加礼部考试名列第一成会元",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0194": {
+      "relations": [
+        {
+          "source": "柳先开",
+          "target": "湖北柳先开",
+          "relation": "活动于",
+          "evidence": "在自己的住处早就算人贴上一副对联：广东花未发湖北柳先开。联意吊员通人。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "魁岗乡黎涌村",
+          "relation": "活动于",
+          "evidence": "荣归魁岗乡黎涌村，登时高头大马鸣锣开道，四方的人纷纷涌向魁岗乡黎涌村争睹新科状元的风采。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "魁岗乡黎涌村",
+          "relation": "出生于",
+          "evidence": "荣归魁岗乡黎涌村，登时高头大马鸣锣开道，四方的人纷纷涌向魁岗乡黎涌村争睹新科状元的风采。",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0195": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "想起孩提时跟随乡人赤足登上西樵山",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "云路村",
+          "relation": "活动于",
+          "evidence": "走进云路村想寻访当年在村南海传说篇109中光修作画、绘猫能治鼠的李子长",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "光修",
+          "target": "云路村",
+          "relation": "同族",
+          "evidence": "光修作画、绘猫能治鼠的李子长",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李子长",
+          "target": "云路村",
+          "relation": "同族",
+          "evidence": "光修作画、绘猫能治鼠的李子长",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0196": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "李子长在南海九江作画、绘猫治鼠",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伦文叙",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "伦文叙到樵西观瀑景成诗",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈万言",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "陈万言的传说发生在九江",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈万言",
+          "target": "东方海口",
+          "relation": "出生于",
+          "evidence": "陈万言是东方海口人",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0197": {
+      "relations": [
+        {
+          "source": "万言",
+          "target": "祠堂",
+          "relation": "活动于",
+          "evidence": "到村中一所新建的祠堂檐下躲雨。只见祠堂里有不多穿着整齐的父老围在一起议事",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "万言",
+          "target": "祠堂",
+          "relation": "创建修建",
+          "evidence": "万言一手拿着雨帽、一手拿草镰挤进人群里时不料雨帽的滴水把地上铺开的几个大字溅湿了。尽管万言念着赔不是",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "祠堂",
+          "target": "万言",
+          "relation": "承载文化",
+          "evidence": "有位父老听见这位手拿草镰的赤脚汉子说得这么大口气不禁气冲冲地说这是益族人大祠符的大额非比寻常不是随便写几个字就可以赔得起的",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0198": {
+      "relations": []
+    },
+    "chunk_0199": {
+      "relations": [
+        {
+          "source": "万言",
+          "target": "五伦颠倒",
+          "relation": "关联人物",
+          "evidence": "万言看了 一会不禁 一 性 马 上 钾 下 凑 敌用 木 这 浇 上 稀 牛 姜 泼到对 联 上 去 给 守门的家 本 看见了  拉 着 陈 万言 破口大骂。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0200": {
+      "relations": []
+    },
+    "chunk_0201": {
+      "relations": []
+    },
+    "chunk_0202": {
+      "relations": []
+    },
+    "chunk_0203": {
+      "relations": [
+        {
+          "source": "万言",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "万言来到南海某地文具店",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0204": {
+      "relations": [
+        {
+          "source": "冯成修",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "冯成修南海丹灶人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "冯成修",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "冯成修南海丹灶人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0205": {
+      "relations": [
+        {
+          "source": "成修",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "成修唱了又唱唱得津津有味。老东家正在厅里品茶闻成修歌吟，很有韵致问清底细再问邻媳归期三次阻事正是这样。东家心想一个七岁的孩子能够把这三次误期回妇家的过程用歌唱出来实在难得前途无可限量。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "成修",
+          "target": "沙头岸",
+          "relation": "活动于",
+          "evidence": "南海传说篇115沙头岸柳含烟绿水塘莲上映日红。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0206": {
+      "relations": [
+        {
+          "source": "冯成修",
+          "target": "简村",
+          "relation": "同族",
+          "evidence": "冯成修十二岁时，乡里有富户为建起一座得月楼",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "得月楼",
+          "target": "简村",
+          "relation": "位于",
+          "evidence": "冯成修十二岁时，乡里有富户为建起一座得月楼",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "冯成修",
+          "target": "得月楼",
+          "relation": "活动于",
+          "evidence": "冯成修十二岁时，乡里有富户为建起一座得月楼",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "冯成修",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "西樵山的简称梅是他的家乡梅庄的简称",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "得月楼",
+          "target": "简村",
+          "relation": "属于时期",
+          "evidence": "冯成修十二岁时，乡里有富户为建起一座得月楼",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0207": {
+      "relations": []
+    },
+    "chunk_0208": {
+      "relations": [
+        {
+          "source": "乾隆帝",
+          "target": "石桥小站",
+          "relation": "活动于",
+          "evidence": "乾隆帝登典退朝前文思偶发对联",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0209": {
+      "relations": []
+    },
+    "chunk_0210": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "康有为年轻时曾受其教",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江",
+          "relation": "出生于",
+          "evidence": "朱次琦，九江人",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "居乡讲学礼山草堂",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "康有为年轻时曾受其教",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "黄木湾",
+          "relation": "承载文化",
+          "evidence": "阮元命赋诗的地方",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0211": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "广州越华书院",
+          "relation": "活动于",
+          "evidence": "十八岁 创业于广州越华书院",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0212": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "关帝庙",
+          "relation": "活动于",
+          "evidence": "进入山西井降时途经关帝庙他进庙对神发誓",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "太平村",
+          "relation": "活动于",
+          "evidence": "次琦归教乡里家住太平村长塘而馆设礼山",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "太平村",
+          "relation": "出生于",
+          "evidence": "朱次琦（人物）：清代官员，南海太平村人",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0213": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "朱九江先生",
+          "relation": "关联人物",
+          "evidence": "其门生康有为后来在《朱九江先生佚文序》中写道",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《朱九江先生集》",
+          "relation": "著有",
+          "evidence": "简朝亮等人搜集先生的遗许遗文编成《朱九江先生集》付印行世",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《国朝名臣言行录》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 国 朝 名 臣 言行录》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《国朝逸民传》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 国 朝 逸 民 传 》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《性学原流》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 性 学 原流》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《五史实征录》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 五 史实 征录》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《国朝大儒学案》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 国 朝 大 儒学案》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《晋乘》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 晋 乘 》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《蒙古记》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《蒙古 记》",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱九江先生",
+          "target": "《后三种书名未定七种》",
+          "relation": "著有",
+          "evidence": "7 EH 次 琦 生平 著述 等 身 计 有 《 后 三 种 书 名 未定 七 种。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0214": {
+      "relations": [
+        {
+          "source": "何淡如",
+          "target": "南海深村湾头人",
+          "relation": "出生于",
+          "evidence": "何淡如原名又雁南 海 深 村 湾 头人",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "何淡如",
+          "target": "石湾华",
+          "relation": "活动于",
+          "evidence": "有 一 次 淡 如 到 村 内 理发店理发",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0215": {
+      "relations": []
+    },
+    "chunk_0216": {
+      "relations": [
+        {
+          "source": "想云吞",
+          "target": "云吞",
+          "relation": "同类",
+          "evidence": "想云吞（物产饮食）：一种传统南海小吃，由云吞和汤组成",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "云吞",
+          "target": "月明",
+          "relation": "承载文化",
+          "evidence": "把 云 吞 拆分开来 月 对  云",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "白兰地",
+          "target": "黄梅天",
+          "relation": "承载文化",
+          "evidence": "把白兰地三 字 分拆开 来 与黄梅天 三 字 相 对工整",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0217": {
+      "relations": [
+        {
+          "source": "招子良",
+          "target": "《粤诧》",
+          "relation": "著有",
+          "evidence": "招子良所著，《粤诧》一书在中国俗文学史上占有席之地",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "《粤诧》",
+          "target": "光绪三十二年",
+          "relation": "记载于",
+          "evidence": "光绪三十二年，当时香港总督金文泰将《粤诧》译为英文",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "招子良",
+          "target": "《粤诧》",
+          "relation": "属于时期",
+          "evidence": "招子良所著，《粤诧》一书在中国俗文学史上占有席之地",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "《粤诧》",
+          "target": "招子庸",
+          "relation": "关联人物",
+          "evidence": "招子庸是把民歌作为自己的新型创作，是最早大胆把民歌输入文坛的工作者",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0218": {
+      "relations": []
+    },
+    "chunk_0219": {
+      "relations": [
+        {
+          "source": "关祥",
+          "target": "《粤讶》",
+          "relation": "著有",
+          "evidence": "所编撰《粤讶》一书",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "《粤讶》",
+          "target": "《吊秋喜》",
+          "relation": "承载文化",
+          "evidence": "《粤讶》的最大的艺术特色是作者关祥。南海传说篇123语言的通俗生动具有浓郁的地方色彩。其中的《吊秋喜》就是最有代表性的一曲",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "子庸",
+          "target": "《吊秋喜》",
+          "relation": "关联人物",
+          "evidence": "子庸写此以寄他画的螃蟹以只论价有的高达20两白银一上只。其中有个人求",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0220": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "苏村",
+          "relation": "同族",
+          "evidence": "苏村 岗 陵 起 伏 土地",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山",
+          "target": "银塘",
+          "relation": "位于",
+          "evidence": "西樵山北面有 一 条 小 村庄 叫 银塘",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山",
+          "target": "银河",
+          "relation": "位于",
+          "evidence": "西樵山北面有 一 条 小 村庄 叫 银塘。据 说晋 葛 洪 仙 翁 到 这 里 设 炉 炼 丹 时丹 水 流进了 附近 的 小 河 里 染 得 河水 呈 银 白 色",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "银塘",
+          "target": "苏村",
+          "relation": "同类",
+          "evidence": "银塘住有 数 十 户人家有 苏、徐、陈 、 潘、康 五 姓以 苏 姓 最 大故 又 称 苏 村。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0221": {
+      "relations": [
+        {
+          "source": "方献夫",
+          "target": "苏村",
+          "relation": "出生于",
+          "evidence": "明代嘉靖年间吏部尚书方献夫、万历礼部尚书何维柏、乾隆入阁辅政大臣冯成修都是吃银河水长大的。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "何维柏",
+          "target": "苏村",
+          "relation": "出生于",
+          "evidence": "明代嘉靖年间吏部尚书方献夫、万历礼部尚书何维柏、乾隆入阁辅政大臣冯成修都是吃银河水长大的。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "冯成修",
+          "target": "苏村",
+          "relation": "出生于",
+          "evidence": "明代嘉靖年间吏部尚书方献夫、万历礼部尚书何维柏、乾隆入阁辅政大臣冯成修都是吃银河水长大的。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "苏村",
+          "relation": "出生于",
+          "evidence": "康有为，清末维新变法领袖，出生于苏村",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "康家祠堂",
+          "relation": "属于时期",
+          "evidence": "康有为的和爷和爷当过连州训导，叔祖官至广西巡抚，父亲是江西候补知县。康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "康家祠堂",
+          "relation": "创建修建",
+          "evidence": "康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "涂如楼",
+          "relation": "创建修建",
+          "evidence": "康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "马房",
+          "relation": "创建修建",
+          "evidence": "康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "七检园",
+          "relation": "创建修建",
+          "evidence": "康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "九龙桥",
+          "relation": "创建修建",
+          "evidence": "康家物业丰厚，有家祠、涂如楼、马房、七检园和九龙桥等。",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "苏村",
+          "relation": "活动于",
+          "evidence": "康有为五岁便夜读尺书口诵唐诗数百首。有一次权伯们为试试康有为的才气出柳成各属对康有为应声对以鱼化龙。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0222": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "圣人康",
+          "relation": "关联人物",
+          "evidence": "村里人于是给他起了一个绰号圣人康",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "康氏",
+          "relation": "同族",
+          "evidence": "康家虽是名门官运享通但人丁不旺",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康氏",
+          "target": "康有为",
+          "relation": "同族",
+          "evidence": "康家虽是名门官运享通但人丁不旺",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0223": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "九江礼山草堂",
+          "relation": "活动于",
+          "evidence": "康有为十九岁转读于距苏村约30公里的九江礼山草堂",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0224": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "礼山草堂靠近西江边",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "坡山",
+          "relation": "活动于",
+          "evidence": "坡山是当年苏东坡南贬遇风泊舟处",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0225": {
+      "relations": [
+        {
+          "source": "朱老先生",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "他住 在 云泉仙馆 长 斋 静 坐 昼 夜 读 佛 道 之 书",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱老先生",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "他每天一早便拨开开展雾来到白云洞飞流千斥瀑下 盘坐在瀑底的洗心石上对瀑观书",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0226": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "康有为在瀑布下读书",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "三湖书院",
+          "relation": "活动于",
+          "evidence": "两人同步人三湖书院交谈",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "番禺张易华",
+          "relation": "关联人物",
+          "evidence": "张易华向康有为介绍西学东渐",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0227": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "三湖书院",
+          "relation": "活动于",
+          "evidence": "当时康有为与三湖书院的学生都年华",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "以致老道长出来劝阻。",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0228": {
+      "relations": [
+        {
+          "source": "飞鸿父",
+          "target": "飞包",
+          "relation": "活动于",
+          "evidence": "老人运飞包从巷里冲出打伤路人",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "飞鸿父",
+          "target": "铁桥三",
+          "relation": "同族",
+          "evidence": "他自幼拜岭南十虎之首的铁桥三为师",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0229": {
+      "relations": []
+    },
+    "chunk_0230": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "无影脚",
+          "relation": "著有",
+          "evidence": "黄飞鸿有感于此不惜以铁线拳法换取无影脚法",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "宋辉铂",
+          "target": "无影脚",
+          "relation": "关联人物",
+          "evidence": "拳师宋辉铂外出远行在一所旅舍的天阶里夜练拳法",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0231": {
+      "relations": [
+        {
+          "source": "无影脚法",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "无影脚法。宋本来就将无影脚法视为传家宝",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "铁线拳",
+          "target": "黄飞鸿",
+          "relation": "传承于",
+          "evidence": "想学习飞鸿的铁线拳和伏虎拳互相传授绝技",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "伏虎拳",
+          "target": "黄飞鸿",
+          "relation": "传承于",
+          "evidence": "想学习飞鸿的铁线拳和伏虎拳互相传授绝技",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0232": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "采青",
+          "relation": "承载文化",
+          "evidence": "采青是其中之一",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "采青",
+          "target": "舞狮",
+          "relation": "关联人物",
+          "evidence": "舞动的狮子去采",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0233": {
+      "relations": [
+        {
+          "source": "醒狮",
+          "target": "梁宽",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿的弟子梁宽率领的醒狮队",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0234": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "高青",
+          "relation": "承载文化",
+          "evidence": "高青成为香港民间的一间大奇闻",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "莫桂兰",
+          "relation": "关联人物",
+          "evidence": "莫桂兰年十九岁未嫁正借其二妨在人群观看",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0235": {
+      "relations": []
+    },
+    "chunk_0236": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "禄舟村",
+          "relation": "活动于",
+          "evidence": "西樵山下禄舟村的黄飞鸿狮艺武术馆",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "潘玉书",
+          "target": "石湾陶塑",
+          "relation": "承载文化",
+          "evidence": "潘玉书擅长陶塑是近代石湾陶塑的杰出代表之一",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "潘玉书",
+          "target": "花木兰",
+          "relation": "关联人物",
+          "evidence": "历史人物有花木兰、杨贵妃、狠蝉、王昭君",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "潘玉书",
+          "target": "杨贵妃",
+          "relation": "关联人物",
+          "evidence": "历史人物有花木兰、杨贵妃、狠蝉、王昭君",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "石湾陶塑",
+          "target": "潘玉书",
+          "relation": "传承于",
+          "evidence": "潘玉书擅长陶塑是近代石湾陶塑的杰出代表之一",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0237": {
+      "relations": []
+    },
+    "chunk_0238": {
+      "relations": [
+        {
+          "source": "观世音",
+          "target": "西樵山大仙峰",
+          "relation": "承载文化",
+          "evidence": "西权山大仙峰上建有61.9米高的观世音坐像",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观世音",
+          "target": "南海观音寺",
+          "relation": "承载文化",
+          "evidence": "南海松岗南国桃园内建有规模宏大的南海观音寺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观世音",
+          "target": "生菜会",
+          "relation": "传承于",
+          "evidence": "生菜会与万人裔宴",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观世音",
+          "target": "南海观音文化苑",
+          "relation": "承载文化",
+          "evidence": "南海观音文化苑展示观世音文化的场所",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南海观音寺",
+          "target": "南海观音文化苑",
+          "relation": "同类",
+          "evidence": "南海观音文化苑展示观世音文化的场所",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0239": {
+      "relations": [
+        {
+          "source": "观世音菩萨",
+          "target": "南北朝时期",
+          "relation": "属于时期",
+          "evidence": "南北朝时期所画和塑造的观音像是一为展厚鼻隆目长颐丰的伟丈夫",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观世音菩萨",
+          "target": "西樵山大仙峰",
+          "relation": "承载文化",
+          "evidence": "现在西樵山大仙峰上",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0240": {
+      "relations": [
+        {
+          "source": "西樵山大仙峰",
+          "target": "观音",
+          "relation": "承载文化",
+          "evidence": "现在西樵山大仙峰上建的观世音像",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "妙庄王",
+          "target": "小花",
+          "relation": "同族",
+          "evidence": "妙庄有三个女儿大女小花二女小果三女小叶",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "妙庄王",
+          "target": "小果",
+          "relation": "同族",
+          "evidence": "妙庄有三个女儿大女小花二女小果三女小叶",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "妙庄王",
+          "target": "小叶",
+          "relation": "同族",
+          "evidence": "妙庄有三个女儿大女小花二女小果三女小叶",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "妙庄王",
+          "target": "观音",
+          "relation": "承载文化",
+          "evidence": "为为什么观音有千手千目得从一个故事说起",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小花",
+          "target": "观音",
+          "relation": "关联人物",
+          "evidence": "有手抱婴儿善目巧笑的送子观音",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小果",
+          "target": "观音",
+          "relation": "关联人物",
+          "evidence": "有手抱婴儿善目巧笑的送子观音",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小叶",
+          "target": "观音",
+          "relation": "关联人物",
+          "evidence": "有别于世相的千手千目观音",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0241": {
+      "relations": [
+        {
+          "source": "小叶",
+          "target": "观音庙",
+          "relation": "关联人物",
+          "evidence": "小叶离世后国人把庵扩建并易名为观音庙以彰显著叶的功德所塑小叶像奉为千手千目观音像",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观音庙",
+          "target": "周家山石",
+          "relation": "位于",
+          "evidence": "周家山石字样。这里流着一个故事",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0242": {
+      "relations": [
+        {
+          "source": "周家山石",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "周家山石字样的巨石土名，位于西樵山下",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0243": {
+      "relations": [
+        {
+          "source": "天镇峰",
+          "target": "南海",
+          "relation": "位于",
+          "evidence": "天镇峰位于南海区内",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0244": {
+      "relations": [
+        {
+          "source": "观世音",
+          "target": "大石压观音",
+          "relation": "承载文化",
+          "evidence": "在这巨石下的洞内安放了一尊观世音坐像",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观世音",
+          "target": "孙大圣",
+          "relation": "同类",
+          "evidence": "传说那红痔与美猴王孙大圣有关",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孙大圣",
+          "target": "观世音",
+          "relation": "关联人物",
+          "evidence": "如来佛祖于是命观世音菩萨救猴王归山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0245": {
+      "relations": []
+    },
+    "chunk_0246": {
+      "relations": [
+        {
+          "source": "观音车萨",
+          "target": "孙大圣",
+          "relation": "同族",
+          "evidence": "观音车萨笑说道行大圣你先出谜语吧。猴王顺口胡编出来",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山大仙峰",
+          "target": "观音车萨",
+          "relation": "承载文化",
+          "evidence": "如今西权山上大仙峰上的观世音坐像在日照下其眉心依然内现一点红光来",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "西樵山大仙峰",
+          "target": "孙大圣",
+          "relation": "承载文化",
+          "evidence": "如今西权山上大仙峰上的观世音坐像在日照下其眉心依然内现一点红光来",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0247": {
+      "relations": []
+    },
+    "chunk_0248": {
+      "relations": []
+    },
+    "chunk_0249": {
+      "relations": [
+        {
+          "source": "观音",
+          "target": "天池",
+          "relation": "活动于",
+          "evidence": "一登天池中现出红莲一条",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观音",
+          "target": "红莲",
+          "relation": "关联人物",
+          "evidence": "那红莲每年要开放一次莲花并蒂是人间的喜象",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观音",
+          "target": "西樵山大仙峰",
+          "relation": "关联人物",
+          "evidence": "依据观音车萨在民间的另一个传说",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0250": {
+      "relations": [
+        {
+          "source": "老黄牛",
+          "target": "南海松岗南国桃园观音寺",
+          "relation": "活动于",
+          "evidence": "老黄牛到人间后帮穷人拉犁友田运输负重",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观音菩萨",
+          "target": "观音泉",
+          "relation": "承载文化",
+          "evidence": "南海松岗南国桃园观音寺前有一股涌泉名观音泉水质甘甜据传这是观世音大士洒下的杨枝甘露变的",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "观音菩萨",
+          "target": "普陀观图像",
+          "relation": "关联人物",
+          "evidence": "普陀观图像所瓶右手拿杨核面部露出笑容",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0251": {
+      "relations": []
+    },
+    "chunk_0252": {
+      "relations": [
+        {
+          "source": "凤凰岭",
+          "target": "分饼石",
+          "relation": "位于",
+          "evidence": "凤凰岭下这块大石命名为分饼石",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "凤凰岭",
+          "target": "分饼石",
+          "relation": "位于",
+          "evidence": "凤凰岭下这块大石命名为分饼石",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "凤凰岭",
+          "target": "莲花地",
+          "relation": "位于",
+          "evidence": "凤凰岭滚珠江自其东边流过这个地方当地称为之为莲花地",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈公瑞",
+          "target": "凤凰岭",
+          "relation": "活动于",
+          "evidence": "陈公瑞喜好弈棋每日必邀亲朋在府前树下对弈",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0253": {
+      "relations": [
+        {
+          "source": "陈公瑞",
+          "target": "在参和尚",
+          "relation": "活动于",
+          "evidence": "在参和尚敲着木鱼路过树下止步旁观",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈公瑞",
+          "target": "在参和尚",
+          "relation": "同族",
+          "evidence": "在参和尚高超的棋艺",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈公瑞",
+          "target": "在参和尚",
+          "relation": "活动于",
+          "evidence": "在参和尚在陈府中住了两个多月",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "陈公瑞",
+          "target": "在参和尚",
+          "relation": "同族",
+          "evidence": "公到舍不得他离开极力挽留",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0254": {
+      "relations": []
+    },
+    "chunk_0255": {
+      "relations": [
+        {
+          "source": "宝象林寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "宝象林寺就在这段地上起来了",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "白云古寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "白云古寺寺前有一副对联",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "宝峰寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "建在西樵山西南部雷坛峰",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0256": {
+      "relations": [
+        {
+          "source": "霍官人",
+          "target": "宝震寺",
+          "relation": "创建修建",
+          "evidence": "他挑着禅杖袖拂过作者 关祥。到二 143 白云越过清溪曲润来到白云洞里诛茅筑室建起一座小庙 题名宝震寺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "惠连",
+          "target": "宝震寺",
+          "relation": "创建修建",
+          "evidence": "他挑着禅杖袖拂过作者 关祥。到二 143 白云越过清溪曲润来到白云洞里诛茅筑室建起一座小庙 题名宝震寺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "惠连",
+          "target": "白云洞",
+          "relation": "活动于",
+          "evidence": "他挑着禅杖袖拂过作者 关祥。到二 143 白云越过清溪曲润来到白云洞里诛茅筑室建起一座小庙 题名宝震寺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "惠连",
+          "target": "宝震寺",
+          "relation": "同族",
+          "evidence": "惠连心中导入有口难言离夺时只在门上题了一首诗 殷勤收拾日扣奖检点行吉没一些。袖拂白云归古洞杖挑明月入烟霞。此诗情人景对被逐一事似无她尤。他挑着禅杖袖拂过作者 关祥。到二 143 白云越过清溪曲润来到白云洞里诛茅筑室建起一座小庙 题名宝震寺",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0257": {
+      "relations": [
+        {
+          "source": "吕洞宾",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "西樵山白云洞有一间云泉仙馆奉祀八仙之一的吕洞宾。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山白云洞有一间云泉仙馆奉祀八仙之一的吕洞宾。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0258": {
+      "relations": [
+        {
+          "source": "吕仙",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山有吕仙相关的传说",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕仙",
+          "target": "南海当铺",
+          "relation": "活动于",
+          "evidence": "吕仙化作一个面容枯杭的贫道进铺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕仙",
+          "target": "南海当铺",
+          "relation": "关联人物",
+          "evidence": "莫某慕吕洞宾仙术在铺里设有吕仙的神位一座",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0259": {
+      "relations": [
+        {
+          "source": "墟场",
+          "target": "吕洞宾",
+          "relation": "承载文化",
+          "evidence": "于是他化作一个卖汤圆的贩子摆在墟场上叫卖。",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0260": {
+      "relations": []
+    },
+    "chunk_0261": {
+      "relations": [
+        {
+          "source": "吕仙",
+          "target": "白云洞",
+          "relation": "记载于",
+          "evidence": "签语中 患 字 去 心 是 洞 字 吕仙无疑",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕仙",
+          "target": "白云古寺",
+          "relation": "承载文化",
+          "evidence": "在谷口即建起白云古寺",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕仙",
+          "target": "三湖书院",
+          "relation": "承载文化",
+          "evidence": "清初在谷右建起了三湖书院等胜景",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0262": {
+      "relations": []
+    },
+    "chunk_0263": {
+      "relations": [
+        {
+          "source": "初平",
+          "target": "赤松山",
+          "relation": "活动于",
+          "evidence": "隐于赤松山故名赤黄松大仙",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "初平",
+          "target": "赤松山",
+          "relation": "活动于",
+          "evidence": "初起问初平牧羊消息",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0264": {
+      "relations": []
+    },
+    "chunk_0265": {
+      "relations": [
+        {
+          "source": "敲山震鼓",
+          "target": "龙船岗",
+          "relation": "承载文化",
+          "evidence": "龙船岗的鼓声远传至今仍为人们津津乐道",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "龙船岗",
+          "target": "游鱼浦村",
+          "relation": "传承于",
+          "evidence": "现今游鱼浦村仍有只完整无缺的龙船埋在河里",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "龙船岗",
+          "target": "紫水河",
+          "relation": "承载文化",
+          "evidence": "对于龙船岗名字的由来民间有一个传说",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "游鱼浦村",
+          "target": "紫水河",
+          "relation": "关联人物",
+          "evidence": "有的一年一只龙船夺标后凯旋行到紫水河面",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0266": {
+      "relations": [
+        {
+          "source": "狮山镇",
+          "target": "龙岗",
+          "relation": "位于",
+          "evidence": "到了21 tow FARR AAAI mA月异龙船岗早已成为开发",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "狮山镇",
+          "target": "北江",
+          "relation": "承载文化",
+          "evidence": "但古老的北江是匹难以驯服的野马它任意奔流",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "北江",
+          "target": "狮山镇",
+          "relation": "盛产",
+          "evidence": "北江两岸的人民只能在山岗丘陵上过着",
+          "confidence": 0.7,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0267": {
+      "relations": []
+    },
+    "chunk_0268": {
+      "relations": [
+        {
+          "source": "和合老汉",
+          "target": "北江",
+          "relation": "活动于",
+          "evidence": "和合老汉往河底走",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0269": {
+      "relations": [
+        {
+          "source": "和合老汉",
+          "target": "北江",
+          "relation": "活动于",
+          "evidence": "和合老汉日夜睡在瓜园里一直等到瓜熟",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0270": {
+      "relations": [
+        {
+          "source": "和合老汉",
+          "target": "宝剑",
+          "relation": "承载文化",
+          "evidence": "和合老汉想起金刚的嘱托，这宝剑可以征服北江",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "和合老汉",
+          "target": "狮山",
+          "relation": "活动于",
+          "evidence": "和合老汉居住过的火流岗称为和合岗",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "和合老汉",
+          "target": "和合岗",
+          "relation": "关联人物",
+          "evidence": "和合老汉居住过的火流岗称为和合岗",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "和合老汉",
+          "target": "和合大道",
+          "relation": "关联人物",
+          "evidence": "山脚下大良坑的道路称为和合大道",
+          "confidence": 1.0,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "狮山",
+          "target": "北江",
+          "relation": "承载文化",
+          "evidence": "和合老汉想起金刚的嘱托，这宝剑可以征服北江",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "和合岗",
+          "target": "狮山",
+          "relation": "属于时期",
+          "evidence": "狮山银岗的一个美丽传说",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "银岗",
+          "relation": "位于",
+          "evidence": "狮山树本善堂的所在地银岗有一个人美丽的传说",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0271": {
+      "relations": []
+    },
+    "chunk_0272": {
+      "relations": [
+        {
+          "source": "南雄珠现埠",
+          "target": "挖银岗",
+          "relation": "承载文化",
+          "evidence": "后来 南 雄 珠 现埠人 逃难到 此 聚居因 控 银 岗处在 今 狮 北、狮 西 、小 榄、刘 边等村汇集处",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "天湖",
+          "target": "挖银岗",
+          "relation": "位于",
+          "evidence": "银 岗山 不 高 地 不 广 却 是 山 清 水 美 尤其是 旁边的 天 湖。",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "吕纯阳",
+          "target": "天湖",
+          "relation": "活动于",
+          "evidence": "有 一 天八 仙 中 的 吕 纯 阳 大 仙 路 过 此 地看 到 美丽 的 湖 却 没有珍禽 相伴颇 为 叹 惜。兴 致 一 来 便 从 附近 的 一 山岭点 石化 为 一群天 鹅 飞 翔在此 山水",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0273": {
+      "relations": [
+        {
+          "source": "狮山镇",
+          "target": "银岗",
+          "relation": "位于",
+          "evidence": "树本善堂处在银岗山上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "银岗",
+          "relation": "位于",
+          "evidence": "树本善堂处在银岗山上",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "狮山镇",
+          "relation": "活动于",
+          "evidence": "热心人士就选择在银岗修建树本善堂",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "横石岭",
+          "relation": "位于",
+          "evidence": "西是横石岭",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "象岗山",
+          "relation": "位于",
+          "evidence": "北是象岗山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "狮子山",
+          "relation": "位于",
+          "evidence": "南是狮子山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "天湖",
+          "relation": "位于",
+          "evidence": "邻倚天湖",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "飞鹅岭",
+          "relation": "位于",
+          "evidence": "面对虎头山",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "树本善堂",
+          "target": "奇石村",
+          "relation": "关联人物",
+          "evidence": "小塘奇石村前是片汪洋",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0274": {
+      "relations": [
+        {
+          "source": "雷滩古庙",
+          "target": "六大金刚",
+          "relation": "承载文化",
+          "evidence": "供奉六大金刚，祈求镇怪保平安",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "六大金刚",
+          "target": "雷滩古庙",
+          "relation": "承载文化",
+          "evidence": "供奉六大金刚，祈求镇怪保平安",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0275": {
+      "relations": []
+    },
+    "chunk_0276": {
+      "relations": [
+        {
+          "source": "灵椿树",
+          "target": "雷滩",
+          "relation": "位于",
+          "evidence": "雷滩古庙前的灵验椿树，村民祈福许愿之地",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "灵椿树",
+          "target": "雷滩",
+          "relation": "活动于",
+          "evidence": "都 会在灵 椿 树 前 祈福、许 愿 遇 到 什么 不 顺畅 之 事也 会 到 灵 椿 树 前 祈求 保佑平 安 渡 过 难关",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0277": {
+      "relations": [
+        {
+          "source": "古井",
+          "target": "苏坑村",
+          "relation": "承载文化",
+          "evidence": "村民使用了千年的古井",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔粹是",
+          "target": "苏坑村",
+          "relation": "活动于",
+          "evidence": "北宋时苏坑村出了官员孔粹是",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔元凯",
+          "target": "孔粹是",
+          "relation": "同族",
+          "evidence": "孔粹是的儿子，曾任朝廷大夫",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔元凯",
+          "target": "苏坑村",
+          "relation": "活动于",
+          "evidence": "孔元凯出门时发现了商人遗留的白银",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0278": {
+      "relations": [
+        {
+          "source": "孔元凯",
+          "target": "丹灶镇",
+          "relation": "活动于",
+          "evidence": "南海传说篇157侈上等竺商人回来取",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔元凯",
+          "target": "江西商人",
+          "relation": "关联人物",
+          "evidence": "不久其中一名江西商人匆匆返回寻找遗失的白银",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "江西商人",
+          "target": "丹灶镇",
+          "relation": "活动于",
+          "evidence": "南海传说篇157侈上等竺商人回来取",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0279": {
+      "relations": [
+        {
+          "source": "孔氏父子",
+          "target": "苏坑村",
+          "relation": "活动于",
+          "evidence": "孔氏父子贤德故事后代昌盛",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "阴功井",
+          "target": "孔氏父子",
+          "relation": "关联人物",
+          "evidence": "称孔家门前这口井为阴功井",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "苏坑村",
+          "target": "孔氏父子",
+          "relation": "同族",
+          "evidence": "后人称孔粹墓为阴功墓",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "苏坑村",
+          "target": "孔氏父子",
+          "relation": "活动于",
+          "evidence": "该村后山内上",
+          "confidence": 0.75,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0280": {
+      "relations": [
+        {
+          "source": "五祖弘忍",
+          "target": "东禅寺",
+          "relation": "位于",
+          "evidence": "东禅寺位于湖北黄梅县",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0281": {
+      "relations": [
+        {
+          "source": "六祖",
+          "target": "华平村",
+          "relation": "活动于",
+          "evidence": "六祖在华平修行期间曾对华平村周围景物及村庄作过精辟的描述",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "六祖",
+          "target": "西竺村",
+          "relation": "活动于",
+          "evidence": "六祖离开华平时左脚在华平西面的西竺村前一踏",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "六祖",
+          "target": "孔家村",
+          "relation": "活动于",
+          "evidence": "六祖离开华平时右手用祥杖在华平孔家村前一撑",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南华寺",
+          "target": "华平西竺村",
+          "relation": "承载文化",
+          "evidence": "六祖惠能修行留有脚印",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南华寺",
+          "target": "孔家村",
+          "relation": "承载文化",
+          "evidence": "六祖惠能修行留下禅杖印",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "华平西竺村",
+          "target": "华平",
+          "relation": "属于时期",
+          "evidence": "华平西面的村庄",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "孔家村",
+          "target": "华平",
+          "relation": "属于时期",
+          "evidence": "华平孔家村",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "华平村",
+          "target": "华平",
+          "relation": "属于时期",
+          "evidence": "华平的村庄",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0282": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "华平村",
+          "relation": "同族",
+          "evidence": "传说这样的风水宝地是要出皇帝的。后来有人将此事告知朝廷，皇帝知道后马上派出官兵到华平村把虎头岗和东面的白草岗拦腰斩断",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "白草岗",
+          "target": "华平村",
+          "relation": "关联人物",
+          "evidence": "传说这样的风水宝地是要出皇帝的。后来有人将此事告知朝廷，皇帝知道后马上派出官兵到华平村把虎头岗和东面的白草岗拦腰斩断",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0283": {
+      "relations": []
+    },
+    "chunk_0284": {
+      "relations": [
+        {
+          "source": "黎湛枝",
+          "target": "狮山镇",
+          "relation": "活动于",
+          "evidence": "日间替人放牛",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0285": {
+      "relations": [
+        {
+          "source": "金凤草",
+          "target": "南海",
+          "relation": "盛产",
+          "evidence": "在南海特别是狮山的山岭到处都是金凤草",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0286": {
+      "relations": [
+        {
+          "source": "南海观世音",
+          "target": "狮山镇",
+          "relation": "活动于",
+          "evidence": "地行仙来到狮山问过当地农民知道这里是南海",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0287": {
+      "relations": [
+        {
+          "source": "观音",
+          "target": "瑶池仙子",
+          "relation": "关联人物",
+          "evidence": "认定她们是瑶池仙子",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0288": {
+      "relations": [
+        {
+          "source": "海瑞",
+          "target": "龙唐沙园村",
+          "relation": "活动于",
+          "evidence": "海瑞在去海南途中乘船路过北江下游南海县的龙唐沙园村",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "龙唐明隆庆四年",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "龙唐明隆庆四年1570年才改称小唐。这里流着海传瑞的故事。",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0289": {
+      "relations": [
+        {
+          "source": "龙唐",
+          "target": "小塘",
+          "relation": "位于",
+          "evidence": "后人为纪念这位清官便将龙唐改为小塘",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小唐站",
+          "target": "小塘",
+          "relation": "位于",
+          "evidence": "遂将唐字加土字旁为塘便成为今天小塘的地名",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "沙园村",
+          "relation": "活动于",
+          "evidence": "海瑞和李光福曾在此活动",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "李光福",
+          "target": "沙园村",
+          "relation": "活动于",
+          "evidence": "海瑞和李光福曾在此活动",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "文笔塔",
+          "target": "沙园村",
+          "relation": "位于",
+          "evidence": "文笔塔下一块九米多长的大石上纳凉",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "忠臣脚",
+          "relation": "承载文化",
+          "evidence": "后人叫它忠臣脚成为小塘一景",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "湘阳知府",
+          "target": "龙井茶",
+          "relation": "传承于",
+          "evidence": "知是好茶便问茶叶从何来李答是湘阳知府曾大人赠之杭州名产也",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0290": {
+      "relations": [
+        {
+          "source": "海瑞",
+          "target": "狮山镇",
+          "relation": "活动于",
+          "evidence": "狮山镇宣传文体办供稿",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "鬼子塘",
+          "relation": "位于",
+          "evidence": "茶水流到附近一个叫鬼子塘的池塘内",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "双下巴鱼",
+          "target": "鬼子塘",
+          "relation": "盛产",
+          "evidence": "茶水流到附近一个叫鬼子塘的池塘内鱼儿吸了便成了贪吃的双下巴鱼",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "李氏祠堂",
+          "relation": "活动于",
+          "evidence": "海瑞在临走时为李氏祠堂写了副对联",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "海瑞",
+          "target": "李氏祠堂",
+          "relation": "关联人物",
+          "evidence": "海瑞在临走时为李氏祠堂写了副对联",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "检树",
+          "target": "李氏祠堂",
+          "relation": "承载文化",
+          "evidence": "海瑞还亲手在祠堂的天井栽种了两株检树",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0291": {
+      "relations": [
+        {
+          "source": "大头官",
+          "target": "九龙江",
+          "relation": "活动于",
+          "evidence": "被土匪砍头前经过九龙江",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大头官",
+          "target": "九江乡",
+          "relation": "活动于",
+          "evidence": "大头官来到九江乡",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "大头官",
+          "target": "顺德县龙山乡",
+          "relation": "活动于",
+          "evidence": "流窜于南海县九江乡与顺德县龙山乡交界一带",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0292": {
+      "relations": [
+        {
+          "source": "大望山",
+          "target": "九江镇",
+          "relation": "位于",
+          "evidence": "大望山今位于九江镇",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "钦差大臣",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "钦差大臣南下到九江彻查",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "朱九江次琦先生要求所有九江乡民家家不得关门",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0293": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "朱次琦先生要求所有九江乡民家家不得关门",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "九江先生要求九江所有上龙舟都要泊在江中",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "望海亭",
+          "target": "九江镇",
+          "relation": "位于",
+          "evidence": "今九江镇沙口渡口附近的望海亭",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "龙舟",
+          "target": "九江镇",
+          "relation": "承载文化",
+          "evidence": "九江先生与钦差在户海庭中一边倾谈一边观看龙舟出海",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "朱次琦",
+          "target": "望海亭",
+          "relation": "活动于",
+          "evidence": "九江先生在此之前已交代过扒龙舟的乡民要大家看他手中的忽毛扇指挥",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0294": {
+      "relations": [
+        {
+          "source": "盐步老龙",
+          "target": "珠江三角洲",
+          "relation": "盛产",
+          "evidence": "盐步老龙被认为是珠江三角洲年岁最老的龙舟",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "慈禧太后",
+          "relation": "承载文化",
+          "evidence": "相传是慈禧太后所赐的12支稚鸡尾和1个金属制的季金钱",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "南方传统龙舟",
+          "relation": "同类",
+          "evidence": "船上配有南方传统龙舟的龙头、神位等装饰",
+          "confidence": 0.95,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "南方传统龙舟",
+          "target": "盐步老龙",
+          "relation": "承载文化",
+          "evidence": "船上配有南方传统龙舟的龙头、神位等装饰",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0295": {
+      "relations": [
+        {
+          "source": "龙舟结契",
+          "target": "端午节",
+          "relation": "发生于",
+          "evidence": "FATS EBA Ds aE Ni Sa EP PE A 年 端午 节南 下 广东 看 龙舟",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "白鹤潭",
+          "relation": "位于",
+          "evidence": "在 白 忽 潭 举行龙舟 比赛",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "突眼龙",
+          "target": "白鹤潭",
+          "relation": "位于",
+          "evidence": "在 白 忽 潭 举行龙舟 比赛",
+          "confidence": 0.85,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0296": {
+      "relations": [
+        {
+          "source": "烧猪",
+          "target": "突眼龙",
+          "relation": "承载文化",
+          "evidence": "龙划得最快应该他们得烧猪",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "烧猪",
+          "target": "老龙队",
+          "relation": "承载文化",
+          "evidence": "老龙队队员说 是 突眼龙夺了标奖品 应该是他们 的 执意不收",
+          "confidence": 0.8,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "烧猪",
+          "target": "盐步",
+          "relation": "盛产",
+          "evidence": "烧猪等奖品送到 盐步",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "盐步",
+          "target": "洋塘",
+          "relation": "同类",
+          "evidence": "洋塘的小龙后生",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "老龙队",
+          "target": "盐步",
+          "relation": "属于时期",
+          "evidence": "盐步老龙",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        },
+        {
+          "source": "小龙",
+          "target": "洋塘",
+          "relation": "属于时期",
+          "evidence": "洋塘的小龙后生",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0297": {
+      "relations": [
+        {
+          "source": "塘小龙",
+          "target": "洋塘",
+          "relation": "活动于",
+          "evidence": "洋塘有声望的老人为老龙的双角戴上金伦披上红布赠上一对红底和白字的特别定制的标旗",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0298": {
+      "relations": []
+    },
+    "chunk_0299": {
+      "relations": []
+    },
+    "chunk_0300": {
+      "relations": [
+        {
+          "source": "盐步老龙",
+          "target": "珠江三角洲龙舟",
+          "relation": "承载文化",
+          "evidence": "盐步老龙作为珠江三角洲龙舟的长者不参加龙舟赛事只作游龙表演",
+          "confidence": 0.9,
+          "source_file": "南海美食南海特产南海传说_合辑"
+        }
+      ]
+    },
+    "chunk_0301": {
+      "relations": []
+    },
+    "chunk_0302": {
+      "relations": []
+    }
+  }
+}

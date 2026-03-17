@@ -1,0 +1,2967 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "陈荣彪",
+          "target": "九江烧猪",
+          "relation": "关联人物",
+          "evidence": "平胜烧猪岭南文化的一个人符号",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "陈荣彪",
+          "target": "九江鱼生",
+          "relation": "关联人物",
+          "evidence": "乘习习江风品九江鱼生",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "麻奢狗肉店",
+          "target": "雄威大酒店",
+          "relation": "关联人物",
+          "evidence": "麻奢狗肉店，以狗肉为主要食材的特色餐馆",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "辉利大酒店",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "成隆酒楼",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "雄威大酒店",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙头佬酒楼",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "保利洲际酒店",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鸿福山庄",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "华普酒家",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "琼林阁",
+          "target": "千灯湖",
+          "relation": "位于",
+          "evidence": "美味在千灯湖",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "传统龙船饭",
+          "target": "岭南水乡生态",
+          "relation": "关联人物",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "传统龙船饭",
+          "target": "儒家文化底蕴",
+          "relation": "关联人物",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "官窗生菜会",
+          "target": "岭南水乡生态",
+          "relation": "关联人物",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "岭南水乡生态",
+          "target": "传统龙船饭",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "岭南水乡生态",
+          "target": "官窗生菜会",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "儒家文化底蕴",
+          "target": "传统龙船饭",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "儒家文化底蕴",
+          "target": "官窗生菜会",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "传统龙船饭",
+          "target": "侨乡风情",
+          "relation": "关联人物",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "官窗生菜会",
+          "target": "侨乡风情",
+          "relation": "关联人物",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "侨乡风情",
+          "target": "传统龙船饭",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "侨乡风情",
+          "target": "官窗生菜会",
+          "relation": "承载文化",
+          "evidence": "浓郁的儒家文化底蕴、典型的岭南水乡生态独特的侨乡风情都给南海传统的美食带来了极具特色的风味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "陈荣彪",
+          "target": "九江菜",
+          "relation": "记载于",
+          "evidence": "作者陈荣彪记录了九江菜的历史与乡情",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "九江",
+          "target": "束椒炒春鳞鱼",
+          "relation": "盛产",
+          "evidence": "束椒炒春鳞鱼：九江传统特色菜肴，由家家户户发明",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江",
+          "target": "龙舟鱼米",
+          "relation": "盛产",
+          "evidence": "九江龙舟鱼米之香吧制",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江",
+          "target": "鹅掌",
+          "relation": "盛产",
+          "evidence": "选用新鲜鹅掌用刀去除指甲",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江",
+          "target": "桂花鱼",
+          "relation": "盛产",
+          "evidence": "桂花鱼比较嫩滑所以",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "开年",
+          "target": "南海",
+          "relation": "发生于",
+          "evidence": "这风俗在南海同样十分盛行。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "五柳鱼",
+          "target": "帝菜",
+          "relation": "同类",
+          "evidence": "素五柳鱼酸甜俱佳，让人食欲大增。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "五柳鱼",
+          "target": "帝菜",
+          "relation": "属于时期",
+          "evidence": "按传统开年的一定是吃帝菜的斋菜种类很多有素叉烧、素五柳鱼、素鳝丝等。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "帝菜",
+          "target": "南海",
+          "relation": "盛产",
+          "evidence": "南海百姓有岁首开年吃帝菜的习俗。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "年糕",
+          "target": "大齐",
+          "relation": "同族",
+          "evidence": "年糕在南海九江叫大齐",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "谭华轩",
+          "target": "谭家菜",
+          "relation": "承载文化",
+          "evidence": "谭家菜的特色之一是鱼翅",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "谭家菜",
+          "target": "谭华轩",
+          "relation": "承载文化",
+          "evidence": "经营谭家菜的谭华轩以其古色幽香、高雅不凡的景观彰显出豪门富贵的气派。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭家菜",
+          "target": "谭宗浚",
+          "relation": "关联人物",
+          "evidence": "似乎仕途不畅却酷爱珍氏美味的谭宗浚父子仍居于此。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭家菜",
+          "target": "谭华轩",
+          "relation": "活动于",
+          "evidence": "经营谭家菜的谭华轩在京城挂满红灯笼的街埠深处。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭家菜",
+          "target": "谭宗浚",
+          "relation": "活动于",
+          "evidence": "似乎仕途不畅却酷爱珍氏美味的谭宗浚父子仍居于此。",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭家菜",
+          "target": "谭华轩",
+          "relation": "位于",
+          "evidence": "经营谭家菜的谭华轩在京城挂满红灯笼的街埠深处。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "谭家菜",
+          "target": "谭宗浚",
+          "relation": "传承于",
+          "evidence": "谭家菜是唯一保存下来并由北京饭店独家经营的著名官府菜。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭家菜",
+          "target": "丹灶朗心的谭家村",
+          "relation": "承载文化",
+          "evidence": "可以去到丹灶朗心的谭家村看看谭宗浚当时所立的旗杆夹还在那里呢。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "平胜烧猪",
+          "target": "丹灶朗心的谭家村",
+          "relation": "关联人物",
+          "evidence": "关于平胜烧猪岭南文化的一个符号，于1400年前的讲述。",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "平胜烧猪",
+          "target": "南海美食",
+          "relation": "属于时期",
+          "evidence": "南海美食南海特产",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "平胜烧猪",
+          "target": "南海美食",
+          "relation": "盛产",
+          "evidence": "南海美食南海特产",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南越国",
+          "target": "平胜烧猪",
+          "relation": "承载文化",
+          "evidence": "出土文物中已发现炭炉和铁叉等器物",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南越国",
+          "target": "平胜烧猪",
+          "relation": "属于时期",
+          "evidence": "考古学者推断早在2000年前粤人便已懂得制作明炉烧猪了",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "曾戎权",
+          "target": "九江",
+          "relation": "出生于",
+          "evidence": "曾戎权的家乡叫九江。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "鱼生",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "因此没有特别和非常重要的重要接待我绝对不会轻易出手做的宁可花钱到地道的餐去厅品尝九鱼生江的特点就是配料多有炸芋头丝、红白葛下丝、炸粉丝、姜丝等。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鱼生",
+          "target": "西江河畔",
+          "relation": "活动于",
+          "evidence": "前几天我回家为母亲过生日时在西江河畔所吃的是我喜的罗非鱼鱼生。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "罗非鱼",
+          "target": "鱼生",
+          "relation": "盛产",
+          "evidence": "前几天我回家为母亲过生日时在西江河畔所吃的是我喜的罗非鱼鱼生。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "里水",
+          "target": "松涛山庄",
+          "relation": "位于",
+          "evidence": "松涛山庄：位于里水的一家酒楼",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "霸王鸭",
+          "target": "松涛山庄",
+          "relation": "关联人物",
+          "evidence": "各位客官要想尝一尝这道传承300多年的民间美食那就要到里的松涛山庄去。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "里水",
+          "target": "霸王鸭",
+          "relation": "盛产",
+          "evidence": "真正的美食总是不甘被雪藏的霸王鸭也终于在闭关多年后被里水酒楼的大厨们发掘出来",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "松涛山庄",
+          "target": "霸王鸭",
+          "relation": "承载文化",
+          "evidence": "各位客官要想尝一尝这道传承300多年的民间美食那就要到里的松涛山庄去。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "霸王鸭",
+          "target": "里水",
+          "relation": "活动于",
+          "evidence": "真正的美食总是不甘被雪藏的霸王鸭也终于在闭关多年后被里水酒楼的大厨们发掘出来",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "冰镇吊丝丹",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "九江鱼花（物产饮食）：九江地区的特色水产，具有独特的风味",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "冰镇吊丝丹",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "九江人对食很有研究精于调味于是有了这种说法",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "罗家宝",
+          "target": "九江全鱼宴",
+          "relation": "承载文化",
+          "evidence": "1962年为请罗家宝等粤剧名伶来当地演出",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江中国城大酒店",
+          "target": "九江全鱼宴",
+          "relation": "承载文化",
+          "evidence": "后来有心要挖掘这款传统美食的九江中国城大酒店请来了当时了解十大鱼宴制作过程的老师傅作指导终于创出了20世纪90年代的九江全鱼宴",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "罗家宝",
+          "target": "十大鱼宴",
+          "relation": "承载文化",
+          "evidence": "1962年为了请罗家宝等粤剧名伶来当地演出好客的九江人精心炮制了十大鱼宴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江全鱼宴",
+          "target": "十大鱼宴",
+          "relation": "同类",
+          "evidence": "但九江十大鱼宴却汇聚了南海鱼美食大全可谓全鱼宴的代表",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江中国城大酒店",
+          "target": "九江全鱼宴",
+          "relation": "活动于",
+          "evidence": "后来有心要挖掘这款传统美食的九江中国城大酒店请来了当时了解十大鱼宴制作过程的老师傅作指导终于创出了20世纪90年代的九江全鱼宴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "全鱼宴",
+          "target": "桂花鱼",
+          "relation": "盛产",
+          "evidence": "全鱼宴采用四大高值鱼如桂花鱼、加州鲈、红眼外来鳍、鳝鱼等",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "加州鲈",
+          "relation": "盛产",
+          "evidence": "全鱼宴采用四大高值鱼如桂花鱼、加州鲈、红眼外来鳍、鳝鱼等",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "红眼外来源鳍",
+          "relation": "盛产",
+          "evidence": "全鱼宴采用四大高值鱼如桂花鱼、加州鲈、红眼外来鳍、鳝鱼等",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "家乡酿金钱鱼",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "水乡功夫鱼",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "窝贴铠鱼块",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "酥香白花球",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "沙锅大鱼头",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "全鱼宴",
+          "target": "寒衣勤织锦",
+          "relation": "同类",
+          "evidence": "以下是其中的一款全鱼宴的菜式分别是NEBR BM fo丁、水乡功夫鱼、窝贴铠鱼块、酥香白花球、家乡酿金钱鱼、沙锅大鱼头、寒衣勤织锦COPE Be fH RO SeoeAS饺。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "鱼花",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "说到功夫不能不提家乡酿鳞鱼。据行人士内介绍在20世纪六七十年代九江人家家户户几乎都有海外的亲戚回乡",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "酸青瓜",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙大鱼锅头",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鱼肉丸子",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "蜜瓜炒鱼丁",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鱼露四宝",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "孝鱼青饺",
+          "target": "九江全鱼宴",
+          "relation": "属于时期",
+          "evidence": "九江全鱼宴是一系列菜肴组合",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "鸡肉",
+          "target": "炖鸡",
+          "relation": "承载文化",
+          "evidence": "炖鸡是一种传统的烹饪技艺，用于制作鸡肉菜肴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江醇翁鸡",
+          "target": "三杯鸡",
+          "relation": "承载文化",
+          "evidence": "九江醇翁鸡取法顺德的三杯鸡，即主要用一杯酒、一杯油和一杯糖",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "三杯鸡",
+          "target": "九江大谷",
+          "relation": "同类",
+          "evidence": "九江大谷又烧九江叉烧",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "叉烧肥",
+          "target": "九江叉烧",
+          "relation": "属于时期",
+          "evidence": "九江叉烧是九江历史悠久的有名特产",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "大谷叉烧",
+          "target": "陈永照",
+          "relation": "创建修建",
+          "evidence": "大谷叉烧由绰号大天二永的陈永制作",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "大谷叉烧",
+          "target": "陈永照",
+          "relation": "传承于",
+          "evidence": "近年传给儿子制作和经营",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "鱼青",
+          "target": "鱼青酿胶笋",
+          "relation": "同类",
+          "evidence": "鱼青酿胶笋以鱼青为馅料",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "九江",
+          "target": "鱼生",
+          "relation": "盛产",
+          "evidence": "九江另一种风格的捞鱼生更是有诱人的",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江鱼生",
+          "target": "荣华酒店",
+          "relation": "传承于",
+          "evidence": "在九江荣华酒店和聚隆庄可能是保留着这种吃法最好的",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江鱼生",
+          "target": "聚隆庄",
+          "relation": "传承于",
+          "evidence": "在九江荣华酒店和聚隆庄可能是保留着这种吃法最好的",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "鱼生",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江非常传统与独特 的 鱼 生 吃 法",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "古戴礼",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "2012 年九江 饭香刀 美食 会长古 戴礼 先生 被 这 道美食 吸引 住了",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "古戴礼",
+          "target": "鱼生",
+          "relation": "著有",
+          "evidence": "连 吃 五 硫 叫 好 不 绝 。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "菊花炒鲈鱼球",
+          "target": "梅花",
+          "relation": "同族",
+          "evidence": "梅花作为甜品的主要食材之一，与菊花、杜鹏花等共同出现",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "菊花炒鲈鱼球",
+          "target": "百花馅酿杜鹏花甜品",
+          "relation": "同类",
+          "evidence": "百花馅酿杜鹏花甜品与菊花炒鲈鱼球并列出现",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "蟹黄炒椰菜花",
+          "target": "梅花",
+          "relation": "同族",
+          "evidence": "梅花作为甜品的主要食材之一，与菊花、杜鹏花等共同出现",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "蟹黄炒椰菜花",
+          "target": "百花馅酿杜鹏花甜品",
+          "relation": "同类",
+          "evidence": "百花馅酿杜鹏花甜品与蟹黄炒椰菜花并列出现",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "百花馅酿杜鹏花甜品",
+          "target": "梅花",
+          "relation": "同族",
+          "evidence": "梅花作为甜品的主要食材之一，与菊花、杜鹏花等共同出现",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "伊府花零鸟视迷韭菜花三鸟丝伊面",
+          "target": "菊花炒鲈鱼球",
+          "relation": "同类",
+          "evidence": "文中提及的菜肴名称均为乡村美食的创意菜品",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "田螺",
+          "target": "鱼塘",
+          "relation": "盛产",
+          "evidence": "每 次 都 是大丰收收 获 的 田螺有时 多 到 吃 不 完。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "田螺",
+          "target": "鱼塘",
+          "relation": "活动于",
+          "evidence": "少年 时 候我 常与伙伴 们 结 队 到 鱼 塘 边 摸 田螺",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "生食",
+          "target": "牛扒",
+          "relation": "属于时期",
+          "evidence": "五成熟的牛肉片",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "六三香肉",
+          "target": "板桥",
+          "relation": "关联人物",
+          "evidence": "贪吃狗肉而得意的样子",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "《红楼梦》",
+          "target": "首蛤蜡",
+          "relation": "记载于",
+          "evidence": "《红楼梦》第十一回里有句话首蛤蜡想吃天鹅肉。",
+          "confidence": 1.0,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "首蛤蜡",
+          "target": "六三香肉",
+          "relation": "关联人物",
+          "evidence": "昨晚我就与几位喜欢另类美的食朋友扮演了一次星蚌捕蝉黄省后的把戏把一心想吃天鹅肉的首蛤蜡给吃掉了。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "大顶苦瓜",
+          "target": "谭边",
+          "relation": "盛产",
+          "evidence": "谭边大顶苦瓜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "大顶苦瓜",
+          "target": "狮山镇",
+          "relation": "属于时期",
+          "evidence": "几年前我就想到大顶苦瓜的正宗原产地一一南海大沥谭边2013年3月起属狮山镇",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "大顶苦瓜",
+          "target": "大沥",
+          "relation": "盛产",
+          "evidence": "南海大沥谭边",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "谭边",
+          "target": "太平谭边",
+          "relation": "关联人物",
+          "evidence": "太平谭边的年年好景美食餐厅",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "大顶苦瓜",
+          "target": "太平谭边",
+          "relation": "活动于",
+          "evidence": "安排了这和餐我垂省久的大项苦瓜宴",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": []
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "罗行凉拌粉",
+          "target": "丹灶",
+          "relation": "盛产",
+          "evidence": "丹灶罗行凉拌粉就是南海有名的养生小吃",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "罗行凉拌粉",
+          "target": "丹灶",
+          "relation": "活动于",
+          "evidence": "在丹灶更流行特别是夏天的一种吃法就是用一种丹灶独有的叫臭脚醋的液体来捞粉更加开胃好吃",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "凉拌粉",
+          "target": "南海丹灶",
+          "relation": "盛产",
+          "evidence": "由于这里四季都有着丰富的物产尤其是做凉拌粉的食材",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵大饼是南海区特色食品之一，与佛手瓜并称西樵特产",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山有众多特产，佛手瓜可谓大名鼎鼎，一点也不亚于西樵大饼",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山有着悠久的佛教历史和丰富的佛教文化遗迹，西樵山佛手瓜也因西樵山的佛教文化而闻名",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "19世纪初传入中国，如今盛产于我国南方一带，尤其是广东、福建两省",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "佛手瓜",
+          "relation": "盛产",
+          "evidence": "由于西樵山的土壤、水、空气适宜佛手瓜的栽种出来",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "南海观音文化苑",
+          "relation": "位于",
+          "evidence": "南海观音文化苑坐落于南海西樵山大仙峰项",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南汉",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "自南汉以来西樵山便是佛教圣地",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "云岩寺",
+          "relation": "始建于",
+          "evidence": "其中云岩寺、宝峰寺、宝莲寺等都是西樵山寺庙之一",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "宝峰寺",
+          "relation": "始建于",
+          "evidence": "其中云岩寺、宝峰寺、宝莲寺等都是西樵山寺庙之一",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "宝峰寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "宝峰寺位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "宝峰寺",
+          "target": "西樵山",
+          "relation": "始建于",
+          "evidence": "宝峰寺有着600多年的历史",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "宝峰寺",
+          "relation": "承载文化",
+          "evidence": "西樵山的佛手瓜因佛教文化而驰名中外",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "宝峰寺",
+          "relation": "活动于",
+          "evidence": "西樵山的佛教文化赋予了佛手瓜灵魂与内涵",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "佛手瓜是村民种植的主要经济作物与经济来源之一",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "佛手瓜",
+          "relation": "承载文化",
+          "evidence": "种出来的佛手瓜与外地产的大不相同个大肥美",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山上特有的农产品，个大肥美，深受消费者喜爱",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "佛手瓜",
+          "relation": "承载文化",
+          "evidence": "西樵山佛手瓜也名噪一时。西樵山上保留着独特的岭南水乡建筑环境与风狐依然保存着纯朴、自然、宁静、祥和的古村形象。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "佛手瓜",
+          "relation": "活动于",
+          "evidence": "西樵山上村民依然种植佛手瓜，屋前屋后菜地院落随处可见藤蔓缠绕",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "佛手瓜",
+          "relation": "盛产",
+          "evidence": "西樵山佛手瓜不仅是西樵山著名的特产",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "佛手瓜是西樵山最著名的特产之一",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山的厨师也使出浑身解数炒、腌、煮、汤用佛手瓜",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "李子长",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "离开了高第街子长来到西樵山上耕田种茶生活",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "南海美食篇",
+          "target": "冬瓜趾",
+          "relation": "记载于",
+          "evidence": "《南海美食篇》中有记载冬瓜趾",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "冬瓜趾",
+          "target": "里水",
+          "relation": "盛产",
+          "evidence": "采用南海里水出产的大肉冬瓜制作",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "冬瓜趾",
+          "target": "南海美食篇",
+          "relation": "记载于",
+          "evidence": "冬瓜趾成为人们追求健康的时尚",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": [
+        {
+          "source": "鸡蛋粥",
+          "target": "粥庄、粥城",
+          "relation": "同类",
+          "evidence": "一些粥庄、粥城渐渐兴起是吃广东粥的一大好去处",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "苏记",
+          "target": "麻奢狗肉",
+          "relation": "著有",
+          "evidence": "他向我介绍麻奢狗肉",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "麻奢村",
+          "target": "麻奢狗肉",
+          "relation": "盛产",
+          "evidence": "麻奢村以狗肉为主要特色的食物",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "老姜王、新会陈皮",
+          "target": "麻奢狗肉",
+          "relation": "承载文化",
+          "evidence": "麻奢狗肉配料中必须是老姜王、新会陈皮",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "旺阁渔村",
+          "target": "南海美食",
+          "relation": "属于时期",
+          "evidence": "旺阁渔村是佛山著名餐馆连锁店之一",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "吴荣开",
+          "target": "旺阁渔村",
+          "relation": "关联人物",
+          "evidence": "旺阁渔村总经理吴荣开在南海素有和餐饮大享、南海食神之称",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "吴荣开",
+          "target": "南海美食",
+          "relation": "著有",
+          "evidence": "离不开吴荣开及其大厨对美食孜孜不倦的追求与创新",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": [
+        {
+          "source": "邓锦棠",
+          "target": "金大泉酒店",
+          "relation": "创建修建",
+          "evidence": "金大泉酒店的老总邓锦棠先生",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "金大泉酒店",
+          "target": "南海西樵轻纺城",
+          "relation": "位于",
+          "evidence": "位于南海西樵轻纺城检高路轻纺城D座",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "金泉大酒店",
+          "target": "邓总",
+          "relation": "关联人物",
+          "evidence": "访金泉大酒店那天邓总让导师为我们做了两类菜",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "鱼羊稻皇煲",
+          "target": "邓总",
+          "relation": "关联人物",
+          "evidence": "邓总认为没有必要",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "五柳松子鱼",
+          "target": "金泉大酒店",
+          "relation": "承载文化",
+          "evidence": "金泉大酒店的五柳松子鱼是著名菜式",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鲍汁扣花胶",
+          "target": "金泉大酒店",
+          "relation": "承载文化",
+          "evidence": "鲍汁扣花胶是金泉大酒店的名菜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "佛手瓜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山特产佛手瓜",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "金泉大酒店",
+          "target": "皇上皇酒楼",
+          "relation": "关联人物",
+          "evidence": "皇上皇酒楼女英才造出一方名店",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "皇上皇酒楼",
+          "target": "丹灶",
+          "relation": "属于时期",
+          "evidence": "丹灶城区人民的大食堂",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": [
+        {
+          "source": "皇上皇酒楼",
+          "target": "蛋散",
+          "relation": "著有",
+          "evidence": "皇上皇蛋散堪称皇皇上皇的代表作，在整个南番顺都非常有名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "辉利大酒店",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江辉利大酒店孕育了深厚水乡饮食文化",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "辉利大酒店",
+          "target": "九江",
+          "relation": "位于",
+          "evidence": "九江辉利大酒店于2001年4月3日在九江注册成立",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江",
+          "target": "辉利大酒店",
+          "relation": "承载文化",
+          "evidence": "辉利大酒店的菜式风格深深植根在这种文化的土壤里",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": [
+        {
+          "source": "九江全鱼宴",
+          "target": "九江酒家",
+          "relation": "创建修建",
+          "evidence": "九江全鱼宴创于20世纪六七十年代由九江酒家首创",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江全鱼宴",
+          "target": "九江酒家",
+          "relation": "承载文化",
+          "evidence": "九江全鱼宴创于20世纪六七十年代由九江酒家首创",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江全鱼宴",
+          "target": "辉利大酒家",
+          "relation": "传承于",
+          "evidence": "如今还可以做出地道全鱼宴的只有继承了九江酒家传承的辉利大酒店一家",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "雄威大酒店",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵雄威大酒店的美食很有艺术感和文化味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": [
+        {
+          "source": "陈总",
+          "target": "《满载而归》",
+          "relation": "关联人物",
+          "evidence": "获得西权二大名菜称号的《满载而归》也是广府名食府的作品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "陈总",
+          "target": "《金凤朝阳》",
+          "relation": "关联人物",
+          "evidence": "获得西樵首届ERCAPIR最佳创新奖《金凤朝阳》同样是广府名食府的作品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "陈总",
+          "target": "《富贵金钱袋》",
+          "relation": "关联人物",
+          "evidence": "在九江传统美食大赛中荣获九江十大特色菜一席之位的《富贵金钱袋》",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "《满载而归》",
+          "target": "《金凤朝阳》",
+          "relation": "同类",
+          "evidence": "获得西权二大名菜称号的《满载而归》也是广府名食府的作品《金凤朝阳》同样是广府名食府的作品",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "《满载而归》",
+          "target": "《富贵金钱袋》",
+          "relation": "同类",
+          "evidence": "获得西权二大名菜称号的《满载而归》也是广府名食府的作品在九江传统美食大赛中荣获九江十大特色菜一席之位的《富贵金钱袋》",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0106": {
+      "relations": [
+        {
+          "source": "孔雀迎宾",
+          "target": "雄威大酒店",
+          "relation": "承载文化",
+          "evidence": "这道菜既有意头又生态、养生的名菜",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "雄威大酒店",
+          "target": "孔雀迎宾",
+          "relation": "活动于",
+          "evidence": "在雄威大酒店用和餐时体会得淋漓尽致",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "余伟庭",
+          "target": "石狸花旗参炖肉汁",
+          "relation": "著有",
+          "evidence": "迎宾馆行政总厨余伟庭介绍道这道石狸花旗参炖肉汁是选用猪妥肉内藏筋炖者后稍带纤维",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": [
+        {
+          "source": "黎明晖",
+          "target": "迎宾馆",
+          "relation": "活动于",
+          "evidence": "在早期的富字辈房间中装饰以沉稳、庄重为主房内挂有南海画院院长黎明晖的书画作品。现在还常常有人专门为看画、拍照而来。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "黎明晖",
+          "target": "迎宾馆",
+          "relation": "关联人物",
+          "evidence": "在早期的富字辈房间中装饰以沉稳、庄重为主房内挂有南海画院院长黎明晖的书画作品。现在还常常有人专门为看画、拍照而来。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "四羊方尊",
+          "target": "迎宾馆",
+          "relation": "承载文化",
+          "evidence": "沿着走廊穿越四羊方尊等以平洲玉器为载体所展示的南海玉文化产业长廊",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "樵山房",
+          "target": "迎宾馆",
+          "relation": "位于",
+          "evidence": "来到樵山房一推开门忱若置身于一间古书房。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "樵山书房",
+          "relation": "活动于",
+          "evidence": "书房墙上挂着康有为的照片",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "往天佑",
+          "target": "樵山书房",
+          "relation": "关联人物",
+          "evidence": "书架上有往天佑等南海名人的相片",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙头佬酒楼",
+          "target": "梁献",
+          "relation": "关联人物",
+          "evidence": "与佛山南海餐饮业协会副会长、佛山市南海青年商会副会长、沙头佬酒楼老板梁献一起吃饭或聚会",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": [
+        {
+          "source": "梁献",
+          "target": "沙头佬酒楼",
+          "relation": "创建修建",
+          "evidence": "梁献和他母亲连续两个月不停调试鱼头煲的配方",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "梁献",
+          "target": "沙头佬酒楼",
+          "relation": "活动于",
+          "evidence": "梁献到了今日用他的话说就是一见鱼头都怕",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "天麻鱼头煲",
+          "target": "沙头佬酒楼",
+          "relation": "承载文化",
+          "evidence": "沙头佬的特色鱼头煲竟成了佛山鱼头煲的始祖和代表",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙头佬酒楼",
+          "target": "佛山鱼头煲",
+          "relation": "属于时期",
+          "evidence": "沙头佬的特色鱼头煲竟成了佛山鱼头煲的始祖和代表",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "鱼生",
+          "target": "沙头佬酒楼",
+          "relation": "盛产",
+          "evidence": "沙头佬酒的楼鱼生刺身",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "鱼生",
+          "target": "沙头佬酒楼",
+          "relation": "活动于",
+          "evidence": "沙头佬酒楼的天麻鱼头煲",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙头佬酒楼",
+          "target": "鱼生",
+          "relation": "承载文化",
+          "evidence": "沙头佬酒楼鱼生刺身除了秉承传统技艺",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "沙头佬酒楼",
+          "target": "天麻鱼头煲",
+          "relation": "著有",
+          "evidence": "沙头佬酒楼的天麻鱼头煲由于有秘制的十八种调味料加入",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": [
+        {
+          "source": "脆皮鸡",
+          "target": "御公馆",
+          "relation": "承载文化",
+          "evidence": "御公馆的脆皮鸡并非传统意义上的将鸡放入油锅中煎炸而是采用吊炸的形式",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "脆皮鸡",
+          "target": "御公馆",
+          "relation": "盛产",
+          "evidence": "御公馆的脆皮鸡并非传统意义上的将鸡放入油锅中煎炸而是采用吊炸的形式",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "郑志鸿",
+          "target": "脆皮鸡",
+          "relation": "关联人物",
+          "evidence": "郑志鸿先生笑道这就是吊炸的方式和控制油温的好处所在。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0118": {
+      "relations": []
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": [
+        {
+          "source": "敦煌茶艺馆",
+          "target": "中国茶文化",
+          "relation": "承载文化",
+          "evidence": "敦煌茶艺馆在现代化的经营理念中充分融入了茶文化的传统元素",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "敦煌茶艺馆",
+          "target": "敦煌油鸡普洱扣肉",
+          "relation": "著有",
+          "evidence": "敦煌茶油鸡普洱扣肉等等这些茶腾闻之浓香食之回味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "敦煌茶艺馆",
+          "target": "祁门红茶",
+          "relation": "著有",
+          "evidence": "敦煌茶油鸡普洱扣肉等等这些茶腾闻之浓香食之回味",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0121": {
+      "relations": [
+        {
+          "source": "红旗酒楼",
+          "target": "里水镇",
+          "relation": "位于",
+          "evidence": "红旗 酒楼位 于 南海里水镇红旗 开发 区",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "红旗酒楼",
+          "target": "里水镇",
+          "relation": "属于时期",
+          "evidence": "红旗 酒楼位 于 南海里水镇红旗 开发 区",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "红旗酒楼",
+          "target": "里水镇",
+          "relation": "活动于",
+          "evidence": "红旗 酒楼位 于 南海里水镇红旗 开发 区",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "红烧佛跳墙",
+          "target": "佛跳墙",
+          "relation": "承载文化",
+          "evidence": "由于 佛 跳 墙闻名 迩",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "佛跳墙",
+          "target": "光绪",
+          "relation": "属于时期",
+          "evidence": "据说此菜在清朝 光",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": []
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": []
+    },
+    "chunk_0126": {
+      "relations": []
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "鱼香鼻鱼",
+          "target": "南乳吊烧鸡",
+          "relation": "同类",
+          "evidence": "鱼香鼻鱼和南乳吊烧鸡都是广东传统美食",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南乳",
+          "target": "南乳吊烧鸡",
+          "relation": "承载文化",
+          "evidence": "南乳是制作南乳吊烧鸡的重要原料",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南乳",
+          "target": "南乳吊烧鸡",
+          "relation": "同族",
+          "evidence": "南乳是制作南乳吊烧鸡的重要原料，属于豆腐乳的一种",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": [
+        {
+          "source": "南乳吊烧鸡",
+          "target": "鸿福山庄",
+          "relation": "承载文化",
+          "evidence": "郭锦雄所做的粤菜扬名粤、港、澳",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "郭锦雄",
+          "target": "鸿福山庄",
+          "relation": "活动于",
+          "evidence": "鸿福山庄总经理郭锦雄2004年荣获中国烹饪大师称号",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "郭锦雄",
+          "target": "鸿福山庄",
+          "relation": "活动于",
+          "evidence": "鸿福山庄因为郭锦雄而提出了新、奇、特的创经营新理念",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "郭锦雄",
+          "target": "鸿福山庄",
+          "relation": "关联人物",
+          "evidence": "鸿福山庄总经理郭锦雄2004年荣获中国烹饪大师称号",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0129": {
+      "relations": []
+    },
+    "chunk_0130": {
+      "relations": []
+    },
+    "chunk_0131": {
+      "relations": []
+    },
+    "chunk_0132": {
+      "relations": []
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "马头岗金边士鉴系列菜品",
+          "target": "华誉酒店",
+          "relation": "关联人物",
+          "evidence": "华誉酒店除了 马头岗金边土束系列菜品还 有 秘制烧鹅、白切猪手、金猪、梅花鹿宴、海鲜等招牌菜。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "马头岗金边士鉴系列菜品",
+          "target": "华誉酒店",
+          "relation": "同族",
+          "evidence": "华誉酒店除了 马头岗金边土束系列菜品还 有 秘制烧鹅、白切猪手、金猪、梅花鹿宴、海鲜等招牌菜。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": [
+        {
+          "source": "红山林烧妙龄乳鲍",
+          "target": "电饭灿粤北煲第一鸡",
+          "relation": "同类",
+          "evidence": "两者都是传统烹饪技艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "官密生菜会",
+          "relation": "盛产",
+          "evidence": "南海美食其发展得益于深厚的群众基础和食材基础。当然也离不开那些有着历史传统的美食盛宣的传播离不开当今各类以美食为名的盛典的影响。今之美食盛行名类美食节与美食大赛如官密生菜会",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "传统龙船饭",
+          "relation": "盛产",
+          "evidence": "今之美食盛行名类美食节与美食大赛如官密生菜会、传统龙船饭",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "西樵山观音诞盆菜高宣",
+          "relation": "盛产",
+          "evidence": "今之美食盛行名类美食节与美食大赛如官密生菜会、传统龙船饭、西樵山观音诞盆菜高宣",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "罗村千慨宣",
+          "relation": "盛产",
+          "evidence": "今之美食盛行名类美食节与美食大赛如官密生菜会、传统龙船饭、西樵山观音诞盆菜高宣、罗村千慨宣",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "饭香刀传统美食大赛",
+          "relation": "盛产",
+          "evidence": "今之美食盛行名类美食节与美食大赛如官密生菜会、传统龙船饭、西樵山观音诞盆菜高宣、罗村千慨宣、饭香刀传统美食大赛",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "粤港澳台美食精英会",
+          "relation": "盛产",
+          "evidence": "今之美食盛行名类美食节与美食大赛如官密生菜会、传统龙船饭、西樵山观音诞盆菜高宣、罗村千慨宣、饭香刀传统美食大赛、粤港澳台美食精英会",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0137": {
+      "relations": [
+        {
+          "source": "豆腐切成头发丝",
+          "target": "拿葛卜刻成龙风",
+          "relation": "同类",
+          "evidence": "豆腐切成头发丝、拿葛卜刻成龙风",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "豆腐切成头发丝",
+          "target": "拿葛卜刻成龙风",
+          "relation": "承载文化",
+          "evidence": "豆腐切成头发丝、拿葛卜刻成龙风",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "黑皮冬瓜",
+          "target": "南海菜",
+          "relation": "属于时期",
+          "evidence": "2010年指定南海产黑皮冬瓜作主料制作菜式",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "广府饮食文化",
+          "relation": "承载文化",
+          "evidence": "南海美食体现了广府饮食文化的特色",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海名厨",
+          "target": "南海美食",
+          "relation": "著有",
+          "evidence": "南海名厨的出品展现了广府饮食文化的特色",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江侍林广场",
+          "target": "首届饭香刀传统特色菜豪饪大赛",
+          "relation": "承载文化",
+          "evidence": "首届饭香刀传统特色菜豪饪大赛在九江侍林广场举行",
+          "confidence": 1.0,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0140": {
+      "relations": [
+        {
+          "source": "九江菜",
+          "target": "九江醉江翁鸡",
+          "relation": "属于时期",
+          "evidence": "九江特色菜",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "九江菜",
+          "target": "九江龙舟鱼",
+          "relation": "属于时期",
+          "evidence": "九江特色菜",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0141": {
+      "relations": [
+        {
+          "source": "向月",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "传统特色菜烹饪技艺，九江特色菜品制作方法",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "饭香刀传",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "饭香刀传传统特色菜训饪大赛",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "饭香刀传",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "饭香刀传传统特色菜训饪大赛",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0142": {
+      "relations": [
+        {
+          "source": "汉纯祥",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "时任九江镇镇长汉纯祥所说的那样 九江的饮食文化源远流长、特色鲜明、内涵丰富",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "饭香刀",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "饭香刀具有浓郁的生活气息和鲜明的地方特色",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "汉纯祥",
+          "target": "九江",
+          "relation": "关联人物",
+          "evidence": "汉纯祥所说的那样 九江的饮食文化源远流长、特色鲜明、内涵丰富",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "梦里水乡美食悠游活动",
+          "target": "里水镇",
+          "relation": "承载文化",
+          "evidence": "2012年4月29日 由南海区里水镇政府主办、佛山传媒集团广佛都市网承办的梦里水乡美乐食悠游活动在里水举行",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0143": {
+      "relations": [
+        {
+          "source": "里水",
+          "target": "南海美食",
+          "relation": "盛产",
+          "evidence": "里水各色各种的传统美食",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0144": {
+      "relations": [
+        {
+          "source": "芋头",
+          "target": "里水",
+          "relation": "盛产",
+          "evidence": "里水产的芋头口感粉香松化营养价值高",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "里水",
+          "target": "梦里水乡号",
+          "relation": "承载文化",
+          "evidence": "乘坐梦里水乡号游水路",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "里水",
+          "target": "西华寺",
+          "relation": "承载文化",
+          "evidence": "参观西华寺",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "里水",
+          "target": "清代古建筑群",
+          "relation": "承载文化",
+          "evidence": "参观汤南清代古建筑群",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "狮表演",
+          "target": "西华寺",
+          "relation": "承载文化",
+          "evidence": "狮表演 一 西华寺",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "千人鱼宴",
+          "target": "汤南清代古建筑群",
+          "relation": "承载文化",
+          "evidence": "千人鱼宴 一 汤南清代古建筑群",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "梦里水乡美食乐悠游活动",
+          "target": "里水镇",
+          "relation": "发生于",
+          "evidence": "梦里水乡美食乐悠游活动是里水向广佛两地居民提供的丰盛精神文化大餐",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": []
+    },
+    "chunk_0147": {
+      "relations": []
+    },
+    "chunk_0148": {
+      "relations": []
+    },
+    "chunk_0149": {
+      "relations": []
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "观音开库日",
+          "target": "西樵山南海观音文化苑",
+          "relation": "承载文化",
+          "evidence": "西 权 山 南海观音 文化苑 均 开设万人 斋 宴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音开库日",
+          "target": "万人斋宴",
+          "relation": "承载文化",
+          "evidence": "西 权 山 南海观音 文化苑 均 开设万人 斋 宴",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音开库日",
+          "target": "正月二十六日观音开库",
+          "relation": "发生于",
+          "evidence": "正 月 二 十 六 日 西 樵 山 来了一 位美丽的姑娘",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山南海观音文化苑",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西 权 山 南海观音 文化苑 均 开设万人 斋 宴",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "观音开库日",
+          "relation": "发生于",
+          "evidence": "每 次均有 超过3 万 多 名 游客前 来 品尝。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "观音诞日",
+          "relation": "发生于",
+          "evidence": "十 九 日 的 观音 诞 日西 权 山 南海观音 文化苑 均 开设万人 斋 宴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "正月二十六日观音开库",
+          "target": "观音开库日",
+          "relation": "同族",
+          "evidence": "正 月 二 十 六 日 西 樵 山 来了一 位美丽的姑娘",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "观音开库日",
+          "relation": "发生于",
+          "evidence": "正 月 二 十 六 日 西 樵 山 来了一 位美丽的姑娘",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "万人斋宴",
+          "relation": "承载文化",
+          "evidence": "西 樵 山万人帝 宴 与西检 山 观音 开 库 民俗有着 密切 的 联系。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音开库日",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "正 月 二 十 六 日 西 樵 山 来了一 位美丽的姑娘",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": [
+        {
+          "source": "观世音菩萨",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "每年农历正月十六在西樵山举行的民间传统习俗观音开库",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音开库",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "每年农历正月十六在西樵山举行的民间传统习俗观音开库",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音开库",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "每年农历正月十六在西樵山举行的民间传统习俗观音开库",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0152": {
+      "relations": [
+        {
+          "source": "素菜",
+          "target": "观音文化",
+          "relation": "承载文化",
+          "evidence": "百姓对观音文化的信仰与素食养生理念相关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "素菜",
+          "target": "观音文化",
+          "relation": "传承于",
+          "evidence": "百姓对观音文化的信仰与素食养生理念相关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0153": {
+      "relations": [
+        {
+          "source": "盆菜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山万人斋宴取用盆菜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0154": {
+      "relations": [
+        {
+          "source": "观音文化苑",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "观音文化苑广人山场人海",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音诞",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "一到观音诞时刻西樵山万人斋宴",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山万人斋宴全面采用素菜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "观音文化苑",
+          "relation": "承载文化",
+          "evidence": "万人斋宴时刻南海观音文化苑广人山场人海",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "观音文化苑",
+          "target": "观音诞",
+          "relation": "承载文化",
+          "evidence": "观音文化苑里感受禅文化",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0155": {
+      "relations": [
+        {
+          "source": "观音文化讲座",
+          "target": "观音民众日",
+          "relation": "承载文化",
+          "evidence": "观音民众日，西樵山还举行观音文化讲座及论坛",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "观音民众日",
+          "relation": "承载文化",
+          "evidence": "观音民众日，西樵山还举行观音文化讲座及论坛、观音诞祈福法会等把万人遍宴打造成为集文化、旅游、禅修、美食、休闲为一体的文化旅游活动",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "天泉",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "无叶井",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "虎口泉",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "蟹眼泉",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山每届万人斋宴都要开1500围台以上。从2012年开始西樵山的万人斋宴全面采用西樵本地的原材料",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "天泉",
+          "relation": "承载文化",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "无叶井",
+          "relation": "承载文化",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "虎口泉",
+          "relation": "承载文化",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "万人斋宴",
+          "target": "蟹眼泉",
+          "relation": "承载文化",
+          "evidence": "西樵山上有多处泉眼，将从这200多处泉眼中选最清甘甜的泉来水训饪。天泉、无叶井、虎口泉、蟹眼泉等列为首选",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": [
+        {
+          "source": "扒龙舟",
+          "target": "祠堂",
+          "relation": "承载文化",
+          "evidence": "依照传统在村头或祠堂举行龙舟宴款待斗龙健儿和村里乡亲已是一种习俗。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "龙船饭",
+          "target": "祠堂",
+          "relation": "承载文化",
+          "evidence": "依照传统在村头或祠堂举行龙舟宴款待斗龙健儿和村里乡亲已是一种习俗。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0158": {
+      "relations": []
+    },
+    "chunk_0159": {
+      "relations": []
+    },
+    "chunk_0160": {
+      "relations": [
+        {
+          "source": "生菜会",
+          "target": "凤山古庙",
+          "relation": "活动于",
+          "evidence": "善男信女吃完生菜包便前往凤山古庙项礼膜拜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "清宣统二年1910年",
+          "target": "《南县海志》",
+          "relation": "记载于",
+          "evidence": "清宣统二年1910年，《南县海志》卷六建置略凤山古庙在大榄堡官窗乡",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0161": {
+      "relations": []
+    },
+    "chunk_0162": {
+      "relations": [
+        {
+          "source": "凤山",
+          "target": "凤盛山古庙",
+          "relation": "位于",
+          "evidence": "凤盛山古庙位于凤山上",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "凤盛山古庙",
+          "target": "凤山",
+          "relation": "位于",
+          "evidence": "凤盛山古庙位于凤山上",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "吴友如",
+          "target": "凤盛山古庙",
+          "relation": "关联人物",
+          "evidence": "晚清著名画家吴友如名窗",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜会",
+          "target": "凤盛山古庙",
+          "relation": "承载文化",
+          "evidence": "庙左右两仙有高达半米的石狮子精工细刻棚",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜会",
+          "target": "凤盛山古庙",
+          "relation": "位于",
+          "evidence": "生菜会是几百平方米的石砌广场庙左右",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜会",
+          "target": "凤山",
+          "relation": "位于",
+          "evidence": "生菜会是几百平方米的石砌广场庙左右",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0163": {
+      "relations": [
+        {
+          "source": "生菜会",
+          "target": "肉凤山古庙",
+          "relation": "关联人物",
+          "evidence": "其后一年肉凤山古庙庙祝收入包括信徒的香油钱社会团体商户、个人捐助等全归会主掌管",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜会",
+          "target": "珠江之紫洞艇",
+          "relation": "承载文化",
+          "evidence": "生菜会前十几天珠江之紫洞艇早已被雇一空",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜会",
+          "target": "官窑",
+          "relation": "活动于",
+          "evidence": "香客云集如潮涌信人徒车马喜盈门。官窗河道深且阔停泊游人万里船。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0164": {
+      "relations": []
+    },
+    "chunk_0165": {
+      "relations": [
+        {
+          "source": "生菜包",
+          "target": "生菜会",
+          "relation": "发生于",
+          "evidence": "生菜会之日吃生菜包一年顺景生生猛猛人财两旺",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜包",
+          "target": "官窗",
+          "relation": "同族",
+          "evidence": "随着生菜会的香火旺盛官窗生菜包也随之流传开来",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "生菜包",
+          "target": "观音庙",
+          "relation": "承载文化",
+          "evidence": "目前属广州芳村的观音庙还保存着每年正月十六生菜会和食生菜包的习俗",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0166": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "南海避风塘美食城",
+          "relation": "盛产",
+          "evidence": "南海避风塘美食城2007年在桂城美食嘉年华美食活动中被评为南海餐饮名店",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海避风塘美食城",
+          "relation": "活动于",
+          "evidence": "南海避风塘美食城2007年在桂城美食嘉年华美食活动中被评为南海餐饮名店",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "桂城美食嘉年华",
+          "target": "南海避风塘美食城",
+          "relation": "承载文化",
+          "evidence": "南海避风塘美食城2007年在桂城美食嘉年华美食活动中被评为南海餐饮名店",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "广东美食节",
+          "target": "南海避风塘美食城",
+          "relation": "承载文化",
+          "evidence": "南海避风塘美食城2007年在首届广东美食节上被评为广东佛山十佳餐KAM",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": [
+        {
+          "source": "南风彩海渔港酒楼",
+          "target": "南海美食",
+          "relation": "盛产",
+          "evidence": "南风彩海渔港酒楼获得广东省级地标美食品牌",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海年年好景酒楼",
+          "target": "南海美食",
+          "relation": "盛产",
+          "evidence": "南海年年好景酒楼获得广东省级地标美食品牌",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "红旗酒楼",
+          "target": "南海美食",
+          "relation": "盛产",
+          "evidence": "红旗酒楼是广东餐饮特色名店",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0169": {
+      "relations": []
+    },
+    "chunk_0170": {
+      "relations": []
+    },
+    "chunk_0171": {
+      "relations": []
+    },
+    "chunk_0172": {
+      "relations": []
+    },
+    "chunk_0173": {
+      "relations": []
+    },
+    "chunk_0174": {
+      "relations": []
+    },
+    "chunk_0175": {
+      "relations": []
+    },
+    "chunk_0176": {
+      "relations": []
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "南海特产",
+          "relation": "属于时期",
+          "evidence": "南海美食篇是南海特产之一",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海名胜",
+          "relation": "承载文化",
+          "evidence": "南海名胜丰富，与南海美食文化相关",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海名人",
+          "relation": "关联人物",
+          "evidence": "南海名人对南海美食文化有贡献",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": [
+        {
+          "source": "南海美食",
+          "target": "南海特产",
+          "relation": "同类",
+          "evidence": "南海美食、传统的南海特产",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海美食篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海传说",
+          "relation": "记载于",
+          "evidence": "介绍富有特色的南海美食、传统的南海特产、优美动人的南海传说",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海美食篇"
+        }
+      ]
+    }
+  }
+}

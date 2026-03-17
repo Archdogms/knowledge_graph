@@ -1,0 +1,161 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "起义",
+          "target": "黄花岗七十二烈士墓",
+          "relation": "记载于",
+          "evidence": "一一大一年以孙中山为首的同盟会在广州组织了一次武装起义，在起义中牺牲的烈士很多，其中七十二人的遗体葬于三州东郊黄花岗，因而得名。",
+          "confidence": 0.9,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "起义",
+          "relation": "发生于",
+          "evidence": "在起义烈火中诞生了人民政权。但由于敌人力量过于强大，经过三天浴血奋战起义终于失败。烈士们用鲜血写下壮烈的历史篇章。",
+          "confidence": 0.8,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "中山纪念堂",
+          "target": "越秀公园",
+          "relation": "位于",
+          "evidence": "中山纪念堂位于越秀公园内，为纪念孙中山而建",
+          "confidence": 0.95,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "source": "海员亭",
+          "target": "越秀公园",
+          "relation": "位于",
+          "evidence": "海员亭位于越秀公园内，为纪念海员而建的亭子",
+          "confidence": 0.95,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "七星岩风景区",
+          "target": "盎洞石壁",
+          "relation": "位于",
+          "evidence": "盎洞石壁：七星岩风景区内的石壁",
+          "confidence": 0.95,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "佛山",
+          "target": "砚石",
+          "relation": "盛产",
+          "evidence": "向 以 砚 石质地优 RMAC SMART LA ERE SMM HwOM 砚。",
+          "confidence": 0.9,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    }
+  }
+}

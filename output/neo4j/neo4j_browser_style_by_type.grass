@@ -1,0 +1,84 @@
+node {
+  color: #A5ABB6;
+  border-color: #A5ABB6;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.人物 {
+  color: #4A90D9;
+  border-color: #2E5C8A;
+  caption: '{name}';
+  diameter: 52px;
+}
+
+node.地名 {
+  color: #7ED787;
+  border-color: #4A9B52;
+  caption: '{name}';
+  diameter: 52px;
+}
+
+node.建筑遗迹 {
+  color: #F5A623;
+  border-color: #C4851A;
+  caption: '{name}';
+  diameter: 52px;
+}
+
+node.典籍作品 {
+  color: #BD10E0;
+  border-color: #8B0AA8;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.非遗技艺 {
+  color: #D0021B;
+  border-color: #9A0115;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.朝代年号 {
+  color: #50E3C2;
+  border-color: #2AB89A;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.历史事件 {
+  color: #B8E986;
+  border-color: #85B85C;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.物产饮食 {
+  color: #F8E71C;
+  border-color: #C4B814;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+node.宗族姓氏 {
+  color: #9013FE;
+  border-color: #6A0FC2;
+  caption: '{name}';
+  diameter: 50px;
+}
+
+relationship {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  caption: '{rel_type}';
+  font-size: 8px;
+}
+
+relationship.REL {
+  color: #6E7984;
+  shaft-width: 2px;
+  caption: '{rel_type}';
+}

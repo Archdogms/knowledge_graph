@@ -1,0 +1,3577 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "石碍西瓜",
+          "target": "平西丝线机",
+          "relation": "同类",
+          "evidence": "平西丝线机与中秋有关的特产之一",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄洞苦瓜",
+          "target": "里水冬瓜",
+          "relation": "同类",
+          "evidence": "夏季消暑佳品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "剑花",
+          "target": "松岗桃花",
+          "relation": "同类",
+          "evidence": "盛放于松岗的桃花",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "狮头舞",
+          "target": "灰塑",
+          "relation": "同类",
+          "evidence": "狮头舞与灰塑与壁画岭南传统装饰一绝",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "前堆",
+          "target": "煎堆",
+          "relation": "同类",
+          "evidence": "前堆起源可以追溯到几千年前的秦汉时期。据文字记载唐代称前堆为碌堆",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "清光绪九年",
+          "target": "九江侍林乡志",
+          "relation": "记载于",
+          "evidence": "清光绪九年1883版《九江侍林乡志》就有炸煎堆的记载",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "煎堆",
+          "target": "前堆",
+          "relation": "同类",
+          "evidence": "前堆起源可以追溯到几千年前的秦汉时期。据文字记载唐代称前堆为碌堆",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "邹便南",
+          "target": "九江酥皮大煎堆",
+          "relation": "著有",
+          "evidence": "不断改进工艺及创新品种以九江酥皮大煎堆而闻名遐迩",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "邹便南",
+          "target": "九江前堆",
+          "relation": "著有",
+          "evidence": "改革开放后炸煎堆采用脱油机处理脱油工艺。前堆原来呈圆球形九江煎堆却呈扁圆形这一大改变与分便南有关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "邹广珍店",
+          "target": "太平东路",
+          "relation": "位于",
+          "evidence": "民国时期在九江太平东路开设邹广珍店",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江前堆",
+          "target": "光绪年间",
+          "relation": "属于时期",
+          "evidence": "相传光绪年间邹便南每年都会帮别人制作前堆",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "南海特产篇",
+          "target": "煎堆",
+          "relation": "记载于",
+          "evidence": "结 果 炸 出 a AT ROE DUTT AL Hl PE 4 fl FERIA MIEAB 南海特产篇  003 个扁的 前 堆 拿 出 来",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "九江煎堆",
+          "target": "九江酥皮煎堆",
+          "relation": "同类",
+          "evidence": "九江酥皮煎堆是九江煎堆的一种",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江煎堆",
+          "target": "九江酒家",
+          "relation": "承载文化",
+          "evidence": "1958年后九江酒家恢复生产和经营九江酥皮煎堆",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江煎堆",
+          "target": "邹广珍店",
+          "relation": "承载文化",
+          "evidence": "邹广珍店早期经营九江煎堆",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵大饼有500多年历史，与西樵山有关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "西樵大饼已有500多年历史",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "方献夫",
+          "target": "西樵大饼",
+          "relation": "传承于",
+          "evidence": "说起西樵大饼相传与明代方献夫有关",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "西樵大饼有500多年历史，与西樵山有关",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "方献夫",
+          "target": "西樵大饼",
+          "relation": "活动于",
+          "evidence": "方献夫后来称病还乡在西樵山设石泉书院讲学10年并将制饼方法教给山民",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "方献夫后来称病还乡在西樵山设石泉书院讲学10年并将制饼方法教给山民",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "后来称病还乡在西樵山设石泉书院讲学10年",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "好原料加上西樵山的好泉水烤制出来的PEKETBT...",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "伍仁月饼",
+          "target": "平洲福肉饼",
+          "relation": "同族",
+          "evidence": "伍仁月饼曾是平洲福肉饼的主要馅料",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "福肉饼",
+          "target": "平洲",
+          "relation": "盛产",
+          "evidence": "福肉饼出现在平洲这个小乡镇",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵大饼也出自乡镇",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "福肉饼",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "自然灾害时期难以获得原材料而停产",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江叉烧",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "清代未年九江腊味店制作的九江叉烧已远近驰名",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "大谷叉烧",
+          "target": "陈永照",
+          "relation": "承载文化",
+          "evidence": "大谷叉烧由陈永照制作，近年已传给其儿子制作和经营",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "陈永照",
+          "target": "大谷叉烧",
+          "relation": "创建修建",
+          "evidence": "大谷叉烧由陈永照制作，近年已传给其儿子制作和经营",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "湿瓜",
+          "target": "罗行",
+          "relation": "盛产",
+          "evidence": "湿瓜 是 罗 行的著名 茶点",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "永德兴",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "利农",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "大德",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "公源",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "友隆兴",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江双蒸酒",
+          "target": "友隆兴",
+          "relation": "著有",
+          "evidence": "其中以友隆兴酿造的双蒸酒最出名。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "九江双蒸酒",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江双蒸酒在九江地区占据着很重要的地位",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江双蒸酒",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "许多习俗都离不开双蒸酒",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江",
+          "relation": "同族",
+          "evidence": "朱九江先生对家乡酒情有独钟",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "九江双蒸酒",
+          "target": "九江酒厂",
+          "relation": "盛产",
+          "evidence": "九江双蒸酒的生产地，省级重点文物保护单位",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江酒厂",
+          "target": "九江双蒸酒",
+          "relation": "承载文化",
+          "evidence": "九江酒厂是九江双蒸酒技艺的唯一传承单位",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "桂花酒",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "桂花酒：西樵山特产",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "桂花酒",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山上有很多桂花树，村民世代都会酿造桂花酒",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "九江双蒸酱油",
+          "target": "九江酒曲桨油厂",
+          "relation": "盛产",
+          "evidence": "九江酿造酱油历史悠久",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "大顶苦瓜",
+          "target": "谭边村",
+          "relation": "盛产",
+          "evidence": "谭边村特产，大顶苦瓜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "大项苦瓜",
+          "target": "谭边村",
+          "relation": "盛产",
+          "evidence": "谭边村以种植大项苦瓜著称",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "大项苦瓜",
+          "target": "谭边村",
+          "relation": "活动于",
+          "evidence": "20世纪90年代中期广东省农科院的专家到谭边村提取土样、水样进行分析",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "大项苦瓜",
+          "target": "谭边村",
+          "relation": "活动于",
+          "evidence": "1999年谭边大项苦瓜在昆明世界园艺博览会上获得铜牌奖",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "大项苦瓜",
+          "target": "谭边村",
+          "relation": "活动于",
+          "evidence": "2004年谭边大项苦瓜经国家工商行政管理局核准注册谭边大项商标",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "大项苦瓜",
+          "target": "谭边村",
+          "relation": "同族",
+          "evidence": "谭边村以种植大项苦瓜著称",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "谭边村",
+          "target": "大项苦瓜",
+          "relation": "盛产",
+          "evidence": "谭边村以种植大项苦瓜著称",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "盐步黄皮园秋茄",
+          "target": "盐步",
+          "relation": "盛产",
+          "evidence": "南海盐步黄皮园秋茄成为秋茄中的上品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "罗村",
+          "target": "竹笋",
+          "relation": "盛产",
+          "evidence": "罗村的全笋宴主打菜牌是笋粥",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "竹笋",
+          "target": "罗村",
+          "relation": "承载文化",
+          "evidence": "吃未过笋粥就没来过罗村",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "竹笋",
+          "target": "罗村",
+          "relation": "活动于",
+          "evidence": "罗村人的餐桌上竹笋是最地道的家常菜",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "四方竹",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山生长的竹子品种繁多，其中最出名的就是四方竹。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "四方竹",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "四方竹是清代乾隆皇帝游江南时将竹策子倒插在地而生成。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "四方竹",
+          "target": "西樵山",
+          "relation": "记载于",
+          "evidence": "有关四方竹的传说主要有：一是四方竹是清代乾隆皇帝游江南时将竹策子倒插在地而生成。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "云雾茶",
+          "relation": "盛产",
+          "evidence": "西樵山盛产茶叶。据《西樵山志》载，明至清代山上串茶举火者数达万家",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "云雾茶",
+          "relation": "承载文化",
+          "evidence": "西樵山产的云雾茶与明代安徽诗人曹松有关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "曹松",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "曹松南下隐居在西樵山的黄旗峰黄龙洞时除筑室读书赋诗外还把从家乡带来的苦丁茶种在西权山上",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "曹松",
+          "target": "黄旗峰",
+          "relation": "活动于",
+          "evidence": "曹松南下隐居在西樵山的黄旗峰黄龙洞时除筑室读书赋诗外还把从家乡带来的苦丁茶种在西权山上",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "曹松",
+          "target": "黄龙洞",
+          "relation": "活动于",
+          "evidence": "曹松南下隐居在西樵山的黄旗峰黄龙洞时除筑室读书赋诗外还把从家乡带来的苦丁茶种在西权山上",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "云雾茶",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山产的云雾茶与明代安徽诗人曹松有关",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "官窑茶仙庙",
+          "target": "官窑",
+          "relation": "位于",
+          "evidence": "官窑茶仙庙：纪念教山民植茶焙茶恩德的茶仙庙",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆：西樵山清代道观，省级文保单位",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "云雾茶",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "云雾茶树：一种多年生乔木茶树，茶叶泡后味苦清热润喉",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "许士奇",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "明代顺德许人刘士奇有咏西樵山云雾茶诗",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "紫背菜",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵山上村民种植的紫背菜作为特产出售",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吊丝丹竹笋",
+          "target": "林岳",
+          "relation": "盛产",
+          "evidence": "林岳靠近西江支河沿河的沙地，都种上了竹笋故称西趟人竹围",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吊丝丹竹笋",
+          "target": "官窑",
+          "relation": "属于时期",
+          "evidence": "官窑与林岳镇村并列为南海著名土特产产地之一",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "赤脚大仙",
+          "target": "吊丝丹",
+          "relation": "承载文化",
+          "evidence": "救活阿宝的地方后来长出一片竹林，当地遂把这种竹笋起名为吊丝丹",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "太上老君",
+          "target": "吊丝丹",
+          "relation": "承载文化",
+          "evidence": "救活阿宝的地方后来长出一片竹林，当地遂把这种竹笋起名为吊丝丹",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "石码某某",
+          "target": "石碍西瓜",
+          "relation": "同族",
+          "evidence": "西瓜将要成熟时瓜农用自己的印章盖在西瓜上，西瓜长成后字迹清晰可见印章均为石码某某",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "石码西瓜",
+          "target": "石码村",
+          "relation": "盛产",
+          "evidence": "石码村种植西瓜已有上百年历史",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石码西瓜",
+          "target": "石码村",
+          "relation": "盛产",
+          "evidence": "石码西瓜熟透了有14、15斤重",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石码西瓜",
+          "target": "石码村",
+          "relation": "盛产",
+          "evidence": "那时石码没公路只有水路每到西瓜收获季石码西瓜",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "梁维新",
+          "target": "平西丝线柚",
+          "relation": "活动于",
+          "evidence": "平西丝线柚在中秋时节收获，梁维新心里再甜美不过的当数儿时那平西特有的丝线柚",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁维新",
+          "target": "平西丝线柚",
+          "relation": "传承于",
+          "evidence": "因今天是中秋节他要把这熟悉的味道与老朋友们一起分享",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "梁维新",
+          "target": "林岳",
+          "relation": "活动于",
+          "evidence": "栽种在位于林岳的果园里",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁维新",
+          "target": "平洲花木市场",
+          "relation": "活动于",
+          "evidence": "在平洲花木市场买了两棵柚子树苗",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "丝线柚",
+          "target": "林岳",
+          "relation": "盛产",
+          "evidence": "栽种在位于林岳的果园里",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "丝线柚",
+          "target": "平洲花木市场",
+          "relation": "活动于",
+          "evidence": "在平洲花木市场买了两棵柚子树苗",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "丝线柚",
+          "target": "平西村",
+          "relation": "盛产",
+          "evidence": "平西村还曾重建柚园恢复种植丝线柚",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁维新",
+          "target": "丝线柚",
+          "relation": "著有",
+          "evidence": "梁维新摘下自己种的丝线柚和一个沙田柚进行对比",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "梁维新",
+          "target": "丝线柚",
+          "relation": "著有",
+          "evidence": "2012 年果园收获了近百个丝线柚 2013 年又挂了几十个果。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁维新",
+          "target": "平西",
+          "relation": "活动于",
+          "evidence": "由于丝线柚过去主要种植在平西移植到平洲林岳",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁维新",
+          "target": "平西",
+          "relation": "同族",
+          "evidence": "由于丝线柚过去主要种植在平西移植到平洲林岳",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "丝线柚",
+          "target": "平西",
+          "relation": "盛产",
+          "evidence": "由于丝线柚过去主要种植在平西移植到平洲林岳",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "丝线柚",
+          "target": "中秋夜",
+          "relation": "发生于",
+          "evidence": "打算与朋友们一起在中秋夜边品丝线柚边赏月",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "平西",
+          "target": "丝线柚",
+          "relation": "盛产",
+          "evidence": "由于丝线柚过去主要种植在平西移植到平洲林岳",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "龙眼",
+          "target": "十叶",
+          "relation": "同类",
+          "evidence": "十叶是石碳龙眼的一个品系",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石碳龙眼",
+          "target": "十叶",
+          "relation": "同族",
+          "evidence": "十叶是石碳龙眼的一个品系",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石碳龙眼",
+          "target": "龙眼",
+          "relation": "同类",
+          "evidence": "石碳龙眼简称石碳 别名十叶是广东、广西主栽的龙眼品种",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "黄壳石碳",
+          "target": "宫粉壳石碳",
+          "relation": "同类",
+          "evidence": "与黄壳石碳相比，宫粉壳石碳叶片较大，果皮红褐色而有灰粉，果呈扁圆形。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄壳石碳",
+          "target": "宫粉壳石碳",
+          "relation": "同族",
+          "evidence": "与黄壳石碳相比，宫粉壳石碳叶片较大，果皮红褐色而有灰粉，果呈扁圆形。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "黄洞苦瓜",
+          "target": "黄启波",
+          "relation": "活动于",
+          "evidence": "黄洞苦瓜 名气 最大。那时 候家家户户 都种 苦瓜",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄洞苦瓜",
+          "target": "黄启波",
+          "relation": "著有",
+          "evidence": "黄启波告诉笔者 从20世纪80年代开始村里 就兴起 了 种番茄、豆角、青瓜、苦瓜等多种瓜果 黄洞苦瓜名气 最大。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄洞苦瓜",
+          "target": "大沥谭边村",
+          "relation": "盛产",
+          "evidence": "许多珠江三角洲的市民会慕名来到大沥谭边村 品尝大项苦瓜的苦瓜宴。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "黄洞苦瓜",
+          "target": "黄洞村",
+          "relation": "盛产",
+          "evidence": "黄洞苦瓜是南海区黄洞村的特产",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄洞冬瓜",
+          "target": "黄洞村",
+          "relation": "盛产",
+          "evidence": "黄洞冬瓜也是夏季消暑佳品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄洞苦瓜",
+          "target": "黄洞冬瓜",
+          "relation": "同类",
+          "evidence": "与黄洞苦瓜同属黄洞村特产",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "宋郑代安",
+          "target": "黄洞冬瓜",
+          "relation": "著有",
+          "evidence": "宋郑代安为冬瓜写诗《咏冬瓜》",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "里水冬瓜",
+          "target": "甘焦村",
+          "relation": "盛产",
+          "evidence": "要想买到真正的里水冬瓜请到其原产地里水甘焦村一带购买",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": []
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "狮南黄鸡",
+          "target": "狮南村",
+          "relation": "盛产",
+          "evidence": "狮南村民用江西三黄鸡为鸡种经杂交培育而成的优质肉鸡品系",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "狮南黄鸡",
+          "target": "狮南村",
+          "relation": "活动于",
+          "evidence": "1988年以来狮南村民利用1000多亩连山绵岗地采用传统的走地放养方式饲养黄鸡每年饲养达15万20万只",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": []
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "松岗桃花",
+          "target": "松岗桃花节",
+          "relation": "承载文化",
+          "evidence": "2000年1月30日至2月1日松岗政府举办的为期三天的桃花文化节活动",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "松岗桃花",
+          "target": "松岗桃花节",
+          "relation": "发生于",
+          "evidence": "2000年1月30日至2月1日松岗政府举办的为期三天的桃花文化节活动",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "官窗马蹄",
+          "target": "东风公社",
+          "relation": "关联人物",
+          "evidence": "文革时期官窑马蹄改名的公社名称为东风公社",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "丹灶",
+          "target": "大涡村",
+          "relation": "位于",
+          "evidence": "大涡村涌则水质清水深适宜土壤肥而深厚十分适宜莲藕生长",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "白萝卜",
+          "target": "官窑吴屋村",
+          "relation": "盛产",
+          "evidence": "狮山镇官窑吴屋村盛产白萝卜",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": []
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "叶宗矩",
+          "target": "源昌号",
+          "relation": "活动于",
+          "evidence": "清末民初南海和顺圩有间叫源昌号的腌料杂货店该店有一位次料师傅叫叶宗矩",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶宗矩",
+          "target": "和顺榄",
+          "relation": "著有",
+          "evidence": "经他多年潜心研制而成的丁香肉桂榄、苏榄、糖榄等多个品种",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "源昌号",
+          "target": "和顺榄",
+          "relation": "承载文化",
+          "evidence": "世人将源昌号制出的这些榄统称为和顺榄",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "官窑",
+          "target": "和顺榄",
+          "relation": "盛产",
+          "evidence": "和顺榄曾销往此地",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "叶宗年",
+          "target": "和顺槛",
+          "relation": "传承于",
+          "evidence": "叶宗年生前并未将这门制槛手艺传给徒弟和后人。所以叶宗氟去世后制榄的秘方就失传了",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "和顺槛",
+          "target": "春砍",
+          "relation": "承载文化",
+          "evidence": "制作时首先要把橄榄放到名为春砍的容器浸泡同时用布包着双脚不断踩",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "叶宗征",
+          "target": "和顺榄",
+          "relation": "关联人物",
+          "evidence": "叶宗征的小女儿在1983年前后曾联合家人准备创建一家和顺榄三但经过七八个月的试验始终无法制出当年和顺榄的味道只得放弃建厂的打算。至此和顺榄制作秘方或许已经失传至今也无人再涉足和顺榄的制作。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "洞边村",
+          "target": "油甘子",
+          "relation": "盛产",
+          "evidence": "洞神堂油甘子远近闻名",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "油甘子",
+          "target": "洞边村",
+          "relation": "盛产",
+          "evidence": "洞神堂油甘子远近闻名",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "草头",
+          "target": "罗村",
+          "relation": "盛产",
+          "evidence": "罗村种植及销售草头已有100多年历史",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "草头",
+          "target": "罗村",
+          "relation": "活动于",
+          "evidence": "清同治年间村民种植的草头已在博头圩售卖",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "西隆芥菜",
+          "target": "大沥镇",
+          "relation": "盛产",
+          "evidence": "君圩整条街的店铺都卖西隆芥菜种籽。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西洋菜",
+          "target": "大沥镇",
+          "relation": "盛产",
+          "evidence": "大沥大镇西洋菜以其叶色浓绿、纤维少、质鲜嫩、营养丰富、可口宜人而吸引了许多莱贩前来收购。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西洋菜",
+          "target": "大镇村",
+          "relation": "盛产",
+          "evidence": "大镇村耕地肥沃、土质呈粘性、水源充足适合栽种西洋菜。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "兴贤西兰花",
+          "target": "狮山镇",
+          "relation": "盛产",
+          "evidence": "兴贤西兰花其agp sage花球重407000克、横径宽1204厘、蔓粒大、富含营养和口感爽嫩而闻名于广州、佛山、香港和澳门等地。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": [
+        {
+          "source": "鱼花",
+          "target": "九江双蒸酒",
+          "relation": "盛产",
+          "evidence": "鱼花传统养殖至今已有500多年历史",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": [
+        {
+          "source": "鱼花",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "南海特产之一，用于鱼苗养殖的特殊鱼种。南海特产之一，用于鱼苗养殖的特殊鱼种。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼花",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "清代九江的社会经济都和鱼花发生直接或间接关系。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江",
+          "target": "清弘治年间",
+          "relation": "属于时期",
+          "evidence": "明代弘治年间，1488-1505各家各户池塘所养的鱼鱼种都出自九江。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江",
+          "target": "清康乾时期",
+          "relation": "属于时期",
+          "evidence": "清代康熙至乾隆时期，1662-1722南海人胡方《九江村》诗",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "九江鱼花",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江鱼花是南海区特产",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "《广东新语》",
+          "target": "西樵山",
+          "relation": "记载于",
+          "evidence": "《广东新语》更赞誉西樵山等其土无余壤人无赦民盖风之俗美者也。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "里水金丝虾",
+          "target": "奇石虾",
+          "relation": "同类",
+          "evidence": "里水金丝虾、和顺虾与奇石虾比较有名",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "里水金丝虾",
+          "target": "和顺虾",
+          "relation": "同类",
+          "evidence": "里水金丝虾、和顺虾与奇石虾比较有名",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "狮山奇石村",
+          "target": "奇石窦",
+          "relation": "位于",
+          "evidence": "奇石守而得名。奇石村位于东平水道左岸。明代村民在村前北江河畔用赤色的红眉石筑了一个水窦人称奇石窦。",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "河虾",
+          "target": "狮山奇石村",
+          "relation": "盛产",
+          "evidence": "生活在奇石村附近的北江河畔的虾，因虾头上带有红色朱砂而得名。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "乐安灯地",
+          "target": "佛山",
+          "relation": "承载文化",
+          "evidence": "位于 江河 上游 的 乐 安 圩 扼 省 城与佛山 镇 出人之咽喉遂 发展成",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安灯地",
+          "target": "开灯",
+          "relation": "承载文化",
+          "evidence": "正月 初十和 正月 十 五 家 家 户 户 挂 在 堂上、宗祠 甚至 门楼 内 的 大 大小小 的 花灯 都 是 在 一 个叫 乐安灯地的 地 方买 来的",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安灯地",
+          "target": "庆灯",
+          "relation": "承载文化",
+          "evidence": "正月 初十和 正月 十 五 家 家 户 户 挂 在 堂上、宗祠 甚至 门楼 内 的 大 大小小 的 花灯 都 是 在 一 个叫 乐安灯地的 地 方买 来的",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "乐安圩",
+          "target": "乐安花灯会",
+          "relation": "承载文化",
+          "evidence": "每年的农历正月初四、初九都是乐安圩的圩期而正月初九是乐安花灯会",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安圩",
+          "target": "乐安花灯会",
+          "relation": "活动于",
+          "evidence": "每年春节期间街边的档口总挂满各种的灯笼花团锦艇渐渐使乐安圩有了乐安花地之称",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": [
+        {
+          "source": "麦苗青",
+          "target": "乐安花灯会",
+          "relation": "活动于",
+          "evidence": "带妻子来参加乐安花灯会",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0094": {
+      "relations": [
+        {
+          "source": "麦苗青",
+          "target": "乐安灯地",
+          "relation": "活动于",
+          "evidence": "麦苗青为感谢神恩便自己扎了个莲花灯下边扎一支部莲藉承托着还专门安了两个蓄菇在花托上。到了晚上便挂在堂上庆祝一番。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "乐安灯地",
+          "target": "生仔石",
+          "relation": "承载文化",
+          "evidence": "后来人们便把那块石头称为生仔石",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "莲花灯",
+          "target": "慈菇",
+          "relation": "同类",
+          "evidence": "在莲花上安上两个慈菇",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安灯地",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》载花灯会每年农历正月初九乐安圩11公里长的大街挂满各式造型的纸制花灯",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "生仔石",
+          "target": "慈菇",
+          "relation": "关联人物",
+          "evidence": "乡俗新嫁女子的母亲多以慈菇相赠来年生个芝菇丁",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安灯地",
+          "target": "莲花灯",
+          "relation": "承载文化",
+          "evidence": "花灯的形状也因仿效麦苗青所扎的莲花灯而有了革新",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": [
+        {
+          "source": "岗头村",
+          "target": "正月初九",
+          "relation": "活动于",
+          "evidence": "正月初九乐安灯地挂满的花灯",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "岗头村",
+          "target": "观音送子",
+          "relation": "承载文化",
+          "evidence": "岗头村民造的花灯主要有观音送子等",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "观音送子",
+          "target": "乐安花灯",
+          "relation": "属于时期",
+          "evidence": "观音送子等此为乐安花灯的一种传统造型",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "正月初一至初十",
+          "target": "乐安灯地",
+          "relation": "承载文化",
+          "evidence": "乐安灯地有历史发展过程",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": [
+        {
+          "source": "乐安花灯",
+          "target": "罗村",
+          "relation": "承载文化",
+          "evidence": "2007年正月初九罗村启动了首届花灯创作大赛",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "乐安花灯",
+          "target": "罗村",
+          "relation": "活动于",
+          "evidence": "2007年正月初九罗村启动了首届花灯创作大赛",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0099": {
+      "relations": [
+        {
+          "source": "郭福祥",
+          "target": "盛世莲花",
+          "relation": "承载文化",
+          "evidence": "郭福祥父子制作盛世莲花花灯",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "郭福祥",
+          "target": "乐安",
+          "relation": "活动于",
+          "evidence": "郭福祥父子来乐安卖花灯",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "盛世莲花",
+          "target": "乐安",
+          "relation": "盛产",
+          "evidence": "乐安花灯会每年吸引大量游客",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "乐安花灯",
+          "target": "罗行村",
+          "relation": "承载文化",
+          "evidence": "乐安花灯组灯从2011年12月份着手准备",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "竹器编织",
+          "target": "罗行村",
+          "relation": "承载文化",
+          "evidence": "罗行村在近代曾属小塘后属金沙现属丹灶镇",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": [
+        {
+          "source": "罗行圩",
+          "target": "康熙二十七年",
+          "relation": "始建于",
+          "evidence": "罗行圩的前身称为里南圩，始建于康熙二十七年1638年",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "乾隆年间",
+          "relation": "记载于",
+          "evidence": "乾隆年间《南海县志》所绘制的罗行地形图称第行汛圩",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "康有为",
+          "relation": "同族",
+          "evidence": "康有为是清代重要历史人物，罗行圩历史悠久，康有为属于南海康氏",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0102": {
+      "relations": [
+        {
+          "source": "罗行圩",
+          "target": "罗行镇",
+          "relation": "属于时期",
+          "evidence": "民国时期罗行圩的一个称呼，后沿用至今",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "罗行镇",
+          "relation": "活动于",
+          "evidence": "1875年鼎安堡开始被第行圩取代随之在民国期间第行圩被先后改为罗行市和罗行镇",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "罗行镇",
+          "relation": "活动于",
+          "evidence": "至1949年再度更名为罗行圩并沿用至今",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "罗行",
+          "relation": "属于时期",
+          "evidence": "南海区一个历史悠久的地区，以竹器出名",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代至现代不断更改",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "乾隆年间",
+          "relation": "活动于",
+          "evidence": "清代至现代不断更改。在清乾隆至咸丰年间罗行又从复行汛圩变为易安堡",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "咸丰年间",
+          "relation": "活动于",
+          "evidence": "在清乾隆至咸丰年间罗行又从复行汛圩变为易安堡",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "易安路",
+          "relation": "承载文化",
+          "evidence": "如今进入罗行圩时还可看到有一路名为易安路",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "易安竹货市场",
+          "relation": "承载文化",
+          "evidence": "罗行圩西侧靠南沙涌基围的一处竹料仓库旧址新中国成立后仍以易安竹货市场命名",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鼎安堡",
+          "target": "罗行圩",
+          "relation": "位于",
+          "evidence": "在清乾隆至咸丰年间罗行又从复行汛圩变为易安堡",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鼎安堡",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "在清乾隆至咸丰年间罗行又从复行汛圩变为易安堡",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "元末明初",
+          "relation": "属于时期",
+          "evidence": "罗行竹器源于元末明初至清康熙年间已经发展到相当规模了人竹器行业分为第、黎形似垃圾铲、第捕鱼、算、窝椅九大等类型",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "清康熙年间",
+          "relation": "属于时期",
+          "evidence": "罗行竹器源于元末明初至清康熙年间已经发展到相当规模了人竹器行业分为第、黎形似垃圾铲、第捕鱼、算、窝椅九大等类型",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "罗行",
+          "target": "罗行圩",
+          "relation": "盛产",
+          "evidence": "昔日的罗行上圩和下圩是青竹交易市场",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行圩",
+          "target": "罗行",
+          "relation": "位于",
+          "evidence": "昔日的罗行上圩和下圩是青竹交易市场",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": [
+        {
+          "source": "罗行人",
+          "target": "南海县易安乡",
+          "relation": "活动于",
+          "evidence": "1951年在罗行圩南边建起了……竹器市场",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行人",
+          "target": "泰康路",
+          "relation": "活动于",
+          "evidence": "1945年后罗行人……广州泰康路",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行人",
+          "target": "中山",
+          "relation": "活动于",
+          "evidence": "1945年后罗行人……广州",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行人",
+          "target": "番昌香葵",
+          "relation": "活动于",
+          "evidence": "中山、番昌香葵大量复产需要大量竹",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "罗行竹器生产合作社",
+          "target": "南海县易安乡",
+          "relation": "位于",
+          "evidence": "1952年成立的南海县易安乡罗行竹器生产合作社",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": [
+        {
+          "source": "石确刺绣",
+          "target": "《尚书》",
+          "relation": "记载于",
+          "evidence": "据《尚书》载远在4000多年前的章服制度就规定衣画而党胜。至周代有绣绩共职的记载。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "大民",
+          "target": "广绣",
+          "relation": "承载文化",
+          "evidence": "大民间和刺绣也得到进一步发展",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "广绣",
+          "target": "永贞元年",
+          "relation": "属于时期",
+          "evidence": "永贞元年785年十四工巧无比",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": [
+        {
+          "source": "刺绣",
+          "target": "《年年有余》",
+          "relation": "记载于",
+          "evidence": "刺绣作品 《年年有余》",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "刺绣",
+          "target": "周姨",
+          "relation": "承载文化",
+          "evidence": "周姨的刺绣作品鲤鱼活灵活现",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "刺绣",
+          "target": "周姨",
+          "relation": "传承于",
+          "evidence": "周姨是刺绣技艺传承人",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "周姨",
+          "target": "刺绣",
+          "relation": "关联人物",
+          "evidence": "周姨的刺绣作品鲤鱼活灵活现",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "周姨",
+          "target": "石确刺绣",
+          "relation": "传承于",
+          "evidence": "周姨说。南区政海府计划将石确刺绣列入非物质文化遗产项目进行保护。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": [
+        {
+          "source": "广绣",
+          "target": "绣芳斋",
+          "relation": "承载文化",
+          "evidence": "绣芳斋是学校内用于教学的刺绣工作室",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石硝中学",
+          "target": "绣芳斋",
+          "relation": "位于",
+          "evidence": "绣芳斋是石硝中学的一个课室改建而成",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "广绣",
+          "target": "石硝中学",
+          "relation": "传承于",
+          "evidence": "在学校传承广绣是最好的选择",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0114": {
+      "relations": [
+        {
+          "source": "周姨",
+          "target": "石确刺绣",
+          "relation": "传承于",
+          "evidence": "周姨表示自己曾接过石确中学的授课邀请但婉拒了",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "石确刺绣",
+          "target": "石确中学",
+          "relation": "传承于",
+          "evidence": "石确中学于2011年开了刺绣班",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "阿焕",
+          "target": "刺绣",
+          "relation": "传承于",
+          "evidence": "她学得比较好，图案有立体感颜色也选得很好",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": [
+        {
+          "source": "周姨",
+          "target": "石确村",
+          "relation": "关联人物",
+          "evidence": "村里刺绣高手周姨手把手教外来媳妇阿凤刺绣",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "刺绣",
+          "target": "石确村",
+          "relation": "承载文化",
+          "evidence": "刺绣在石确村有很长的历史",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "刺绣",
+          "target": "周姨",
+          "relation": "著有",
+          "evidence": "周姨手把手教外来媳妇阿凤刺绣",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "中华玉文化",
+          "target": "东平河",
+          "relation": "承载文化",
+          "evidence": "东平河水安静流过。有这么一个地方虽不产玉却是全国四大翡翠玉器交易市场之一",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁氏",
+          "target": "中华玉文化",
+          "relation": "传承于",
+          "evidence": "20世纪40年代玉器商人梁氏从广州引进玉器工艺技术",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0117": {
+      "relations": []
+    },
+    "chunk_0118": {
+      "relations": []
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": []
+    },
+    "chunk_0121": {
+      "relations": []
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "沙贝村",
+          "target": "明朝末年",
+          "relation": "活动于",
+          "evidence": "据传说沙贝村在明朝末年就有人从事编织葵席、鞋底垫、雨庆短行行业如生记、炳记等。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "沙贝村",
+          "target": "明朝末年",
+          "relation": "属于时期",
+          "evidence": "据传说沙贝村在明朝末年就有人从事编织葵席、鞋底垫、雨庆短行行业如生记、炳记等。",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "周月庭",
+          "target": "天和福商铺",
+          "relation": "关联人物",
+          "evidence": "在广州杉木栏开设 店号叫 天 和 福商 铺 的 沙 贝人周 月庭",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": []
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "风岗村",
+          "target": "招广记",
+          "relation": "属于时期",
+          "evidence": "招广记等",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "风岗村",
+          "target": "招孔记",
+          "relation": "属于时期",
+          "evidence": "招广记等",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海特产",
+          "relation": "同类",
+          "evidence": "南海美食南海特产",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "潘婵",
+          "target": "浔峰洲",
+          "relation": "活动于",
+          "evidence": "潘婵、梁流女等40家",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "梁流女",
+          "target": "浔峰洲",
+          "relation": "活动于",
+          "evidence": "潘婵、梁流女等40家",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": []
+    },
+    "chunk_0128": {
+      "relations": [
+        {
+          "source": "南海蕨器",
+          "target": "茧席",
+          "relation": "同类",
+          "evidence": "南海蕨器最著名的產品是茧席",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "南海功编",
+          "target": "南海茧编制作技艺传习所",
+          "relation": "承载文化",
+          "evidence": "为更好 地 宣传与继承 南海 萨 编设立了 南海 茧 编制 作 技艺 KU 传习所",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海功编",
+          "target": "广东南海茧编制作艺术展览馆",
+          "relation": "承载文化",
+          "evidence": "设立了 南海 茧 编制 作艺术 展览 馆",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海茧编制作技艺传习所",
+          "target": "南海功编",
+          "relation": "传承于",
+          "evidence": "为更好 地 宣传与继承 南海 萨 编设立了 南海 茧 编制 作 技艺 KU 传习所",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "广东南海茧编制作艺术展览馆",
+          "target": "南海功编",
+          "relation": "传承于",
+          "evidence": "设立了 南海 茧 编制 作艺术 展览 馆",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": [
+        {
+          "source": "九江鱼花",
+          "target": "西江",
+          "relation": "盛产",
+          "evidence": "明代初年九江人便开始在西江河段捞鱼花",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江鱼花",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江鱼花和九江渔民",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "九江",
+          "target": "西江",
+          "relation": "位于",
+          "evidence": "文中多次提及九江西江江口",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "鱼花",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江鱼花有着密切的联系",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "何树异",
+          "target": "鱼花",
+          "relation": "活动于",
+          "evidence": "76岁的何树异老人曾经以编织鱼花为生",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": [
+        {
+          "source": "鱼花",
+          "target": "九江渔户",
+          "relation": "属于时期",
+          "evidence": "明朝弘治年间九江渔民已开始在西江打捞鱼花",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼花",
+          "target": "九江渔户",
+          "relation": "盛产",
+          "evidence": "明朝弘治年间九江渔民已开始在西江打捞鱼花",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼花",
+          "target": "西江",
+          "relation": "盛产",
+          "evidence": "明朝弘治年间九江渔民已开始在西江打捞鱼花",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼花",
+          "target": "明朝弘治年间",
+          "relation": "属于时期",
+          "evidence": "明朝弘治年间九江渔民已开始在西江打捞鱼花",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "九江鱼花",
+          "target": "西江",
+          "relation": "盛产",
+          "evidence": "九江鱼花的重要来源地是西江",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "老日之",
+          "target": "九江鱼花",
+          "relation": "记载于",
+          "evidence": "据老日之回忆那时编制鱼筛的师传很吃香",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼筛",
+          "target": "西江",
+          "relation": "盛产",
+          "evidence": "九江的鱼筛在国内曾辉煌一时各地的鱼筛都以九江的为标准",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": [
+        {
+          "source": "何树异",
+          "target": "鱼得",
+          "relation": "传承于",
+          "evidence": "何树异说。因为有了鱼网、不锈钢鱼得后渔民的选择更多",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "何树异",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "在九江镇的渔家庭作坊里六七个老人分工明确",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼得",
+          "target": "九江镇",
+          "relation": "承载文化",
+          "evidence": "在九江镇的渔家庭作坊里六七个老人分工明确",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": [
+        {
+          "source": "鱼筛",
+          "target": "九江鱼花",
+          "relation": "承载文化",
+          "evidence": "鱼筛由 此失去了 秤的功能 慢慢 地 沦为仅仅用来分鱼的工具",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "鱼筛",
+          "target": "九江鱼花",
+          "relation": "关联人物",
+          "evidence": "一位 购筛者 告诉笔者",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0137": {
+      "relations": [
+        {
+          "source": "鱼筛",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江以鱼花和鱼筛闻名",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "何树异",
+          "target": "鱼筛",
+          "relation": "关联人物",
+          "evidence": "何树异说。何树异的弟弟从1987年开始编鱼筛已有20多年",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "香云纱",
+          "target": "民乐村",
+          "relation": "承载文化",
+          "evidence": "在民间黄纱俗称香云纱",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "民乐村",
+          "relation": "活动于",
+          "evidence": "在民间黄纱俗称香云纱",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黑胶绸",
+          "target": "民乐村",
+          "relation": "承载文化",
+          "evidence": "芒绸俗称黑胶绸或香云岗",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黑胶绸",
+          "target": "民乐村",
+          "relation": "活动于",
+          "evidence": "芒绸俗称黑胶绸或香云岗",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "清道光年间",
+          "relation": "属于时期",
+          "evidence": "芒纱在清末民初出现。如果说划绸开启了丝织品晒划工艺的先河,那么其纱则开创了丝织镁空提花织造工艺的先河。其纱绸是采用特殊的晒芒染整工艺制成的蚕丝面料自问世起",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黑胶绸",
+          "target": "清道光年间",
+          "relation": "属于时期",
+          "evidence": "芒纱在清末民初出现。如果说划绸开启了丝织品晒划工艺的先河,那么其纱则开创了丝织镁空提花织造工艺的先河。其纱绸是采用特殊的晒芒染整工艺制成的蚕丝面料自问世起",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "清末民初",
+          "relation": "属于时期",
+          "evidence": "如果说划绸开启了丝织品晒划工艺的先河,那么其纱则开创了丝织镁空提花织造工艺的先河。其纱绸是采用特殊的晒芒染整工艺制成的蚕丝面料自问世起",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黑胶绸",
+          "target": "清末民初",
+          "relation": "属于时期",
+          "evidence": "如果说划绸开启了丝织品晒划工艺的先河,那么其纱则开创了丝织镁空提花织造工艺的先河。其纱绸是采用特殊的晒芒染整工艺制成的蚕丝面料自问世起",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": [
+        {
+          "source": "黄纱绸",
+          "target": "晒芒染整工艺",
+          "relation": "承载文化",
+          "evidence": "其纱绸是采用特殊的晒芒染整工艺制成的",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵民乐一带",
+          "target": "清道光二十三年",
+          "relation": "活动于",
+          "evidence": "19世纪40年代南海西樵民乐一带村民开始使用暮划、河泥来进行染整",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": []
+    },
+    "chunk_0142": {
+      "relations": [
+        {
+          "source": "香云纱",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "香云纱的起源可追溯到清代道光年间，西樵山民乐村的村民创制了具有铁空提花的胚纱",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "民乐村",
+          "relation": "承载文化",
+          "evidence": "香云纱的起源可追溯到清代道光年间，西樵山民乐村的村民创制了具有铁空提花的胚纱",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "程家",
+          "relation": "关联人物",
+          "evidence": "1844年西樵山民乐程家改革了原有织机的时间",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "民乐村",
+          "relation": "位于",
+          "evidence": "西樵山民乐村的村民创制了具有铁空提花的胚纱",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0143": {
+      "relations": [
+        {
+          "source": "程炳全",
+          "target": "香云纱",
+          "relation": "关联人物",
+          "evidence": "民乐程家的程炳全、程绍江、程泽、程周等人创造性地将中国传统的木雕技法引入丝织工艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "程绍江",
+          "target": "香云纱",
+          "relation": "关联人物",
+          "evidence": "民乐程家的程炳全、程绍江、程泽、程周等人创造性地将中国传统的木雕技法引入丝织工艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "程泽",
+          "target": "香云纱",
+          "relation": "关联人物",
+          "evidence": "民乐程家的程炳全、程绍江、程泽、程周等人创造性地将中国传统的木雕技法引入丝织工艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "程周",
+          "target": "香云纱",
+          "relation": "关联人物",
+          "evidence": "民乐程家的程炳全、程绍江、程泽、程周等人创造性地将中国传统的木雕技法引入丝织工艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0144": {
+      "relations": []
+    },
+    "chunk_0145": {
+      "relations": []
+    },
+    "chunk_0146": {
+      "relations": []
+    },
+    "chunk_0147": {
+      "relations": []
+    },
+    "chunk_0148": {
+      "relations": [
+        {
+          "source": "香云纱",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江以香云纱等特产著称",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "香云纱",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "清《南海县志》载九江西樵大同沙头出丝",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海县志",
+          "target": "香云纱",
+          "relation": "记载于",
+          "evidence": "清《南海县志》载九江西樵大同沙头出丝",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0149": {
+      "relations": [
+        {
+          "source": "南海县志",
+          "target": "香云纱",
+          "relation": "记载于",
+          "evidence": "《南海县志》记载了南海地区的纺织历史",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "清《南海县志》",
+          "target": "香云纱",
+          "relation": "记载于",
+          "evidence": "清《南海县志》：现今香云纱成为了一个含混不清的概念",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "新编《南海县志》",
+          "target": "香云纱",
+          "relation": "记载于",
+          "evidence": "新编《南海县志》：现今香云纱成为了一个含混不清的概念",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "黄纱绸谱",
+          "target": "香云纱",
+          "relation": "同类",
+          "evidence": "黄纱绸谱：南海地区的一种著名丝绸制品",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "清《南海县志》",
+          "target": "黄纱绸谱",
+          "relation": "记载于",
+          "evidence": "清《南海县志》：黄纱绸谱成为为岭南文化的一篇奇章",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "新编《南海县志》",
+          "target": "黄纱绸谱",
+          "relation": "记载于",
+          "evidence": "新编《南海县志》：黄纱绸谱成为为岭南文化的一篇奇章",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "清《南海县志》",
+          "target": "望心纤纱",
+          "relation": "记载于",
+          "evidence": "清《南海县志》：望心纤纱遐途闻名",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "新编《南海县志》",
+          "target": "望心纤纱",
+          "relation": "记载于",
+          "evidence": "新编《南海县志》：望心纤纱遐途闻名",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "望心纤纱",
+          "target": "络纱",
+          "relation": "同类",
+          "evidence": "络纱古代就有这种纱织物。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "望心纤纱",
+          "target": "长沙无家塘44号楚墓",
+          "relation": "记载于",
+          "evidence": "1959年在长沙无家塘44号楚墓中曾出土过一块浅棕色的络纱手帕。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "祥泰号放的机铺",
+          "target": "望心纤纱",
+          "relation": "关联人物",
+          "evidence": "望心村内就设有一间名为祥泰号放的机铺。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": []
+    },
+    "chunk_0152": {
+      "relations": []
+    },
+    "chunk_0153": {
+      "relations": [
+        {
+          "source": "竹编灯笼",
+          "target": "百西村",
+          "relation": "承载文化",
+          "evidence": "西樵百西村的村民一直都有人竹编灯笼的传统手艺",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "竹编灯笼",
+          "target": "百西村",
+          "relation": "传承于",
+          "evidence": "新中国成立前百西村村民世代传承着一种竹织竹编手工技艺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0154": {
+      "relations": [
+        {
+          "source": "灯笼",
+          "target": "西樵竹编",
+          "relation": "承载文化",
+          "evidence": "各式西樵竹编灯笼灯花助春意",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灯笼",
+          "target": "西樵竹编",
+          "relation": "活动于",
+          "evidence": "除夕夜家中的长辈都会拖着孩童挑着点燃蜡烛的竹编灯笼走在村内祠堂庙宇、社公、大街小埠",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0155": {
+      "relations": [
+        {
+          "source": "佛稚狮头舞",
+          "target": "佛锥狮头",
+          "relation": "同类",
+          "evidence": "佛稚狮头舞和佛锥狮头都是佛山传统的狮头工艺品",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "佛锥狮头",
+          "relation": "承载文化",
+          "evidence": "佛稚狮头舞和佛锥狮头是东方民间美术的代表作之一",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "年兽",
+          "relation": "关联人物",
+          "evidence": "模仿着狮子的样子制作成狮头，涂上颜色套在头上扮作狮子",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "独角兽",
+          "relation": "关联人物",
+          "evidence": "模仿着狮子的样子制作成狮头，涂上颜色套在头上扮作狮子",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "到了清代有一年南海流行瘟疫人畜死亡",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "年兽",
+          "relation": "发生于",
+          "evidence": "年兽每逢过年时出现发出涟涟的怪叫",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛稚狮头舞",
+          "target": "独角兽",
+          "relation": "发生于",
+          "evidence": "年兽每逢过年时出现发出涟涟的怪叫",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": [
+        {
+          "source": "叶氏兄弟",
+          "target": "颜峰村",
+          "relation": "关联人物",
+          "evidence": "叶氏兄弟创办了大沥颜峰村和声醒狮用品三以制作狮头为主兼做狮鼓及儿童玩具狮",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶氏兄弟",
+          "target": "佛山地区",
+          "relation": "活动于",
+          "evidence": "叶氏兄弟现在是有名气的狮头制作师傅",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶氏兄弟",
+          "target": "狮头",
+          "relation": "承载文化",
+          "evidence": "叶氏兄弟现在是有名气的狮头制作师傅",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶氏兄弟",
+          "target": "狮鼓",
+          "relation": "承载文化",
+          "evidence": "叶氏兄弟现在是有名气的狮头制作师傅",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "颜峰村",
+          "target": "狮头",
+          "relation": "承载文化",
+          "evidence": "叶氏兄弟创办了大沥颜峰村和声醒狮用品三以制作狮头为主兼做狮鼓及儿童玩具狮",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0158": {
+      "relations": [
+        {
+          "source": "叶四牛",
+          "target": "狮头扎作",
+          "relation": "传承于",
+          "evidence": "叶四牛和父亲、兄弟姐妹首先做起牛皮加工狮鼓的生意到20世纪80年代初开始狮头扎作",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "狮头扎作",
+          "relation": "活动于",
+          "evidence": "叶四牛由于热爱狮头扎作所以对狮头扎作有很深的研究和理解",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0159": {
+      "relations": [
+        {
+          "source": "佛稚狮",
+          "target": "叶氏狮鼓家族",
+          "relation": "承载文化",
+          "evidence": "南海制作狮鼓用品仅叶氏狮鼓家族就占据了半壁江山",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶竞循",
+          "target": "叶氏狮鼓家族",
+          "relation": "同族",
+          "evidence": "叶竞循（人物）：狮头扎作技艺传承人，叶氏狮鼓家族成员",
+          "confidence": 1.0,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "叶氏狮鼓家族",
+          "relation": "同族",
+          "evidence": "叶四牛（人物）：狮头扎作技艺传承人，叶氏狮鼓家族成员",
+          "confidence": 1.0,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "佛稚狮",
+          "relation": "活动于",
+          "evidence": "叶四牛从事狮头扎作已经30多年了",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "叶氏狮鼓家族",
+          "relation": "关联人物",
+          "evidence": "叶四牛从事狮头扎作已经30多年了",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0160": {
+      "relations": []
+    },
+    "chunk_0161": {
+      "relations": [
+        {
+          "source": "狮头骨架",
+          "target": "佛稚狮头",
+          "relation": "同类",
+          "evidence": "佛稚狮头除了纱纸以外还运用了很多新材料",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0162": {
+      "relations": [
+        {
+          "source": "刘关张狮",
+          "target": "五虎将狮",
+          "relation": "同类",
+          "evidence": "以民间熟悉的英雄形象如刘备、关羽、张飞、黄忠、赵云等脸谱造型称为刘关张狮或五虎将狮",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0163": {
+      "relations": [
+        {
+          "source": "叶四牛",
+          "target": "佛稚狮",
+          "relation": "承载文化",
+          "evidence": "叶四牛等人扎作的佛稚狮不仅覆盖辽……远销至多个国家和地区",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "佛稚狮",
+          "relation": "活动于",
+          "evidence": "叶四牛在扎作狮头",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0164": {
+      "relations": [
+        {
+          "source": "叶四牛",
+          "target": "狮头",
+          "relation": "承载文化",
+          "evidence": "叶四牛在扎作狮头",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "里水毛巾",
+          "target": "高丽巾",
+          "relation": "同族",
+          "evidence": "当时里水村民生产的的是全国流行的高丽巾",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "高丽巾",
+          "target": "里水毛巾",
+          "relation": "传承于",
+          "evidence": "高丽巾使用原产于江苏南通的花纱布",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "陈春泉",
+          "target": "里水毛巾",
+          "relation": "关联人物",
+          "evidence": "里水商人陈春泉推动里水毛巾产业升级",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0165": {
+      "relations": [
+        {
+          "source": "陈春泉",
+          "target": "里水圩",
+          "relation": "活动于",
+          "evidence": "1932年陈春泉从上海引进手织木机一台后自行仿造五台在里水圩黄泥墩大埠创办南海第一家毛巾厂一一捷兴毛巾三。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0166": {
+      "relations": [
+        {
+          "source": "木织机",
+          "target": "里水",
+          "relation": "承载文化",
+          "evidence": "那个时候的里水没有采购面纱和售卖市场",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": []
+    },
+    "chunk_0169": {
+      "relations": [
+        {
+          "source": "邓要珍",
+          "target": "绕番瓜",
+          "relation": "传承于",
+          "evidence": "邓要珍说织毛巾前过的浆后的棉纱线要逐条整理到114南海美食南海特产南海传说棉纱简上面前面紧起6个面纱简然后拉出棉纱线一个一个纱简绕绕一个一般要3小时。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "绕番瓜",
+          "target": "南海毛巾厂",
+          "relation": "关联人物",
+          "evidence": "20世纪70年代毛巾厂全部实现机械化1993年高度自动化的剑杆机派上用场。",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海毛巾厂",
+          "target": "珠江三角洲",
+          "relation": "属于时期",
+          "evidence": "20世纪70年代毛巾厂全部实现机械化1993年高度自动化的剑杆机派上用场。",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海毛巾厂",
+          "target": "珠江三角洲",
+          "relation": "盛产",
+          "evidence": "珠江三角洲地区还有多家毛巾三仅广州市内就有好几家大型的国营企业",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0170": {
+      "relations": []
+    },
+    "chunk_0171": {
+      "relations": []
+    },
+    "chunk_0172": {
+      "relations": []
+    },
+    "chunk_0173": {
+      "relations": []
+    },
+    "chunk_0174": {
+      "relations": []
+    },
+    "chunk_0175": {
+      "relations": []
+    },
+    "chunk_0176": {
+      "relations": []
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "灰塑",
+          "target": "南海",
+          "relation": "承载文化",
+          "evidence": "如今在佛山许多传统的建筑中都能找到灰塑",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": [
+        {
+          "source": "关氏家族",
+          "target": "灰塑",
+          "relation": "传承于",
+          "evidence": "关氏家族为代表灰塑作为家族手艺传承了120多年",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灰塑",
+          "target": "民和居庙宇",
+          "relation": "承载文化",
+          "evidence": "作品布满了民和居庙宇",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关氏家族",
+          "target": "关劲庄",
+          "relation": "同族",
+          "evidence": "关氏家族灰塑技艺第六代传人",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关氏家族",
+          "target": "关劲庄",
+          "relation": "关联人物",
+          "evidence": "关劲庄是关氏家族灰塑壁画手艺的第六代传人",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "民和居庙宇",
+          "relation": "活动于",
+          "evidence": "走进关劲庄的家笔者抬头就看见他家阳台底部、天花板等地布满了壁画仙锥寿老、孝贤书教等画面",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0179": {
+      "relations": [
+        {
+          "source": "关劲庄",
+          "target": "灰塑",
+          "relation": "传承于",
+          "evidence": "关劲庄是灰塑技艺传承人",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灰塑",
+          "target": "关劲庄",
+          "relation": "承载文化",
+          "evidence": "关劲庄介绍灰塑的制作过程",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0180": {
+      "relations": [
+        {
+          "source": "关劲庄",
+          "target": "八仙",
+          "relation": "著有",
+          "evidence": "在作品中有画八仙",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "竹林七贤",
+          "relation": "著有",
+          "evidence": "在作品中有画竹林七贤",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "传经图",
+          "relation": "著有",
+          "evidence": "在作品中有画传经图",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0181": {
+      "relations": [
+        {
+          "source": "关氏家族",
+          "target": "灰塑",
+          "relation": "承载文化",
+          "evidence": "到处都留下了关氏家族灰塑壁画的痕迹",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灰塑",
+          "target": "关氏家族",
+          "relation": "传承于",
+          "evidence": "由于灰塑创作时间比壁画要长价钱相对高一些而且精通灰塑的民间艺人越来越少",
+          "confidence": 0.7,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关氏家族",
+          "target": "关劲庄",
+          "relation": "同族",
+          "evidence": "关劲庄说虽然现在很少人找他做灰塑但平时他会花时间练习保持艺术创作状态",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关氏家族",
+          "target": "关劲思",
+          "relation": "同族",
+          "evidence": "于是从1991年到2000年间耕田的时候也有人上门当时想赚一些钱帮补一下家",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0182": {
+      "relations": [
+        {
+          "source": "关劲庄",
+          "target": "灰塑壁画",
+          "relation": "承载文化",
+          "evidence": "用家族传承了100多年的手艺作品遍布佛山、中山、稚山等地的民居和庙宇",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "灰塑壁画",
+          "relation": "著有",
+          "evidence": "关氏宗祠的几十幅壁画都是2005年关劲庄兄弟创作的",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "联表关氏宗祠",
+          "relation": "承载文化",
+          "evidence": "带笔者走进他们代表性作品的联表关氏宗祠",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "关劲庄",
+          "target": "中山",
+          "relation": "活动于",
+          "evidence": "中山的一个客户",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灰塑壁画",
+          "target": "联表关氏宗祠",
+          "relation": "位于",
+          "evidence": "带笔者走进他们代表性作品的联表关氏宗祠",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "物山",
+          "target": "中山",
+          "relation": "同族",
+          "evidence": "物山的一个村庄修建祠堂村长慕名而来请关氏兄弟前去做灰塑",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0183": {
+      "relations": [
+        {
+          "source": "关劲庄",
+          "target": "灰塑",
+          "relation": "承载文化",
+          "evidence": "关 劲庄的 弟弟 画 的花 卉是关 劲 庄 和一 个 堂 弟 做 的关 劲庄则 负责 架 桥 界线。从 这 些 作 品 可 以 看 得 出 他 们技艺娴熟。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "灰塑",
+          "target": "关劲庄",
+          "relation": "传承于",
+          "evidence": "谈到未来关 劲 庄 期盼这 门 手艺 能 够继续 传承下去。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0185": {
+      "relations": [
+        {
+          "source": "金稍业",
+          "target": "佛山",
+          "relation": "盛产",
+          "evidence": "佛山的金稍业非常发达",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "金稍业",
+          "target": "青、赤二种金销",
+          "relation": "承载文化",
+          "evidence": "出品有青、赤二种由本乡或省城购买足金隔以乌纸锤击成销",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "金稍业",
+          "target": "广东四销",
+          "relation": "同类",
+          "evidence": "广东四销是佛山传统金银饰品制作技艺之一",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "民国《佛山忠义乡志 实业志》",
+          "target": "佛山",
+          "relation": "记载于",
+          "evidence": "据民国《佛山忠义乡志实业志》记载清雍正二年佛山祖庙大街就建有金稍行会馆大小店号30多家",
+          "confidence": 0.95,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "青、赤二种金销",
+          "target": "广东四销",
+          "relation": "同类",
+          "evidence": "广东四销是佛山传统金银饰品制作技艺之一",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0186": {
+      "relations": [
+        {
+          "source": "吴宝光",
+          "target": "罗村",
+          "relation": "活动于",
+          "evidence": "1981 年乘改革 开放 东风佛 山 金稍 行 老铺昌盛号 的 老 艺人吴 宝 光在 家 乡 罗村 开办 了 联 和 金 稍 厂",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "吴深龙",
+          "target": "联和人金稍厂",
+          "relation": "活动于",
+          "evidence": "在联和人金稍厂内见到有五六个工人埋头加工",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "联和人金稍厂",
+          "relation": "承载文化",
+          "evidence": "广东的金箱锻造厂也仅存罗村联合金稍厂一家会做金稍全套工序的老艺人也只剩继承了父亲手艺的吴深龙一人",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "金稍",
+          "target": "联和人金稍厂",
+          "relation": "承载文化",
+          "evidence": "广东的金箱锻造厂也仅存罗村联合金稍厂一家会做金稍全套工序的老艺人也只剩继承了父亲手艺的吴深龙一人",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": [
+        {
+          "source": "打铠纸",
+          "target": "佛山金稍锻造",
+          "relation": "同类",
+          "evidence": "佛山传统手工艺，涉及多个工序",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "佛山金稍锻造",
+          "relation": "传承于",
+          "evidence": "吴深龙听和爸爸讲新新中国成立前后的福禄路附近有条小街专售金稍做的祭礼品等生意比较火。他家做金销从清朝时爷爷那辈就开始了。",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "佛山金稍锻造",
+          "target": "文革",
+          "relation": "属于时期",
+          "evidence": "在文革前佛山的金稍锻造据说非常有名。",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "打铠纸",
+          "relation": "关联人物",
+          "evidence": "龙回忆厂重开子后原来帮他爸爸做事的老工人全回来了，一直跟他到现在。",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0190": {
+      "relations": [
+        {
+          "source": "吴深龙",
+          "target": "金稍锻造技艺",
+          "relation": "传承于",
+          "evidence": "吴深龙的作品《九龙如意》获得金奖",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "广州大佛寺",
+          "relation": "承载文化",
+          "evidence": "被广泛用于广州大佛寺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "光孝寺",
+          "relation": "承载文化",
+          "evidence": "被广泛用于光孝寺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "云门寺",
+          "relation": "承载文化",
+          "evidence": "被广泛用于云门寺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "佛山祖庙",
+          "relation": "承载文化",
+          "evidence": "被广泛用于佛山祖庙",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "庆龙母庙",
+          "relation": "承载文化",
+          "evidence": "被广泛用于庆龙母庙",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "开福寺",
+          "relation": "承载文化",
+          "evidence": "被广泛用于开福寺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "吴深龙",
+          "target": "兴报国寺",
+          "relation": "承载文化",
+          "evidence": "被广泛用于兴报国寺",
+          "confidence": 0.85,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0191": {
+      "relations": [
+        {
+          "source": "吴彪华",
+          "target": "南海特产",
+          "relation": "著有",
+          "evidence": "吴彪华和张莹通过对有关资料的收集和整理将众多的南海特产分类形成本书",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "张莹",
+          "target": "南海特产",
+          "relation": "著有",
+          "evidence": "吴彪华和张莹通过对有关资料的收集和整理将众多的南海特产分类形成本书",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海区博物馆(馆长张杰龙)",
+          "target": "南海特产",
+          "relation": "关联人物",
+          "evidence": "南海区博物馆馆长张杰龙和南海区博物馆副馆长表进",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海区博物馆(副馆长)",
+          "target": "南海特产",
+          "relation": "关联人物",
+          "evidence": "南海区博物馆馆长张杰龙和南海区博物馆副馆长表进",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "《南海县志》",
+          "target": "南海特产",
+          "relation": "记载于",
+          "evidence": "作者还参考了《南海县志》、《南海市志》、《南海文史资料》等书籍",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "南海特产",
+          "relation": "记载于",
+          "evidence": "作者还参考了《南海县志》、《南海市志》、《南海文史资料》等书籍",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "郭锦雄",
+          "target": "南海特产",
+          "relation": "关联人物",
+          "evidence": "南海餐饮协会副会长郭锦雄、南海诗社社长高信普均提供了大量图文资料",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0192": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "南海非遗",
+          "relation": "承载文化",
+          "evidence": "南海龙狮",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "南海非遗",
+          "relation": "承载文化",
+          "evidence": "南海衣冠",
+          "confidence": 0.8,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海美食",
+          "target": "南海特产",
+          "relation": "属于时期",
+          "evidence": "南海美食、南海特产",
+          "confidence": 0.9,
+          "source_file": "南海美食_南海特产篇"
+        },
+        {
+          "source": "南海传说",
+          "target": "南海非遗",
+          "relation": "传承于",
+          "evidence": "南海传说",
+          "confidence": 0.75,
+          "source_file": "南海美食_南海特产篇"
+        }
+      ]
+    },
+    "chunk_0193": {
+      "relations": []
+    }
+  }
+}

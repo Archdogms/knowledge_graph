@@ -1,0 +1,6170 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "南海龙狮篇",
+          "target": "南海衣冠篇",
+          "relation": "同类",
+          "evidence": "南海龙狮篇 南海衣冠篇 南海古村篇 共3册",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮篇",
+          "target": "南海古村篇",
+          "relation": "同类",
+          "evidence": "南海龙狮篇 南海衣冠篇 南海古村篇 共3册",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "扒龙舟",
+          "relation": "承载文化",
+          "evidence": "扒龙舟、南狮子助兴",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "龙舟说唱",
+          "relation": "承载文化",
+          "evidence": "扒龙舟、南狮子助兴",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "龙舟和南狮在南海有着深厚的群众基础",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "南海衣冠",
+          "target": "南海县学",
+          "relation": "记载于",
+          "evidence": "编写南海衣冠篇...南海独立设置县学始于宋代",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "南海书院",
+          "relation": "记载于",
+          "evidence": "编写南海衣冠篇...南海书院社学达SOO多所居全省之冠",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "南海科举文化",
+          "relation": "承载文化",
+          "evidence": "编写南海衣冠篇...南海科举文化",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海古村",
+          "target": "南海县学",
+          "relation": "属于时期",
+          "evidence": "南海独立设置县学始于宋代",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海古村",
+          "target": "南海书院",
+          "relation": "属于时期",
+          "evidence": "南海书院社学达SOO多所居全省之冠",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "南海古村",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "展现南海深厚的历史文化",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海古村",
+          "target": "南海衣冠",
+          "relation": "承载文化",
+          "evidence": "展现南海深厚的历史文化",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "南海古村",
+          "relation": "传承于",
+          "evidence": "通过上述三个篇章展现南海深厚的历史文化",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "南海古村",
+          "relation": "传承于",
+          "evidence": "通过上述三个篇章展现南海深厚的历史文化",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "龙船饭",
+          "relation": "承载文化",
+          "evidence": "龙船饭：与龙舟赛相关的传统饮食习俗",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "九江龙船出海",
+          "relation": "同类",
+          "evidence": "周将军与九江龙船出海",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五京夺和龙",
+          "target": "九江龙船出海",
+          "relation": "同类",
+          "evidence": "周将军与九江龙船出海",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟",
+          "target": "双龙会",
+          "relation": "承载文化",
+          "evidence": "龙舟结契与双龙会",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿与南狮",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "大源龙狮",
+          "target": "中国龙狮运动会南海训练基地",
+          "relation": "承载文化",
+          "evidence": "大源龙狮 RN 096 走世界的向大源龙狮",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大源龙狮",
+          "target": "狮王争霸赛",
+          "relation": "承载文化",
+          "evidence": "狮王争霸赛 西樵永不落幕的狮艺感实 PP 103",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵世界第一狮",
+          "target": "狮王争霸赛",
+          "relation": "承载文化",
+          "evidence": "狮王争霸赛 西樵永不落幕的狮艺感实 PP 103",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十三姨女子狮队",
+          "target": "南海龙狮篇",
+          "relation": "记载于",
+          "evidence": "十三姨女子狮队谱南狮写新篇章 pp 112",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟",
+          "target": "南海龙狮篇",
+          "relation": "记载于",
+          "evidence": "南海龙狮篇 001 龙舟部分",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "龙舟竞渡",
+          "target": "闻一多",
+          "relation": "承载文化",
+          "evidence": "闻一多先生说每年端午节吴越民族要举行一次盛大的图腾祭",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟竞渡",
+          "target": "屈原",
+          "relation": "传承于",
+          "evidence": "关于龙舟竞渡的起源有多种说法但流传最广的是为纪念楚国爱国诗人屈原投江的传说",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟竞渡",
+          "target": "岭南",
+          "relation": "承载文化",
+          "evidence": "实际上龙舟竞渡活动起源较这些传说久远其起始应与我国南方的自然环境有关",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "《穆天子传》",
+          "target": "龙舟",
+          "relation": "记载于",
+          "evidence": "《穆天子传》中有天子乘乌舟、龙舟浮于大沼的记载",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "黄公绍",
+          "target": "龙舟竞渡",
+          "relation": "记载于",
+          "evidence": "时人黄公绍为我们勾画了一幅生动的龙舟竞渡画面",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟竞渡",
+          "target": "康有为故居",
+          "relation": "活动于",
+          "evidence": "康有为少时在丹灶读书",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "赛龙舟",
+          "target": "端午节",
+          "relation": "承载文化",
+          "evidence": "赛龙舟作为龙的传人的传统运动自然会走在世界的前列",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "赛龙舟",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "九江端午节划龙舟明、清两代已很盛行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "《南海九江乡志》",
+          "target": "九江",
+          "relation": "记载于",
+          "evidence": "据《南海九江乡志》记载 端午竞龙舟夺标至六七八刀月兴狂",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "《九江儒林乡志》",
+          "target": "九江",
+          "relation": "记载于",
+          "evidence": "《九江儒林乡志》载乡人每夏五月必斗龙舟",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "九江镇",
+          "target": "民国时期",
+          "relation": "属于时期",
+          "evidence": "民国时期九江划龙舟活动改在秋凉初届、农事稍歇的八九月间举行",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "民国时期",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "民国时期九江划龙舟活动改在秋凉初届、农事稍歇的八九月间举行",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "埋龙船",
+          "target": "桂城琶泻河",
+          "relation": "承载文化",
+          "evidence": "桂城琶泻河涌狭长溪深曲折龙舟竞渡",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "地堂",
+          "target": "桂城琶泻河",
+          "relation": "位于",
+          "evidence": "地堂上翻晒着五光十色的顾绣罗伞、头牌和龙船鼓",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "龙船百家饭",
+          "target": "二十四坊",
+          "relation": "承载文化",
+          "evidence": "初五日友深的龙船一般都在二十四坊巡游不作比赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "划龙船",
+          "target": "二十四坊",
+          "relation": "承载文化",
+          "evidence": "初五日友深的龙船一般都在二十四坊巡游不作比赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙头披花挂红",
+          "target": "划龙船",
+          "relation": "承载文化",
+          "evidence": "龙头披花挂红口含龙眼叶 船上插着乘风破浪、勇往直前的帅旗",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "帅旗",
+          "target": "划龙船",
+          "relation": "承载文化",
+          "evidence": "船上插着乘风破浪、勇往直前的帅旗",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "端午节",
+          "target": "北李大宗祠",
+          "relation": "承载文化",
+          "evidence": "北李大宗祠、释南孔大宗祠两地赛点更是灯火通明",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "端午节",
+          "target": "释南孔大宗祠",
+          "relation": "承载文化",
+          "evidence": "北李大宗祠、释南孔大宗祠两地赛点更是灯火通明",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十番锣鼓",
+          "target": "北李大宗祠",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十番锣鼓",
+          "target": "释南孔大宗祠",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "八音弦乐",
+          "target": "北李大宗祠",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "八音弦乐",
+          "target": "释南孔大宗祠",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "端午节",
+          "relation": "发生于",
+          "evidence": "每到端午节男人竞扒龙船 女人则在两岸争相观看并喝彩助威",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "北李大宗祠",
+          "relation": "承载文化",
+          "evidence": "北李大宗祠、释南孔大宗祠两地赛点更是灯火通明",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "释南孔大宗祠",
+          "relation": "承载文化",
+          "evidence": "北李大宗祠、释南孔大宗祠两地赛点更是灯火通明",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "十番锣鼓",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "八音弦乐",
+          "relation": "承载文化",
+          "evidence": "赛龙间歇时停在河深处的大艇上的十番锣鼓和八音弦乐奏出悠扬乐章",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "和峰",
+          "relation": "同族",
+          "evidence": "和顺的得名与赛龙舟有关。和顺村相传起源唐代过去称和峰",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "和顺村",
+          "target": "杜姓",
+          "relation": "同族",
+          "evidence": "最早在和峰立村的先民姓杜和姓朱",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "朱姓",
+          "relation": "同族",
+          "evidence": "最早在和峰立村的先民姓杜和姓朱",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺村",
+          "target": "康如二年",
+          "relation": "属于时期",
+          "evidence": "清康熙二年1685时全村超过4000人",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "忠山龙船",
+          "target": "忠良涌",
+          "relation": "位于",
+          "evidence": "在忠良涌畔聚居练武",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "忠山龙船",
+          "target": "陈礼",
+          "relation": "承载文化",
+          "evidence": "忠山锣技艺高超能将所击的铜锣抛高数丈掷过三元桥",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "忠山龙船",
+          "target": "朱实莲",
+          "relation": "承载文化",
+          "evidence": "明末清初陈子壮与朱实莲在广东高明被清兵击败",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "忠山龙船",
+          "target": "忠良涌",
+          "relation": "活动于",
+          "evidence": "聚居练武",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "盐步龙舟",
+          "target": "洋塘龙舟",
+          "relation": "承载文化",
+          "evidence": "标随 后 以 冠军名义 领了奖品 烧 猪。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步龙舟",
+          "target": "洋塘龙舟",
+          "relation": "传承于",
+          "evidence": "最后一位老人 出 来 说 这 样 吧盐 步 龙骨有 须洋 塘龙舟 没 须一 个 做 契 耸一 个 WRF WO BEAR A mn OE th Oe He He BE Se BI IN PR",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "盐步老龙",
+          "target": "盐步龙舟竞赛",
+          "relation": "承载文化",
+          "evidence": "盐步老龙就成为长者在龙舟竞赛中不参加任何赛事只游龙表演",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "洋塘龙舟",
+          "target": "盐步龙舟竞赛",
+          "relation": "承载文化",
+          "evidence": "而洋塘龙舟到盐步也只是一助兴不参加龙舟竞赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五京硅",
+          "target": "明代万历年间",
+          "relation": "属于时期",
+          "evidence": "明代万历年间一位姓陶的双马十分喜欢看龙舟比赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "陶姓",
+          "target": "五京硅",
+          "relation": "同族",
+          "evidence": "有 一次他在广州看龙舟比赛时发现盐步老龙、洋塘突眼龙、白沙红龙、雅瑶东涌和古料大头龙等五条龙舟速度非常快而且还演绎了诚实和谐、夺标谦让的故事于是愉马封此五龙为五京硅",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "五京硅",
+          "relation": "关联人物",
+          "evidence": "有 一次他在广州看龙舟比赛时发现盐步老龙、洋塘突眼龙、白沙红龙、雅瑶东涌和古料大头龙等五条龙舟速度非常快而且还演绎了诚实和谐、夺标谦让的故事于是愉马封此五龙为五京硅",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "德庆悦城龙母祖庙",
+          "target": "清道光二十八年",
+          "relation": "属于时期",
+          "evidence": "清道光二十八年当地村民修建了一座龙母古庙",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄岐",
+          "target": "清道光二十八年",
+          "relation": "属于时期",
+          "evidence": "清道光二十八年当地村民修建了一座龙母古庙",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄岐龙母诞锦龙盛会",
+          "target": "龙母诞",
+          "relation": "发生于",
+          "evidence": "每年农历五月初八龙母诞时都有广佛周边多艘龙舟前来认龙母为干娘",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "起龙",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "龙船出水 起龙采青",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "起龙",
+          "target": "龙舟",
+          "relation": "活动于",
+          "evidence": "起龙时 先 择 好 吉日 吉 时一 行人浩 浩功荡 地 带 着 翻新过 的 龙头 龙 尾来到 潜藏 着龙舟的地 方",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "采青",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "采青即是采摘青绿树叶挂在龙头龙尾",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟",
+          "target": "南海龙舟说唱",
+          "relation": "记载于",
+          "evidence": "南海龙舟说唱：与龙舟相关的传统口头艺术形式",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "九江镇下西侯王村",
+          "relation": "承载文化",
+          "evidence": "起龙仪式是九江镇下西侯王村的一次起龙仪式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "起龙仪式",
+          "target": "九江镇下西侯王村",
+          "relation": "发生于",
+          "evidence": "这是九江镇下西侯王村的一次起龙仪式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "游龙",
+          "target": "龙舟",
+          "relation": "关联人物",
+          "evidence": "游龙是指游龙舟",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "投龙位",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "投龙位是指赛龙舟前以一定价钱竞投龙头、龙尾和大鼓的位置",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "八音鼓乐",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "龙舟在八音鼓乐的伴奏中于河中游龙",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "盐步老龙",
+          "relation": "承载文化",
+          "evidence": "这是盐步老龙的起龙仪式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步村",
+          "target": "盐步老龙",
+          "relation": "承载文化",
+          "evidence": "盐步老龙的龙船基是盐步老龙百年来的龙床",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步村",
+          "target": "盐步老龙",
+          "relation": "活动于",
+          "evidence": "盐步老龙都是一年大部分时间里在这里雪伏",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步村",
+          "target": "盐步老龙",
+          "relation": "盛产",
+          "evidence": "盐步老龙是盐步村传承百年的传统龙舟队伍",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "盐步老龙",
+          "target": "起龙仪式",
+          "relation": "承载文化",
+          "evidence": "上午9时盐步老龙起龙仪式正式开始",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙的头、身、尾",
+          "target": "盐步老龙",
+          "relation": "同类",
+          "evidence": "盐步老龙的头、身、尾三部分进行祭南",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "起龙仪式",
+          "target": "盐步老龙",
+          "relation": "承载文化",
+          "evidence": "上午9时盐步老龙起龙仪式正式开始",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "龙船饭",
+          "relation": "承载文化",
+          "evidence": "赛完龙舟后有参加赛龙舟的村就会摆龙船饭来入劳龙舟健和儿乡亲。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江镇",
+          "target": "大谷村",
+          "relation": "位于",
+          "evidence": "九江镇的大谷村有一年摆开了5002550004ASB加的龙船饭甚是热闹。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷村",
+          "target": "龙舟",
+          "relation": "活动于",
+          "evidence": "赛完龙舟后有参加赛龙舟的村就会摆龙船饭来入劳龙舟健和儿乡亲。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷村",
+          "target": "龙船饭",
+          "relation": "传承于",
+          "evidence": "九江镇的大谷村有一年摆开了5002550004ASB加的龙船饭甚是热闹。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "龙船饭",
+          "target": "赛龙舟",
+          "relation": "承载文化",
+          "evidence": "龙船饭也 叫做 龙舟 饭是 珠 三 角 地 区 的 一 种 传统风俗 现在 南海、顺 德、中 山、番 蝄、芳 村、车 陂 等地仍 保留着这 种 习俗。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙船饭",
+          "target": "赛龙舟",
+          "relation": "发生于",
+          "evidence": "龙船饭也 叫做 龙舟 饭是 珠 三 角 地 区 的 一 种 传统风俗 现在 南海、顺 德、中 山、番 蝄、芳 村、车 陂 等地仍 保留着这 种 习俗。",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "龙舟比赛",
+          "target": "龙帽",
+          "relation": "承载文化",
+          "evidence": "龙舟、龙帽",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟比赛",
+          "target": "龙船饭",
+          "relation": "承载文化",
+          "evidence": "龙舟、龙船饭",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟比赛",
+          "target": "祠堂",
+          "relation": "承载文化",
+          "evidence": "祠堂从早到晚都备有龙船饭",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙船饭",
+          "target": "祠堂",
+          "relation": "位于",
+          "evidence": "除了比赛的人以外村民男女老少都可以到祠堂领取龙船饭",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙船饭",
+          "target": "龙舟比赛",
+          "relation": "发生于",
+          "evidence": "在举办赛龙舟的村里祠堂从早到晚都备有龙船饭",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "祠堂",
+          "target": "龙舟比赛",
+          "relation": "活动于",
+          "evidence": "除了比赛的人以外村民男女老少都可以到祠堂领取龙船饭",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "龙船饭",
+          "target": "赛龙舟",
+          "relation": "承载文化",
+          "evidence": "传统的 龙船饭不 但 是 一 种 代 代 相传的风俗 还有如 龙舟 嘉年华般变 成了村 子 与外界 的 一 种 全 新 的",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "大谷村",
+          "target": "龙船饭",
+          "relation": "承载文化",
+          "evidence": "大谷村龙船饭结束后开始了年一度的龙船送契会",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "赛龙舟",
+          "target": "龙舟头",
+          "relation": "同类",
+          "evidence": "除了被这场景震撼外观众还会被那色彩斑斓的龙舟和棚棚如生的龙舟头所吸引",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟头",
+          "target": "赛龙舟",
+          "relation": "承载文化",
+          "evidence": "除了被这场景震撼外观众还会被那色彩斑斓的龙舟和棚棚如生的龙舟头所吸引",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "传统龙舟",
+          "target": "标准龙舟",
+          "relation": "同类",
+          "evidence": "传统龙舟和标准龙舟",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "传统龙舟",
+          "target": "龙头",
+          "relation": "承载文化",
+          "evidence": "传统龙舟的龙头、龙尾都是用质量上乘的整块老樟木雕琢而成的",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "传统龙舟",
+          "target": "龙尾",
+          "relation": "承载文化",
+          "evidence": "传统龙舟的龙头、龙尾都是用质量上乘的整块老樟木雕琢而成的",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙头",
+          "target": "龙尾",
+          "relation": "同类",
+          "evidence": "龙舟分为龙头、龙身、龙尾等部分",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "龙头",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "龙头、龙尾。工序分为木料的开料、放料、雕刻、成型、打磨、上色装饰等最后再为龙舟头安装上鼻球、龙须、龙和天、龙珠",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙尾",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "龙头、龙尾。工序分为木料的开料、放料、雕刻、成型、打磨、上色装饰等最后再为龙舟头安装上鼻球、龙须、龙和天、龙珠",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟",
+          "target": "九江双蒸",
+          "relation": "盛产",
+          "evidence": "九江镇→九江双蒸酒",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "洪圣王",
+          "target": "坤甸木",
+          "relation": "承载文化",
+          "evidence": "坤甸木又叫夹木，用坤甸木制作的龙舟船身很重",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关老爷",
+          "target": "坤甸木",
+          "relation": "承载文化",
+          "evidence": "坤甸木又叫夹木，用坤甸木制作的龙舟船身很重",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "张飞庙",
+          "target": "坤甸木",
+          "relation": "承载文化",
+          "evidence": "坤甸木又叫夹木，用坤甸木制作的龙舟船身很重",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "洪圣王",
+          "target": "杉木",
+          "relation": "承载文化",
+          "evidence": "用杉木制作的龙舟则船身轻、耐用",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关老爷",
+          "target": "杉木",
+          "relation": "承载文化",
+          "evidence": "用杉木制作的龙舟则船身轻、耐用",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "张飞庙",
+          "target": "杉木",
+          "relation": "承载文化",
+          "evidence": "用杉木制作的龙舟则船身轻、耐用",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "东兴社",
+          "target": "李涌一村",
+          "relation": "关联人物",
+          "evidence": "李涌一村两位黄姓好汉各执一铁奖分驾龙头龙尾助东兴社龙舟杀出重围",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "李涌一村祠堂",
+          "target": "东兴社",
+          "relation": "位于",
+          "evidence": "李涌一村祠堂位于东兴社",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷太清宫",
+          "target": "大谷",
+          "relation": "属于时期",
+          "evidence": "大谷太清宫是大谷社区内的道教建筑",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "普济堂",
+          "target": "东兴社",
+          "relation": "属于时期",
+          "evidence": "普济堂是参与龙舟活动的社区之一的庙宇",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "观音堂",
+          "target": "东兴社",
+          "relation": "属于时期",
+          "evidence": "观音堂是参与龙舟活动的社区之一的庙宇",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷",
+          "target": "三元桥",
+          "relation": "承载文化",
+          "evidence": "大谷及东兴社龙舟均在九江三元桥附近被几笨龙舟阻挡水道",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "东兴社",
+          "target": "三元桥",
+          "relation": "承载文化",
+          "evidence": "大谷及东兴社龙舟均在九江三元桥附近被几笨龙舟阻挡水道",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷",
+          "target": "三元桥",
+          "relation": "活动于",
+          "evidence": "大谷及东兴社龙舟均在九江三元桥附近被几笨龙舟阻挡水道",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "东兴社",
+          "target": "三元桥",
+          "relation": "活动于",
+          "evidence": "大谷及东兴社龙舟均在九江三元桥附近被几笨龙舟阻挡水道",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大谷",
+          "target": "三元桥",
+          "relation": "传承于",
+          "evidence": "大谷及东兴社龙舟均在九江三元桥附近被几笨龙舟阻挡水道",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "阿契",
+          "target": "龙船夜游活动",
+          "relation": "承载文化",
+          "evidence": "送阿契也不断加入新的元素逐渐演变成为现在的龙船夜游活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙会",
+          "target": "盐步华光庙",
+          "relation": "位于",
+          "evidence": "盐步老龙会浩荡到洋塘探契仔洋塘龙舟则以最高的礼节款待并于次日与盐步老龙一起到盐步参加龙船活动",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙会",
+          "target": "盐步华光庙",
+          "relation": "承载文化",
+          "evidence": "盐步老龙会浩荡到洋塘探契仔洋塘龙舟则以最高的礼节款待并于次日与盐步老龙一起到盐步参加龙船活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙会",
+          "target": "盐步华光庙",
+          "relation": "活动于",
+          "evidence": "盐步老龙会浩荡到洋塘探契仔洋塘龙舟则以最高的礼节款待并于次日与盐步老龙一起到盐步参加龙船活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙会",
+          "target": "盐步华光庙",
+          "relation": "承载文化",
+          "evidence": "盐步老龙先在盐步华光庙前的盐步河划三个来回祈",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "盐步老龙",
+          "target": "盐步华光庙",
+          "relation": "承载文化",
+          "evidence": "盐步老龙先在盐步华光庙前的盐步河划三四个来回祈求顺风顺水",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "珠江",
+          "relation": "活动于",
+          "evidence": "接着众人喊着口号跟着盐步河向珠江浩浩荡荡进发",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "广州湾涌",
+          "relation": "活动于",
+          "evidence": "在广州湾涌两岸挤满了看龙船的男女老幼",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步老龙",
+          "target": "荔湾涌",
+          "relation": "活动于",
+          "evidence": "只有当盐步老龙进入荔湾涌后其他龙舟才能依次进来",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "洋塘",
+          "target": "荔湾涌",
+          "relation": "承载文化",
+          "evidence": "洋塘人准备了一只新鲜的蓉角，这些都是送给来访龙舟的礼物",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "九江",
+          "target": "西江",
+          "relation": "位于",
+          "evidence": "九江地处西江边",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江",
+          "target": "德高望重的父老",
+          "relation": "活动于",
+          "evidence": "九江当地喜欢把江称为海",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "为使九江乡民安居乐业文人朱次琦与钦差谈判",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "朱九江先生与钦差谈判期匪在与官员谈判时要求九江所有龙舟队员",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江龙船出海必定是一艘名为六社周将军的龙舟",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "六社周将军",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "九江龙船出海必定是一艘名为六社周将军的龙舟",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关公",
+          "target": "六社周将军",
+          "relation": "承载文化",
+          "evidence": "周将军指的是三国中的为关羽也称关公刀的周仓。周仓出征帅旗当然都要出关公的名字了",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关公",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "所以龙舟传统上帅旗一律都画上关帝像",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关公",
+          "target": "龙舟",
+          "relation": "传承于",
+          "evidence": "另外帅旗上画上关帝像还有另一层意思关羽有一个身份是潮运之神把关公请到船上来看看可以保佑龙舟行船安全",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "关帝",
+          "target": "九江龙船出海",
+          "relation": "关联人物",
+          "evidence": "旧帅旗上才会有关帝像",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "六社周将军",
+          "target": "九江龙船出海",
+          "relation": "活动于",
+          "evidence": "九江龙船出海的时间大多在龙舟会的最后一天",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "六社周将军",
+          "target": "九江龙船出海",
+          "relation": "承载文化",
+          "evidence": "六社周将军到来之后首先会从寿母检阅一下整支军队",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "方献夫",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "方献夫了 解到 山 民 对 娱乐的渴求就想到 在 半山 开展扒龙船 活动。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "方献夫",
+          "target": "西樵山",
+          "relation": "创建修建",
+          "evidence": "他 出 面 组 织山民 辫 山 开 涌汇 山中 的 白山 泉、妈 岩 泉、双 鱼泉和 梅花溪 等泉水 注人天 湖 然 后 筑 石 成 坝蓄 水 成 河起 名为龙船窦。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "梁胆大",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "策划了改革开放后的第一次西樵山半山腰龙舟赛",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "梁胆大",
+          "target": "龙舟赛",
+          "relation": "承载文化",
+          "evidence": "策划了改革开放后的第一次西樵山半山腰龙舟赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "赛龙活动",
+          "target": "扒龙船",
+          "relation": "承载文化",
+          "evidence": "象征着国泰民安、娱乐升平的赛龙活动在西樵山半山扒龙船后也就在九江河面开得如火如茶",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "扒龙船",
+          "target": "九江镇",
+          "relation": "传承于",
+          "evidence": "在九江河面举行的龙舟巡游活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟巡游活动",
+          "target": "九江镇",
+          "relation": "承载文化",
+          "evidence": "在九江河面举行的龙舟巡游活动",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "中国龙舟名镇",
+          "target": "九江镇",
+          "relation": "属于时期",
+          "evidence": "2007年授予九江镇的称号",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "中国龙舟名镇",
+          "target": "九江镇",
+          "relation": "承载文化",
+          "evidence": "2007年9月28至29日九江镇承办了第二届全国龙舟之乡争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "九江镇",
+          "relation": "关联人物",
+          "evidence": "九江龙舟队多年来屡屡在国内、国际龙舟大赛中夺冠",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "每年国庆节期间九江均举办各种形式的龙舟赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "九江镇",
+          "target": "西江",
+          "relation": "位于",
+          "evidence": "本次在西江举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江镇",
+          "target": "西江",
+          "relation": "活动于",
+          "evidence": "本次在西江举行",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "国庆彩龙巡游",
+          "target": "南国桃园",
+          "relation": "承载文化",
+          "evidence": "1995年南国桃园国际龙舟邀请赛在桃园得波湖上举行",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "恬波湖",
+          "target": "南国桃园",
+          "relation": "位于",
+          "evidence": "恬波湖原是一座大型山塘，后经过修缮建成一个人工湖。恬波湖水深适中风平浪静",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "恬波湖",
+          "target": "松岗镇",
+          "relation": "属于时期",
+          "evidence": "恬波湖原是一座大型山塘，后经过修缮建成一个人工湖",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "松岗镇",
+          "target": "南国桃园",
+          "relation": "位于",
+          "evidence": "松岗镇又举行南国桃园龙舟赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "松岗镇",
+          "target": "南国桃园",
+          "relation": "活动于",
+          "evidence": "1996年10月松岗镇又举行南国桃园龙舟赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟赛",
+          "target": "桂城琶北东胜涌",
+          "relation": "位于",
+          "evidence": "2006年端午节第十五届龙舟友谊赛在桂城琶北东胜涌激情上演",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟赛",
+          "target": "桂城琶北东胜涌",
+          "relation": "活动于",
+          "evidence": "2006年端午节第十五届龙舟友谊赛在桂城琶北东胜涌激情上演",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "赛龙舟",
+          "target": "东胜青年龙舟队",
+          "relation": "承载文化",
+          "evidence": "首 先 出 发 的是东 胜 青年 龙舟 队只 见 队员 们 随 着 鼓点 猛力划 浆龙 舟 飞 驰",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙头",
+          "target": "赛龙舟",
+          "relation": "承载文化",
+          "evidence": "在 通过 一 个 S 形 的 连续 弯 道 时舵 手 拼尽全 力也 来不及 让 船 转向龙 舟 直 直 地 撞向了 堤岸边的 石磺上 向 前 伸 出 的 龙头 当场 扑 通一 声 被 撞 落 水",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙头",
+          "target": "黄皮树叶",
+          "relation": "承载文化",
+          "evidence": "在 赛场上  可 以 看 到 不 少 龙头的 嘴巴 里 面 都 衔着一 把 黄 皮 树 叶 或龙眼 树 叶那是表示 该 龙头曾经 在 比赛中碰撞 过",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "东胜涌",
+          "target": "东胜青年龙舟队",
+          "relation": "活动于",
+          "evidence": "东 胜涌有 一 鼓 转 三 弯的 说 法20 多 米 长 的龙舟穿行 其 中稍 有 不 慎 就会撞 到 河岸",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "万千村",
+          "target": "陆伯",
+          "relation": "活动于",
+          "evidence": "70多岁高龄的村民陆伯是龙舟说唱的发烧友",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟邀请赛",
+          "target": "万千村",
+          "relation": "承载文化",
+          "evidence": "来自大沥镇以及周边出龙狮南海海衣冠南海古村总共18支龙舟队在瓜步汛河道展开激烈的角逐",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "龙母庙",
+          "target": "黄岐",
+          "relation": "位于",
+          "evidence": "龙母庙：位于黄岐的一座庙宇，用于龙舟赛的祈福活动",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "黄岐",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "黄岐珠江河段地处广州珠江上游",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄岐",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "黄岐珠江河段地处广州珠江上游",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "干灯湖",
+          "target": "桂城",
+          "relation": "位于",
+          "evidence": "来自桂城各村15支传统龙舟在干灯湖展开激烈的争夺",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "干灯湖",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "来自桂城各村15支传统龙舟在干灯湖展开激烈的争夺",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "千灯湖",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "千灯湖水域举行的正式比赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "千灯湖",
+          "target": "桂城",
+          "relation": "活动于",
+          "evidence": "桂城街道组织、举办了这次传统龙舟600米折回赛桂城选拔赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "大沥中联龙舟队",
+          "target": "全国龙舟赛",
+          "relation": "承载文化",
+          "evidence": "大沥中联龙舟队曾经在全国龙舟赛上获得冠军",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "龙舟赛",
+          "relation": "承载文化",
+          "evidence": "南海地区特有的龙舟文化活动",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "龙舟赛",
+          "relation": "承载文化",
+          "evidence": "南海地区特有的龙舟文化活动",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄上岐沙溪",
+          "target": "大沥镇",
+          "relation": "属于时期",
+          "evidence": "黄上岐沙溪队以1分30秒夺冠",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙舟赛",
+          "target": "大沥镇",
+          "relation": "盛产",
+          "evidence": "20世七八纪十年代仅一个村小组里划龙舟的人数都可以超过200人",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "五人龙",
+          "target": "沙头",
+          "relation": "承载文化",
+          "evidence": "五人龙有段古。筝庆悦城龙母让有龙生五子的传说该传说驾转流传到南海沙头等地五人龙舟即象征此含义。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五人龙",
+          "target": "沙头",
+          "relation": "活动于",
+          "evidence": "沙头的五人龙舟赛有尾由收龙的规则即最后一名认输时全部的龙舟才能停下和否则就要一直扒下去。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "赛龙小引",
+          "target": "沙头",
+          "relation": "承载文化",
+          "evidence": "沙头曾出现了叫赛龙小引的特别文体",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "沙头",
+          "target": "扒龙舟",
+          "relation": "承载文化",
+          "evidence": "沙头历史上赛龙舟便应运而生",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "沙头",
+          "target": "威龙",
+          "relation": "承载文化",
+          "evidence": "沙头的龙舟赛多为民间自发形式主要有威龙",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "九江龙舟文化节",
+          "target": "五人龙舟",
+          "relation": "承载文化",
+          "evidence": "2007 年九江龙舟文化节期间在沙头举行五人龙舟、四人凤艇锦标赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟文化节",
+          "target": "四人凤艇",
+          "relation": "承载文化",
+          "evidence": "2007 年九江龙舟文化节期间在沙头举行五人龙舟、四人凤艇锦标赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五人龙舟",
+          "target": "水上马拉松",
+          "relation": "同类",
+          "evidence": "人们把五人龙舟、四人凤艇锦标赛称为水上马拉松",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "水上马拉松",
+          "target": "五人龙舟",
+          "relation": "承载文化",
+          "evidence": "人们把五人龙舟、四人凤艇锦标赛称为水上马拉松",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "水上马拉松",
+          "target": "四人凤艇",
+          "relation": "承载文化",
+          "evidence": "人们把五人龙舟、四人凤艇锦标赛称为水上马拉松",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "丹灶镇",
+          "relation": "出生于",
+          "evidence": "康有为，南海丹灶人",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "康有为",
+          "target": "丹灶镇",
+          "relation": "活动于",
+          "evidence": "康有为少时在丹灶读书",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江",
+          "target": "仙湖",
+          "relation": "位于",
+          "evidence": "2005 年9月 29 日 丹 灶镇有 为 杯  五人龙舟 赛在仙 湖 举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五人龙舟赛",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "正 如 九江 当地 人所 形容 的 那样 水上游 龙舟 岸上 ATG 五人龙舟 赛也 是 丹 灶 镇 的 传统 群众性体育 盛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五人龙舟赛",
+          "target": "仙湖",
+          "relation": "承载文化",
+          "evidence": "2005 年9月 29 日 丹 灶镇有 为 杯  五人龙舟 赛在仙 湖 举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "五人龙舟赛",
+          "target": "丹灶镇",
+          "relation": "承载文化",
+          "evidence": "正 如 九江 当地 人所 形容 的 那样 水上游 龙舟 岸上 ATG 五人龙舟 赛也 是 丹 灶 镇 的 传统 群众性体育 盛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "仙湖",
+          "target": "丹灶镇",
+          "relation": "位于",
+          "evidence": "2005 年9月 29 日 丹 灶镇有 为 杯  五人龙舟 赛在仙 湖 举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "七星村黄大仙寿星队",
+          "target": "西樵镇",
+          "relation": "活动于",
+          "evidence": "2009年9月26日西樵镇举行国庆五人龙舟赛暨游龙巡游来自镇内的198支龙舟队展开了3个多小时的竞技。上午10时30分左右迎面而来的是七星村黄大仙寿星队",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "七星村黄大仙寿星队",
+          "target": "西樵镇",
+          "relation": "盛产",
+          "evidence": "2009年9月26日西樵镇举行国庆五人龙舟赛暨游龙巡游来自镇内的198支龙舟队展开了3个多小时的竞技。上午10时30分左右迎面而来的是七星村黄大仙寿星队",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "余伯",
+          "target": "七星村",
+          "relation": "活动于",
+          "evidence": "在七星村余伯和队友们曾是当地有名的老扒丁",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "余伯",
+          "target": "七星村",
+          "relation": "同族",
+          "evidence": "在七星村余伯和队友们曾是当地有名的扒丁",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "龙舟说唱",
+          "target": "西樵",
+          "relation": "承载文化",
+          "evidence": "《龙舟说唱》把龙舟竞渡的气氛渲染得淋漓尽致",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "关祥",
+          "target": "扒龙舟",
+          "relation": "承载文化",
+          "evidence": "扒龙舟不仅仅是体育运动，更是音乐、文学、民间风俗相结合的一项盛事",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "国显祥和龙盼江山",
+          "target": "祠堂鼓舞",
+          "relation": "传承于",
+          "evidence": "获得高标后的村庄将整年把其悬挂在祠堂鼓舞",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "南海龙舟队",
+          "target": "屈原杯",
+          "relation": "发生于",
+          "evidence": "1990年6月全国第五届屈原杯在四川乐山举行。1992年南海龙舟队又夺取了第六届全国屈原杯的桂冠。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "屈原杯",
+          "relation": "记载于",
+          "evidence": "1990年6月全国第五届屈原杯在四川乐山举行。1992年南海龙舟队又夺取了第六届全国屈原杯的桂冠。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "九江龙舟队",
+          "target": "莫波湖",
+          "relation": "活动于",
+          "evidence": "1997 年 9 月 南海市南国桃园龙舟邀请赛在风景秀丽的莫波湖上举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": []
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "背水一战破釜沉舟",
+          "target": "九江龙舟队",
+          "relation": "承载文化",
+          "evidence": "背水一战破釜沉舟等范例",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "背水一战破釜沉舟",
+          "target": "南海同乡总会龙舟队",
+          "relation": "承载文化",
+          "evidence": "背水一战破釜沉舟等范例",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "女子龙舟队",
+          "target": "中联龙舟队",
+          "relation": "同类",
+          "evidence": "女子龙舟队和中联龙舟队都是南海区的传统龙舟队伍",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "女子龙舟队",
+          "target": "西樵",
+          "relation": "传承于",
+          "evidence": "1999年西樵率先成立女子龙舟队伍",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": [
+        {
+          "source": "女队员",
+          "target": "蒙娜丽莎女子龙舟队",
+          "relation": "承载文化",
+          "evidence": "蒙娜丽莎女子龙舟队组队以来在澳门国际龙舟邀请赛上豪夺六连冠",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "女队员",
+          "target": "蒙娜丽莎女子龙舟队",
+          "relation": "活动于",
+          "evidence": "蒙娜丽莎女子龙舟队组队以来在澳门国际龙舟邀请赛上豪夺六连冠",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "蒙娜丽莎女子龙舟队",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "蒙娜丽莎女子龙舟队是西樵地区的一支女子龙舟队伍",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0095": {
+      "relations": []
+    },
+    "chunk_0096": {
+      "relations": [
+        {
+          "source": "西樵蒙娜丽莎女子龙舟队",
+          "target": "千禧年",
+          "relation": "属于时期",
+          "evidence": "2000年1月1日刚刚踏入千禧年沙头即举办第一届凤艇大赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "女子龙舟队",
+          "target": "沙头女子龙舟队",
+          "relation": "关联人物",
+          "evidence": "沙头女子龙舟队代表广东省参加全国龙舟精英赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "凤艇大赛",
+          "target": "女子龙舟队",
+          "relation": "承载文化",
+          "evidence": "凤艇大赛不仅带动当地还引起了省市体育部门的关注和重视",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "吴立胜",
+          "target": "名门世家九江女子龙舟队",
+          "relation": "创建修建",
+          "evidence": "吴立胜带着一个梦想回到家乡九江。他要组建一支女子龙舟队并冠名为名门世家九江女子龙舟队",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "吴立胜",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "2007年12月全国政协委员、澳门新建业集团主席吴立胜带着一个梦想回到家乡九江",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江",
+          "target": "沙头女子龙舟队",
+          "relation": "盛产",
+          "evidence": "九江为是著名侨乡涌现了很多名人",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": [
+        {
+          "source": "九江",
+          "target": "龙舟",
+          "relation": "承载文化",
+          "evidence": "龙舟在九江有着深远的历史与九江人相伴相生",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江",
+          "target": "名门世家九江女子龙舟队",
+          "relation": "承载文化",
+          "evidence": "名门世家九江女子龙舟队正式成立",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "名门世家九江女子龙舟队",
+          "target": "九江",
+          "relation": "盛产",
+          "evidence": "九江为著名侨乡，涌现了很多名人",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "九江女子龙舟队",
+          "target": "九江龙舟精神",
+          "relation": "承载文化",
+          "evidence": "她们心里只有信念要拼搏要发扬九江龙舟精神",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "名门世家九江女子龙舟队",
+          "target": "九江龙舟精神",
+          "relation": "承载文化",
+          "evidence": "她们心里只有信念要拼搏要发扬九江龙舟精神",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": [
+        {
+          "source": "巴厘岛组委会",
+          "target": "巴厘岛",
+          "relation": "位于",
+          "evidence": "原来巴厘岛组委会将龙舟比赛安排在一条窗小的河道口",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "巴厘岛",
+          "target": "巴厘岛组委会",
+          "relation": "承载文化",
+          "evidence": "原来巴厘岛组委会将龙舟比赛安排在一条窗小的河道口",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": []
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": [
+        {
+          "source": "筝庆龙舟队",
+          "target": "九江龙舟队",
+          "relation": "同族",
+          "evidence": "筝庆龙舟队 组 队 至 今 只 统一 集训 了 1 年 多而 九江 龙舟 队 的 很多队员 都 已经训练了近 10 年了",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "九江龙舟队",
+          "target": "广州亚运会",
+          "relation": "发生于",
+          "evidence": "2010年8月16日晚 广州亚运会国家龙舟队成立仪式在九江镇举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": [
+        {
+          "source": "俞进",
+          "target": "九江龙舟队",
+          "relation": "关联人物",
+          "evidence": "南海区副区长俞进鼓励大家要科学备战",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "潘广德",
+          "target": "九江龙舟队",
+          "relation": "关联人物",
+          "evidence": "教练潘广德高兴地告诉来访的领导目前我们的队伍进步非常明显",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "潘志彬",
+          "target": "九江龙舟队",
+          "relation": "关联人物",
+          "evidence": "九江镇镇长潘志彬一番豪言更是激起教练和队员们的士气",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0112": {
+      "relations": []
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "九江龙舟基地",
+          "relation": "承载文化",
+          "evidence": "希望通过九江龙舟基地建设把这一民俗与竞技赛融合在一起",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0115": {
+      "relations": []
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": [
+        {
+          "source": "九江龙舟队",
+          "target": "朱文权",
+          "relation": "关联人物",
+          "evidence": "朱文权和潘广德在今天的比赛中抛出B计划",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "潘广德",
+          "relation": "关联人物",
+          "evidence": "朱文权和潘广德在今天的比赛中抛出B计划",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "增城龙舟赛",
+          "relation": "活动于",
+          "evidence": "九江龙舟队来到增城龙舟赛场",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "潘志彬",
+          "target": "九江龙舟队",
+          "relation": "关联人物",
+          "evidence": "九江镇镇长潘志彬率领110多名九江村民到现场为龙舟队加油",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": [
+        {
+          "source": "九江龙舟队",
+          "target": "狮舞",
+          "relation": "承载文化",
+          "evidence": "你们生动地展现了狮舞岭南、龙膳南海的宏大气象",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "南海精神",
+          "relation": "承载文化",
+          "evidence": "激励家乡人民在建设五星级南海的征程中劈波斩浪、高歌猛进",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邓伟根",
+          "target": "中共南海区委、区人民政府",
+          "relation": "关联人物",
+          "evidence": "中共佛山市委常委、南海区委书记，在庆功会上祝贺龙舟队凯旋",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0121": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "南海古村",
+          "relation": "承载文化",
+          "evidence": "仅是1074平方公里的南海而是大南海的概念通过这次比赛把南海的龙狮精神风瑶传播到世界。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邓伟根",
+          "target": "南海古村",
+          "relation": "活动于",
+          "evidence": "中共佛山市委常委、南海区委书记邓伟根为龙舟队员祝酒",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "区邦敏",
+          "target": "南海古村",
+          "relation": "活动于",
+          "evidence": "南海区区长区邦敏代表区政府向龙舟队颁发了100万元的奖金以嘉奖龙舟队在亚运会上为南海争光。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮",
+          "target": "《汉书 礼乐志》",
+          "relation": "记载于",
+          "evidence": "《汉书 礼乐志》中记载的象人便是舞狮的前身。",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "舞狮",
+          "relation": "同类",
+          "evidence": "南海龙狮舞狮子多在年节和喜庆活动中表演。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0122": {
+      "relations": []
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "《汉书 乐志》",
+          "relation": "记载于",
+          "evidence": "有关舞狮子的文字记载最早见于《汉书 乐志》",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "檀和之",
+          "relation": "承载文化",
+          "evidence": "檀和之奉命征讨林邑，士兵操着长矛骑在又高又大的象背上，使宋兵无可奈何。宋先锋官想到百兽",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮",
+          "target": "南北朝",
+          "relation": "属于时期",
+          "evidence": "南北朝时民间也流行舞行狮子",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮",
+          "target": "南北朝",
+          "relation": "发生于",
+          "evidence": "南北朝时民间也流行舞行狮子",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0125": {
+      "relations": []
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "舞狮子",
+          "target": "太平乐",
+          "relation": "承载文化",
+          "evidence": "在唐朝舞狮子已发展为上百人集体表演的大型歌舞还作为燕乐舞中在宫廷表演称为太平乐",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮子",
+          "target": "《东京梦华录》",
+          "relation": "记载于",
+          "evidence": "宋代的《东京梦华录》记载有的佛寺在节日开狮子会僧人坐在狮子上做法事、讲经",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮子",
+          "target": "《陶庵梦忆》",
+          "relation": "记载于",
+          "evidence": "明人张岱在《陶庵梦忆》中介绍了在浙江举行的灯节上大街小起锣鼓声处处有人聚集观看舞狮子的盛况",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮子",
+          "target": "北隔五岭、南接大海",
+          "relation": "属于时期",
+          "evidence": "以北隔五岭、南接大海的特殊地理位置孕育出敢于拼搏进取、务实致用等具有鲜明地方特色的岭南文化",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮子",
+          "target": "南粤",
+          "relation": "同类",
+          "evidence": "南狮由北方的黄狮子脱胎而来与北狮相近南狮头上扎有一只",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": []
+    },
+    "chunk_0128": {
+      "relations": []
+    },
+    "chunk_0129": {
+      "relations": []
+    },
+    "chunk_0130": {
+      "relations": [
+        {
+          "source": "广东南狮",
+          "target": "马来西亚",
+          "relation": "传承于",
+          "evidence": "被马来西亚官方列为本国30大国家文物遗产",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩舞狮",
+          "target": "马来西亚",
+          "relation": "承载文化",
+          "evidence": "2007年被马来西亚官方列为本国30大国家文物遗产",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "高桩舞狮",
+          "target": "南狮文化",
+          "relation": "承载文化",
+          "evidence": "南狮文化是岭南文化的优秀代表",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩舞狮",
+          "target": "南狮文化",
+          "relation": "传承于",
+          "evidence": "南狮文化是岭南文化的优秀代表",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩舞狮",
+          "target": "南狮文化",
+          "relation": "同类",
+          "evidence": "南狮文化是岭南文化的优秀代表",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": []
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "扎狮",
+          "relation": "承载文化",
+          "evidence": "扎狮（非遗技艺）：南狮传承人四牛与他的南狮道具制作过程",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": []
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "南海是南狮的发源地之一",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮",
+          "target": "南扎狮海",
+          "relation": "承载文化",
+          "evidence": "南扎狮海历史悠久",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "明清至民国时期",
+          "relation": "属于时期",
+          "evidence": "明清至民国时期舞狮时都沒有专门的服装和鞋",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南扎狮海",
+          "target": "明清至民国时期",
+          "relation": "属于时期",
+          "evidence": "明清至民国时期舞狮时都沒有专门的服装和鞋",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "清末",
+          "relation": "属于时期",
+          "evidence": "清末时也把长衫兜起衫脚束腰完全和武馆习武的装束一样",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0137": {
+      "relations": [
+        {
+          "source": "南海狮",
+          "target": "扎狮",
+          "relation": "承载文化",
+          "evidence": "南海是南狮的发源地之一，有舞狮就有扎狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "扎狮",
+          "target": "佛山彩扎狮头",
+          "relation": "同类",
+          "evidence": "佛山狮的扎制属于佛山民间工艺中的彩扎",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛山彩扎狮头",
+          "target": "佛山彩扎",
+          "relation": "承载文化",
+          "evidence": "佛山彩扎源远流长，佛山彩扎狮头始于清代乾隆年间",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛山彩扎狮头",
+          "target": "乾隆重阳",
+          "relation": "属于时期",
+          "evidence": "佛山彩扎狮头则始于清代乾隆年间至今已有两百多年历史",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大沥",
+          "target": "佛山彩扎狮头",
+          "relation": "承载文化",
+          "evidence": "主要分布在大沥、桂城",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "桂城",
+          "target": "佛山彩扎狮头",
+          "relation": "承载文化",
+          "evidence": "主要分布在大沥、桂城",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "得声乐器社",
+          "target": "南派武馆",
+          "relation": "承载文化",
+          "evidence": "得声乐器社有点像扎狮人的黄埔军校",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "扎狮师",
+          "relation": "关联人物",
+          "evidence": "四牛师傅与他的扎狮工艺",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "叶四牛",
+          "target": "得声乐器社",
+          "relation": "活动于",
+          "evidence": "四牛师傅与他的扎狮工艺大沥叶四牛是佛山为数不多的从扎、扑、写、装都能够一人独自完成的师傅",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": []
+    },
+    "chunk_0140": {
+      "relations": [
+        {
+          "source": "五彩刘备面",
+          "target": "佛山狮头",
+          "relation": "承载文化",
+          "evidence": "所谓五彩刘备面、红狮关公面和黑狮张飞面等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "红狮关公面",
+          "target": "佛山狮头",
+          "relation": "承载文化",
+          "evidence": "所谓五彩刘备面、红狮关公面和黑狮张飞面等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黑狮张飞面",
+          "target": "佛山狮头",
+          "relation": "承载文化",
+          "evidence": "所谓五彩刘备面、红狮关公面和黑狮张飞面等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0141": {
+      "relations": [
+        {
+          "source": "佛装狮",
+          "target": "南狮",
+          "relation": "属于时期",
+          "evidence": "传统的南狮分为佛装和鹤装两种",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "鹤装狮",
+          "target": "南狮",
+          "relation": "属于时期",
+          "evidence": "传统的南狮分为佛装和鹤装两种",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛鹤狮",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "佛鹤狮是结合佛装狮和鹤装狮特点的新型南狮狮头",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛鹤狮",
+          "target": "佛装狮",
+          "relation": "承载文化",
+          "evidence": "佛鹤狮是结合佛装狮和鹤装狮特点的新型南狮狮头",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛鹤狮",
+          "target": "鹤装狮",
+          "relation": "承载文化",
+          "evidence": "佛鹤狮是结合佛装狮和鹤装狮特点的新型南狮狮头",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0142": {
+      "relations": [
+        {
+          "source": "佛山狮狮头扎制",
+          "target": "四牛师傅",
+          "relation": "承载文化",
+          "evidence": "政府的重视也让四牛师傅看到了南狮扎制工艺传承和发展的希望",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "四牛师傅",
+          "target": "佛山狮狮头扎制",
+          "relation": "传承于",
+          "evidence": "政府的重视也让四牛师傅看到了南狮扎制工艺传承和发展的希望",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0143": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "扎狮",
+          "relation": "承载文化",
+          "evidence": "狮子道具制作工艺的传承和创新在很大程度上左右着龙狮运动的传承和创新",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "四牛师傅",
+          "target": "舞狮",
+          "relation": "传承于",
+          "evidence": "四牛师傅说要传承龙狮运动除了培养龙舞狮年轻人外很重要的一项就是狮子道具制作手艺的延续",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "四牛师傅",
+          "target": "扎狮",
+          "relation": "承载文化",
+          "evidence": "四牛师傅已经开始利用网络传播来推广他的扎狮工艺",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0144": {
+      "relations": [
+        {
+          "source": "四牛师傅",
+          "target": "扎狮工艺",
+          "relation": "承载文化",
+          "evidence": "四牛师傅利用网络传播扎狮工艺",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "扎狮工艺",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "扎狮工艺是传统龙狮制作技艺的一种",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "扎狮工艺",
+          "target": "北狮",
+          "relation": "同类",
+          "evidence": "扎狮工艺是传统龙狮制作技艺的一种，有南狮和北狮之分",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯南北狮王争霸赛",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯南北狮王争霸赛促进南狮交流",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯南北狮王争霸赛",
+          "target": "北狮",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯南北狮王争霸赛促进北狮交流",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "北狮",
+          "relation": "同类",
+          "evidence": "南狮和北狮有区别",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "佛山",
+          "relation": "承载文化",
+          "evidence": "广东的舞狮则以广州、佛山较有特色",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "北狮",
+          "target": "佛山",
+          "relation": "承载文化",
+          "evidence": "佛山（地名）：广东省佛山市，具有特色的舞狮文化",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "醒狮",
+          "relation": "同类",
+          "evidence": "南狮又称醒狮以神似为基础同武术相结合",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0147": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "刘备狮",
+          "relation": "承载文化",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "关羽狮",
+          "relation": "承载文化",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "张飞狮",
+          "relation": "承载文化",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "刘备狮",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "关羽狮",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "张飞狮",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "传统上南狮狮头有刘备、关羽、张飞之分。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0148": {
+      "relations": [
+        {
+          "source": "点睛仪式",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "舞狮之前通常还会举行点睛仪式就是把朱砂涂在独眼上象征给予其生命",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "点睛仪式",
+          "relation": "传承于",
+          "evidence": "舞狮之前通常还会举行点睛仪式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0149": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "高桩南狮",
+          "relation": "承载文化",
+          "evidence": "南海既是传统南狮的策源地更 是现代高桩狮的创新地",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "醒狮",
+          "relation": "同类",
+          "evidence": "南狮称为醒狮",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "南狮称为醒狮",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "采青",
+          "relation": "承载文化",
+          "evidence": "狮子在表演中各种思维、动作的目的把舞狮表演拟人化",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "采青",
+          "relation": "传承于",
+          "evidence": "狮子为子了采青不异千辛万苦排除万难",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": []
+    },
+    "chunk_0152": {
+      "relations": []
+    },
+    "chunk_0153": {
+      "relations": []
+    },
+    "chunk_0154": {
+      "relations": []
+    },
+    "chunk_0155": {
+      "relations": []
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": [
+        {
+          "source": "黄飞鸿杯狮人王争霸赛",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "在 西樵山举行的 黄飞鸿杯狮人王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩南狮",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "高桩南狮让人们 在 观赏 舞狮 表演 中时 而 紧张 时 而 惊奇 时 而 欢乐 从 而 陶醉 在 美好的 艺 术 享受 之 中。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩南狮",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "而 飞身上 桩腾 挪 飞跃挂 桩 钳 腰勇 过 铁 索这 些 都 是 高桩南狮的 难度。",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩南狮",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "高桩南狮表演 套路 多、难 度 大。",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "在 西樵山举行的 黄飞鸿杯狮人王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0158": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "南海狮",
+          "relation": "关联人物",
+          "evidence": "当时舞狮头者须有硬马、力沉、桥稳的功夫。舞狮尾则力帮狮头以腰劲腿快来助攻对方。从李连杰主演的电影《黄飞鸿之狮王争霸》",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿之狮王争霸",
+          "target": "南海狮",
+          "relation": "记载于",
+          "evidence": "从李连杰主演的电影《黄飞鸿之狮王争霸》",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0159": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "黄飞鸿擎着狮头飞天通地无所不能",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄钦添",
+          "relation": "关联人物",
+          "evidence": "现任南海黄飞鸿武术龙狮协会会长的黄钦添至今仍记得自己幼时学拳的情形",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0160": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "南拳",
+          "relation": "承载文化",
+          "evidence": "舞狮者往往是腰马合一的武林高手他们手从胸口发力从腰马生跳路中带着南源的刚劲猛烈才能把狮子舞得如同鱼游于水、蛇行于陆、气势磅礴、虎虎生风。",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "舞狮",
+          "relation": "同类",
+          "evidence": "南狮与武术相映生辉广南狮东首数南海。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "舞狮",
+          "target": "南拳",
+          "relation": "承载文化",
+          "evidence": "舞狮者往往是腰马合一的武林高手他们手从胸口发力从腰马生跳路中带着南源的刚劲猛烈才能把狮子舞得如同鱼游于水、蛇行于陆、气势磅礴、虎虎生风。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "舞狮",
+          "relation": "同族",
+          "evidence": "南狮与武术相映生辉广南狮东首数南海。",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0161": {
+      "relations": [
+        {
+          "source": "南派拳会",
+          "target": "佛山精武体育会",
+          "relation": "关联人物",
+          "evidence": "社会人士钟妙真发起筹建佛山精武体育会，鹰爪派、星蓉派、长江派、黄沙派的师傅均来过佛山精武体育会传授技艺。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "洪拳",
+          "target": "佛山精武体育会",
+          "relation": "承载文化",
+          "evidence": "精武会主要教授南派功夫形成了佛山近代著名的洪拳、蔡李佛、咏春、龙形",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "蔡李佛",
+          "target": "佛山精武体育会",
+          "relation": "承载文化",
+          "evidence": "精武会主要教授南派功夫形成了佛山近代著名的洪拳、蔡李佛、咏春、龙形",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "咏春",
+          "target": "佛山精武体育会",
+          "relation": "承载文化",
+          "evidence": "精武会主要教授南派功夫形成了佛山近代著名的洪拳、蔡李佛、咏春、龙形",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙形",
+          "target": "佛山精武体育会",
+          "relation": "承载文化",
+          "evidence": "精武会主要教授南派功夫形成了佛山近代著名的洪拳、蔡李佛、咏春、龙形",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "南派拳会",
+          "relation": "关联人物",
+          "evidence": "除了乡村的宗族祠堂、南派拳会组织的醒狮队以外社会上的工商界商会也成立南狮队",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "绸缕行",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "例如绸缕行、土布行、棉纱行等行业狮队舞的是文狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "土布行",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "例如绸缕行、土布行、棉纱行等行业狮队舞的是文狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "棉纱行",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "例如绸缕行、土布行、棉纱行等行业狮队舞的是文狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "酒店行",
+          "target": "醒狮",
+          "relation": "关联人物",
+          "evidence": "而酒店行、饮食行业、粉面行、牙刷行、建筑行、码头和搬运等行业的狮队舞的是武狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "饮食行业",
+          "target": "醒狮",
+          "relation": "关联人物",
+          "evidence": "而酒店行、饮食行业、粉面行、牙刷行、建筑行、码头和搬运等行业的狮队舞的是武狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "粉面行",
+          "target": "醒狮",
+          "relation": "关联人物",
+          "evidence": "而酒店行、饮食行业、粉面行、牙刷行、建筑行、码头和搬运等行业的狮队舞的是武狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0162": {
+      "relations": [
+        {
+          "source": "精武会",
+          "target": "洪拳",
+          "relation": "承载文化",
+          "evidence": "精 武 会主要 教授 南 派 功夫形 成了佛山 近代 著名 的 洪 拳",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "精武会",
+          "target": "蔡李佛",
+          "relation": "承载文化",
+          "evidence": "精 武 会主要 教授 南 派 功夫形 成了佛山 近代 著名 的 洪 拳、蔡 李 佛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "精武会",
+          "target": "咏春",
+          "relation": "承载文化",
+          "evidence": "精 武 会主要 教授 南 派 功夫形 成了佛山 近代 著名 的 洪 拳、蔡 李 佛、咏 春",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "精武会",
+          "target": "龙形源",
+          "relation": "承载文化",
+          "evidence": "精 武 会主要 教授 南 派 功夫形 成了佛山 近代 著名 的 洪 拳、蔡 李 佛、咏 春、龙 形 源",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "精武会",
+          "target": "白眉源",
+          "relation": "承载文化",
+          "evidence": "精 武 会主要 教授 南 派 功夫形 成了佛山 近代 著名 的 洪 拳、蔡 李 佛、咏 春、龙 形 源 和 白眉 源",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邓锦涛",
+          "target": "三山",
+          "relation": "活动于",
+          "evidence": "20 世纪 20 年 代拳 师 邓 锦 涛 就在三 山 设 技击 团传授南 拳",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邵汉生",
+          "target": "三山",
+          "relation": "活动于",
+          "evidence": "民国 十 四 年 1925  邵 汉 生 先生 在 三 山 创办 精 武 童 子 团组 织 少年 儿童 习 武 练狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邵汉生",
+          "target": "三山",
+          "relation": "活动于",
+          "evidence": "民国 十 五 年 1926 广 州 一连三 晚 举行 舞 狮 比赛。18 支 狮 队 参 加只 有 南海 三山队是童子狮 ",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "邵汉生",
+          "target": "三山",
+          "relation": "活动于",
+          "evidence": "民国 十 七 年 1928  邵 汉 生 先生 在 三 山 创 办 广 育 学 校 、 奕贤中 学、奕 贤 民众 教育 馆组 织 少年儿童 继续 习 武 练 犹",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "三山",
+          "target": "咏春",
+          "relation": "传承于",
+          "evidence": "南海 习 武 更 是 成 风桂 城三山 就 颇具 特色",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "三山",
+          "target": "洪拳",
+          "relation": "传承于",
+          "evidence": "南海 习 武 更 是 成 风桂 城三山 就 颇具 特色",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0163": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "醒狮",
+          "relation": "关联人物",
+          "evidence": "造就了一 批如黄 飞 鸿、叶 问 那 样 的武林 高 手。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0164": {
+      "relations": [
+        {
+          "source": "醒狮",
+          "target": "刘备狮",
+          "relation": "承载文化",
+          "evidence": "在醒狮形象的象征寄意上就塑造出以桃园三结义为精神寄托的刘备狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "张飞狮",
+          "relation": "承载文化",
+          "evidence": "在醒狮形象的象征寄意上就塑造出以桃园三结义为精神寄托的张飞狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "赵云狮",
+          "relation": "承载文化",
+          "evidence": "有个别地方的武馆借用历史上勇猛的武将威名为自己武馆的醒狮命名如命名为赵云狮",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "马超狮",
+          "relation": "承载文化",
+          "evidence": "有个别地方的武馆借用历史上勇猛的武将威名为自己武馆的醒狮命名如命名为马超狮",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "项羽狮",
+          "relation": "承载文化",
+          "evidence": "有个别地方的武馆借用历史上勇猛的武将威名为自己武馆的醒狮命名如命名为项羽狮",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0165": {
+      "relations": []
+    },
+    "chunk_0166": {
+      "relations": []
+    },
+    "chunk_0167": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "宝芝林",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿与继室莫桂兰苦心经营数十年的宝芝林连同刘永福题写的技艺皆精牌匾和他唯一的照片亦毁于战火。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0168": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "白云山",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿身后清贫，其弟子邓秀琼为其料理后事安葬于白云山",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "乐善山房",
+          "relation": "活动于",
+          "evidence": "黄飞鸿随父于广州乐善山房设馆授徒",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "无影脚",
+          "target": "黄飞鸿",
+          "relation": "承载文化",
+          "evidence": "相传其平生绝技有无影脚",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0169": {
+      "relations": [
+        {
+          "source": "林世荣",
+          "target": "伏虎拳",
+          "relation": "承载文化",
+          "evidence": "工字伏虎拳、虎鹤双形拳",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "林世荣",
+          "target": "虎鹤双形拳",
+          "relation": "承载文化",
+          "evidence": "虎鹤双形拳",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "莫桂兰",
+          "target": "伏虎拳",
+          "relation": "传承于",
+          "evidence": "莫桂兰在林世荣、邓秀琼的帮助",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "莫桂兰",
+          "target": "虎鹤双形拳",
+          "relation": "传承于",
+          "evidence": "莫桂兰在林世荣、邓秀琼的帮助",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "伏虎拳",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿一生以弘扬国粹、振兴岭南武术为己任",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "虎鹤双形拳",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿一生以弘扬国粹、振兴岭南武术为己任",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0170": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "宝芝林医药馆",
+          "relation": "活动于",
+          "evidence": "清光绪年间黄飞鸿在广州仁安里设宝芝林医药馆悬壶济世",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄飞鸿纪念馆",
+          "relation": "关联人物",
+          "evidence": "2001年佛山市人民政府为了纪念黄飞鸿的医德和武德专门修建了黄飞鸿纪念馆",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0171": {
+      "relations": []
+    },
+    "chunk_0172": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿将民间传统狮艺进行挖掘、整理",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "七星鼓",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿狮艺表演项目有传统鼓点表演七星鼓或三星鼓",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "舞龙功夫表演",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿狮艺表演项目有传统地狮表演、群狮表演龙门表、竹梯青等和舞龙功夫表演等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "七星鼓",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿狮艺表演项目有传统鼓点表演七星鼓或三星鼓",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "舞龙功夫表演",
+          "relation": "同类",
+          "evidence": "黄飞鸿狮艺表演项目有传统地狮表演、群狮表演龙门表、竹梯青等和舞龙功夫表演等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0173": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "出生于",
+          "evidence": "西樵山是黄飞鸿的出生地",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "禄舟村",
+          "relation": "活动于",
+          "evidence": "黄飞鸿狮艺武术馆位于西樵山脚下的禄舟村",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "英桂兰",
+          "relation": "关联人物",
+          "evidence": "英桂兰是黄飞鸿的夫人",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "英桂兰",
+          "target": "邓秀琼",
+          "relation": "关联人物",
+          "evidence": "英桂兰与弟子邓秀琼一起组建了南海第一支女狮队",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "禄舟村",
+          "relation": "位于",
+          "evidence": "黄飞鸿狮艺武术馆位于西樵山脚下的禄舟村",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "黄飞鸿狮艺武术馆位于西樵山脚下的禄舟村",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0174": {
+      "relations": [
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "黄飞鸿狮艺武术馆成了西樵的知名旅游景点",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄飞鸿狮艺武术馆",
+          "relation": "关联人物",
+          "evidence": "为游客表演并教青少年习武练狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "黄飞鸿狮艺武术馆",
+          "relation": "承载文化",
+          "evidence": "南海龙狮篇 黄飞鸿狮艺武术馆的狮队表演",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "西樵",
+          "relation": "属于时期",
+          "evidence": "1999年1月获香港世界醒独大赛亚军",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0175": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "南海区狮王大赛",
+          "relation": "活动于",
+          "evidence": "2000年春节获南海区南粤狮王大赛冠军",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "炎黄杯世界龙舟龙狮大赛",
+          "relation": "活动于",
+          "evidence": "2000年10月获炎黄杯世界龙舟龙狮大赛五项冠军",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0176": {
+      "relations": [
+        {
+          "source": "生菜会",
+          "target": "舞狮",
+          "relation": "承载文化",
+          "evidence": "会即访问行礼、采青在生菜内包扎银币以备舞狮者捡去",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大头佛",
+          "target": "舞狮",
+          "relation": "承载文化",
+          "evidence": "传统舞狮子少不了大头佛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大头佛",
+          "target": "生菜会",
+          "relation": "关联人物",
+          "evidence": "大头佛传说之一大头佛是文殊车萨的化身",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "文殊菩萨",
+          "target": "狮子驯化",
+          "relation": "承载文化",
+          "evidence": "专门安排文殊菩萨驯狮子",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "文殊菩萨",
+          "target": "舞狮子",
+          "relation": "关联人物",
+          "evidence": "舞狮子首先由文殊萨出场训练坐骑狮子",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "文殊菩萨",
+          "target": "舞狮子",
+          "relation": "传承于",
+          "evidence": "舞狮子首先由文殊萨出场训练坐骑狮子",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": [
+        {
+          "source": "光叔",
+          "target": "大头佛",
+          "relation": "承载文化",
+          "evidence": "63岁考取国家级龙狮裁判和教练证书的光叔在西樵有一位老人会玩全套大头佛动作",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "梁光泰",
+          "target": "大头佛",
+          "relation": "承载文化",
+          "evidence": "63岁的梁光泰还考取国家级龙狮裁判和教练证书成为西樵镇第三位国家级龙狮裁判和教练。传承西樵浓重的舞狮习俗",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "梁光泰",
+          "target": "大头佛",
+          "relation": "活动于",
+          "evidence": "几十年来光叔冬练三九、夏练三伏练得了一身好狮艺",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "大头佛",
+          "relation": "承载文化",
+          "evidence": "63岁的梁光泰还考取国家级龙狮裁判和教练证书成为西樵镇第三位国家级龙狮裁判和教练。传承西樵浓重的舞狮习俗",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "大头佛",
+          "relation": "盛产",
+          "evidence": "西樵镇以舞狮习俗闻名",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "梁光泰",
+          "relation": "同族",
+          "evidence": "63岁的国家级龙狮裁判和教练光叔在西樵有一位老人会玩全套大头佛动作这个人就是梁光泰人们称他为光板",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0179": {
+      "relations": [
+        {
+          "source": "光叔",
+          "target": "西椎十头醒狮",
+          "relation": "承载文化",
+          "evidence": "光叔虽然年近60岁，但宝刀未老，带领西椎十头醒狮出征阳江第四届旅游文化节开幕式。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "西椎十头醒狮",
+          "relation": "活动于",
+          "evidence": "2003年光叔虽然年近60岁，但宝刀未老，带领西椎十头醒狮出征阳江第四届旅游文化节开幕式。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "佛山禅城传统三月三活动",
+          "relation": "活动于",
+          "evidence": "佛山禅城每年举办的传统三月三活动也经常看到光叔舞着南狂的身影。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西椎十头醒狮",
+          "target": "阳江第四届旅游文化节开幕式",
+          "relation": "发生于",
+          "evidence": "2003年光叔虽然年近60岁，但宝刀未老，带领西椎十头醒狮出征阳江第四届旅游文化节开幕式。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "庐山",
+          "relation": "活动于",
+          "evidence": "2007年8月20日至25日中国龙狮运动协会在庐山举办全国舞龙舞狮教练员、裁判员培训班。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0180": {
+      "relations": [
+        {
+          "source": "光叔",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "光叔决心将西樵目前拥有的一些称号",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "黄飞鸿故居",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿故乡这两块",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0181": {
+      "relations": [
+        {
+          "source": "黄飞鸿故乡",
+          "target": "西樵镇",
+          "relation": "位于",
+          "evidence": "黄飞鸿故乡，位于佛山市南海区西樵镇",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "西樵大头佛唯一传人光叔不仅会舞南狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "大头佛",
+          "relation": "承载文化",
+          "evidence": "西樵大头佛唯一传人光叔不仅是濒临失传的大头佛扮演高手",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "南狮",
+          "relation": "传承于",
+          "evidence": "不仅会舞南狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "大头佛",
+          "relation": "传承于",
+          "evidence": "不仅是濒临失传的大头佛扮演高手",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0182": {
+      "relations": [
+        {
+          "source": "大头佛",
+          "target": "南狮",
+          "relation": "关联人物",
+          "evidence": "大头佛是传统南狮的陪衬,就像北狮的引独人一样",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "大头佛",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "大头佛与南狮配合表演",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0183": {
+      "relations": []
+    },
+    "chunk_0184": {
+      "relations": []
+    },
+    "chunk_0185": {
+      "relations": [
+        {
+          "source": "光叔",
+          "target": "南狮",
+          "relation": "传承于",
+          "evidence": "他最想做的事情就是办传统狮艺和大头佛培训班",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "光叔",
+          "target": "大头佛",
+          "relation": "传承于",
+          "evidence": "他最想做的事情就是办传统狮艺和大头佛培训班",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "大头佛",
+          "relation": "同类",
+          "evidence": "南狮、大头佛都后继有人",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0186": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "和顺镇",
+          "relation": "出生于",
+          "evidence": "姚大宁的故乡和顺镇举办了首届武术醒狮比赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "姚大宁",
+          "target": "和顺镇",
+          "relation": "活动于",
+          "evidence": "姚大宁的故乡和顺镇举办了首届武术醒狮比赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "官蜜镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "里水镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "盐步镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "大沥镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "平洲镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "桂城街道",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "西樵镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "南庄镇",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "和顺镇",
+          "target": "沙头街道",
+          "relation": "盛产",
+          "evidence": "1984年至1990年在和顺、官蜜、里水、盐步、大沥、平洲、桂城、九江、西樵、南庄、沙头举办了20届南海龙狮赛事",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "平洲电镀广狮队",
+          "relation": "承载文化",
+          "evidence": "平洲电镀广狮队还到中国香港、日本伊丹市访问演出传播了中华传统文化",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": [
+        {
+          "source": "南海龙狮武术运动协会",
+          "target": "高桩南狮",
+          "relation": "承载文化",
+          "evidence": "开始对传统舞狮进行改革与创新",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩南狮",
+          "target": "南海龙狮武术运动协会",
+          "relation": "传承于",
+          "evidence": "南海龙狮武术运动协会首次在南海推行舞高桩狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0190": {
+      "relations": [
+        {
+          "source": "高桩舞狮",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "许多大专院校如武汉体院、上海体院、湖南师范大学都有高桩舞狮训练项目。南海被誉为中国的南狮改革试验田",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩舞狮",
+          "target": "南海龙狮",
+          "relation": "传承于",
+          "evidence": "高桩舞狮在全国得到了推广成为专业的南狮比赛项目比赛规则也是南海制定",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0191": {
+      "relations": [
+        {
+          "source": "西樵山天湖公园",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "西樵山天湖公园位于西樵山下",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0192": {
+      "relations": [
+        {
+          "source": "竞速南狮",
+          "target": "技能南獅",
+          "relation": "同类",
+          "evidence": "技能南獅综合了传统南狮与高桩南狮的优点",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0193": {
+      "relations": []
+    },
+    "chunk_0194": {
+      "relations": [
+        {
+          "source": "黄飞鸿杯南北方狮王争霸赛",
+          "target": "双狮对打桩阵",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯南北狮王争霸赛的场面首次推出了双狮对打桩阵",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯南北方狮王争霸赛",
+          "target": "水上飞狮",
+          "relation": "承载文化",
+          "evidence": "南海狮王争霸赛的基础上再次改革提高难度推出了水上飞狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双狮对打桩阵",
+          "target": "水上飞狮",
+          "relation": "同类",
+          "evidence": "双狮对决套路为南狮两千多年历史难度动作最大的桩阵",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄飞鸿杯南北方狮王争霸赛",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿杯南北方狮王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0195": {
+      "relations": [
+        {
+          "source": "双桩阵",
+          "target": "竹梯阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "铁索桥阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "断桥阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "潇洒走一回阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "步步升高阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "渐入佳景阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "双桩阵",
+          "target": "擂台阵",
+          "relation": "承载文化",
+          "evidence": "整个桩阵分为竹梯阵、铁索桥阵、断桥阵等七大阵容",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0196": {
+      "relations": []
+    },
+    "chunk_0197": {
+      "relations": [
+        {
+          "source": "黄飞鸿狮队",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "南海黄飞鸿狮队曾到中国台湾、香港、美国等地巡回演出",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮队",
+          "target": "南狮",
+          "relation": "传承于",
+          "evidence": "要把南海的龙狮文化、龙狮精神传到世界各地",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0198": {
+      "relations": [
+        {
+          "source": "南海狮",
+          "target": "全国第九届运动会",
+          "relation": "承载文化",
+          "evidence": "南海狮亮相全国第九届运动会开幕式",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海狮",
+          "target": "全国第九届运动会",
+          "relation": "发生于",
+          "evidence": "2001年11月11日晚南海狮亮相全国第九届运动会开幕式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0199": {
+      "relations": []
+    },
+    "chunk_0200": {
+      "relations": []
+    },
+    "chunk_0201": {
+      "relations": []
+    },
+    "chunk_0202": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "黄钦添",
+          "relation": "同族",
+          "evidence": "黄飞鸿的第四代传人黄钦添教练",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄钦添",
+          "target": "周柏荣",
+          "relation": "关联人物",
+          "evidence": "南狮大演示总教头、南海武术南狮协会会长的常务副主席周柏荣先后执教带队",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0203": {
+      "relations": []
+    },
+    "chunk_0204": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "大沥",
+          "relation": "承载文化",
+          "evidence": "大沥龙狮舞象征着兴旺和吉祥",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "大沥",
+          "relation": "盛产",
+          "evidence": "大沥共有南狮1000多头、舞龙40多条",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "大沥",
+          "relation": "活动于",
+          "evidence": "大沥的龙狮队得以复兴和发展",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0205": {
+      "relations": [
+        {
+          "source": "大沥",
+          "target": "大沥人",
+          "relation": "同族",
+          "evidence": "大沥人爱龙狮犹如关爱自身的血脉",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海细龙学校",
+          "target": "盐步职中",
+          "relation": "位于",
+          "evidence": "南海细龙学校落户盐步职中",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海细龙学校",
+          "target": "盐步职中",
+          "relation": "承载文化",
+          "evidence": "通过学校这一教育平台培养龙狮人才、继承龙狮技艺、弘扬龙狮文化",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0206": {
+      "relations": [
+        {
+          "source": "祭龙仪式",
+          "target": "嘉洲广场杯全国大沥龙狮邀请赛",
+          "relation": "承载文化",
+          "evidence": "比赛的开幕式以文艺演出结合传统的祭龙、妹狮仪式凸显龙狮文化的精朵和韵味。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "妹狮仪式",
+          "target": "嘉洲广场杯全国大沥龙狮邀请赛",
+          "relation": "承载文化",
+          "evidence": "比赛的开幕式以文艺演出结合传统的祭龙、妹狮仪式凸显龙狮文化的精朵和韵味。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0207": {
+      "relations": []
+    },
+    "chunk_0208": {
+      "relations": []
+    },
+    "chunk_0209": {
+      "relations": [
+        {
+          "source": "龙腾",
+          "target": "盐步舞龙队",
+          "relation": "承载文化",
+          "evidence": "盐步舞龙队以以前是清一色的男生舞龙",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙腾",
+          "target": "盐步舞龙队",
+          "relation": "传承于",
+          "evidence": "盐步舞龙队以以前是清一色的男生舞龙",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "盐步舞龙队",
+          "target": "大源村武术狮团",
+          "relation": "同类",
+          "evidence": "大沥麦边村武术狮舞表演团队",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "中国春节文化周",
+          "target": "大源村武术狮团",
+          "relation": "发生于",
+          "evidence": "2006年春节受泰国政府部门邀请大沥麦边村武术龙狮团远赴泰国参加了中国春节文化周",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "中国春节文化周",
+          "target": "大源村武术狮团",
+          "relation": "承载文化",
+          "evidence": "他们的表演者只是来自乡镇一一一个名叫大源的珠三角名镇",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0210": {
+      "relations": []
+    },
+    "chunk_0211": {
+      "relations": [
+        {
+          "source": "醒狮",
+          "target": "大沥龙狮训练基地",
+          "relation": "承载文化",
+          "evidence": "在大沥龙狮训练基地内中联龙狮团等近70名团员在紧张地表演中",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "上海世博会",
+          "relation": "发生于",
+          "evidence": "大沥龙狮舞进上海世博会2010年上海世博会期间的广东主题活动",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "广东周",
+          "relation": "发生于",
+          "evidence": "广东周将通过独具岭南特色的系列文化展演和宣传活动全面展示最具魅力、最具活力、最具创造力的绿色广东新形象",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0212": {
+      "relations": [
+        {
+          "source": "黄钦添",
+          "target": "大沥",
+          "relation": "关联人物",
+          "evidence": "大沥黄飞鸿武术狮协会会长黄钦添表示",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "佛山南狮节目",
+          "target": "大沥",
+          "relation": "关联人物",
+          "evidence": "大沥黄飞鸿武术狮协会会长黄钦添表示",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0213": {
+      "relations": [
+        {
+          "source": "李有泉",
+          "target": "黄岐北村",
+          "relation": "出生于",
+          "evidence": "从小就在黄岐中村出生",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李有泉",
+          "target": "黄岐北村",
+          "relation": "活动于",
+          "evidence": "少年时在黄岐中村吃饭",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0214": {
+      "relations": [
+        {
+          "source": "南海衣冠",
+          "target": "南海古村",
+          "relation": "承载文化",
+          "evidence": "中联电缆与体育的结缘最初始自李有泉对龙狮运动的热爱。南海黄飞鸿中联武术龙狮团的前身是1996年成立的南海武协龙狮团。南海武协龙狮团是由当时南海盐步桥头和江心两个村的龙独发烧友自发成立",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0215": {
+      "relations": []
+    },
+    "chunk_0216": {
+      "relations": []
+    },
+    "chunk_0217": {
+      "relations": [
+        {
+          "source": "黄飞鸿中联武术龙狮团",
+          "target": "李有泉",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿中联武术龙狮团工作得到领导支持与鼓励",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙狮训练基地",
+          "target": "狮头",
+          "relation": "承载文化",
+          "evidence": "狮头和大鼓均是龙狮训练基地的镇基宝物",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0218": {
+      "relations": []
+    },
+    "chunk_0219": {
+      "relations": [
+        {
+          "source": "黄飞鸿中联武术龙狮团",
+          "target": "黄飞鸿杯南狮桩阵比赛",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯南狮桩阵比赛：南海龙狮表演的重要赛事之一",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿中联武术龙狮团",
+          "target": "西樵镇",
+          "relation": "活动于",
+          "evidence": "西樵镇从2001年开始连续十年利用五一节、国庆节在西樵山天湖公园举行冠名为黄飞鸿杯的狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山有丰富的自然景观和人文历史遗迹",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "狮王争霸赛",
+          "target": "西樵镇",
+          "relation": "发生于",
+          "evidence": "西樵镇从2001年开始连续十年利用五一节、国庆节在西樵山天湖公园举行冠名为黄飞鸿杯的狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "黄飞鸿杯南狮桩阵比赛",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯南狮桩阵比赛：南海龙狮表演的重要赛事之一",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0220": {
+      "relations": [
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "西樵山天湖公园",
+          "relation": "承载文化",
+          "evidence": "年利用五一节、国庆节在西樵山天湖公园举行冠名为黄飞鸿杯的狮王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "西樵",
+          "relation": "发生于",
+          "evidence": "西樵的狮王争霸赛已经成为世界狮艺比赛的顶尖赛事",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "西樵",
+          "relation": "传承于",
+          "evidence": "西樵的狮王争霸赛已经成为世界狮艺比赛的顶尖赛事",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山天湖公园",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "西樵山天湖公园位于佛山市南海区西樵镇",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0221": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山天湖公园",
+          "relation": "关联人物",
+          "evidence": "西樵是黄飞鸿的故乡",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0222": {
+      "relations": [
+        {
+          "source": "西樵镇",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "国家体总育局与 中国 龙狮运动协会 答应了 西樵镇政府 的 要求",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵镇",
+          "target": "南狮",
+          "relation": "活动于",
+          "evidence": "2001 年 十一 黄金 周狮艺邀 请 赛在天 湖 公 园 广 场 举行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "醒狮",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "思考更多 的 是如何通过 醒 狮 邀 请赛这 个 平台传播南海 南 狮",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵镇",
+          "relation": "关联人物",
+          "evidence": "他 们思考更多 的 是如何通过 醒 狮 邀 请赛这 个 平台传播南海 南 狮、武 术 与黄飞鸿这 个 品牌",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0223": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵镇",
+          "relation": "同族",
+          "evidence": "西樵是黄飞鸿的故乡",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "西樵镇",
+          "relation": "位于",
+          "evidence": "黄飞鸿狮艺武术馆位于佛山市南海区西樵镇",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "西樵镇",
+          "relation": "盛产",
+          "evidence": "西樵是南狮发源地",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山文化被誉为珠江流域从野蛮走向文明的灯塔",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "西樵镇",
+          "relation": "属于时期",
+          "evidence": "西樵自古以来就是历史文化名镇",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "黄飞鸿狮艺武术馆",
+          "relation": "传承于",
+          "evidence": "黄飞鸿狮艺武术馆的南狮队曾代表国家、省参加许多国际、国家级赛事",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0224": {
+      "relations": []
+    },
+    "chunk_0225": {
+      "relations": [
+        {
+          "source": "高桩狮",
+          "target": "传统南狮",
+          "relation": "同类",
+          "evidence": "传统南狮与高桩狮同台竞技",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0226": {
+      "relations": [
+        {
+          "source": "高桩狮",
+          "target": "狮王争霸赛",
+          "relation": "承载文化",
+          "evidence": "首次推出游客竞猜狮王让游客参与狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "高桩狮",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "高桩狮是一种具有挑战性的舞狮形式，一种传统的中国舞狮形式",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0227": {
+      "relations": [
+        {
+          "source": "龙狮",
+          "target": "西樵",
+          "relation": "承载文化",
+          "evidence": "2005年五一节西樵举办方首次推出南北狮王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙狮",
+          "target": "扎狮",
+          "relation": "承载文化",
+          "evidence": "举办法还在官山城区举行百狮巡游活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "扎狮",
+          "target": "官山城区",
+          "relation": "承载文化",
+          "evidence": "举办法还在官山城区举行百狮巡游活动",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0228": {
+      "relations": [
+        {
+          "source": "十姐藏狮队",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵在世界上首开先河推出的水上柱被誉为南狮两千多年历史上难度最大的桩阵",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "中国龙狮名镇",
+          "relation": "承载文化",
+          "evidence": "授予西樵中国龙狮名镇称号",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "十姐藏狮队",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿、十三姨双子星品牌",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0229": {
+      "relations": [
+        {
+          "source": "霍童线狮",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "2006年西樵山封闭修建近一个月但当年十一黄金周狮王争霸赛仍如期举行",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "徐水舞狮",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "2006年西樵山封闭修建近一个月但当年十一黄金周狮王争霸赛仍如期举行",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿电影《铁鸡斗螨内》",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿曾孙黄饶",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0230": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵",
+          "relation": "活动于",
+          "evidence": "2007年国庆节，西樵镇政府举行盛大黄飞鸿诞辰160周年活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "黄飞鸿狮艺武术馆位于西樵山下",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄饶龙",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿曾孙黄饶龙参与狮王争霸赛开幕仪式",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "林世荣",
+          "relation": "关联人物",
+          "evidence": "以他命名的狮队首次亮相狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "黄飞鸿",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿的后人、传人齐聚西樵山下的黄飞鸿狮艺武术馆一起研讨",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0231": {
+      "relations": [
+        {
+          "source": "南北狮王争霸赛",
+          "target": "技能南狮",
+          "relation": "承载文化",
+          "evidence": "南北狮王争霸赛中南海龙狮武术运动协会相继推出了技能南狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南北狮王争霸赛",
+          "target": "抽签南狮",
+          "relation": "承载文化",
+          "evidence": "南北狮王争霸赛中南海龙狮武术运动协会相继推出了抽签南狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南北狮王争霸赛",
+          "target": "水上飞狮",
+          "relation": "承载文化",
+          "evidence": "南北狮王争霸赛中南海龙狮武术运动协会相继推出了水上飞狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南北狮王争霸赛",
+          "target": "双狮对打",
+          "relation": "承载文化",
+          "evidence": "南北狮王争霸赛中南海龙狮武术运动协会相继推出了双狮对打",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "世界华人狮王争霸赛",
+          "target": "水上飞狮",
+          "relation": "承载文化",
+          "evidence": "2010年国庆节的世界华人狮王争霸赛推出了水上飞狮",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "世界华人狮王争霸赛",
+          "target": "双狮对打",
+          "relation": "承载文化",
+          "evidence": "2010年国庆节的世界华人狮王争霸赛推出了双狮对打",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "称桂英南狮队",
+          "target": "女子王牌军十三姨女子狮队",
+          "relation": "同类",
+          "evidence": "2队女子狮王分别是来自清远的称桂英南狮队与来自南海的女子王牌军十三姨女子狮队",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0232": {
+      "relations": [
+        {
+          "source": "佛山五大拳",
+          "target": "龙狮文化",
+          "relation": "承载文化",
+          "evidence": "佛山五大拳表演",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李杰",
+          "target": "西樵狮王争霸赛",
+          "relation": "活动于",
+          "evidence": "几乎每届西樵狮王争霸赛都会长李杰现场观战",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵狮王争霸赛",
+          "target": "龙狮文化",
+          "relation": "承载文化",
+          "evidence": "弘扬传统狮舞文化",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵狮王争霸赛",
+          "target": "龙狮文化",
+          "relation": "传承于",
+          "evidence": "弘扬和推广狮舞文化",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0233": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "龙狮运动",
+          "relation": "承载文化",
+          "evidence": "西樵以创新的举措塑造了品牌形成了自己的品牌特色",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "龙狮运动",
+          "relation": "盛产",
+          "evidence": "西樵是中国龙狮名镇、南狮发源地",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "出生于",
+          "evidence": "黄飞鸿，武术家，出生于西樵山",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "关联人物",
+          "evidence": "西樵将通过文化产业平台提高整个地区的软实力",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0234": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "关联人物",
+          "evidence": "南狮引路、武术搭台、发展旅游业的思路把黄飞鸿打造成为西樵旅游业的一张响当当的品牌。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "西樵山梦工场主题公园",
+          "relation": "承载文化",
+          "evidence": "2010年6月系列电影《叶问》投资者冼国林先生与西樵镇政府签约投资10多亿元人民币建设西樵山梦工场主题公园。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山梦工场主题公园",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "2010年6月系列电影《叶问》投资者冼国林先生与西樵镇政府签约投资10多亿元人民币建设西樵山梦工场主题公园。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "叶问",
+          "target": "西樵山",
+          "relation": "关联人物",
+          "evidence": "2010年6月系列电影《叶问》投资者冼国林先生与西樵镇政府签约投资10多亿元人民币建设西樵山梦工场主题公园。",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0235": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "黄飞鸿杯中国南北狮王争霸赛",
+          "relation": "承载文化",
+          "evidence": "西樵将狮王争霸赛作为平台",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0236": {
+      "relations": [
+        {
+          "source": "西樵影剧院后面的球场",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "每天演练都在西樵影剧院后面的球场上进行",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿狮艺武术馆",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿狮艺武术馆教练就在球场台阶上擂响了大鼓",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "张师傅",
+          "target": "西樵",
+          "relation": "活动于",
+          "evidence": "今年已经70，在西樵授徒已经有200多人",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "张师傅",
+          "target": "黄飞鸿狮艺武术馆",
+          "relation": "关联人物",
+          "evidence": "他的师傅姓张，今年已经70，在西樵授徒已经有200多人",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0237": {
+      "relations": [
+        {
+          "source": "张师傅",
+          "target": "天下第一狮",
+          "relation": "承载文化",
+          "evidence": "天下第一狮雄超超地送立在广场上",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵",
+          "target": "怕玉文化广场",
+          "relation": "位于",
+          "evidence": "西樵山下的怕玉文化广场",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "怕玉文化广场",
+          "target": "天下第一狮",
+          "relation": "承载文化",
+          "evidence": "世 界 第 一 狮雄超 超 地 送 立 在 广场 上",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0238": {
+      "relations": [
+        {
+          "source": "百狮巡游",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "巡游路线经过的区域",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "百狮巡游",
+          "target": "官山城区",
+          "relation": "发生于",
+          "evidence": "沿官山城区往樵园景区方向巡游",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "百狮巡游",
+          "target": "樵园景区",
+          "relation": "发生于",
+          "evidence": "巡游路线经过的区域",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "世界第一狮",
+          "target": "百狮巡游",
+          "relation": "承载文化",
+          "evidence": "西樵世界第一狮引领百狮巡游的场面",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0239": {
+      "relations": [
+        {
+          "source": "百狮巡游",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "百狮巡游是西樵历次大型群众性活动吸引人数最多的一次",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0240": {
+      "relations": [
+        {
+          "source": "九江女子狮队",
+          "target": "樵园景区",
+          "relation": "承载文化",
+          "evidence": "九江女子狮队舞到了巡游的终点樵园景区",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "九江女子狮队",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "九江女子狮队舞到了巡游的终点樵园景区，樵园景区位于西樵山下",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "一代武林宗师黄飞鸿偏不信这个那教妻子莫桂",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0241": {
+      "relations": [
+        {
+          "source": "十三姨狮队",
+          "target": "西樵",
+          "relation": "承载文化",
+          "evidence": "飞鸿故里西樵的人民同样不信组建了正儿八经的十三姨女子狮队",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十三姨狮队",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "李连杰主演的《黄飞鸿》系列电影中有一个与黄飞鸿形影不离的重要的人，这个人就是十三姨",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵",
+          "relation": "活动于",
+          "evidence": "飞鸿故里西樵的人民同样不信组建了正儿八经的十三姨女子狮队",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵",
+          "relation": "同族",
+          "evidence": "李连杰主演的《黄飞鸿》系列电影中有一个与黄飞鸿形影不离的重要的人，这个人就是十三姨。按史实披露历史上根本就没有十三姨这个人十三姨的原型就是黄飞鸿",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0242": {
+      "relations": [
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山旅游部门从2001年五一节开始承办黄飞鸿杯狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "西樵镇人民政府",
+          "relation": "关联人物",
+          "evidence": "西樵镇人民政府提出组建女子狮队的要求",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯狮王争霸赛",
+          "target": "桂城威胜狮队",
+          "relation": "承载文化",
+          "evidence": "旅游部门委托桂城威胜狮队创建女子狮队",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "西樵镇人民政府",
+          "relation": "属于时期",
+          "evidence": "西樵镇人民政府提出组建女子狮队的要求",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0243": {
+      "relations": [
+        {
+          "source": "十三姨女子狮队",
+          "target": "余卫国",
+          "relation": "关联人物",
+          "evidence": "受委托组建十三姨女子狮队的威胜狮队教练余卫国马上动身北上到多家武术学校选好苗子",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0244": {
+      "relations": [
+        {
+          "source": "余卫国",
+          "target": "释北村",
+          "relation": "活动于",
+          "evidence": "训练出这批女弟子",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0245": {
+      "relations": []
+    },
+    "chunk_0246": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "天湖公园",
+          "relation": "位于",
+          "evidence": "黄金周在 西樵山天湖公园举办的世界华人狮王争霸赛",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十三姨女子狮队",
+          "target": "天湖公园",
+          "relation": "活动于",
+          "evidence": "黄金周在西樵山天湖公园举办的世界华人狮王争霸赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0247": {
+      "relations": [
+        {
+          "source": "十三姨狮队",
+          "target": "龙狮运动",
+          "relation": "承载文化",
+          "evidence": "女狮王的参赛打破了传统南狮由男人一统天下的局面",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "十三姨狮队",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "推动了南狮运动向多样化、娱乐化、市场化、产业化方向发展 擦亮了西樵黄飞鸿、十三姨双子星座品牌",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙狮运动",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "推动了南狮运动向多样化、娱乐化、市场化、产业化方向发展 擦亮了西樵黄飞鸿、十三姨双子星座品牌",
+          "confidence": 0.7,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0248": {
+      "relations": [
+        {
+          "source": "十三姨",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "黄飞鸿杯狮王争霸赛中参赛的狮队有学生军狮赛队员",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵中学",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "西樵中学分校南狮进校园的标兵",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "桂城释北小学",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "桂城释北小学也是遥遥领先独领风骚",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西樵民乐小学",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "西樵民乐小学也都遥遥领先独领风骚",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0249": {
+      "relations": []
+    },
+    "chunk_0250": {
+      "relations": [
+        {
+          "source": "黄飞鸿杯中国南北狮王争霸赛",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿杯中国南北狮王争霸赛与黄飞鸿相关的传统赛事",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿杯世界华人南狮王争霸赛",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿杯世界华人南狮王争霸赛与黄飞鸿相关的传统赛事",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "广东省传统龙狮锦标赛",
+          "target": "黄飞鸿",
+          "relation": "关联人物",
+          "evidence": "广东省传统龙狮锦标赛与黄飞鸿相关的传统赛事",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0251": {
+      "relations": []
+    },
+    "chunk_0252": {
+      "relations": [
+        {
+          "source": "廖敏仪",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "廖敏仪说自己的家乡是南海人",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "廖敏仪",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "廖敏仪说弘扬南狮是每一个南海人的义务和责任",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0253": {
+      "relations": []
+    },
+    "chunk_0254": {
+      "relations": [
+        {
+          "source": "平西减速机厂",
+          "target": "桂城",
+          "relation": "属于时期",
+          "evidence": "南海桂城平西减速机厂就是一个佼佼者",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0255": {
+      "relations": [
+        {
+          "source": "平西减速机厂",
+          "target": "南狮",
+          "relation": "承载文化",
+          "evidence": "成立南狮队并发展壮大的企业",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "平西减速机厂",
+          "target": "南狮",
+          "relation": "活动于",
+          "evidence": "外出参加各种比赛",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "平西减速机厂",
+          "relation": "传承于",
+          "evidence": "聘请专业舞狮高手前来做教练",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0256": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "平洲",
+          "relation": "承载文化",
+          "evidence": "参加平洲首届南狮贺岁表演",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "桂城",
+          "relation": "承载文化",
+          "evidence": "佛山南海区桂城平洲平西减速机厂武术南狮训练基地挂牌",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "里水",
+          "relation": "承载文化",
+          "evidence": "参加里水传统狮比赛荣获第一名",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南狮",
+          "target": "九江",
+          "relation": "承载文化",
+          "evidence": "参加九江传统狮比赛荣获第一名",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0257": {
+      "relations": [
+        {
+          "source": "官窗桩狮王争霸赛",
+          "target": "西检水上飞桩比赛",
+          "relation": "同类",
+          "evidence": "均获当地观众一致好评。2007 年元宵节参加官窗桩狮王争霸赛获第二名 5 月 1 日参加西检水上飞桩比赛获男女混合组第二名",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "官窗桩狮王争霸赛",
+          "target": "佛山传统狮大赛",
+          "relation": "同类",
+          "evidence": "2007 年元宵节参加官窗桩狮王争霸赛获第二名 11 月 25 日参加佛山传统狮大赛荣获第二名",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西检水上飞桩比赛",
+          "target": "佛山传统狮大赛",
+          "relation": "同类",
+          "evidence": "5 月 1 日参加西检水上飞桩比赛获男女混合组第二名 11 月 25 日参加佛山传统狮大赛荣获第二名",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "西检山天湖水上飞狮赛",
+          "target": "西检水上飞桩比赛",
+          "relation": "同类",
+          "evidence": "2008 年 5 月 1 日参加西检山天湖水上飞狮赛荣获女子金奖。5 月 1 日参加西检水上飞桩比赛获男女混合组第二名",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0258": {
+      "relations": [
+        {
+          "source": "北沙武术南狮队",
+          "target": "北沙武术南狮馆",
+          "relation": "承载文化",
+          "evidence": "北沙武术南狮馆在南海众多的狮队中，北沙武术南狮队最具特色。",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "北沙武术南狮馆",
+          "target": "黄氏祠堂",
+          "relation": "位于",
+          "evidence": "北沙武术南狮馆于2004年4月1日在里水镇北沙鹤暖岗村黄氏祠堂举行挂牌庆典。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "传达摩祖师爷",
+          "target": "北沙武术南狮馆",
+          "relation": "传承于",
+          "evidence": "据传说中传授武艺的人物传达摩祖师爷传武艺于陆阿采和白眉道人这两个武林宗师。",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "陆阿采",
+          "target": "北沙武术南狮馆",
+          "relation": "传承于",
+          "evidence": "据传说中传授武艺的人物传达摩祖师爷传武艺于陆阿采和白眉道人这两个武林宗师。",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "白眉道人",
+          "target": "北沙武术南狮馆",
+          "relation": "传承于",
+          "evidence": "据传说中传授武艺的人物传达摩祖师爷传武艺于陆阿采和白眉道人这两个武林宗师。",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0259": {
+      "relations": [
+        {
+          "source": "陆阿采",
+          "target": "白眉道人",
+          "relation": "同族",
+          "evidence": "武林宗师，与陆阿采一同传授武艺",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "梁坤",
+          "target": "铁桥三",
+          "relation": "同族",
+          "evidence": "铁桥三收了谭敏做徒弟",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "谭敏",
+          "target": "何安",
+          "relation": "关联人物",
+          "evidence": "谭敏又收了何安、胡忠贤、林福做徒弟",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "谭敏",
+          "target": "胡忠贤",
+          "relation": "关联人物",
+          "evidence": "谭敏又收了何安、胡忠贤、林福做徒弟",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "谭敏",
+          "target": "铁线拳",
+          "relation": "承载文化",
+          "evidence": "谭敏之父是庄主经常捐资给官窗金山地因而有有幸认识铁桥三谭敏拜铁桥三为师学得真传练出铁桥马落生根等功夫",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "胡忠贤",
+          "target": "三线拳",
+          "relation": "承载文化",
+          "evidence": "胡忠贤和何安拜谭敏为师学习谭家铁线拳、三线拳。由于胡忠贤之妻是谭敏的侄女因而与谭敏关系很密切胡忠贤学艺很精创立了胡家铁线拳、三线拳",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "民国时期",
+          "target": "谭敏",
+          "relation": "活动于",
+          "evidence": "民国时期在谭敏的指引下胡忠贤在广州西关文",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0260": {
+      "relations": [
+        {
+          "source": "黄卓",
+          "target": "黄希年",
+          "relation": "传承于",
+          "evidence": "黄卓的儿子黄希年传承传统南狮技艺",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄希年",
+          "target": "黄桂平",
+          "relation": "传承于",
+          "evidence": "黄希年又将狮艺传给儿子黄桂平",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0261": {
+      "relations": [
+        {
+          "source": "谭胡",
+          "target": "南沙稚暖岗武馆",
+          "relation": "关联人物",
+          "evidence": "后来何九被谭胡介绍来南沙稚暖岗教村民武术和狮艺",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "何九",
+          "target": "南沙稚暖岗武馆",
+          "relation": "创建修建",
+          "evidence": "后来何九被谭胡介绍来南沙稚暖岗教村民武术和狮艺",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南沙稚暖岗武馆",
+          "target": "南沙鹤暖岗村",
+          "relation": "承载文化",
+          "evidence": "请何九来南沙鹤暖岗传艺都是他出钱因而是对南沙武馆贡献很大",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南沙稚暖岗武馆",
+          "target": "狮艺",
+          "relation": "承载文化",
+          "evidence": "在何九师传精心教导下稚暖岗武馆学员的武术和狮艺都比较出色",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南沙稚暖岗武馆",
+          "target": "南沙鹤暖岗村",
+          "relation": "传承于",
+          "evidence": "请何九来南沙鹤暖岗传艺都是他出钱因而是对南沙武馆贡献很大",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南沙稚暖岗武馆",
+          "target": "里水镇",
+          "relation": "承载文化",
+          "evidence": "70年代初应里水镇供销社邀请到中山黄埔表演受到很好的评价",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "何少棋",
+          "target": "南沙稚暖岗武馆",
+          "relation": "关联人物",
+          "evidence": "新中国成立后南沙稚暖岗村民延续了武术狮艺传统村里的鱼塘拨给武馆作经费村里又重新聘请何少棋来当教头传艺于村民使村里的年轻一代狮艺和武术水平有了迅速提高",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南沙稚暖岗武馆",
+          "target": "狮艺",
+          "relation": "著有",
+          "evidence": "狮艺武术夺得多项奖项从20世纪70年代开始南沙武术南狮馆就在狮艺方面获得累累硕果",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0262": {
+      "relations": []
+    },
+    "chunk_0263": {
+      "relations": [
+        {
+          "source": "南狮",
+          "target": "铁鸡斗蛤",
+          "relation": "承载文化",
+          "evidence": "南狮铁鸡斗蝇蛤复原了电影《铁鸡斗蝇蛤》的真实场景",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "佛山",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿佛山人",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0264": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "西樵",
+          "relation": "活动于",
+          "evidence": "西樵旅游局与赛事负责人在构思策划如何为这一届中国南北狮王争霸赛注入新的活力",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0265": {
+      "relations": []
+    },
+    "chunk_0266": {
+      "relations": []
+    },
+    "chunk_0267": {
+      "relations": []
+    },
+    "chunk_0268": {
+      "relations": [
+        {
+          "source": "龙舟",
+          "target": "南狮",
+          "relation": "同类",
+          "evidence": "龙舟和南狮已成为南海人生活中不可或缺的一部分",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0269": {
+      "relations": [
+        {
+          "source": "划龙舟",
+          "target": "西樵女子龙舟队",
+          "relation": "承载文化",
+          "evidence": "西樵女子龙舟队和九江女子龙舟队齐心协力、奋力拼搏",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "划龙舟",
+          "target": "九江女子龙舟队",
+          "relation": "承载文化",
+          "evidence": "西樵女子龙舟队和九江女子龙舟队齐心协力、奋力拼搏",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0270": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "黄飞鸿狮艺武术馆",
+          "relation": "关联人物",
+          "evidence": "黄飞鸿狮艺武术馆门外看着结合了体育、音乐和舞蹈而成的醒狮舞",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0271": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "龙狮",
+          "relation": "关联人物",
+          "evidence": "那个被电影演绎得具有传奇色彩的黄飞鸿的身影已与眼前的舞狂人交织重合在一起",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "龙狮",
+          "relation": "承载文化",
+          "evidence": "南海龙狮对于团结包容这四个字似乎南海民营企业联邦家私的总裁杜泽桦更能理解其中的含义",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0272": {
+      "relations": []
+    },
+    "chunk_0273": {
+      "relations": [
+        {
+          "source": "开拓创新精神",
+          "target": "南海人",
+          "relation": "承载文化",
+          "evidence": "因此当龙与狮结合在一起则凝结出一种开拓创新的精神。从古到今南海人都先人一步而大胆尝试、奋力开拓。",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "开拓创新精神",
+          "target": "南海的民营经济",
+          "relation": "承载文化",
+          "evidence": "20世纪80年代当全国其他地方还在讨论姓资姓社问题时南海的民营经济已出现了遍地开花的局面。",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0274": {
+      "relations": []
+    },
+    "chunk_0275": {
+      "relations": [
+        {
+          "source": "狮舞岭南龙腾南海",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "2010年8月一项名为《狮舞岭南龙腾南海的文化发展规划行动计划》公布",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0276": {
+      "relations": []
+    },
+    "chunk_0277": {
+      "relations": []
+    },
+    "chunk_0278": {
+      "relations": [
+        {
+          "source": "何香凝",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "其精神却在南海乃至中国永远驻留并影响着一代又一代的炎黄子孙",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "陈琼",
+          "target": "盐步",
+          "relation": "出生于",
+          "evidence": "陈女士是南海盐步人",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "何贤",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "多次代表夫人回南海探亲",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "锦龙",
+          "target": "南海",
+          "relation": "承载文化",
+          "evidence": "江山代有才人出更何况在南海这个四处散发着龙狮精神的地方",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李兴浩",
+          "target": "丰岗",
+          "relation": "关联人物",
+          "evidence": "创办了丰岗博物馆",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0279": {
+      "relations": [
+        {
+          "source": "李兴浩",
+          "target": "丰岗博物馆",
+          "relation": "创建修建",
+          "evidence": "创办了丰岗博物馆",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李兴浩",
+          "target": "丰岗百姓小报",
+          "relation": "著有",
+          "evidence": "编印丰岗百姓小报",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李兴浩",
+          "target": "丰岗文化长廊",
+          "relation": "创建修建",
+          "evidence": "创建丰岗文化长廊",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "李兴浩",
+          "target": "凤岭公园",
+          "relation": "创建修建",
+          "evidence": "建造凤岭公园",
+          "confidence": 0.95,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0280": {
+      "relations": [
+        {
+          "source": "龙狮精神",
+          "target": "松夏工业园区",
+          "relation": "承载文化",
+          "evidence": "松夏工业园区被称为珠三角首家园林式工业园区",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙狮精神",
+          "target": "南海国家生态工业示范园区",
+          "relation": "承载文化",
+          "evidence": "南海国家生态工业示范园区以循环经济为发展理念",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "龙狮精神",
+          "target": "南海软件科技园",
+          "relation": "承载文化",
+          "evidence": "南海软件科技园以其优美的生态环境和强大的软件研发能力打造中国第一蓝",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "松夏工业园区",
+          "target": "南海国家生态工业示范园区",
+          "relation": "同类",
+          "evidence": "南海国家生态工业示范园区以循环经济为发展理念松夏工业园区被称为珠三角首家园林式工业园区",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "松夏工业园区",
+          "target": "南海软件科技园",
+          "relation": "同类",
+          "evidence": "南海国家生态工业示范园区以循环经济为发展理念松夏工业园区被称为珠三角首家园林式工业园区南海软件科技园以其优美的生态环境和强大的软件研发能力打造中国第一蓝",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海国家生态工业示范园区",
+          "target": "南海软件科技园",
+          "relation": "同类",
+          "evidence": "南海国家生态工业示范园区以循环经济为发展理念松夏工业园区被称为珠三角首家园林式工业园区南海软件科技园以其优美的生态环境和强大的软件研发能力打造中国第一蓝",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0281": {
+      "relations": [
+        {
+          "source": "龙狮精神",
+          "target": "大沥镇文化站",
+          "relation": "承载文化",
+          "evidence": "大沥镇文化站提供了有关资料",
+          "confidence": 0.8,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "吴彪华",
+          "target": "龙狮精神",
+          "relation": "著有",
+          "evidence": "龙狮精神部分由吴彪华负责撰写",
+          "confidence": 1.0,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "吴彪华",
+          "target": "大沥镇文化站",
+          "relation": "关联人物",
+          "evidence": "吴彪华补充了部分内容大沥镇文化站闻子恒提供了有关资料",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0282": {
+      "relations": [
+        {
+          "source": "关润雄",
+          "target": "南海龙狮",
+          "relation": "承载文化",
+          "evidence": "向为本书编写提供大量资料和宝贵意见的国家级狮教练、南海狮协会会长关润雄",
+          "confidence": 0.9,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "南海",
+          "relation": "承载文化",
+          "evidence": "南海龙狮是南海地区的传统舞狮活动",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "是中国改革开放最早和经济最发达的地区之一",
+          "confidence": 0.75,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    },
+    "chunk_0283": {
+      "relations": [
+        {
+          "source": "南海龙狮",
+          "target": "南海古村",
+          "relation": "承载文化",
+          "evidence": "介绍了南海龙狮、南海古村等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海龙狮",
+          "target": "南海衣冠",
+          "relation": "承载文化",
+          "evidence": "介绍了南海龙狮、南海衣冠等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        },
+        {
+          "source": "南海衣冠",
+          "target": "南海古村",
+          "relation": "承载文化",
+          "evidence": "介绍了南海龙狮、南海衣冠、南海古村等",
+          "confidence": 0.85,
+          "source_file": "南海龙狮南海衣冠南海古村_南海龙狮篇"
+        }
+      ]
+    }
+  }
+}

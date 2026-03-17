@@ -1,0 +1,327 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [],
+      "chunk_text_hash": "1b6d6ee2"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "5a6da032"
+    },
+    "chunk_0002": {
+      "entities": [],
+      "chunk_text_hash": "f570c37e"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "0e252907"
+    },
+    "chunk_0004": {
+      "entities": [
+        {
+          "name": "鸦片战争",
+          "type": "历史事件",
+          "description": "1840年至1842年英国对中国发动的侵略战争",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "广州",
+          "type": "地名",
+          "description": "广东省省会，南海区邻近城市",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "三元里人民",
+          "type": "人物",
+          "description": "1841年在广州北部三元里抗英的民众群体",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "d647eee7"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "e346b2b8"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "1226dea9"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "a573cb18"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "ff6b38ac"
+    },
+    "chunk_0009": {
+      "entities": [
+        {
+          "name": "起义",
+          "type": "历史事件",
+          "description": "在起义烈火中诞生了人民政权，但最终失败",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "中山纪念堂",
+          "type": "建筑遗迹",
+          "description": "广东省人民和爱国华侨于一九三一年集资兴建的，解放后多次修整扩建",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "黄花岗七十二烈士墓",
+          "type": "建筑遗迹",
+          "description": "为纪念在黄花岗起义中牺牲的烈士而建",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "b8dfd525"
+    },
+    "chunk_0010": {
+      "entities": [],
+      "chunk_text_hash": "81eaad6f"
+    },
+    "chunk_0011": {
+      "entities": [],
+      "chunk_text_hash": "3c5c0e2f"
+    },
+    "chunk_0012": {
+      "entities": [
+        {
+          "name": "象牙工艺",
+          "type": "非遗技艺",
+          "description": "以象牙为材料进行雕刻的传统手工艺",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "1c6a2307"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "398d4af2"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "575c2045"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "7dba053e"
+    },
+    "chunk_0016": {
+      "entities": [],
+      "chunk_text_hash": "73f3fbb8"
+    },
+    "chunk_0017": {
+      "entities": [],
+      "chunk_text_hash": "cf185434"
+    },
+    "chunk_0018": {
+      "entities": [],
+      "chunk_text_hash": "93ceb3b3"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "812c5c8a"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "756fa616"
+    },
+    "chunk_0021": {
+      "entities": [],
+      "chunk_text_hash": "ec0e274d"
+    },
+    "chunk_0022": {
+      "entities": [],
+      "chunk_text_hash": "6bc2f993"
+    },
+    "chunk_0023": {
+      "entities": [],
+      "chunk_text_hash": "be8abe3d"
+    },
+    "chunk_0024": {
+      "entities": [
+        {
+          "name": "越秀公园",
+          "type": "建筑遗迹",
+          "description": "位于广州市，原名观音山，后经修缮建设了多个景点",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "镇海楼",
+          "type": "建筑遗迹",
+          "description": "建于1380年，现为广州博物馆",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "中山纪念堂",
+          "type": "建筑遗迹",
+          "description": "位于越秀公园内，为纪念孙中山而建",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "海员亭",
+          "type": "建筑遗迹",
+          "description": "位于越秀公园内，为纪念海员而建的亭子",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "广东植物园",
+          "type": "物产饮食",
+          "description": "始建于1956年，种植热带、亚热带植物",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "广州动物园",
+          "type": "物产饮食",
+          "description": "始建于1958年，饲养展出动物",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "1ed6695f"
+    },
+    "chunk_0025": {
+      "entities": [],
+      "chunk_text_hash": "31ceb917"
+    },
+    "chunk_0026": {
+      "entities": [],
+      "chunk_text_hash": "c2a58a3e"
+    },
+    "chunk_0027": {
+      "entities": [
+        {
+          "name": "七星岩风景区",
+          "type": "建筑遗迹",
+          "description": "位于佛山市南海区，风景名胜区，经过修缮后景色更加优美",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "盎洞石壁",
+          "type": "建筑遗迹",
+          "description": "七星岩风景区内的石壁，有历代游客刻下的诗词",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "53074e9d"
+    },
+    "chunk_0028": {
+      "entities": [
+        {
+          "name": "佛山",
+          "type": "地名",
+          "description": "佛山市南海区的地级市，位于珠江三角洲北部",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "石湾镇",
+          "type": "地名",
+          "description": "佛山市南海区的镇街之一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "砚石",
+          "type": "物产饮食",
+          "description": "佛山地区的传统石材，用于制作砚台",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "8f440fa6"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "c5aa352d"
+    },
+    "chunk_0030": {
+      "entities": [],
+      "chunk_text_hash": "ec4a34be"
+    },
+    "chunk_0031": {
+      "entities": [
+        {
+          "name": "佛山民间艺术研究社",
+          "type": "非遗技艺",
+          "description": "佛山民间传统工艺的整理和研究机构",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "佛山美术陶瓷厂",
+          "type": "非遗技艺",
+          "description": "佛山传统陶瓷制作工厂",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "祖上店",
+          "type": "建筑遗迹",
+          "description": "具有地方特色的古建筑，现为佛山市博物馆所在地",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "桑基鱼塘",
+          "type": "非遗技艺",
+          "description": "南海县、顺县一带的传统农业耕作方法",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "be8b394c"
+    },
+    "chunk_0032": {
+      "entities": [],
+      "chunk_text_hash": "055efd62"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "68e4e98f"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "9d1a913f"
+    }
+  }
+}

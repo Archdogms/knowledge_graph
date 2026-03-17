@@ -1,0 +1,15 @@
+{
+  "task": "extraction",
+  "model": "qwen2.5:7b",
+  "total_files": 22,
+  "completed_files": [],
+  "file_chunk_progress": {
+    "010_南海市文化艺术志.md": 674
+  },
+  "stats": {
+    "entities": 37,
+    "relations": 2
+  },
+  "last_update": "2026-03-16 20:50:24",
+  "status": "running"
+}

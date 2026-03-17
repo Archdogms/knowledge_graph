@@ -1,0 +1,5738 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "中国绘画史上最早的岭南画家张询",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "颜宗花",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "广东绘画作品中存世最早的卷轴画作者颜宗花",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林良",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "中国最早的油画家之一林良",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关乔昌",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "中国现当代著名画家关乔昌",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "中国现代著名女画家何香凝",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "南海康有为书法学院",
+          "relation": "创建修建",
+          "evidence": "南海康有为书法学院与康有为书法相关",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "南海康有为书法学院",
+          "relation": "活动于",
+          "evidence": "南海康有为书法学院与康有为书法相关",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "广东省东书法园",
+          "relation": "活动于",
+          "evidence": "南海康有为书法学院与广东省东书法园相关",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "邓芬",
+          "target": "南海画院",
+          "relation": "活动于",
+          "evidence": "岭南国代画家邓芬",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何便士",
+          "target": "南海画院",
+          "relation": "活动于",
+          "evidence": "中国漫画先驱何便士",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海画院",
+          "target": "南海丹青焕新彩",
+          "relation": "承载文化",
+          "evidence": "南海画院...南海丹青焕新彩",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "南海郡",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "秦始星三十年（公元前214年）置南海郡。南海县始建于隋朝开皇十年",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "西樵山石器遗址",
+          "target": "南海",
+          "relation": "位于",
+          "evidence": "西樵山石器遗址：西樵山的史前文化遗址",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "贝丘遗址",
+          "target": "南海",
+          "relation": "位于",
+          "evidence": "贝丘遗址：分布于南海区各地的史前文化遗址",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "唐宋年间",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "唐宋年间南海农业、手工业、商业和文化已相当发达",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "明代",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "明代以后随着经济的繁荣岭南文化也有了较大的发展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南越王曹",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "南越王曹出土十多枚有文字的印文和砖文",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "西樵山石器遗址",
+          "target": "唐宋年间",
+          "relation": "承载文化",
+          "evidence": "西樵山石器遗址见证了南海区远古时期的文化发展",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "贝丘遗址",
+          "target": "唐宋年间",
+          "relation": "承载文化",
+          "evidence": "贝丘遗址反映了南海区古代人类的生活方式",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "陈子壮",
+          "target": "亢露",
+          "relation": "同族",
+          "evidence": "亢露、陈子壮俱为抗清殉难的名士",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "谢兰生",
+          "relation": "关联人物",
+          "evidence": "朱次琦曾从谢兰生学书",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "广艺舟SUB一书",
+          "relation": "著有",
+          "evidence": "康 氏 的 影响无 论 从 书 学 理论 还是从 书法 实践 来 说都超出 广东 范围而 波及 整个 中 国 乃 至 日 本、韩 国 等 地。康 有 为 于 清光 绪 年间写成《 广 艺 舟 SUB 一 书  推出 尊 碑 之 说",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康体书法",
+          "relation": "承载文化",
+          "evidence": "建树起中 国 书法史上 的 一 座 丰 碑。康 有 为 及 康 门 书家所法形成的康派",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康派",
+          "relation": "承载文化",
+          "evidence": "建树起中 国 书法史上 的 一 座 丰 碑。康 有 为 及 康 门 书家所法形成的康派",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康体书法",
+          "target": "康派",
+          "relation": "同类",
+          "evidence": "建树起中 国 书法史上 的 一 座 丰 碑。康 有 为 及 康 门 书家所法形成的康派",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "连文叙",
+          "target": "南海书画",
+          "relation": "承载文化",
+          "evidence": "连文叙及其实迹",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "连文叙",
+          "target": "书迹",
+          "relation": "承载文化",
+          "evidence": "连文叙及其实迹",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海书画",
+          "target": "书迹",
+          "relation": "同类",
+          "evidence": "繁、隶、楷、行、草诸体都有饮誉全国的最高水平。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "光孝寺",
+          "relation": "活动于",
+          "evidence": "伦文叙小时候经常到光孝寺那里去玩",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "伦文叙",
+          "target": "大雄宝殿",
+          "relation": "活动于",
+          "evidence": "有有一天伦文叙正在大雄宝殿里清扫",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "黄囊",
+          "target": "顺天府",
+          "relation": "活动于",
+          "evidence": "出任顺天府主考",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄囊",
+          "target": "弘治九年",
+          "relation": "属于时期",
+          "evidence": "弘治九年1496 进士",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄囊",
+          "target": "正德初年",
+          "relation": "属于时期",
+          "evidence": "正德初年1506 升户部员外郎",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄囊",
+          "target": "正德十六年",
+          "relation": "属于时期",
+          "evidence": "正德十六年1521 升云南任右布政使",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "黄衷",
+          "target": "仁寿宫",
+          "relation": "承载文化",
+          "evidence": "仁寿宫和显陵营建",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄衷",
+          "target": "显陵",
+          "relation": "承载文化",
+          "evidence": "仁寿宫和显陵营建",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "霍渭涯",
+          "target": "《霍渭涯家训》",
+          "relation": "著有",
+          "evidence": "据《霍渭涯家训记载》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "霍播",
+          "target": "正德九年",
+          "relation": "活动于",
+          "evidence": "正德九年1514联捷会元",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "霍拥",
+          "target": "嘉靖帝",
+          "relation": "同族",
+          "evidence": "嘉靖帝世宗应尊生父献王朱兴为皇考",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "霍拥",
+          "target": "嘉靖帝",
+          "relation": "活动于",
+          "evidence": "嘉靖帝采不受",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "南集宫",
+          "target": "万历",
+          "relation": "属于时期",
+          "evidence": "万历四十三年 陈子壮20岁时应岁试冠邑弟 子 员。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈子壮",
+          "target": "南集宫",
+          "relation": "活动于",
+          "evidence": "有 一 年中秋佳节 看 不 见 月 光 一位在陈家赴宴的宾客颇感遗民便信口吟了两名古诗。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "探花",
+          "target": "中秋佳节",
+          "relation": "发生于",
+          "evidence": "待我明游年上苑探花因便问嫦娥。",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "陈子壮",
+          "target": "云深书院",
+          "relation": "创建修建",
+          "evidence": "陈子壮在广州白云山辟云深书院",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈子壮",
+          "target": "南园诗社",
+          "relation": "活动于",
+          "evidence": "修复南园诗社",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈子壮",
+          "target": "帅山书院",
+          "relation": "活动于",
+          "evidence": "后在帅山书院授徒讲学",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "陈子壮",
+          "target": "叶陈大夫祠",
+          "relation": "关联人物",
+          "evidence": "沙贝有宋名叶陈大夫祠中有对联是对其文武双全、一生忠义的概括",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈子壮",
+          "target": "叶陈大夫祠",
+          "relation": "活动于",
+          "evidence": "沙贝有宋名叶陈大夫祠中有对联是对其文武双全、一生忠义的概括",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈子壮",
+          "target": "沙贝",
+          "relation": "活动于",
+          "evidence": "沙贝有宋名叶陈大夫祠中有对联是对其文武双全、一生忠义的概括",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "亢露",
+          "target": "海雪堂",
+          "relation": "活动于",
+          "evidence": "又因他读所书在为海雪堂故又称亢海雪",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "亢露",
+          "target": "海雪堂",
+          "relation": "活动于",
+          "evidence": "五岁时就显为题往往",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "亢露",
+          "target": "南海县令黄沾",
+          "relation": "关联人物",
+          "evidence": "后来自他几次参加乡坛都落名孙山。于是放诞纵酒或散币发律于市中",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "郧露",
+          "target": "海雪堂",
+          "relation": "活动于",
+          "evidence": "端坐厅上将自己生平收藏怀素真迹和宝剑等文物尽数环列身边",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "郧露",
+          "target": "独寻春色上高台",
+          "relation": "著有",
+          "evidence": "世称浑朴厚茂有钟元常笔意。有学者认为郧露此幅的坚厚端严或达于元常",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "庞涡",
+          "target": "新果书院",
+          "relation": "活动于",
+          "evidence": "集诸生于新果书院相与讲习",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "庞涡",
+          "target": "罗浮山",
+          "relation": "活动于",
+          "evidence": "讲学罗浮山中从游者众",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "新果书院",
+          "target": "庞涡",
+          "relation": "承载文化",
+          "evidence": "集诸生于新果书院相与讲习",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "蔡年",
+          "target": "西樵山",
+          "relation": "著有",
+          "evidence": "著有 《太解图书极解》、《 绚唐 遗言 》和 《 绚 唐 存 稿 》。存 世 书 迹 为西权 山 《白洞云铭》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "《读诗类要》",
+          "target": "万历二十二年1594",
+          "relation": "记载于",
+          "evidence": "传世书迹为万历二十二年1594的楷书",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南书海函篇",
+          "target": "增城白水山",
+          "relation": "位于",
+          "evidence": "书于增城白水山",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "万寿寺",
+          "target": "增城白水山",
+          "relation": "位于",
+          "evidence": "出家万寿寺为僧",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "沈周",
+          "target": "吴派",
+          "relation": "关联人物",
+          "evidence": "受吴派影响所作笔力道劲朴逸秀润气格高凝有沈周风致",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "苏轼",
+          "target": "吴派",
+          "relation": "关联人物",
+          "evidence": "工诗书法仿苏轼、文征明时称",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "文征明",
+          "target": "吴派",
+          "relation": "关联人物",
+          "evidence": "工诗书法仿苏轼、文征明时称",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "顾其",
+          "target": "广东省博物馆",
+          "relation": "承载文化",
+          "evidence": "作《山水图册》十开藏本广东省博物馆",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "梁以留",
+          "target": "广州丛桂坊",
+          "relation": "活动于",
+          "evidence": "告假归里隐居于广州丛桂坊",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "广州丛桂坊",
+          "relation": "活动于",
+          "evidence": "告假归里隐居于广州丛桂坊",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "程可则",
+          "relation": "同族",
+          "evidence": "与同邑程可则、顺德陈恭尹、恤遇王邦几、方区元及其子方还、方朝等并称岭",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "恤遇王邦几",
+          "relation": "同族",
+          "evidence": "与同邑程可则、顺德陈恭尹、恤遇王邦几、方区元及其子方还、方朝等并称岭",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "方区元",
+          "relation": "同族",
+          "evidence": "与同邑程可则、顺德陈恭尹、恤遇王邦几、方区元及其子方还、方朝等并称岭",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "方还",
+          "relation": "关联人物",
+          "evidence": "其子方还、方朝等",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "方朝",
+          "relation": "关联人物",
+          "evidence": "其子方还、方朝等",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "《六莹堂前后集》",
+          "relation": "著有",
+          "evidence": "著有《六莹堂前后集》16卷传世收录了他近2000首诗",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "《阳春县志》",
+          "relation": "记载于",
+          "evidence": "曾参与修纂《阳春县志》已失为清康熙三十三年1691新修《南海县志》作序",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "曾参与修纂《阳春县志》已失为清康熙三十三年1691新修《南海县志》作序",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "山水、兰花",
+          "relation": "承载文化",
+          "evidence": "擅书画善画山水、兰花但作品不多",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "行书",
+          "relation": "承载文化",
+          "evidence": "行书见长传世作品也较多为清初岭南书坛的佼佼者",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "梁佩兰",
+          "target": "国朝书画家笔录",
+          "relation": "记载于",
+          "evidence": "《国朝书画家笔录》记录了梁佩兰等书画家的生平和作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "裴伯谦《壮陶阁书画录》",
+          "relation": "记载于",
+          "evidence": "裴伯谦《壮陶阁书画录》记录了梁佩兰等书画家的作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "叶梦龙《风满楼书画录》",
+          "relation": "记载于",
+          "evidence": "叶梦龙《风满楼书画录》记录了梁佩兰等书画家的作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "行七书言联",
+          "target": "梁佩兰",
+          "relation": "关联人物",
+          "evidence": "梁佩兰传世主要书迹约37件，在一些著名的书类画着录典籍如裴伯谦《壮陶阁书画录》、叶梦龙《风满楼书画录》等书中均有记载。在其传世书迹中以《行七书言联》广省博东物馆收藏",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "行七书言联",
+          "relation": "著有",
+          "evidence": "在其传世书迹中以《行七书言联》广省博东物馆收藏",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "陈伯任",
+          "target": "白云山碑订",
+          "relation": "记载于",
+          "evidence": "近有好事者将之铸刻于广州白云山碑订",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁家笔妈",
+          "target": "白云山碑订",
+          "relation": "承载文化",
+          "evidence": "其腕力之苍劲一望而知系梁家笔妈",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "RAKE RF",
+          "target": "翁山",
+          "relation": "同类",
+          "evidence": "岭南三南家RAKE RF的诗文各擅胜场在书法上也是各有千秋",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "RAKE RF",
+          "target": "深药亭",
+          "relation": "同类",
+          "evidence": "岭南三南家RAKE RF的诗文各擅胜场在书法上也是各有千秋",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "RAKE RF",
+          "target": "陈独液",
+          "relation": "同类",
+          "evidence": "岭南三南家RAKE RF的诗文各擅胜场在书法上也是各有千秋",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "翁山",
+          "target": "梁佩兰",
+          "relation": "同族",
+          "evidence": "幼曾记吾甸届翁山、深药亭、陈独液三先生相聚论书",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈独液",
+          "target": "梁佩兰",
+          "relation": "同族",
+          "evidence": "幼曾记吾甸届翁山、深药亭、陈独液三先生相聚论书",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "梁佩兰",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代其他书法家，清代南海有众多的书法家居住。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "程可则",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "顺治九年1652参加省会试得第一名，顺治十七年1660应阁试授内阁中书。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁佩兰",
+          "target": "清代",
+          "relation": "活动于",
+          "evidence": "清代其他书法家，清代南海有众多的书法家居住。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "程可则",
+          "target": "岭七子",
+          "relation": "同族",
+          "evidence": "他是岭七子南之一。",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "谢兰生",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "谢兰生，南海人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "林院",
+          "relation": "活动于",
+          "evidence": "进士选得林院庶吉士",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "粤秀书院",
+          "relation": "活动于",
+          "evidence": "粤秀、越华、端溪书院讲席后",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "越华书院",
+          "relation": "活动于",
+          "evidence": "粤秀、越华、端溪书院讲席后",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "端溪书院",
+          "relation": "活动于",
+          "evidence": "粤秀、越华、端溪书院讲席后",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "羊城书院",
+          "relation": "活动于",
+          "evidence": "任羊城书院山长",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "阮元",
+          "target": "羊城书院",
+          "relation": "关联人物",
+          "evidence": "曾受两广总督阮元延聘任重修《广诗学东坡》",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "董其昌",
+          "target": "颜鲁公",
+          "relation": "同类",
+          "evidence": "书法师颜鲁公参以褚遂良和李旨笔法",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "董其昌",
+          "target": "褚遂良",
+          "relation": "同类",
+          "evidence": "书法师颜鲁公参以褚遂良和李旨笔法",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "董其昌",
+          "target": "李旨",
+          "relation": "同类",
+          "evidence": "书法师颜鲁公参以褚遂良和李旨笔法",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "董香光",
+          "target": "董其昌",
+          "relation": "关联人物",
+          "evidence": "曾受两广总督阮元延聘任重修《广诗学东坡》书法师颜鲁公参以褚遂良和李旨笔法画得董香光的妙趣用笔俊有才气。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "吴荣光",
+          "target": "嘉庆四年",
+          "relation": "属于时期",
+          "evidence": "清 嘉庆 四年1799 中 进士",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "吴荣光",
+          "target": "等清馆金石录",
+          "relation": "著有",
+          "evidence": "编印了《等清馆金石录》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴荣光",
+          "target": "筠清馆法帖",
+          "relation": "著有",
+          "evidence": "编印了《筠清馆法帖》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴荣光",
+          "target": "金文款识类五卷",
+          "relation": "著有",
+          "evidence": "编印了《金文款识类五卷》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴荣光",
+          "target": "历代名人年谱",
+          "relation": "著有",
+          "evidence": "编印了《历代名人年谱》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "吴荣光",
+          "target": "云石山房诗录",
+          "relation": "著有",
+          "evidence": "《云石山房诗录》、《云石山房文集》等书写成未及刻印",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴荣光",
+          "target": "人金石录",
+          "relation": "著有",
+          "evidence": "《人金石录》记叙了吴荣光鉴碑帖的独到见解",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "粤秀书院",
+          "target": "道光二十二年",
+          "relation": "始建于",
+          "evidence": "道光二十四年1844讲粤秀书院数年间人才迭出",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "何文绮",
+          "target": "陆诗四游屏",
+          "relation": "著有",
+          "evidence": "何文绮行书《陆诗四游屏》",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "罗文俊",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "南海人",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "罗文俊",
+          "target": "道光二年",
+          "relation": "活动于",
+          "evidence": "清道光二年1822进士",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "罗文俊",
+          "target": "道光十三年",
+          "relation": "活动于",
+          "evidence": "道光十三年1833升左春坊左庶子",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "谢念功",
+          "target": "《绿葛书屋文集》",
+          "relation": "著有",
+          "evidence": "著有《绿葛书屋文集》。",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢念功",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "清道光十二年1832任学海堂学长。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "朱次琦是清代南海书坛最杰出的代表人物之一",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《剑光楼笔记》",
+          "target": "隶书轴",
+          "relation": "记载于",
+          "evidence": "《剑光楼笔记》说他精隶法尤以隶书为最工",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《剑光楼笔记》",
+          "relation": "著有",
+          "evidence": "《剑光楼笔记》说他精隶法尤以隶书为最工",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "隶书轴",
+          "target": "九江镇",
+          "relation": "盛产",
+          "evidence": "书法作品有《隶书轴》等",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "道光二十九年",
+          "relation": "活动于",
+          "evidence": "道光二十九年《1849正月朱次琦将妻女交付族人照看只身赴山西候补知县。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "咸丰元年",
+          "relation": "活动于",
+          "evidence": "清咸丰元年1851六月朱次琦任孝义县知县未及上任又被改署",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "南海县学官尊经阁",
+          "relation": "活动于",
+          "evidence": "清咸丰六年1856朱次琦南归在南海县学官尊经阁教书讲学",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "清咸丰八年1858朱次琦回到南海九江的家族宗祠讲学人称朱馆",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "礼山草堂",
+          "relation": "创建修建",
+          "evidence": "朱氏兄弟又租用位于九江南方礼山下的陈氏宗祠办起大馆人称礼山草堂",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "礼山草堂",
+          "target": "九江",
+          "relation": "位于",
+          "evidence": "朱氏兄弟又租用位于九江南方礼山下的陈氏宗祠办起大馆人称礼山草堂",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "羊城书院",
+          "relation": "活动于",
+          "evidence": "少 年时期 在羊城 书院",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "南海诗联",
+          "relation": "著有",
+          "evidence": "《求书者书》信中朱次琦回复绝对方的请求他谦称以自己的字只能给怕玉老人陈献章充当仆役",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "求书者书",
+          "relation": "著有",
+          "evidence": "《求书者书》信中朱次琦回复绝对方的请求他谦称以自己的字只能给怕玉老人陈献章充当仆役",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "著有",
+          "evidence": "康有为认为朱次琦写大字的境界超过颜真卿",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "朱九江",
+          "relation": "关联人物",
+          "evidence": "先师朱九江先生",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "朱法卢",
+          "relation": "关联人物",
+          "evidence": "朱次琦的学生朱法卢",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "书法",
+          "relation": "承载文化",
+          "evidence": "朱次琦关于书法的言论由朱杰勤整理并公开发表于20世纪30年代",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "邓兼济",
+          "relation": "活动于",
+          "evidence": "邓兼济不紧不慢研出来的墨要足供一天之用",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "苏轼",
+          "relation": "著有",
+          "evidence": "这样的墨迹就是苏轼所说的湛湛如小儿目睛",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "孙觉",
+          "relation": "活动于",
+          "evidence": "宋人孙觉34说书法贵在气势",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "晋人写字",
+          "relation": "关联人物",
+          "evidence": "朱次琦说 晋人写字讲求笔韵无不有法 而不见法",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "唐人写字",
+          "relation": "关联人物",
+          "evidence": "唐人写字 讲求法度都用中锋",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "宋代写字",
+          "relation": "关联人物",
+          "evidence": "宋人写字则全讲姿态用中锋少而偏锋多",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "欧阳询",
+          "relation": "关联人物",
+          "evidence": "朱次琦认为唐代书法家又以欧阳询和颜真卿两家为最易",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱次琦",
+          "target": "颜真卿",
+          "relation": "关联人物",
+          "evidence": "朱次琦认为唐代书法家又以欧阳询和颜真卿两家为最易",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "晋人写字",
+          "target": "《神赋十三行》",
+          "relation": "承载文化",
+          "evidence": "说到行书则以王神赋十三行为第一",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "唐人写字",
+          "target": "《多宝塔感应碑》",
+          "relation": "承载文化",
+          "evidence": "颜真卿的字之合时宜者莫如《多宝塔感应碑》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "唐人写字",
+          "target": "《颜家庙碑》",
+          "relation": "承载文化",
+          "evidence": "高古而法度者为《颜家庙碑》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "唐人写字",
+          "target": "《唐中大兴颂》",
+          "relation": "承载文化",
+          "evidence": "那 是 颜公晚年之笔若说最著名的则是其《唐中大兴颂》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "真卿",
+          "target": "《争座位帖》",
+          "relation": "著有",
+          "evidence": "真卿的《争座位帖》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "孙过庭",
+          "target": "《书谱》",
+          "relation": "著有",
+          "evidence": "孙 过 庭的《书谱少。 学 书法 知 想 达到 最 高 造 许则 要 师 法 晋人。 学 习 蒙 书 须 用人旧本 CHIT RRS Rie Mm CR 之 类。古 人学 篆书 每用长 毫 浓 墨。用 繁 书之二 分、真书 正楷 ZLIB MOV CANIS 八 分 书以《华庙山碑》 为 第 一",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "朱 次 琦有关书 法 的 言论 应 远 不 止 这 些他 的 学 生 康 有 为 不 仅 从 老师那里 学习了 执笔 方法也 学到 了关于 书 体 变迁 及 其得 失 等 方面的重要 知识。日 后康有为撰写《 广 艺 舟 双术 》对 历代 书 学 进行 全 面系统 的 考察这 是与朱 次 琦 的教导 分不开 的",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "活动于",
+          "evidence": "朱 次 琦有关书 法 的 言论 应 远 不 止 这 些他 的 学 生 康 有 为 不 仅 从 老师那里 学习了 执笔 方法也 学到 了关于 书 体 变迁 及 其得 失 等 方面的重要 知识。日 后康有为撰写《 广 艺 舟 双术 》对 历代 书 学 进行 全 面系统 的 考察这 是与朱 次 琦 的教导 分不开 的",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "九江礼出草堂",
+          "relation": "活动于",
+          "evidence": "清绪光二年《1876 到光绪四 年《1878康 有 为 在 朱 次 琦讲学 的九江礼出草堂兰 学 三 年 打 下 了 比较 深厚 的旧 学 根基",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "离开 朱 次 琦 后康 有 为 又 在 西樵山 遇到 了 来 游山的 翰林 院编修 张 淆 华",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "九江礼出草堂",
+          "target": "朱次琦",
+          "relation": "承载文化",
+          "evidence": "清绪光二年《1876 到光绪四 年《1878康 有 为 在 朱 次 琦讲学 的九江礼出草堂兰 学 三 年 打 下 了 比较 深厚 的旧 学 根基",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "张鼎华",
+          "relation": "活动于",
+          "evidence": "离开 朱 次 琦 后康 有 为 又 在 西樵山 遇到 了 来 游山的 翰林 院编修 张 淆 华",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "九江礼出草堂",
+          "target": "康有为",
+          "relation": "活动于",
+          "evidence": "清绪光二年《1876 到光绪四 年《1878康 有 为 在 朱 次 琦讲学 的九江礼出草堂兰 学 三 年 打 下 了 比较 深厚 的旧 学 根基",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "西樵山",
+          "target": "康有为",
+          "relation": "活动于",
+          "evidence": "离开 朱 次 琦 后康 有 为 又 在 西樵山 遇到 了 来 游山的 翰林 院编修 张 淆 华",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "九江礼出草堂",
+          "target": "张鼎华",
+          "relation": "活动于",
+          "evidence": "离开 朱 次 琦 后康 有 为 又 在 西樵山 遇到 了 来 游山的 翰林 院编修 张 淆 华",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "宣武门外米市胡同",
+          "relation": "活动于",
+          "evidence": "住在宣武门外 米 市 胡同 南海 会 馆",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "南海会馆",
+          "relation": "活动于",
+          "evidence": "住在宣武门外 米 市 胡同 南海 会 馆",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云征书屋",
+          "relation": "创建修建",
+          "evidence": "曾祖父康式鹏字云衢的老屋云征书屋。在此广州学海堂高材生陈千秋、梁局超先后成为康有为的弟子。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "学海堂",
+          "relation": "创建修建",
+          "evidence": "在此广州学海堂高材生陈千秋、梁局超先后成为康有为的弟子。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "长兴里3号",
+          "relation": "创建修建",
+          "evidence": "光绪十七年1891春康有为在陈于秋、梁启超的协助下租赁长兴里气氏书屋，正式开设学堂称长兴学含。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "创建修建",
+          "evidence": "光绪九年1893迁至广州府学宫仰高祠，正式挂土万木草堂的区额陈千秋、梁启超充任学长学生达百余人。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "甲午战争",
+          "relation": "发生于",
+          "evidence": "甲午战争战火纷飞",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《上皇帝书》",
+          "relation": "著有",
+          "evidence": "用一朋两夜的时间文不加点一口气呵成草出了洋洋洒洒18000字的《上皇帝书》",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "在康有为指导下表现出极大的爱国热情他联合多省举人上书都察院反对割让台湾",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "谏草堂",
+          "relation": "活动于",
+          "evidence": "连日在北京宣武门外松等唐的谏草堂集18省1300位举人传观讨论",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "公车上书",
+          "relation": "著有",
+          "evidence": "起草的《公车上书》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谏草堂",
+          "target": "宣武门",
+          "relation": "位于",
+          "evidence": "北京宣武门外松等唐的谏草堂",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "光绪帝",
+          "relation": "活动于",
+          "evidence": "询问有关变法事宜",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "总理衙门",
+          "relation": "活动于",
+          "evidence": "被请到总理衙门问话",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "光绪帝",
+          "target": "总理衙门",
+          "relation": "活动于",
+          "evidence": "又要推荐康有为堪大用",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "光绪",
+          "relation": "活动于",
+          "evidence": "光绪二十四年四月二十三日 1898年6月11日在康有为等维新变法派强烈要求下光绪帝颁布明定国是诏书 宣布正式变法",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪",
+          "relation": "活动于",
+          "evidence": "光绪二十四年四月二十八日 6月16日 光绪帝打破清朝皇帝不得召见小臣的祖家宗法特旨召见康有为于颐和园仁寿殿这是光绪帝和康有为第一次正式会见",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "颐和园仁寿殿",
+          "target": "光绪",
+          "relation": "承载文化",
+          "evidence": "光绪二十四年四月二十八日 6月16日 光绪帝打破清朝皇帝不得召见小臣的祖家宗法特旨召见康有为于颐和园仁寿殿这是光绪帝和康有为第一次正式会见",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "天游园",
+          "relation": "位于",
+          "evidence": "康有为病逝于青岛福山支路天游园居室",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "执笔",
+          "target": "天游园",
+          "relation": "承载文化",
+          "evidence": "康有为病逝于青岛福山支路天游园居室",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "执笔",
+          "target": "朱次琦",
+          "relation": "传承于",
+          "evidence": "朱次琦告诉他跳平要使一杯水放在上面也不会倾侧竖锋应让拇指横撑而出",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "执笔老",
+          "target": "九先生江法",
+          "relation": "关联人物",
+          "evidence": "康有为其后一生执笔缘用九先生江法",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "中国碑刻",
+          "target": "馆阁体",
+          "relation": "承载文化",
+          "evidence": "康有为在京师购历数千年之中国碑刻凡4000余纸",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "中国碑刻",
+          "target": "馆阁体",
+          "relation": "传承于",
+          "evidence": "馆阁体相传是历任乾隆、嘉庆、道光三朝大学士的曹振鐄创始",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "馆阁体",
+          "relation": "同族",
+          "evidence": "康有为的字体强烈出自己的个性有人形容其字如刷如扫正好和当时官场及应试流行的馆阁体反其道而行之",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "中国碑刻",
+          "target": "执笔老",
+          "relation": "记载于",
+          "evidence": "康有为明白自己以前写不好字完全是不懂得执笔老是用手指运笔难怪笔力靡弱似乎要卧倒在纸上一样",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "楷法",
+          "relation": "承载文化",
+          "evidence": "所谓光就是笔画光圆不可如出如扫",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "篆隶钟",
+          "relation": "承载文化",
+          "evidence": "治篆隶钟易于一炉",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "吴昌硕",
+          "relation": "关联人物",
+          "evidence": "其书法理论既坚持继承祖国优秀书法艺术传统又食古而化自出机杼其书法既表现了深厚的传统功力又表现了个性特色和时代风貌。康有为临池之时专用圆笔肆意观摩不避粗率字风雄奇奔放苍劲浑朴尤凑作壁案大字推陈出新独创一格与清末书法大家吴昌硕、沈曾植齐名",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "沈曾植",
+          "relation": "关联人物",
+          "evidence": "其书法理论既坚持继承祖国优秀书法艺术传统又食古而化自出机杼其书法既表现了深厚的传统功力又表现了个性特色和时代风貌。康有为临池之时专用圆笔肆意观摩不避粗率字风雄奇奔放苍劲浑朴尤凑作壁案大字推陈出新独创一格与清末书法大家吴昌硕、沈曾植齐名",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为篆书《七检园卷》",
+          "target": "康有为",
+          "relation": "著有",
+          "evidence": "其书法理论既坚持继承祖国优秀书法艺术传统又食古而化自出机杼其书法既表现了深厚的传统功力又表现了个性特色和时代风貌。康有为临池之时专用圆笔肆意观摩不避粗率字风雄奇奔放苍劲浑朴尤凑作壁案大字推陈出新独创一格与清末书法大家吴昌硕、沈曾植齐名",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "康体",
+          "target": "康有为",
+          "relation": "承载文化",
+          "evidence": "康体即康体。康南海体",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "行书",
+          "relation": "承载文化",
+          "evidence": "而康有为是在自己的行书作品上作的这一题践在心目中的新体自然首先指向于他的行书书体。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "千秋亭记",
+          "relation": "记载于",
+          "evidence": "其指向当然首先应该是康有为的楷书。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "千秋亭记",
+          "relation": "活动于",
+          "evidence": "在楼书《千秋亭记》的题跋中说的。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康体",
+          "relation": "著有",
+          "evidence": "遂成康体。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康体",
+          "relation": "创建修建",
+          "evidence": "在该刻笔势的基础上予以进一步的夸张，遂成康体。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "康有为的《广艺髓双查》清绪光十四年1888之际康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "光如楼",
+          "relation": "承载文化",
+          "evidence": "康有为的《广艺髓双查》清绪光十四年1888之际康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康体书法",
+          "relation": "著有",
+          "evidence": "康有为的《广艺髓双查》清绪光十四年1888之际康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "康体书法",
+          "relation": "创建修建",
+          "evidence": "康有为的《广艺髓双查》清绪光十四年1888之际康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "刘海粟",
+          "relation": "关联人物",
+          "evidence": "康有为教刘海粟写字的书迹来看",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "光如楼",
+          "relation": "活动于",
+          "evidence": "康有为在西樵山北银塘乡光如楼杀青",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "包世臣《艺舟双楫》",
+          "relation": "著有",
+          "evidence": "康有为从书中悟出济世真理，将其托古改制的变革思想融入其中",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "光如楼",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山北银塘乡光如楼",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《书镜》",
+          "relation": "著有",
+          "evidence": "该书在国内外散布数万册是我国书学史上的重要理论著作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓石如",
+          "target": "《书镜》",
+          "relation": "关联人物",
+          "evidence": "发扬光大邓石如、包世臣、吴让之、伊秉绥诸家",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "包世臣",
+          "target": "《书镜》",
+          "relation": "关联人物",
+          "evidence": "发扬光大邓石如、包世臣、吴让之、伊秉绥诸家",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴让之",
+          "target": "《书镜》",
+          "relation": "关联人物",
+          "evidence": "发扬光大邓石如、包世臣、吴让之、伊秉绥诸家",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "伊秉绶",
+          "target": "《书镜》",
+          "relation": "关联人物",
+          "evidence": "发扬光大邓石如、包世臣、吴让之、伊秉绥诸家",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《广艺舟双楫》",
+          "relation": "著有",
+          "evidence": "在《广艺舟双楫》中贯串着康有为变法、创新意为美的价值判断",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "南海",
+          "relation": "同族",
+          "evidence": "康有为，南海丹灶人",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《石门铭》",
+          "relation": "著有",
+          "evidence": "得力最深的是《石门铭》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《经石峪》",
+          "relation": "著有",
+          "evidence": "参以《经石峪》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《六十人造像》",
+          "relation": "著有",
+          "evidence": "参以《六十人造像》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《云峰石刻》",
+          "relation": "著有",
+          "evidence": "参以《云峰石刻》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双楫》",
+          "relation": "著有",
+          "evidence": "专门论述书法著作《广艺舟双楫》中",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《广艺舟双楫》",
+          "relation": "著有",
+          "evidence": "康有为精于书法理论还能以新颖的见解评论前人的书法不失为一位书法、书法理论家和书法评论家。《广艺舟双楫》传入日本易书名为《六朝书法论》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "岳雪楼",
+          "target": "和孔氏岳雪楼书画记",
+          "relation": "记载于",
+          "evidence": "著有 《和孔 氏 岳 雪 楼 书画记》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "和孔氏岳雪楼书画记",
+          "target": "岳雪楼",
+          "relation": "承载文化",
+          "evidence": "所 藏 之 书 多 为 精品",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "潘衍桐",
+          "target": "同治十二年",
+          "relation": "活动于",
+          "evidence": "清 同治 十 二年1873 考举人 列 第 一",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "光绪二年",
+          "relation": "活动于",
+          "evidence": "光 绪 二年 1876  进士  选输林 院 庶 吉 士",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": [
+        {
+          "source": "戴鸿慈",
+          "target": "《出使九国日记》",
+          "relation": "著有",
+          "evidence": "写出《出使九国日记》12卷",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "《列国政要》",
+          "relation": "著有",
+          "evidence": "编成《列国政要》133卷",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "《欧美政治要义》",
+          "relation": "著有",
+          "evidence": "写出《欧美政治要义》18卷",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "莫友芝",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "南海人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "程景宜",
+          "target": "尚美画室",
+          "relation": "创建修建",
+          "evidence": "设尚美画室于广东西寅关所顺画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "程景宜",
+          "target": "充学堂",
+          "relation": "活动于",
+          "evidence": "少时充学堂及菊坡精舍专经生",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "冯愿",
+          "target": "充学堂",
+          "relation": "活动于",
+          "evidence": "少时充学堂及菊坡精舍专经生",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "云泉仙馆是西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为故居",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "康有为故居是康有为居住地",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "康有为书学院",
+          "relation": "关联人物",
+          "evidence": "自 南海康有为 书 学 院 成立以来书 学 活动一直 得 到 广东 省 书法 家 协会的鼎力 支持",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为书学院",
+          "target": "碑学研究",
+          "relation": "承载文化",
+          "evidence": "《 书 镜 》 的 主要 栏目有 康有为 书 学 研究碑 学 研究",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为书学院",
+          "target": "岭南书法研究",
+          "relation": "承载文化",
+          "evidence": "《 书 镜 》 的 主要 栏目有 康有为 书 学 研究碑 学 研究岭 南 书法 研究",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "丹灶镇",
+          "relation": "出生于",
+          "evidence": "康有为，南海丹灶人",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "丹灶镇",
+          "relation": "活动于",
+          "evidence": "许多评推委掉其他繁的忙事务赶到评审现场",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为奖",
+          "target": "丹灶镇",
+          "relation": "承载文化",
+          "evidence": "将康有为故乡丹灶创建成为中国书法文化之乡",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为奖",
+          "target": "中国书坛创作精英",
+          "relation": "关联人物",
+          "evidence": "得到了中国书坛创作精英和学术精英的关注和支持",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "康有为书学院书法创作研究基地",
+          "target": "仙湖养生园",
+          "relation": "位于",
+          "evidence": "康有为书学院书法创作研究基地坐落在仙湖养生园内",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为书学院书法创作研究基地",
+          "target": "仙湖养生园",
+          "relation": "位于",
+          "evidence": "基地坐落在仙湖养生园内",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": []
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "郭亚明",
+          "target": "健雄",
+          "relation": "同族",
+          "evidence": "2004 年来 健雄 的 隶书 对 联获 气 韵 东方 一 别克 君威\" 全 国 书法 篆刻 大 赛 佳作奖 郭亚明 的 魏 楷 和人选 全 国 第八届 书 法 篆刻 作品 展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": []
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": []
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": []
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "陈景舒",
+          "target": "靖席别署凝锋楼",
+          "relation": "创建修建",
+          "evidence": "字靖席别署凝锋楼",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": []
+    },
+    "chunk_0121": {
+      "relations": []
+    },
+    "chunk_0122": {
+      "relations": []
+    },
+    "chunk_0123": {
+      "relations": []
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": []
+    },
+    "chunk_0126": {
+      "relations": []
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "山人",
+          "target": "扬州画派",
+          "relation": "关联人物",
+          "evidence": "清代中叶出现了两个均以城市商品经济为背景、以写意花鸟画而著称的派系即扬州画派和",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "民间绘画",
+          "target": "版画",
+          "relation": "同类",
+          "evidence": "比较常见的民间传统绘画有版画、年画、壁画等几种。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "民间绘画",
+          "target": "年画",
+          "relation": "同类",
+          "evidence": "比较常见的民间传统绘画有版画、年画、壁画等几种。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "民间绘画",
+          "target": "壁画",
+          "relation": "同类",
+          "evidence": "比较常见的民间传统绘画有版画、年画、壁画等几种。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": []
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "张询",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "晚唐信宗874—888时期南海人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "僧徽",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "晚唐时期南海人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "卢眉娘",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "唐代南海人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "僧徽",
+          "relation": "同类",
+          "evidence": "唐朝岭南尚有另外两个画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "卢眉娘",
+          "relation": "同类",
+          "evidence": "唐朝岭南尚有另外两个画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "僧徽",
+          "target": "卢眉娘",
+          "relation": "同类",
+          "evidence": "唐朝岭南尚有另外两个画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": [
+        {
+          "source": "宗赐卢眉娘",
+          "target": "中国绘画",
+          "relation": "承载文化",
+          "evidence": "即使如此，在万籁俱罕的绘画原野上也迎来了空谷足音一一那就是集道士、南海书玛篇065书法家、画家、许人于一身的白玉蟾的出现。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "白玉蟾",
+          "target": "中国绘画",
+          "relation": "承载文化",
+          "evidence": "那就是集道士、南海书玛篇065书法家、画家、许人于一身的白玉蟾的出现。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0131": {
+      "relations": []
+    },
+    "chunk_0132": {
+      "relations": []
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代康有为后期及乾隆时期是政治、经济、文化都相对繁荣的时期",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "岭南画史",
+          "target": "清代",
+          "relation": "记载于",
+          "evidence": "清代康有为后期及乾隆时期是政治、经济、文化都相对繁荣的时期，这一时期是岭南画史上第一次创作高峰",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "汪后",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代嘉庆时期的广东的画家还有很多人如汉敏昌、潘有为、王利享等",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "汉敏昌",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代嘉庆时期的广东的画家还有很多人如汉敏昌、潘有为、王利享等",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘有为",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代嘉庆时期的广东的画家还有很多人如汉敏昌、潘有为、王利享等",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "王利享",
+          "target": "清代",
+          "relation": "属于时期",
+          "evidence": "清代嘉庆时期的广东的画家还有很多人如汉敏昌、潘有为、王利享等",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": [
+        {
+          "source": "苏六朋",
+          "target": "苏仁山",
+          "relation": "同类",
+          "evidence": "并称二苏",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "苏仁山",
+          "target": "苏六朋",
+          "relation": "同类",
+          "evidence": "并称二苏",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "苏六朋",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "苏仁山",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "招子庸",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "郑绩",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁于渭",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关乔昌",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关联想昌",
+          "target": "岭南画",
+          "relation": "承载文化",
+          "evidence": "岭南画家群在民初画坛形成了三足易立的局面",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": [
+        {
+          "source": "张询",
+          "target": "昭党寺大慈悲堂",
+          "relation": "活动于",
+          "evidence": "张询于是画了堵早景、一堵晚景、一堵午景谓之三时山",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "昭党寺大慈悲堂",
+          "relation": "著有",
+          "evidence": "张询于是画了堵早景、一堵晚景、一堵午景谓之三时山",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "三时山",
+          "target": "张询",
+          "relation": "创建修建",
+          "evidence": "张询于是画了堵早景、一堵晚景、一堵午景谓之三时山",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0137": {
+      "relations": [
+        {
+          "source": "张询",
+          "target": "四川",
+          "relation": "承载文化",
+          "evidence": "此图曾为北宋御府收藏论者谓有临深履险之遗风",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "四川",
+          "relation": "活动于",
+          "evidence": "促使绘画之重心移至四川",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "吴中",
+          "relation": "活动于",
+          "evidence": "他特别擅长画吴中一带的起伏山蛮",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张询",
+          "target": "楚地",
+          "relation": "活动于",
+          "evidence": "他特别擅长画吴中、楚地一带的起伏山蛮",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "郑午昌",
+          "target": "《中国画学全史》",
+          "relation": "著有",
+          "evidence": "近人郑午昌在其所著之《中国画学全史》",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": [
+        {
+          "source": "颜宗",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "颜宗字学渊，南海人。生于明洪武二十六年1393。",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "颜宗",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "颜宗曾出任福建邵武知县",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "颜宗",
+          "target": "《湖山平远图》",
+          "relation": "著有",
+          "evidence": "广东现存最早的古典绘画作品是画家颜宗的《湖山平远图。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《湖山平远图》",
+          "target": "山水画",
+          "relation": "承载文化",
+          "evidence": "所写山水多为平远景，色极尽潇洒清旷之致，苍浑健劲，独具一格。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海书画",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "南海地区的传统书画艺术",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "山水画",
+          "target": "南海书画",
+          "relation": "同类",
+          "evidence": "南海地区的传统书画艺术",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": [
+        {
+          "source": "颜宗",
+          "target": "《湖平山远图》",
+          "relation": "著有",
+          "evidence": "《湖平山远图》是明代颜宗所作。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《南海县志》",
+          "target": "颜宗",
+          "relation": "记载于",
+          "evidence": "《南海县志》记载了颜宗的相关信息。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈敬宗",
+          "target": "颜宗",
+          "relation": "同族",
+          "evidence": "陈敬宗与颜宗不仅为同时代人，而且很可能有过从识的关系。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0142": {
+      "relations": [
+        {
+          "source": "《湖平山远图》",
+          "target": "《江山渔乐图卷》",
+          "relation": "同类",
+          "evidence": "与同属江山平远景色的王蒙《江山渔乐图卷》相比",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《潮山平远图》",
+          "target": "广东",
+          "relation": "属于时期",
+          "evidence": "1949年后国家为保护文化遗产收购回国现藏于广东省博物馆",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0143": {
+      "relations": [
+        {
+          "source": "林良",
+          "target": "画院",
+          "relation": "活动于",
+          "evidence": "明代宣德到弘治年间进入了兴盛时期。明太祖建国后立即恢复画院他本人也能画",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0144": {
+      "relations": [
+        {
+          "source": "林和良",
+          "target": "《讼鹊图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《讼鹊图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "《雇图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《雇图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "《双雇图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《双雇图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "《反原图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《反原图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "《芦边双鹊图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《芦边双鹊图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "《柳塘游鸭图》",
+          "relation": "著有",
+          "evidence": "林和良的花鸟画作品有《柳塘游鸭图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林和良",
+          "target": "明嘉靖黄佐《广通东志》",
+          "relation": "记载于",
+          "evidence": "明嘉靖黄佐《广通东志》是记述林和良的最早文献",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "林良",
+          "target": "元代",
+          "relation": "属于时期",
+          "evidence": "林良主要是以元代水墨花鸟画的传统为基础",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "王渊",
+          "target": "元代",
+          "relation": "属于时期",
+          "evidence": "元代王渊的水墨花鸟笔力沉稳",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张中",
+          "target": "元代",
+          "relation": "属于时期",
+          "evidence": "元代张中的水墨花鸟更进一步",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "王渊",
+          "target": "元代",
+          "relation": "著有",
+          "evidence": "王渊的水墨花鸟笔力沉稳而又有自己的特色",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张中",
+          "target": "元代",
+          "relation": "著有",
+          "evidence": "张中的水墨花鸟更进一步",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": [
+        {
+          "source": "林良",
+          "target": "《九思图》",
+          "relation": "著有",
+          "evidence": "萧链题林良《九思图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林良",
+          "target": "《芦雁》",
+          "relation": "著有",
+          "evidence": "顾清题林良《芦雁》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林良",
+          "target": "《图画精意》",
+          "relation": "记载于",
+          "evidence": "清代张康《图画精意》中对林良花鸟有这样一段较细致的分析",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0147": {
+      "relations": []
+    },
+    "chunk_0148": {
+      "relations": [
+        {
+          "source": "林良",
+          "target": "北京故宫博物院",
+          "relation": "承载文化",
+          "evidence": "北京故宫博物院藏林良《灌集禽木图卷》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林良",
+          "target": "上海博物馆",
+          "relation": "承载文化",
+          "evidence": "上海博物馆藏《山白鹏茶图轴》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林良《灌木集禽图卷》",
+          "target": "北京故宫博物院",
+          "relation": "位于",
+          "evidence": "北京故宫博物院藏林良《灌集禽木图卷》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《山茶白鹏图轴》",
+          "target": "上海博物馆",
+          "relation": "位于",
+          "evidence": "上海博物馆藏《山白鹏茶图轴》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0149": {
+      "relations": []
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "朱完",
+          "target": "画竹",
+          "relation": "著有",
+          "evidence": "画 墨 竹 有 泼 辣 、 刚 劲 的 风 骨",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱完",
+          "target": "山水",
+          "relation": "著有",
+          "evidence": "所 作 山 水 有 真 实 感",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱完",
+          "target": "人物",
+          "relation": "著有",
+          "evidence": "尤 擅 白 描 人 物 、佛像",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "山水轴",
+          "target": "山水",
+          "relation": "同类",
+          "evidence": "《山水轴》 纸本设色纵 104 4 厘米、 横 512 厘米",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": [
+        {
+          "source": "区亦珍",
+          "target": "广州光孝寺",
+          "relation": "活动于",
+          "evidence": "广州光孝寺僧重修六祖发塔苦提坛时请他为之绘画刻石",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "朱硅",
+          "target": "广州光孝寺",
+          "relation": "活动于",
+          "evidence": "善人人物、出水风格与圳登道相近",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0152": {
+      "relations": [
+        {
+          "source": "赖镜",
+          "target": "坐 着白云山",
+          "relation": "著有",
+          "evidence": "广美术州馆藏赖镜《坐着白云山》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "赖镜",
+          "target": "山斗方水图册",
+          "relation": "著有",
+          "evidence": "他的《山斗方水图册》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "赖镜",
+          "target": "省广博物馆东画集",
+          "relation": "记载于",
+          "evidence": "《省广博物馆东画集 》刊有赖 镜的四幅绘画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0153": {
+      "relations": [
+        {
+          "source": "赖镜",
+          "target": "《仿米氏云山图卷》",
+          "relation": "著有",
+          "evidence": "有 《仿米氏云山图卷》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "赖镜",
+          "target": "何氏至乐楼",
+          "relation": "承载文化",
+          "evidence": "香港何氏至乐楼藏其《山长水卷》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "赖镜",
+          "target": "《山长水卷》",
+          "relation": "承载文化",
+          "evidence": "香港何氏至乐楼藏其《山长水卷》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "赖镜",
+          "target": "《名广家书画东选集》",
+          "relation": "记载于",
+          "evidence": "1959年香港《大公报》出版《名广家书画东选集》刊有马积",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0154": {
+      "relations": [
+        {
+          "source": "吴韦",
+          "target": "《岭画币南略》",
+          "relation": "记载于",
+          "evidence": "据《岭画币南略》卷三载吴韦初名文炜",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《广画人东录》",
+          "relation": "记载于",
+          "evidence": "《广画人东录》则作吴文炜原名炜",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "吴文炜",
+          "relation": "同族",
+          "evidence": "一说为吴韦本名",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴文炜",
+          "target": "吴韦",
+          "relation": "同族",
+          "evidence": "一说为吴韦本名",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0155": {
+      "relations": [
+        {
+          "source": "吴韦",
+          "target": "《画人录》",
+          "relation": "记载于",
+          "evidence": "《画人录》另有引明陈子壮《秋园许》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《秋园许》",
+          "relation": "记载于",
+          "evidence": "《画人录》另有引明陈子壮《秋园许》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0156": {
+      "relations": [
+        {
+          "source": "吴韦",
+          "target": "《甘竹滩小景卷》",
+          "relation": "著有",
+          "evidence": "南海玩氏藏吴韦《甘竹滩小景卷》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《花卉轴》",
+          "relation": "著有",
+          "evidence": "南海玩氏藏吴韦《花卉轴》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《花卉斗方》",
+          "relation": "著有",
+          "evidence": "香港中文大学文物馆藏有吴韦《花卉斗方》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《菊石轴》",
+          "relation": "著有",
+          "evidence": "香港中文大学文物馆藏有吴韦《菊石轴》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《牡横丹披》",
+          "relation": "著有",
+          "evidence": "香港中文大学文物馆藏有吴韦《牡横丹披》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "《菊花扇面》",
+          "relation": "著有",
+          "evidence": "香港中文大学文物馆藏有吴韦《菊花扇面》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "饶宗颐",
+          "relation": "关联人物",
+          "evidence": "饶宗颐先生撰文专论其指画复显彰于世。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0157": {
+      "relations": [
+        {
+          "source": "康黑",
+          "target": "吴韦",
+          "relation": "同族",
+          "evidence": "张卯为康黑二年1663时吴韦27岁",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴韦",
+          "target": "高其佩",
+          "relation": "同类",
+          "evidence": "高其佩一向被称为指头画创始人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "李象丰",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "李象丰字娄生南海人。清顺治十四年1657举人",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0158": {
+      "relations": [
+        {
+          "source": "李象丰",
+          "target": "《广东画人录》",
+          "relation": "记载于",
+          "evidence": "《广东画人录》刊印李象丰的《送胡大定北》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "李象丰",
+          "target": "《溪山渔隐图》",
+          "relation": "著有",
+          "evidence": "广州美术馆藏有李象丰的《溪山渔隐图》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "李象丰",
+          "target": "《雪山景水》",
+          "relation": "著有",
+          "evidence": "广州美术馆藏有李象丰的《雪山景水》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0159": {
+      "relations": [
+        {
+          "source": "谢兰生",
+          "target": "文斗《山水轴》",
+          "relation": "著有",
+          "evidence": "谢兰生创作的书画作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "秀、越华、端溪书院",
+          "relation": "活动于",
+          "evidence": "谢兰生先后考取贡生、举人，清嘉庆七年在秀、越华、端溪书院讲学",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0160": {
+      "relations": []
+    },
+    "chunk_0161": {
+      "relations": []
+    },
+    "chunk_0162": {
+      "relations": [
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "同类",
+          "evidence": "论粤画者推其驾二樵",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "同类",
+          "evidence": "岭南画人群推二樵",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "同类",
+          "evidence": "予以为不及道人远甚",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "同类",
+          "evidence": "就画品而论二樵确有 多处逊于里甫",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "同族",
+          "evidence": "谢兰生存世之作亦有不少",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "二樵",
+          "relation": "关联人物",
+          "evidence": "论粤画者推其驾二樵",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎简",
+          "target": "谢兰生",
+          "relation": "关联人物",
+          "evidence": "把他推什在黎简之上是许多论者的意见",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎简",
+          "target": "汪兆铺《岭南征略》",
+          "relation": "记载于",
+          "evidence": "见汪兆铺《岭南征略》卷六",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张大千",
+          "target": "谢兰生",
+          "relation": "关联人物",
+          "evidence": "张大千曾题文藏谢兰生《山月轴》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0163": {
+      "relations": [
+        {
+          "source": "谢观生",
+          "target": "谢氏",
+          "relation": "同族",
+          "evidence": "谢氏一家善画者计有19人",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢观生",
+          "target": "兰生",
+          "relation": "关联人物",
+          "evidence": "与兰生齐名",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢观生",
+          "target": "二谢",
+          "relation": "关联人物",
+          "evidence": "世称二谢",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢观生",
+          "target": "《岭画征南略》",
+          "relation": "记载于",
+          "evidence": "或可参详《岭画征南略》",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢观生",
+          "target": "《观鱼水榭图》",
+          "relation": "著有",
+          "evidence": "广州美术馆藏谢观生《观鱼水榭图》",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0164": {
+      "relations": [
+        {
+          "source": "黎简",
+          "target": "谢兰生",
+          "relation": "活动于",
+          "evidence": "他们的绘画都是以画山水为主",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "谢兰生",
+          "target": "黎简",
+          "relation": "活动于",
+          "evidence": "他们的绘画都是以画山水为主",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0165": {
+      "relations": []
+    },
+    "chunk_0166": {
+      "relations": [
+        {
+          "source": "熊景星",
+          "target": "《柳阴渔艇图轴》",
+          "relation": "著有",
+          "evidence": "香港中文大学文物馆藏《柳阴渔艇图轴》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "熊景星",
+          "target": "《山水人物》",
+          "relation": "著有",
+          "evidence": "广州美术馆藏《山水人物》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "熊景星",
+          "target": "《万松仙馆图》",
+          "relation": "著有",
+          "evidence": "广州美术馆藏《万松仙馆图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "熊景星",
+          "target": "嘉庆十一年",
+          "relation": "属于时期",
+          "evidence": "嘉庆十一年1806举人",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": [
+        {
+          "source": "何独",
+          "target": "景星《山水轴》",
+          "relation": "著有",
+          "evidence": "景星《山水轴》086何儿30多岁时作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎二樵",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "黎二樵曾居此。岩洞外有何狼的摩崖",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎二樵",
+          "target": "西樵山",
+          "relation": "同族",
+          "evidence": "黎二樵曾居此。岩洞外有何狼的摩崖",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0169": {
+      "relations": [
+        {
+          "source": "华岩",
+          "target": "《柳荫消夏图》",
+          "relation": "著有",
+          "evidence": "《柳荫消夏图》便是这种风格之代表",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《山人人水物》",
+          "target": "华岩",
+          "relation": "承载文化",
+          "evidence": "《广名画家东选集》设色纵185厘米、横52厘米，花意可见却是次受华岩的影响",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0170": {
+      "relations": [
+        {
+          "source": "谢兰生",
+          "target": "谢观生",
+          "relation": "同族",
+          "evidence": "谢观生是谢兰生三弟世称这兄弟俩为二谢",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0171": {
+      "relations": [
+        {
+          "source": "谢观",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "曾作《云泉钱别图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓如琼",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "曾作《云泉钱别图》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓涛",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "曾作《云泉钱别图》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0172": {
+      "relations": [
+        {
+          "source": "何又雄",
+          "target": "花卉轴",
+          "relation": "著有",
+          "evidence": "何又雄《花卉轴》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "叶梦草",
+          "target": "花卉轴",
+          "relation": "著有",
+          "evidence": "叶梦草《花卉轴》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "游作之",
+          "target": "山水卷",
+          "relation": "著有",
+          "evidence": "游作之《山水卷》",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "剑光楼笔记",
+          "target": "何又雄",
+          "relation": "记载于",
+          "evidence": "《剑光楼笔记》说他是山水宗师",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "留鹿随笔",
+          "target": "何又雄",
+          "relation": "记载于",
+          "evidence": "《留鹿随笔》说他是道间老光诸生居城新西虹桥畔",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "留鹿随笔",
+          "target": "游作之",
+          "relation": "记载于",
+          "evidence": "《留鹿随笔》说他是道间老光诸生居城新西虹桥畔",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0173": {
+      "relations": []
+    },
+    "chunk_0174": {
+      "relations": [
+        {
+          "source": "邹世末",
+          "target": "外销画",
+          "relation": "关联人物",
+          "evidence": "邹世末、王致诚等教士画家只能创作出不伦不类的中西混合式作品",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "王致诚",
+          "target": "外销画",
+          "relation": "关联人物",
+          "evidence": "邹世末、王致诚等教士画家只能创作出不伦不类的中西混合式作品",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "郎世宁",
+          "target": "外销画",
+          "relation": "关联人物",
+          "evidence": "过去有人曾认为郎世宁对广东外销画有过很深影响这种看法已经得到澄清",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0175": {
+      "relations": []
+    },
+    "chunk_0176": {
+      "relations": [
+        {
+          "source": "关乔昌",
+          "target": "郑荣《续南海县志》",
+          "relation": "记载于",
+          "evidence": "据 郑荣 《 续 南海县志》 记载 南 海人关 乔 昌 曾 搭 洋 船遍游 欧 美各国 学 习 油 画 艺术。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关乔昌",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "南海人关乔昌曾搭洋船遍游欧美各国学习油画艺术。",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关乔昌",
+          "target": "康有为",
+          "relation": "同族",
+          "evidence": "康有为 清末维新变法领袖，南海丹灶人；关乔昌 南海人",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "关乔昌",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "关乔昌回国后在省城开设画店作画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": []
+    },
+    "chunk_0179": {
+      "relations": [
+        {
+          "source": "庭啤",
+          "target": "关昌",
+          "relation": "关联人物",
+          "evidence": "关昌这种风格画会引起西方人的兴趣",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关昌",
+          "target": "同文街",
+          "relation": "活动于",
+          "evidence": "关氏兄弟长期活牙在十三行。他们在同文街分别开有自己的画肆",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0180": {
+      "relations": []
+    },
+    "chunk_0181": {
+      "relations": [
+        {
+          "source": "廖仲恺",
+          "target": "双清",
+          "relation": "创建修建",
+          "evidence": "只能修整兄媳家屋顶晒台上破屋作为新房",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "双清",
+          "relation": "活动于",
+          "evidence": "白天在这里研读诗文、谈论时事夜晚一起观赏清净明澈的月色",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "廖仲恺",
+          "target": "1897年",
+          "relation": "属于时期",
+          "evidence": "清光绪二十三年1897 记仲恺和何香凝在广州结婚",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "双清",
+          "relation": "活动于",
+          "evidence": "何香凝触景生情写下 愿年年此夜人月双清的诗句",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0182": {
+      "relations": [
+        {
+          "source": "廖仲恺",
+          "target": "国民党中央党部",
+          "relation": "活动于",
+          "evidence": "在广州国民党中央党部门前被暗杀",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "孙中山",
+          "target": "国民党中央党部",
+          "relation": "活动于",
+          "evidence": "在广州国民党中央党部门前被暗杀",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "寒之友社",
+          "relation": "关联人物",
+          "evidence": "何香凝对破坏国共合作背叛孙中山革命事业的蒋介石、汪精卫等人进行了不屈不挠的斗争人等组成寒之友社举办义卖展览奈问前线抗日将士",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0183": {
+      "relations": [
+        {
+          "source": "何香凝",
+          "target": "松梅菊",
+          "relation": "活动于",
+          "evidence": "这时期所作多为松梅菊",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "山水画",
+          "relation": "活动于",
+          "evidence": "大都赠送或出售给华侨",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "松梅菊",
+          "relation": "著有",
+          "evidence": "出版有《何香凝画集》、《何香凝诗画辑》、《双清诗画集》等",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "山水画",
+          "relation": "同族",
+          "evidence": "研习山水、花卉画",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0184": {
+      "relations": [
+        {
+          "source": "何香凝",
+          "target": "梅花",
+          "relation": "著有",
+          "evidence": "梅花是何香凝钟爱的绘画题材之一",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0185": {
+      "relations": []
+    },
+    "chunk_0186": {
+      "relations": [
+        {
+          "source": "柳亚子",
+          "target": "《春兰秋菊》",
+          "relation": "著有",
+          "evidence": "1931年、《春兰秋菊》1933年等佳作",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "何香凝",
+          "target": "《虎》",
+          "relation": "著有",
+          "evidence": "何香凝的作品《虎》画的是原野中的猛虎",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "《松菊》",
+          "relation": "著有",
+          "evidence": "何香凝的作品《松菊》是体现画家感叹革命情怀的一幅创作",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何香凝",
+          "target": "《山水》",
+          "relation": "著有",
+          "evidence": "何香凝的作品《山水》表现的是深山农户人家的田园风光",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《虎》",
+          "target": "何香凝",
+          "relation": "承载文化",
+          "evidence": "何香凝的作品《虎》画的是原野中的猛虎",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《松菊》",
+          "target": "何香凝",
+          "relation": "承载文化",
+          "evidence": "何香凝的作品《松菊》是体现画家感叹革命情怀的一幅创作",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《山水》",
+          "target": "何香凝",
+          "relation": "承载文化",
+          "evidence": "何香凝的作品《山水》表现的是深山农户人家的田园风光",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": [
+        {
+          "source": "张询",
+          "target": "岭南画",
+          "relation": "传承于",
+          "evidence": "最早几位岭南的画家是唐朝的张询",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "岭南画",
+          "target": "岭南画派",
+          "relation": "承载文化",
+          "evidence": "岭南画派是中国传统国画中的改革派",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "岭南画派",
+          "target": "岭南画",
+          "relation": "同类",
+          "evidence": "岭南画派是中国传统国画中的改革派",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0190": {
+      "relations": [
+        {
+          "source": "岭南三杰",
+          "target": "黄少强",
+          "relation": "同类",
+          "evidence": "岭南画派第二代主要人物之一",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "南海官窑小江村",
+          "relation": "出生于",
+          "evidence": "黄少强1901-1941，名宜仕，号直庐，南海官窑小江村人",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "南海官窑小江村",
+          "relation": "活动于",
+          "evidence": "黄少强1901-1941，名宜仕，号直庐，南海官窑小江村人",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0191": {
+      "relations": []
+    },
+    "chunk_0192": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "大连",
+          "relation": "活动于",
+          "evidence": "1928 年 黄少强的作品入选在大连举办的中日现代绘画展览",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "男堂",
+          "target": "黄少强",
+          "relation": "承载文化",
+          "evidence": "他的弟子、门人为黄少强举办纪念画展达到126次之多",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "男堂",
+          "target": "黄少强",
+          "relation": "活动于",
+          "evidence": "黄少强一生的作品和速写之多无法准确统计他自己的男堂展览了三千帧的诗句",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0193": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "《穷途自赏》",
+          "relation": "著有",
+          "evidence": "1930年《穷途自赏》再次送往比利时万国博览会及中国美术展览会参展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "《援黑之役》",
+          "relation": "著有",
+          "evidence": "以抗日救亡为题材创作了大量画作如《援黑之役》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "《热之血女》",
+          "relation": "著有",
+          "evidence": "以抗日救亡为题材创作了大量画作如《热之血女》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "《危崖泪马》",
+          "relation": "著有",
+          "evidence": "以抗日救亡为题材创作了大量画作如《危崖泪马》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "《魂梦都教急成边》",
+          "relation": "著有",
+          "evidence": "以抗日救亡为题材创作了大量画作如《魂梦都教急成边》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "《纵腿江山千古泪》",
+          "relation": "著有",
+          "evidence": "以抗日救亡为题材创作了大量画作如《纵腿江山千古泪》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0194": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "佛山精武会",
+          "relation": "活动于",
+          "evidence": "1925年黄少强在佛山精武会设立的义务传习庶相班任教",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "佛山精武会",
+          "relation": "活动于",
+          "evidence": "1926年佛山精武会主办黄少强第一次个人绘画展览",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "佛山围秀画会",
+          "relation": "创建修建",
+          "evidence": "同年黄少强在佛山成立绘学馆举办国画观摩展览会也是这一年中国佛山围秀画会成立黄少强在画会任教",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "佛山美术专科学校",
+          "relation": "活动于",
+          "evidence": "1926年岭南画派创始人之一高剑父在佛山创办佛山美术专科学校黄少强被聘在校任教并主持教务",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "南海县立师范学校",
+          "relation": "活动于",
+          "evidence": "1928年黄少强被聘在南海县立师范学校任教举办第二次个人画展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0195": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "南海县立师范学校",
+          "relation": "活动于",
+          "evidence": "被聘在南海县立师范学校任教",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "佛山中山公园秋声馆",
+          "relation": "活动于",
+          "evidence": "1936年黄少强和部分学生以民间画会的名义参加当时在佛山中山公园秋声馆举办的民间画会春季展览会",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "佛山中山东华公园",
+          "relation": "活动于",
+          "evidence": "1938年黄少强抗战画特展在佛山中山公园举行",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "止庐画记",
+          "relation": "创建修建",
+          "evidence": "1942年在佛东华山里设立止庐画记",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "国民政府",
+          "relation": "关联人物",
+          "evidence": "1934年他重新绘画一幅《洪水流民图》献给当时的国民政府主席林森",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0196": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "东华里7号",
+          "relation": "活动于",
+          "evidence": "黄少强从香港回到佛山在东华里7号",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "青灯秃管平生志 傲骨难回艺术宫",
+          "relation": "著有",
+          "evidence": "黄少强明志诗一首 耻向画坛争席位 愿从人世写哀鸿",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0197": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "岭南画派",
+          "relation": "活动于",
+          "evidence": "黄少强在其艺术生涯中先后拜师于岭南画派的创始人高奇峰禹剑父简称二高门下。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "岭南画派",
+          "relation": "著有",
+          "evidence": "黄少强《金缕歌残图》南海书画南海诗联一个群体。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "二高门下",
+          "relation": "关联人物",
+          "evidence": "黄少强在其艺术生涯中先后拜师于岭南画派的创始人高奇峰禹剑父简称二高门下。",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "二高",
+          "target": "岭南画派",
+          "relation": "承载文化",
+          "evidence": "岭南画派应是起步较早的黄少强《金缕歌残图》南海书画南海诗联一个群体。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "二高",
+          "target": "岭南画派",
+          "relation": "传承于",
+          "evidence": "二高都强调人物画之于表现社会现实生活的意义也曾在这方面有过相应的努力",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0198": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "在佛山、广州的横街雁埠香港的大算地、西营盘等地",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "在佛山、广州的横街雁埠香港的大算地、西营盘等地",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "香港",
+          "relation": "活动于",
+          "evidence": "在佛山、广州的横街雁埠香港的大算地、西营盘等地",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "齐日石",
+          "relation": "关联人物",
+          "evidence": "齐日石老人曾为黄少强题诗",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "刘海彬",
+          "relation": "关联人物",
+          "evidence": "1935年著名艺术家大师刘海彬先生为《黄少强画集》题词",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0199": {
+      "relations": [
+        {
+          "source": "刘海彬",
+          "target": "私立民间画馆",
+          "relation": "关联人物",
+          "evidence": "1935年刘海彬北游归粤在广州通宁道成立的私立民间画馆",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "私立民间画馆",
+          "relation": "创建修建",
+          "evidence": "1935年刘海彬北游归粤在广州通宁道成立的私立民间画馆",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "私立民间画馆",
+          "target": "广州通宁道",
+          "relation": "位于",
+          "evidence": "1935年刘海彬北游归粤在广州通宁道成立的私立民间画馆",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0200": {
+      "relations": [
+        {
+          "source": "黄少强",
+          "target": "佛山南海师范学校",
+          "relation": "活动于",
+          "evidence": "不论在佛山南海师范学校还是在广州美术专科学校或是民间画馆",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "广州美术专科学校",
+          "relation": "活动于",
+          "evidence": "不论在佛山南海师范学校还是在广州美术专科学校或是民间画馆",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄少强",
+          "target": "民间画馆",
+          "relation": "活动于",
+          "evidence": "不论是佛山南海师范学校还是在广州美术专科学校或是民间画馆",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "广州美术专科学校",
+          "relation": "活动于",
+          "evidence": "1929年任广州市立美术专科学校教",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0201": {
+      "relations": [
+        {
+          "source": "黄君壁",
+          "target": "国画",
+          "relation": "著有",
+          "evidence": "出版的著作有《黄君壁画集》、《黄君壁书琐集》等。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君壁",
+          "target": "国画",
+          "relation": "活动于",
+          "evidence": "1929年任广州市立美术专科学校教务主任等职。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君壁",
+          "target": "国画",
+          "relation": "活动于",
+          "evidence": "1937年后历任国立中央大学艺术系教授等。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君壁",
+          "target": "国画",
+          "relation": "活动于",
+          "evidence": "1949年迁居台湾任教。",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君壁",
+          "target": "国画",
+          "relation": "同族",
+          "evidence": "父亲继承祖业经营百货公司，是当地较有名气的一个商人，也是个国画爱好者。",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0202": {
+      "relations": []
+    },
+    "chunk_0203": {
+      "relations": []
+    },
+    "chunk_0204": {
+      "relations": []
+    },
+    "chunk_0205": {
+      "relations": [
+        {
+          "source": "黄君壁",
+          "target": "白堂画论云画法",
+          "relation": "著有",
+          "evidence": "黄君壁90岁时在《白堂画论云画法》一书的自序中写道",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "出水画",
+          "target": "白堂画论云画法",
+          "relation": "承载文化",
+          "evidence": "黄君壁的出水画尤其是晚年作品",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君壁",
+          "target": "出水画",
+          "relation": "关联人物",
+          "evidence": "黄君壁的出水画尤其是晚年作品",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0206": {
+      "relations": [
+        {
+          "source": "黄君璧",
+          "target": "溥心低",
+          "relation": "同类",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "溥心低",
+          "relation": "同类",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "张大千",
+          "relation": "同类",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "张大千",
+          "relation": "同类",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "溥心低",
+          "relation": "同族",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "溥心低",
+          "relation": "关联人物",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "溥心低",
+          "relation": "关联人物",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "张大千",
+          "relation": "关联人物",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "张大千",
+          "relation": "关联人物",
+          "evidence": "清心低、张大千、黄君壁称为渡海三家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0207": {
+      "relations": [
+        {
+          "source": "黄君璧",
+          "target": "人物",
+          "relation": "著有",
+          "evidence": "其人物 画 最 少 所 能 皆 为 古装 如 士 子、仕 女、钟 盒、罗 汉 及 鞍马 人 物 等 一 色 的 传统 画 法",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0208": {
+      "relations": [
+        {
+          "source": "黄君璧",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "由于政治环境的原因到台湾后的黄君壁再也没能回到大陆。他晚年思乡、怀念青少年时代的生活环境，南海故乡、江南烟十和巴蜀景色纷纷进入他的画幅图",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "由于政治环境的原因到台湾后的黄君壁再也没能回到大陆。他晚年思乡、怀念青少年时代的生活环境，南海故乡、江南烟十和巴蜀景色纷纷进入他的画幅图",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄君璧",
+          "target": "罗浮图卷",
+          "relation": "著有",
+          "evidence": "1974 年 77 岁 的 黄 君 璧历时 一月创作出《罗浮 图 卷》",
+          "confidence": 1.0,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0209": {
+      "relations": []
+    },
+    "chunk_0210": {
+      "relations": []
+    },
+    "chunk_0211": {
+      "relations": [
+        {
+          "source": "陈凝丹",
+          "target": "岭南画派",
+          "relation": "属于时期",
+          "evidence": "岭南画派第二代传人陈凝丹",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "岭南画派",
+          "relation": "活动于",
+          "evidence": "1927年陈凝丹考入岭南画派鼻祖高剑父在佛山所办的美术学院",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "岭南画派",
+          "relation": "著有",
+          "evidence": "按照黄少强老师的教导在抗日",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0212": {
+      "relations": [
+        {
+          "source": "陈凝丹",
+          "target": "《到民间去》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《宣抗日到前线》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《老游击》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《战地之春》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《明荒者》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《雪满关山兆威武》",
+          "relation": "著有",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等，被广州市学生联合会收藏",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《难民图》",
+          "relation": "著有",
+          "evidence": "1948年在香港举办救济难民画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《人骨肉流离路中》",
+          "relation": "著有",
+          "evidence": "1948年在香港举办救济难民画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《生产动员》",
+          "relation": "著有",
+          "evidence": "1949年陈凝丹在重庆举办个人画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《共患难》",
+          "relation": "著有",
+          "evidence": "1949年陈凝丹在重庆举办个人画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《到民间去》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《宣抗日到前线》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《老游击》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《战地之春》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《明荒者》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《雪满关山兆威武》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "抗日战争期间创作多幅战斗性作品，如《到民间去》等，被广州市学生联合会收藏",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《难民图》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "1948年在香港举办救济难民画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《人骨肉流离路中》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "1948年在香港举办救济难民画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《生产动员》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "1949年陈凝丹在重庆举办个人画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "《共患难》",
+          "target": "陈凝丹",
+          "relation": "关联人物",
+          "evidence": "1949年陈凝丹在重庆举办个人画展的作品之一",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0213": {
+      "relations": []
+    },
+    "chunk_0214": {
+      "relations": []
+    },
+    "chunk_0215": {
+      "relations": []
+    },
+    "chunk_0216": {
+      "relations": []
+    },
+    "chunk_0217": {
+      "relations": [
+        {
+          "source": "邓芬",
+          "target": "《秋意图》",
+          "relation": "著有",
+          "evidence": "1931 年由张千大助编、上海中华书局出版的《当名人代画海》一书中收录全国102位名家的作品广东仅有两幅画作人和人选其中就有邓芬的《秋意图》。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "《采莲图》",
+          "relation": "著有",
+          "evidence": "他所画的《采莲图》最受人们的赏识。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0218": {
+      "relations": [
+        {
+          "source": "邓芬",
+          "target": "黄君壁",
+          "relation": "同族",
+          "evidence": "邓芬的作品往往与黄君壁、卢子枢的画作刊在一起",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "卢子枢",
+          "relation": "同族",
+          "evidence": "邓芬的作品往往与黄君壁、卢子枢的画作刊在一起",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "司徒奇",
+          "relation": "关联人物",
+          "evidence": "徙居澳门开天丝孔居画室为郑春霖作《藻子立轴》为赵少昂作《达摩坐像》为苏某作《本万一利图》并资李健助儿出版《广东现画代人传》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "关山月",
+          "relation": "关联人物",
+          "evidence": "徙居澳门开天丝孔居画室为郑春霖作《藻子立轴》为赵少昂作《达摩坐像》为苏某作《本万一利图》并资李健助儿出版《广东现画代人传》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "方人定",
+          "relation": "关联人物",
+          "evidence": "徙居澳门开天丝孔居画室为郑春霖作《藻子立轴》为赵少昂作《达摩坐像》为苏某作《本万一利图》并资李健助儿出版《广东现画代人传》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "何短",
+          "relation": "关联人物",
+          "evidence": "徙居澳门开天丝孔居画室为郑春霖作《藻子立轴》为赵少昂作《达摩坐像》为苏某作《本万一利图》并资李健助儿出版《广东现画代人传》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "澳门",
+          "relation": "活动于",
+          "evidence": "徙居澳门开天丝孔居画室",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "徙居广州探亲",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "四川",
+          "relation": "活动于",
+          "evidence": "随友漫游四川和北京等地",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "北京",
+          "relation": "活动于",
+          "evidence": "随友漫游四川和北京等地",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "香港",
+          "relation": "活动于",
+          "evidence": "1964年9月病逝香港",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓芬",
+          "target": "广东现画代人传",
+          "relation": "著有",
+          "evidence": "并资李健助儿出版《广东现画代人传》",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0219": {
+      "relations": [
+        {
+          "source": "邓芬",
+          "target": "三乐图",
+          "relation": "著有",
+          "evidence": "邓芬50岁以后多写仕女画",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0220": {
+      "relations": [
+        {
+          "source": "何剑士",
+          "target": "《时事画报》",
+          "relation": "著有",
+          "evidence": "何剑士最早的漫画是刊于《时事画报》的三幅。",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0221": {
+      "relations": [
+        {
+          "source": "何剑士",
+          "target": "《事时画报》",
+          "relation": "著有",
+          "evidence": "何剑士的漫画才华也在他的画作中得到了充分的显现",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何剑士",
+          "target": "清朝",
+          "relation": "活动于",
+          "evidence": "何剑士的漫画才华也在他的画作中得到了充分的显现",
+          "confidence": 0.75,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何剑士",
+          "target": "科举考试",
+          "relation": "关联人物",
+          "evidence": "1904年的科举考试中朱汝珍成绩名列第一",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0222": {
+      "relations": []
+    },
+    "chunk_0223": {
+      "relations": [
+        {
+          "source": "何剑士",
+          "target": "内阁总理",
+          "relation": "著有",
+          "evidence": "《内阁总理》、《盛来与端去和》、《新议院之内外观》、《贫民之A等等作》是何剑士的画作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何剑士",
+          "target": "盛来与端去和",
+          "relation": "著有",
+          "evidence": "《内阁总理》、《盛来与端去和》、《新议院之内外观》、《贫民之A等等作》是何剑士的画作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何剑士",
+          "target": "新议院之内外观",
+          "relation": "著有",
+          "evidence": "《内阁总理》、《盛来与端去和》、《新议院之内外观》、《贫民之A等等作》是何剑士的画作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "何剑士",
+          "target": "贫民之A等就算",
+          "relation": "著有",
+          "evidence": "《内阁总理》、《盛来与端去和》、《新议院之内外观》、《贫民之A等等作》是何剑士的画作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0224": {
+      "relations": []
+    },
+    "chunk_0225": {
+      "relations": [
+        {
+          "source": "赵松雪",
+          "target": "广东女子艺文考",
+          "relation": "著有",
+          "evidence": "已出版的专著有《赵松雪书画考》、《广东印谱考》、《广东女子艺文考》、《谈》等。",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0226": {
+      "relations": []
+    },
+    "chunk_0227": {
+      "relations": [
+        {
+          "source": "赵崇正",
+          "target": "春睡画院",
+          "relation": "活动于",
+          "evidence": "曾 在 广州春睡 画 院 拜 岭南派 高剑 父为师 学 国画",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "春睡画院",
+          "target": "岭南派",
+          "relation": "承载文化",
+          "evidence": "1937 年 在 广州春睡 画 院 拜 岭南派 高剑 父为师 学 国画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "高剑父",
+          "target": "岭南派",
+          "relation": "传承于",
+          "evidence": "1937 年 在 广州春睡 画 院 拜 岭南派 高剑 父为师 学 国画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0228": {
+      "relations": []
+    },
+    "chunk_0229": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "木万草堂藏画目",
+          "relation": "著有",
+          "evidence": "《木万草堂藏画目》对中国古代画族的评论",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0230": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《木草万堂藏画目》",
+          "relation": "著有",
+          "evidence": "《木草万堂藏画目》是按时代顺序排列的每朝画目之前又各有段文字论述该朝绘画之兴衰、特点及影响。",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0231": {
+      "relations": []
+    },
+    "chunk_0232": {
+      "relations": []
+    },
+    "chunk_0233": {
+      "relations": [
+        {
+          "source": "黄公望",
+          "target": "倪瓒",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄公望",
+          "target": "吴镇",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄公望",
+          "target": "王蒙",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴镇",
+          "target": "倪瓒",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴镇",
+          "target": "王蒙",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "倪瓒",
+          "target": "王蒙",
+          "relation": "同类",
+          "evidence": "元四家《即黄公望、吴镇、倪瓒和王蒙》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0234": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "创建修建",
+          "evidence": "万木草堂：康有为在广州的寓所，曾在此藏画并撰写藏画目",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "元四家",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "归于罪元四家：黄公望、吴镇、倪瓒和王蒙是不公正的",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0235": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《寒雀梅兔图》",
+          "relation": "著有",
+          "evidence": "他所藏宋人易元吉的《寒雀免梅图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "康有为",
+          "target": "《要犬图》",
+          "relation": "著有",
+          "evidence": "赵永年的《要犬》等作都品是油画",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "油画",
+          "target": "界画",
+          "relation": "同类",
+          "evidence": "所谓界画就是职业画师以工整见长的画",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0236": {
+      "relations": []
+    },
+    "chunk_0237": {
+      "relations": [
+        {
+          "source": "南海书画",
+          "target": "南海画院",
+          "relation": "承载文化",
+          "evidence": "南海画院成立于1996年，是南海区美术较专业化的创作和艺术研究机构",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0238": {
+      "relations": []
+    },
+    "chunk_0239": {
+      "relations": []
+    },
+    "chunk_0240": {
+      "relations": []
+    },
+    "chunk_0241": {
+      "relations": []
+    },
+    "chunk_0242": {
+      "relations": []
+    },
+    "chunk_0243": {
+      "relations": []
+    },
+    "chunk_0244": {
+      "relations": []
+    },
+    "chunk_0245": {
+      "relations": [
+        {
+          "source": "梁炜彬",
+          "target": "《湖天盛会》",
+          "relation": "著有",
+          "evidence": "1990年 梁炜彬的美术作品《湖天盛会》入选全国首届风情美术作品展览",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁炜彬",
+          "target": "《乡不水夜路》",
+          "relation": "著有",
+          "evidence": "梁炜彬的《乡不水夜路》、高伟彬的《声》入选广东省神州大地美术摄影展",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明晖",
+          "target": "《沃土》",
+          "relation": "著有",
+          "evidence": "1994年 黎明晖的《沃土》、张明基的《福荫》、梁国荣的《井冈红云》和《绿人竹之村晨》入选广东省庆祝新中国成立45周年美术作品展览",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "张明基",
+          "target": "《福荫》",
+          "relation": "著有",
+          "evidence": "1994年 黎明晖的《沃土》、张明基的《福荫》、梁国荣的《井冈红云》和《绿人竹之村晨》入选广东省庆祝新中国成立45周年美术作品展览",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁国荣",
+          "target": "《井冈红云》",
+          "relation": "著有",
+          "evidence": "1994年 黎明晖的《沃土》、张明基的《福荫》、梁国荣的《井冈红云》和《绿人竹之村晨》入选广东省庆祝新中国成立45周年美术作品展览",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁国荣",
+          "target": "《绿人竹之村晨》",
+          "relation": "著有",
+          "evidence": "1994年 黎明晖的《沃土》、张明基的《福荫》、梁国荣的《井冈红云》和《绿人竹之村晨》入选广东省庆祝新中国成立45周年美术作品展览",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "林子超",
+          "target": "《虎门今昔》",
+          "relation": "著有",
+          "evidence": "1996年 在省广颂南粤东锦绣、迎港澳回归美术、书法、摄影作品展览上林子超的油画《虎门今昔》获一等奖",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邹莉",
+          "target": "《中国历代后妃图》",
+          "relation": "著有",
+          "evidence": "1999年 南海美术获奖及入选作品有邹莉的《中国历代后妃图》获第九届全国美展金奖",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0246": {
+      "relations": []
+    },
+    "chunk_0247": {
+      "relations": []
+    },
+    "chunk_0248": {
+      "relations": []
+    },
+    "chunk_0249": {
+      "relations": [
+        {
+          "source": "高伟梢",
+          "target": "梁伟彬",
+          "relation": "同类",
+          "evidence": "高伟梢和梁伟彬都是画家，且都有国画作品参展",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "施锦锦",
+          "target": "罗廷",
+          "relation": "同类",
+          "evidence": "施锦锦和罗廷都是画家，且都有国画作品参展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "礼容",
+          "target": "曾广鉴",
+          "relation": "同类",
+          "evidence": "礼容和曾广鉴都是画家，且都有国画作品参展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "梁军",
+          "target": "梁文俊",
+          "relation": "同族",
+          "evidence": "梁军和梁文俊都是画家，且都有国画作品参展",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邵勇球",
+          "target": "潘国新",
+          "relation": "同类",
+          "evidence": "邵勇球和潘国新都是画家，且都有国画作品参展",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "莫丽坤",
+          "target": "梁军",
+          "relation": "同族",
+          "evidence": "莫丽坤和梁军都是画家，且都有国画作品参展",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0250": {
+      "relations": []
+    },
+    "chunk_0251": {
+      "relations": []
+    },
+    "chunk_0252": {
+      "relations": []
+    },
+    "chunk_0253": {
+      "relations": []
+    },
+    "chunk_0254": {
+      "relations": []
+    },
+    "chunk_0255": {
+      "relations": []
+    },
+    "chunk_0256": {
+      "relations": []
+    },
+    "chunk_0257": {
+      "relations": []
+    },
+    "chunk_0258": {
+      "relations": []
+    },
+    "chunk_0259": {
+      "relations": []
+    },
+    "chunk_0260": {
+      "relations": [
+        {
+          "source": "刘淑仪",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "刘淑仪的国画《凉风》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "亚牛",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "亚牛的国画《山径》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘晓欣",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "潘晓欣的国画《村道b》和《乡梦间》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎菩衡",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "黎菩衡的国画《沿小江宅》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "淮家文",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "淮家文的国画《院小秋凉》和《乡间小趣儿》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "罗小红",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "罗小红的国画《山道》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "关喜玲",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "关喜玲的国画《和荷前》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "文绍博",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "文绍博的油画《荷》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "曾广监",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "曾广监的国画《生BLUMSEAHEECHZEMHASHABKM了心的国画《尽泉不声人堂来》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈汉良",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "陈汉良的美术《江山秀色》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "邓艳桂",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "邓艳桂的美术《江山气》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "罗礼文",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "罗礼文的美术《荷塘清早》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "陈年发",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "陈年发的美术《金秋》与《冷月映寒梅》和《清气图》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "甘河",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "甘河的美术《红棉精神》与《满园春》和《国色天在》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黄广榆",
+          "target": "耕云",
+          "relation": "关联人物",
+          "evidence": "黄广榆的国画《榕村边放树羊归》与耕云的美术《野趣》同为南海书画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0261": {
+      "relations": []
+    },
+    "chunk_0262": {
+      "relations": []
+    },
+    "chunk_0263": {
+      "relations": []
+    },
+    "chunk_0264": {
+      "relations": [
+        {
+          "source": "潘稚曾",
+          "target": "《和平少女》",
+          "relation": "著有",
+          "evidence": "潘稚曾参加《和平少女》的设计和制作",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘稚曾",
+          "target": "雕塑《开荒牛》",
+          "relation": "著有",
+          "evidence": "雕塑《开荒牛》于1984年获第六届全国美术展览金质奖",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘稚曾",
+          "target": "《潘稚曾雕塑作品选集》",
+          "relation": "著有",
+          "evidence": "出版有《潘稚曾雕塑作品选集》等",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "高剑父",
+          "relation": "同族",
+          "evidence": "与高剑父更是玖交",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "高剑父",
+          "relation": "活动于",
+          "evidence": "高剑父到黎家常带一些画册、照片给黎明临摹",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "《仕女图》",
+          "relation": "著有",
+          "evidence": "1944年年仅14岁的黎明画了《仕女图》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "澳门大三巴牌坊",
+          "relation": "活动于",
+          "evidence": "澳门大三巴牌坊和广州的名胜古迹",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "广州名胜古迹",
+          "relation": "活动于",
+          "evidence": "澳门大三巴牌坊和广州的名胜古迹",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0265": {
+      "relations": [
+        {
+          "source": "黎明",
+          "target": "《渔家图》",
+          "relation": "著有",
+          "evidence": "一幅《渔家图》参加广州中山图书馆筹募经费展览",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "香港第一届艺术节",
+          "relation": "活动于",
+          "evidence": "1948年仅18岁的黎明参加香港第一届艺术节和华南美展等大型活动",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "《大公报》",
+          "relation": "记载于",
+          "evidence": "当时的《大公报》刊登文章称锡黎明为此处展览中全场用色最佳之画家",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "CHEE",
+          "relation": "承载文化",
+          "evidence": "1962年黎明的CHEE曾代表香港国画界人选英联邦美术展览",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "《当代联邦之艺术》特辑",
+          "relation": "记载于",
+          "evidence": "1962年出版的《当代联邦之艺术》特辑中被刊出的唯一的一幅中国画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "黎明",
+          "target": "《锦绣缤纷庆回归》",
+          "relation": "著有",
+          "evidence": "1997年前夕黎明创作的《锦绣缤纷庆回归》",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0266": {
+      "relations": []
+    },
+    "chunk_0267": {
+      "relations": [
+        {
+          "source": "招炽挺",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "招炽挺的作品《春前》等曾在云泉仙馆展出",
+          "confidence": 0.8,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘嘉俊",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "潘嘉俊的作品可能曾在云泉仙馆展出，但具体作品未提及",
+          "confidence": 0.7,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0268": {
+      "relations": [
+        {
+          "source": "潘嘉俊",
+          "target": "广州市",
+          "relation": "出生于",
+          "evidence": "1948 年生于 广州市",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "潘嘉俊",
+          "target": "岭南画派纪念馆",
+          "relation": "关联人物",
+          "evidence": "现任 岭南画派纪念 馆馆长",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0269": {
+      "relations": [
+        {
+          "source": "陈永销",
+          "target": "广东机山书院",
+          "relation": "活动于",
+          "evidence": "在广东机山书院学习花鸟画",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "广东机山书院",
+          "target": "西樵",
+          "relation": "位于",
+          "evidence": "广东机山书院位于南海西樵",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0270": {
+      "relations": [
+        {
+          "source": "陈永锐",
+          "target": "《红棉图》",
+          "relation": "著有",
+          "evidence": "《红棉图》为主要表现素材",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0271": {
+      "relations": []
+    },
+    "chunk_0272": {
+      "relations": []
+    },
+    "chunk_0273": {
+      "relations": [
+        {
+          "source": "区广安",
+          "target": "墨池春深",
+          "relation": "著有",
+          "evidence": "赖少奇先生曾资其画作墨池春深",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0274": {
+      "relations": [
+        {
+          "source": "赖少奇",
+          "target": "墨池春深",
+          "relation": "著有",
+          "evidence": "赖少奇先生曾资其画作墨池春深",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴彪华",
+          "target": "南海非遗南海书画南海诗联",
+          "relation": "著有",
+          "evidence": "吴彪华先生编写了《南海非遗南海书画南海诗联》一书的南海书画篇",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "吴彪华",
+          "target": "南海书画篇",
+          "relation": "著有",
+          "evidence": "吴彪华先生编写了《南海非遗南海书画南海诗联》一书的南海书画篇",
+          "confidence": 0.95,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海",
+          "target": "南海非遗南海书画南海诗联",
+          "relation": "承载文化",
+          "evidence": "南海书画篇收录的人物与事件均为历史上曾属南海地域所发生",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海",
+          "target": "南海书画篇",
+          "relation": "属于时期",
+          "evidence": "南海书画篇收录的人物与事件均为历史上曾属南海地域所发生",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    },
+    "chunk_0275": {
+      "relations": []
+    },
+    "chunk_0276": {
+      "relations": [
+        {
+          "source": "南海非遗",
+          "target": "南海书画",
+          "relation": "承载文化",
+          "evidence": "介绍了南海非物质文化遗产中的瑰宝、南海历代书画名家及其作品",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海非遗",
+          "target": "南海诗联",
+          "relation": "承载文化",
+          "evidence": "介绍了南海非物质文化遗产中的瑰宝、南海优秀诗作及对联等",
+          "confidence": 0.85,
+          "source_file": "南海非遗_南海书画篇"
+        },
+        {
+          "source": "南海书画",
+          "target": "南海诗联",
+          "relation": "同类",
+          "evidence": "介绍了南海历代书画名家及其作品、南海优秀诗作及对联等",
+          "confidence": 0.9,
+          "source_file": "南海非遗_南海书画篇"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4147 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "广东省南海市西樵镇人，全国政协委员，香港五大图书巨子之一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "忠诚书店",
+          "type": "建筑遗迹",
+          "description": "石景宜先生创业的书店之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣图书公司",
+          "type": "建筑遗迹",
+          "description": "石景宜先生创业的公司之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局有限公司",
+          "type": "建筑遗迹",
+          "description": "石景宜先生创业的公司之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵镇",
+          "type": "地名",
+          "description": "石景宜先生的家乡",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "cb2ea25f"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "a1eb27fe"
+    },
+    "chunk_0002": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "全国政协委员，香港汉荣书局董事长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d660c4d4"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "84aff404"
+    },
+    "chunk_0004": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "图书企业家、爱国者、全国政协委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县",
+          "type": "地名",
+          "description": "位于广东珠江三角洲腹地，土地肥美，物产丰饶",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "建筑遗迹",
+          "description": "岭南旅游胜地，有七十二峰、三十六洞等自然景观",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "白云洞",
+          "type": "建筑遗迹",
+          "description": "明代古迹，位于西樵山上",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "5d4df51d"
+    },
+    "chunk_0005": {
+      "entities": [
+        {
+          "name": "白云洞",
+          "type": "建筑遗迹",
+          "description": "明嘉靖年间建于西樵山，原为学者何白云结庐读书处，现更名为樵园",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "玉楼书院",
+          "type": "建筑遗迹",
+          "description": "明代设在西樵山的书院，如今已改称云泉仙馆",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "明代玉楼书院旧址，现为西樵山上的景点",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "邯郸别邸",
+          "type": "建筑遗迹",
+          "description": "明代遗迹，位于西樵山上，内有守真阁、听泉楼、高士阁等楼宇",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "1858年出生于南海县良河乡苏村，维新运动领导人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "詹天佑",
+          "type": "人物",
+          "description": "1861年出生于南海，杰出的铁路工程师",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "84e32f48"
+    },
+    "chunk_0006": {
+      "entities": [
+        {
+          "name": "詹天佑",
+          "type": "人物",
+          "description": "清末著名工程师，修建京张铁路，南海人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "吴既人",
+          "type": "人物",
+          "description": "晚清小说家，《二十年目睹之怪现状》作者，南海人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "二十世纪初的读书人，书海奇人，出生在儒溪乡",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪乡",
+          "type": "地名",
+          "description": "位于西樵山下的一个村庄，旧名村，后改称儒溪",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "type": "建筑遗迹",
+          "description": "位于儒溪乡，高大的门楼刻有武威大道四个字，堂屋后面有数间青砖瓦房",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "1feb1d5a"
+    },
+    "chunk_0007": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "石国璋的孙子，文中描述其曾祖父、祖父的生平经历",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "type": "建筑遗迹",
+          "description": "石景宜曾祖父留下的遗迹，具体位置未明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石国璋",
+          "type": "人物",
+          "description": "石景宜的祖父，曾考取秀才并到国子监为太学生",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "清末",
+          "type": "朝代年号",
+          "description": "文中提到的历史时期",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国子监",
+          "type": "建筑遗迹",
+          "description": "古代最高学府，石国璋曾在此任职",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "5b18c32a"
+    },
+    "chunk_0008": {
+      "entities": [
+        {
+          "name": "石国璋",
+          "type": "人物",
+          "description": "石景宜先生的祖父，重视名声，尽力抚养不争气的侄孙巨泉",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "巨泉",
+          "type": "人物",
+          "description": "石国璋的不争气的侄孙，行为放荡，负债累累",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "type": "地名",
+          "description": "文中提及的街道名称，但具体位置不明确，且与南海区文化、历史、旅游关联不大",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "282fec3d"
+    },
+    "chunk_0009": {
+      "entities": [
+        {
+          "name": "石国璋",
+          "type": "人物",
+          "description": "石景宜的父亲，石岳云的父亲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "石景宜的父亲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "type": "人物",
+          "description": "石国璋的儿媳，石景宜的母亲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "石岳云的第六个孩子",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "type": "建筑遗迹",
+          "description": "文中提到的道路名称，具体位置不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b30e018b"
+    },
+    "chunk_0010": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "佛山市南海区文史资料中的人物，出生于寅时，有特殊生日",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "石景宜的父亲，曾在香港德辅道中70号的逢源兴中药店工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c2df8f70"
+    },
+    "chunk_0011": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名学者、历史学家，出生于佛山市南海区",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "type": "建筑遗迹",
+          "description": "石景宜家族世世代代聚居的旧居",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "石景宜的父亲，性格刚强，对子女严格管教",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "8ab7d225"
+    },
+    "chunk_0012": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名历史学家、古文献学家，南海人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街小学",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的小学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州第一公园旁边的私垫",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的学校",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "海珠中路第九小学",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的小学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州禺山中学",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的中学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "坚道新亚英文中学",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的中学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州勤大学",
+          "type": "建筑遗迹",
+          "description": "石景宜曾就读的大学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "afcd3d31"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "9bdf2a86"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "9832ccb1"
+    },
+    "chunk_0015": {
+      "entities": [
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "景宜的父亲，远在香港，家庭主要由景宜支撑",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文中主角，机灵且有主见的家庭成员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "景暄",
+          "type": "人物",
+          "description": "景宜的哥哥，身体状况不佳",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "type": "人物",
+          "description": "景宜的母亲，家庭主要操持者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "香港",
+          "type": "地名",
+          "description": "景云远居住地，文中提及但不具体指涉南海区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文中主角，机灵且有主见的家庭成员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "5fa7f394"
+    },
+    "chunk_0016": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传记主人公，抗日战争时期的重要人物",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家",
+          "type": "宗族姓氏",
+          "description": "文中提及的家族名称",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "勒勤大学",
+          "type": "典籍作品",
+          "description": "石景宜儿子就读的学校，具体名称",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "dd23089e"
+    },
+    "chunk_0017": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文中提及的历史人物，具体身份未明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "type": "建筑遗迹",
+          "description": "文中提及的旧居，具体位置不详",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街43号",
+          "type": "地名",
+          "description": "石景宜童年和少年时代的住所地址",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "官山区",
+          "type": "地名",
+          "description": "文中提及的集镇，具体位置不详",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪乡",
+          "type": "地名",
+          "description": "文中提及的乡，具体位置不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "type": "建筑遗迹",
+          "description": "文中提及的旧路名，具体位置不详",
+          "confidence": 0.7,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "79a14f91"
+    },
+    "chunk_0018": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传记主人公，曾居住在麻行街的小屋",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街",
+          "type": "地名",
+          "description": "石景宜曾经居住的地方",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "官山镇",
+          "type": "地名",
+          "description": "石景宜一家人最终居住的地方",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "1938年10月21日",
+          "type": "朝代年号",
+          "description": "广州被日军占领的具体日期",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "a9bd83f7"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "1371feb2"
+    },
+    "chunk_0020": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传记主人公，香港回归祖国前的爱国人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "澳门",
+          "type": "地名",
+          "description": "文中提及的地名，但与南海区无直接关联",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "九龙塘南园",
+          "type": "地名",
+          "description": "香港的地名，具体地址，但与南海区无直接关联",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "文中提到的人物，但身份不明，未提供更多信息",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ccc9f856"
+    },
+    "chunk_0021": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传记主人公，石余氏之子",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "type": "人物",
+          "description": "石景宜的母亲，极平凡、极普通的妇女",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区的山脉",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒村",
+          "type": "地名",
+          "description": "未具体指明位置的村庄",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d61949ae"
+    },
+    "chunk_0022": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传主，石岳云的儿子，文中提及的家族成员之一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "type": "人物",
+          "description": "石景宜的母亲，文中提及的贤慧慈祥的妇女，石岳云的母亲",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "type": "人物",
+          "description": "石景宜的父亲，文中提及的家庭成员之一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "0e1526c2"
+    },
+    "chunk_0023": {
+      "entities": [],
+      "chunk_text_hash": "5d951680"
+    },
+    "chunk_0024": {
+      "entities": [],
+      "chunk_text_hash": "fabf409f"
+    },
+    "chunk_0025": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文中提到的人物，曾是药材行的杂工，后因与老板产生冲突而离开",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街43号",
+          "type": "地名",
+          "description": "石景宜家的房子所在地，具体地址",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "e6442d7d"
+    },
+    "chunk_0026": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "传记主人公，曾在泰昌耀记工作，后来决定跑单帮贩卖药材",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "2e12ba38"
+    },
+    "chunk_0027": {
+      "entities": [],
+      "chunk_text_hash": "fe54792e"
+    },
+    "chunk_0028": {
+      "entities": [],
+      "chunk_text_hash": "05ee5169"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "aa6e9e8a"
+    },
+    "chunk_0030": {
+      "entities": [],
+      "chunk_text_hash": "0ab0b438"
+    },
+    "chunk_0031": {
+      "entities": [],
+      "chunk_text_hash": "d36d60ef"
+    },
+    "chunk_0032": {
+      "entities": [],
+      "chunk_text_hash": "88ffd363"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "1d43d093"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "b64d7c9b"
+    },
+    "chunk_0035": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "收购旧书的书店老板，识货，重视革命史料",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《新青年》",
+          "type": "典籍作品",
+          "description": "早期的革命刊物，具有历史价值",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《创造》",
+          "type": "典籍作品",
+          "description": "早期文学刊物",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《语丝》",
+          "type": "典籍作品",
+          "description": "现代文学杂志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《响导》",
+          "type": "典籍作品",
+          "description": "革命刊物",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c556fe9b"
+    },
+    "chunk_0036": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "忠诚书店老板，与郭沫若交往",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "忠诚书店",
+          "type": "建筑遗迹",
+          "description": "广州的一家书店，出售珍贵书籍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "郭沫若",
+          "type": "人物",
+          "description": "著名学者，与忠诚书店有交集",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "容庚",
+          "type": "人物",
+          "description": "中山大学甲骨文教授，忠诚书店常客",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "商承祚",
+          "type": "人物",
+          "description": "忠诚书店常客",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杜定友",
+          "type": "人物",
+          "description": "中山图书馆馆长，忠诚书店常客",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "396e9cd7"
+    },
+    "chunk_0037": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "南海书店老板，对文化有浓厚兴趣",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "郭沫若",
+          "type": "人物",
+          "description": "著名历史学家、文学家，与石景宜相识",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c47af743"
+    },
+    "chunk_0038": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "佛山市南海区文化名人，图书业行家，积极拥护国家政策",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "e5304fb1"
+    },
+    "chunk_0039": {
+      "entities": [],
+      "chunk_text_hash": "5ab90cc4"
+    },
+    "chunk_0040": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名收藏家、企业家，与妻子刘紫英共同经营书店",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘紫英",
+          "type": "人物",
+          "description": "石景宜的妻子，支持丈夫事业并操持家务和教育子女",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "159934ea"
+    },
+    "chunk_0041": {
+      "entities": [],
+      "chunk_text_hash": "6a87161a"
+    },
+    "chunk_0042": {
+      "entities": [],
+      "chunk_text_hash": "8ceb8819"
+    },
+    "chunk_0043": {
+      "entities": [],
+      "chunk_text_hash": "affd5935"
+    },
+    "chunk_0044": {
+      "entities": [],
+      "chunk_text_hash": "d56a95dc"
+    },
+    "chunk_0045": {
+      "entities": [],
+      "chunk_text_hash": "01df6b26"
+    },
+    "chunk_0046": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "经营书摊的商人，绰号'大声公'",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d8ffdc4e"
+    },
+    "chunk_0047": {
+      "entities": [],
+      "chunk_text_hash": "827c4d9f"
+    },
+    "chunk_0048": {
+      "entities": [],
+      "chunk_text_hash": "5bb8062f"
+    },
+    "chunk_0049": {
+      "entities": [],
+      "chunk_text_hash": "01887b76"
+    },
+    "chunk_0050": {
+      "entities": [],
+      "chunk_text_hash": "e16d78f5"
+    },
+    "chunk_0051": {
+      "entities": [],
+      "chunk_text_hash": "3666766c"
+    },
+    "chunk_0052": {
+      "entities": [],
+      "chunk_text_hash": "04c66a6c"
+    },
+    "chunk_0053": {
+      "entities": [],
+      "chunk_text_hash": "350fd7aa"
+    },
+    "chunk_0054": {
+      "entities": [],
+      "chunk_text_hash": "d1887cfd"
+    },
+    "chunk_0055": {
+      "entities": [],
+      "chunk_text_hash": "e7c9d21f"
+    },
+    "chunk_0056": {
+      "entities": [],
+      "chunk_text_hash": "4611a0c7"
+    },
+    "chunk_0057": {
+      "entities": [],
+      "chunk_text_hash": "1aeb480e"
+    },
+    "chunk_0058": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港著名出版家，汉荣书局创办人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘紫英",
+          "type": "人物",
+          "description": "石景宜夫人，汉荣书局协理",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石氏夫妇",
+          "type": "人物",
+          "description": "指石景宜和刘紫英夫妇",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b5739e90"
+    },
+    "chunk_0059": {
+      "entities": [],
+      "chunk_text_hash": "8479e2fa"
+    },
+    "chunk_0060": {
+      "entities": [],
+      "chunk_text_hash": "7005f1f9"
+    },
+    "chunk_0061": {
+      "entities": [],
+      "chunk_text_hash": "05b7d56d"
+    },
+    "chunk_0062": {
+      "entities": [],
+      "chunk_text_hash": "cf9dae15"
+    },
+    "chunk_0063": {
+      "entities": [],
+      "chunk_text_hash": "3ec78ee4"
+    },
+    "chunk_0064": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "热心报国的爱国人士，喜好打麻将和阅读武侠小说",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈嘉庚",
+          "type": "人物",
+          "description": "爱国华侨，东南亚最大的企业家之一，家资殷富但用于公益事业",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "2b740fa3"
+    },
+    "chunk_0065": {
+      "entities": [],
+      "chunk_text_hash": "b2d5ad54"
+    },
+    "chunk_0066": {
+      "entities": [],
+      "chunk_text_hash": "614b6970"
+    },
+    "chunk_0067": {
+      "entities": [
+        {
+          "name": "陈嘉庚",
+          "type": "人物",
+          "description": "著名爱国华侨领袖，为国家教育事业做出巨大贡献",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港知名人士，以其爱国言行著称",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "红体育场",
+          "type": "建筑遗迹",
+          "description": "位于香港的大型体育场馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "沙田跑马场",
+          "type": "建筑遗迹",
+          "description": "位于香港的著名赛马场",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "王府井",
+          "type": "地名",
+          "description": "北京著名的商业街",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b4144418"
+    },
+    "chunk_0068": {
+      "entities": [],
+      "chunk_text_hash": "6616ac6e"
+    },
+    "chunk_0069": {
+      "entities": [],
+      "chunk_text_hash": "e2c99917"
+    },
+    "chunk_0070": {
+      "entities": [],
+      "chunk_text_hash": "23879d82"
+    },
+    "chunk_0071": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名出版家、企业家，与姜椿芳先生交往密切",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘紫英",
+          "type": "人物",
+          "description": "石景宜先生的夫人或伴侣",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "姜椿芳",
+          "type": "人物",
+          "description": "全国政协的先生，为石景宜先生赠联",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c4828e7a"
+    },
+    "chunk_0072": {
+      "entities": [],
+      "chunk_text_hash": "3af8d78a"
+    },
+    "chunk_0073": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "致力于两岸文化交流的香港人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "a2059457"
+    },
+    "chunk_0074": {
+      "entities": [],
+      "chunk_text_hash": "8fd6c58f"
+    },
+    "chunk_0075": {
+      "entities": [],
+      "chunk_text_hash": "13f407fa"
+    },
+    "chunk_0076": {
+      "entities": [],
+      "chunk_text_hash": "2d850105"
+    },
+    "chunk_0077": {
+      "entities": [],
+      "chunk_text_hash": "a7c5f3bf"
+    },
+    "chunk_0078": {
+      "entities": [],
+      "chunk_text_hash": "a214f94c"
+    },
+    "chunk_0079": {
+      "entities": [],
+      "chunk_text_hash": "a699676e"
+    },
+    "chunk_0080": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "从事图书经营和捐赠活动，为文化传播和海峡两岸文化交流作出贡献",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b9c5386b"
+    },
+    "chunk_0081": {
+      "entities": [],
+      "chunk_text_hash": "d0538c16"
+    },
+    "chunk_0082": {
+      "entities": [],
+      "chunk_text_hash": "e8723faa"
+    },
+    "chunk_0083": {
+      "entities": [],
+      "chunk_text_hash": "dfa38665"
+    },
+    "chunk_0084": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "图书经理，长期向内地赠书",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "邓颖超",
+          "type": "人物",
+          "description": "全国政治协商会议主席",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "习仲勋",
+          "type": "人物",
+          "description": "中国共产党中央政治局委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周谷城",
+          "type": "人物",
+          "description": "全国人民代表大会常务委员会副委员长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "严济慈",
+          "type": "人物",
+          "description": "全国人民代表大会常务委员会副委员长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杨静仁",
+          "type": "人物",
+          "description": "全国政协在北京的副主席",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘澜涛",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡子昂",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "钱昌照",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周培源",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "缪云台",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "费孝通",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "屈武",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "马海德",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "王力",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "姜椿芳",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "钱三强",
+          "type": "人物",
+          "description": "全国政协常务委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ecf2c058"
+    },
+    "chunk_0085": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "爱国人士，向祖国捐赠大量书籍",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周恩来",
+          "type": "人物",
+          "description": "已故中国共产党领导人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "邓颖超",
+          "type": "人物",
+          "description": "已故中国共产党和国家领导人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《人民的总理》照片集",
+          "type": "典籍作品",
+          "description": "关于周恩来总理的纪念照片集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《周恩来选集》",
+          "type": "典籍作品",
+          "description": "周恩来著作选集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《第二次国共合作》的照片集",
+          "type": "典籍作品",
+          "description": "关于第二次国共合作的纪念照片集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "7455c09c"
+    },
+    "chunk_0086": {
+      "entities": [],
+      "chunk_text_hash": "7902b2ba"
+    },
+    "chunk_0087": {
+      "entities": [
+        {
+          "name": "邓小平",
+          "type": "人物",
+          "description": "中国改革开放的总设计师",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾",
+          "type": "地名",
+          "description": "中国的一个省份，与大陆隔海相望",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "香港",
+          "type": "地名",
+          "description": "中国的特别行政区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈嘉庚",
+          "type": "人物",
+          "description": "著名爱国华侨领袖",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "6f1c56ec"
+    },
+    "chunk_0088": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港汉荣书局创办人，致力于两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "敦煌宝藏",
+          "type": "典籍作品",
+          "description": "一套共150册的古籍文献集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "故宫历代书法全集",
+          "type": "典籍作品",
+          "description": "台湾所存的古代书法作品集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "故宫名画三百种",
+          "type": "典籍作品",
+          "description": "台湾所存的古代名画集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国之重宝",
+          "type": "典籍作品",
+          "description": "台湾所存的珍贵文物集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "新修方志书",
+          "type": "典籍作品",
+          "description": "一套725册的地方志史料集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "cc9dc29b"
+    },
+    "chunk_0089": {
+      "entities": [],
+      "chunk_text_hash": "55aae784"
+    },
+    "chunk_0090": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港爱国人士，向全国政协捐赠图书",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "邓颖超",
+          "type": "人物",
+          "description": "中国共产党元老，与石景宜有交往",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "承德避暑山庄",
+          "type": "建筑遗迹",
+          "description": "位于河北省承德市的大型宫殿和文物群落",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜先生向全国政协捐赠图书",
+          "type": "历史事件",
+          "description": "1985年石景宜向全国政协捐赠图书活动",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州市政协主席罗培元",
+          "type": "人物",
+          "description": "广州市政协主席，为石景宜写诗祝贺",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ae8a737a"
+    },
+    "chunk_0091": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "爱国人士，全国政协委员，康有为梁启超研究会名誉会长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "type": "人物",
+          "description": "清末维新变法领袖，与康有为并称'康梁'",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b9207ca6"
+    },
+    "chunk_0092": {
+      "entities": [],
+      "chunk_text_hash": "6740ed2f"
+    },
+    "chunk_0093": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "广东省政协委员，关注广东改革开放和公共图书馆建设",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ed54057d"
+    },
+    "chunk_0094": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "全国政协委员，致力于文化交流和传播工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石汉基",
+          "type": "人物",
+          "description": "石景宜之长子，继承父亲遗志",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "25b9cf49"
+    },
+    "chunk_0095": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名爱国人士、企业家，长期致力于促进两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "孙中山",
+          "type": "人物",
+          "description": "中国近代民主革命的伟大先行者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "type": "人物",
+          "description": "清末民初著名政治家、学者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "fa2bb822"
+    },
+    "chunk_0096": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名学者、爱国人士，致力于康梁研究和促进祖国统一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为故居",
+          "type": "建筑遗迹",
+          "description": "康有为在南海的故居，与康有为生平密切相关",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "白云观",
+          "type": "建筑遗迹",
+          "description": "位于北京的一处道教正观，金代重建",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "9947eb05"
+    },
+    "chunk_0097": {
+      "entities": [
+        {
+          "name": "白云观",
+          "type": "建筑遗迹",
+          "description": "道教正观，唐朝天长观旧址，清代重建，有洞天福地牌楼",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "洞天福地",
+          "type": "建筑遗迹",
+          "description": "白云观前的大牌楼上的题字，清朝乾隆皇御笔",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄故居",
+          "type": "建筑遗迹",
+          "description": "中华人民共和国名誉主席宋庆龄生前居住地，位于后海北沿46号",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "86a57f98"
+    },
+    "chunk_0098": {
+      "entities": [],
+      "chunk_text_hash": "cf2a6b64"
+    },
+    "chunk_0099": {
+      "entities": [
+        {
+          "name": "周恩来",
+          "type": "人物",
+          "description": "中华人民共和国开国总理，曾主持建设宋庆龄故居",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄故居",
+          "type": "建筑遗迹",
+          "description": "位于佛山市南海区后海北沿，为纪念宋庆龄而建",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜先生",
+          "type": "人物",
+          "description": "文中提及的访问者，出版过纪念孙中山诞辰120周年的画册",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d107e315"
+    },
+    "chunk_0100": {
+      "entities": [],
+      "chunk_text_hash": "bbe9e526"
+    },
+    "chunk_0101": {
+      "entities": [],
+      "chunk_text_hash": "890074c8"
+    },
+    "chunk_0102": {
+      "entities": [
+        {
+          "name": "宋庆龄",
+          "type": "人物",
+          "description": "中国近代民主革命先行者、政治家、妇女解放运动的先驱",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋氏墓地",
+          "type": "建筑遗迹",
+          "description": "宋庆龄安葬之地，具体位置不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄故居",
+          "type": "建筑遗迹",
+          "description": "北京、上海两地宋庆龄生前居住地，现辟为纪念馆",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "beef6c0c"
+    },
+    "chunk_0103": {
+      "entities": [],
+      "chunk_text_hash": "780e1915"
+    },
+    "chunk_0104": {
+      "entities": [],
+      "chunk_text_hash": "fcf5a8a2"
+    },
+    "chunk_0105": {
+      "entities": [],
+      "chunk_text_hash": "dad63ec3"
+    },
+    "chunk_0106": {
+      "entities": [],
+      "chunk_text_hash": "4028da07"
+    },
+    "chunk_0107": {
+      "entities": [],
+      "chunk_text_hash": "7082a8e8"
+    },
+    "chunk_0108": {
+      "entities": [],
+      "chunk_text_hash": "a02cf0fe"
+    },
+    "chunk_0109": {
+      "entities": [],
+      "chunk_text_hash": "8ff7f22b"
+    },
+    "chunk_0110": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港图书商人，推动两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "首届台湾书展",
+          "type": "历史事件",
+          "description": "1986年7月25日在深圳举办的两岸文化交流活动",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "第二届图书展销会",
+          "type": "历史事件",
+          "description": "1986年在深圳大学举办的两岸文化交流活动",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁灵光",
+          "type": "人物",
+          "description": "中共广东省顾问委员会主任，参与书展开幕",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李灏",
+          "type": "人物",
+          "description": "深圳市市长，参与书展开幕",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈伯坚",
+          "type": "人物",
+          "description": "新华社香港分社副社长，参与书展开幕",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《近代中国史料丛刊》",
+          "type": "典籍作品",
+          "description": "台湾出版的大型史料丛书",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "8971478b"
+    },
+    "chunk_0111": {
+      "entities": [],
+      "chunk_text_hash": "6688dfaf"
+    },
+    "chunk_0112": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "为台湾图书展销会剪彩的中顾委委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "736b4a8e"
+    },
+    "chunk_0113": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "全国政协委员，参与推动海峡文化交流与统一祖国工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘紫英女士",
+          "type": "人物",
+          "description": "石景宜的太太，支持他的报效祖国工作",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "769e9c7b"
+    },
+    "chunk_0114": {
+      "entities": [],
+      "chunk_text_hash": "67034b5f"
+    },
+    "chunk_0115": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名画家，长期向祖国大陆赠书，致力于两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区，风景优美，文化底蕴深厚",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d534ff10"
+    },
+    "chunk_0116": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名收藏家、文化学者，出生于佛山市南海区西樵山麓",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区，著名的风景名胜区",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国各派书画作品",
+          "type": "非遗技艺",
+          "description": "指中国不同流派的书法和绘画艺术作品",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "炎黄子孙联谊画展",
+          "type": "历史事件",
+          "description": "石景宜发起并组织的文化交流活动",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国画",
+          "type": "非遗技艺",
+          "description": "中国传统绘画艺术形式之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "书法",
+          "type": "非遗技艺",
+          "description": "中国传统的文字书写艺术",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "03b580c8"
+    },
+    "chunk_0117": {
+      "entities": [],
+      "chunk_text_hash": "0203725d"
+    },
+    "chunk_0118": {
+      "entities": [],
+      "chunk_text_hash": "0b34e54e"
+    },
+    "chunk_0119": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "积极参与《中国当代书画选大陆专辑》的推广与传播",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈永锵",
+          "type": "人物",
+          "description": "广州画院院长，中国美协广东分会副主席",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "60a7731b"
+    },
+    "chunk_0120": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "弘扬中国书画艺术的爱国人士，汉荣书局创始人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石汉基",
+          "type": "人物",
+          "description": "石景宜之子，汉荣书局总经理",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "1cd6cae1"
+    },
+    "chunk_0121": {
+      "entities": [
+        {
+          "name": "黄君璧",
+          "type": "人物",
+          "description": "著名书画家，原籍广东南海，出生于彩笔，国画研究会会员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "欧豪年",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李奇茂",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡克敏",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "吴平",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周澄",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李义弘",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台静农",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "傅夫",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "楚戈",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "赵松泉",
+          "type": "人物",
+          "description": "著名书画家，参展画家之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "岭南",
+          "type": "建筑遗迹",
+          "description": "指岭南画派，与南海文化相关",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "41eeb547"
+    },
+    "chunk_0122": {
+      "entities": [
+        {
+          "name": "欧豪年",
+          "type": "人物",
+          "description": "著名岭南派画家，师从赵少昂",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《钟道》",
+          "type": "非遗技艺",
+          "description": "欧豪年的送展作品，人物画",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《仁寿里图》",
+          "type": "非遗技艺",
+          "description": "欧豪年自画作品，回忆故乡之作",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《山居图》",
+          "type": "非遗技艺",
+          "description": "傅夫的手笔，回忆西湖之作",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "傅夫",
+          "type": "人物",
+          "description": "知名山水画家，生长于杭州",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "王潜楼",
+          "type": "人物",
+          "description": "西冷画社的社长，傅夫的老师",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李奇茂",
+          "type": "人物",
+          "description": "台湾著名的人物画家，现任台湾国立艺专美术科教授",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《八仙图》",
+          "type": "非遗技艺",
+          "description": "李奇茂送展作品，人物画",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡克敏",
+          "type": "人物",
+          "description": "老画家，研究敦煌壁画多年",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《牡丹图》",
+          "type": "非遗技艺",
+          "description": "胡克敏参展作品，牡丹画",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "7f9f8b96"
+    },
+    "chunk_0123": {
+      "entities": [
+        {
+          "name": "赵少昂",
+          "type": "人物",
+          "description": "岭南派著名画家，与杨善深合作《四君子图》",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杨善深",
+          "type": "人物",
+          "description": "岭南派著名画家，与赵少昂合作《四君子图》",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "关山月",
+          "type": "人物",
+          "description": "岭南派名家，与黎雄才、赵少昂、杨善深合作《四君子图》",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黎雄才",
+          "type": "人物",
+          "description": "岭南派名家，与关山月、赵少昂、杨善深合作《四君子图》",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周干秋",
+          "type": "人物",
+          "description": "旅美著名中国画家，与梁粲樱合作参展作品",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "21cef411"
+    },
+    "chunk_0124": {
+      "entities": [],
+      "chunk_text_hash": "6d0bec41"
+    },
+    "chunk_0125": {
+      "entities": [
+        {
+          "name": "陈煜",
+          "type": "人物",
+          "description": "美国安良工商总会会长，全美华人福利会迈亚密分会主席，对书法感兴趣",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "王子豪",
+          "type": "人物",
+          "description": "旅美中国画家，擅长画山水草木和鸟兽虫鱼",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "伍揖青",
+          "type": "人物",
+          "description": "旅居阿根廷的艺术家，阿根廷艺术学院中国画教授",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈树人",
+          "type": "人物",
+          "description": "国民党元老，岭南画派创始人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李可染",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黄苗子",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "启功",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "溥杰",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "赵朴初",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "关山月",
+          "type": "人物",
+          "description": "著名书画家，作品《梅花》参展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黎雄才",
+          "type": "人物",
+          "description": "著名书画家，作品《万壑争流》参展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "董寿平",
+          "type": "人物",
+          "description": "著名书画家，作品墨竹参展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "娄师白",
+          "type": "人物",
+          "description": "著名书画家，作品寿桃参展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "钱君萄",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "秦萼生",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "商承祚",
+          "type": "人物",
+          "description": "著名书画家，作品金文参展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘炳森",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "王遐举",
+          "type": "人物",
+          "description": "著名书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "3a54f18a"
+    },
+    "chunk_0126": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "书画展发起人和参与者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "启功",
+          "type": "人物",
+          "description": "书法家，提供作品给石景宜先生",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "老舍",
+          "type": "人物",
+          "description": "已故作家，夫人胡絮青为书画展出力",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡絮青",
+          "type": "人物",
+          "description": "老舍夫人，为书画展提供画卷",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台静农",
+          "type": "人物",
+          "description": "书法家，书写对联并应邀参加书画展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "4b2cfc08"
+    },
+    "chunk_0127": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家、收藏家，致力于海峡两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "9b02e9ac"
+    },
+    "chunk_0128": {
+      "entities": [
+        {
+          "name": "孙中山",
+          "type": "人物",
+          "description": "中国近代民主革命先行者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文化学者、书画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "61c27968"
+    },
+    "chunk_0129": {
+      "entities": [],
+      "chunk_text_hash": "0ae55fd0"
+    },
+    "chunk_0130": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "与胡爽庵交往密切，支持两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "董老",
+          "type": "人物",
+          "description": "擅长画松、竹、梅，人称寿平竹",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡爽庵",
+          "type": "人物",
+          "description": "张大干的高足，与石景宜一见如故",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "孙云生",
+          "type": "人物",
+          "description": "张大千的入室弟子，曾与胡爽庵同为师兄弟",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "张大干",
+          "type": "人物",
+          "description": "胡爽庵和孙云生的恩师",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "2ee532a4"
+    },
+    "chunk_0131": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "与胡爽庵交往密切，支持两岸文化交流的美术工作者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡爽庵",
+          "type": "人物",
+          "description": "画家，创作了《虎》并赠予石景宜，后因病去世",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "荣宝斋",
+          "type": "建筑遗迹",
+          "description": "北京著名书画店，销售名家作品",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈奇峰",
+          "type": "人物",
+          "description": "广东南海人，画家，支持石景宜的两岸文化交流活动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海",
+          "type": "地名",
+          "description": "陈奇峰的籍贯，位于广东省",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d3b7d542"
+    },
+    "chunk_0132": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "征集书画的工作者，与溥杰先生交往",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "溥仪",
+          "type": "人物",
+          "description": "末代皇帝，溥杰之兄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "爱新觉罗·溥杰",
+          "type": "人物",
+          "description": "中国书法家协会会员，溥仪的御弟",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西城护国寺",
+          "type": "建筑遗迹",
+          "description": "位于北京市西城区的寺庙",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周怀民",
+          "type": "人物",
+          "description": "画家，爱国爱乡，捐赠名画",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "5b4f9e20"
+    },
+    "chunk_0133": {
+      "entities": [],
+      "chunk_text_hash": "7784c4e2"
+    },
+    "chunk_0134": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "征集字画活动的组织者，爱国人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "和平门烤鸭店",
+          "type": "建筑遗迹",
+          "description": "北京的一家著名餐馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "北京饭店",
+          "type": "建筑遗迹",
+          "description": "位于北京的一家知名酒店",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "建国饭店",
+          "type": "建筑遗迹",
+          "description": "石景宜先生曾经居住的地方",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "华侨饭店",
+          "type": "建筑遗迹",
+          "description": "石景宜先生曾经居住的地方",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "竹园宾馆",
+          "type": "建筑遗迹",
+          "description": "石景宜先生后来居住的地方",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周怀民",
+          "type": "人物",
+          "description": "画家，与石景宜先生交往",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "04c41be6"
+    },
+    "chunk_0135": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文化学者、社会活动家，致力于两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周怀民",
+          "type": "人物",
+          "description": "画家，与石景宜交往的艺术界人士",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "启功",
+          "type": "人物",
+          "description": "中国书法家协会主席，著名书法家、学者",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黄钧",
+          "type": "人物",
+          "description": "工笔画家，与石景宜有交集的艺术界人士",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈隽甫",
+          "type": "人物",
+          "description": "黄钧的画友，在台湾的画家",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ca672bbc"
+    },
+    "chunk_0136": {
+      "entities": [],
+      "chunk_text_hash": "9610ba00"
+    },
+    "chunk_0137": {
+      "entities": [],
+      "chunk_text_hash": "cf8f3f28"
+    },
+    "chunk_0138": {
+      "entities": [],
+      "chunk_text_hash": "8f1fe468"
+    },
+    "chunk_0139": {
+      "entities": [],
+      "chunk_text_hash": "1231afdc"
+    },
+    "chunk_0140": {
+      "entities": [],
+      "chunk_text_hash": "fc7ff833"
+    },
+    "chunk_0141": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "书画家，曾去台湾参加书画展开幕式，后因政治原因可能面临未知风险",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "4fbf0b61"
+    },
+    "chunk_0142": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "台湾著名书画家、活动家，与冰蕾合作推动两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "冰蕾",
+          "type": "人物",
+          "description": "文中未提供详细信息，但与石景宜先生有书信往来",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "世界华人书画大联展",
+          "type": "历史事件",
+          "description": "1988年在台北举行的大型书画展览活动",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画展》",
+          "type": "典籍作品",
+          "description": "1988年在台北举行的一次重要书画展览",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "大家艺术中心",
+          "type": "建筑遗迹",
+          "description": "台北市的一个艺术展览场所",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "979cb482"
+    },
+    "chunk_0143": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家、文化界人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台北市大家艺术中心",
+          "type": "建筑遗迹",
+          "description": "台湾地区艺术展览场所",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画选》",
+          "type": "典籍作品",
+          "description": "一本关于中国当代书画的选集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "总统府图书室",
+          "type": "建筑遗迹",
+          "description": "台湾地区官方图书馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "关山月",
+          "type": "人物",
+          "description": "著名画家，与石景宜熟识",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "34cd12f6"
+    },
+    "chunk_0144": {
+      "entities": [
+        {
+          "name": "关山月",
+          "type": "人物",
+          "description": "著名画家，与石景宜熟识",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份未明确",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画选》",
+          "type": "典籍作品",
+          "description": "书画选集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "275f6a1c"
+    },
+    "chunk_0145": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家，为弘扬中华文化作出努力",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "俞大维",
+          "type": "人物",
+          "description": "国民党元老，台湾前国防部长，总统府咨政和国策委员会顾问",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "type": "人物",
+          "description": "晚清著名政治家、思想家、学者",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立历史博物馆",
+          "type": "建筑遗迹",
+          "description": "台湾地区重要文化机构",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局",
+          "type": "建筑遗迹",
+          "description": "台湾地区出版机构",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "6db909cb"
+    },
+    "chunk_0146": {
+      "entities": [],
+      "chunk_text_hash": "35d370f0"
+    },
+    "chunk_0147": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家，参与组织中国当代书画展",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "北京大学",
+          "type": "人物",
+          "description": "蔡元培先生曾主持校政，重视美育",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画展》",
+          "type": "非遗技艺",
+          "description": "石景宜先生与人合办的展览活动",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋任穷",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周谷城",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "雷洁琼",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "费孝通",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "赵朴初",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "程思远",
+          "type": "人物",
+          "description": "国家领导人，出席开幕式并观看了展览",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "阿老",
+          "type": "人物",
+          "description": "画家，对石景宜先生的书画展评价很高",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "靳尚谊",
+          "type": "人物",
+          "description": "北京中央美术学院院长，对石景宜先生评价很高",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "古元",
+          "type": "人物",
+          "description": "版画家，对石景宜先生的书画展评价很高",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "36d2d453"
+    },
+    "chunk_0148": {
+      "entities": [],
+      "chunk_text_hash": "5f9b65e8"
+    },
+    "chunk_0149": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "在台湾弘扬中国文化并举办书展活动的重要人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘平衡",
+          "type": "人物",
+          "description": "台湾国立历史博物馆研究组主任，对石景宜活动表示支持",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈癸淼",
+          "type": "人物",
+          "description": "台湾新任立法委员，国立历史博物馆馆长，与石景宜商议书展事宜",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈义一",
+          "type": "人物",
+          "description": "台湾国立历史博物馆秘书，参与书展计划制定",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画展》",
+          "type": "典籍作品",
+          "description": "刘平衡参加的展览活动",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "28521dde"
+    },
+    "chunk_0150": {
+      "entities": [],
+      "chunk_text_hash": "6387bb3c"
+    },
+    "chunk_0151": {
+      "entities": [],
+      "chunk_text_hash": "31103517"
+    },
+    "chunk_0152": {
+      "entities": [],
+      "chunk_text_hash": "1e7d4fad"
+    },
+    "chunk_0153": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名学者、收藏家，参与两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立历史博物馆",
+          "type": "建筑遗迹",
+          "description": "台湾地区的历史文化机构，以收藏历代文物著称",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈癸淼",
+          "type": "人物",
+          "description": "国立历史博物馆馆长，负责接受和管理赠书",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d35cac3c"
+    },
+    "chunk_0154": {
+      "entities": [],
+      "chunk_text_hash": "64d8575d"
+    },
+    "chunk_0155": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "促进祖国统一的爱国人士，向祖国内地和台湾捐赠书籍",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杨应彬",
+          "type": "人物",
+          "description": "广东省政协副主席，与石景宜交往的老朋友",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县",
+          "type": "地名",
+          "description": "位于佛山市的县级行政区",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《广东文征》",
+          "type": "典籍作品",
+          "description": "古籍和工具书之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《南海县志》",
+          "type": "典籍作品",
+          "description": "清同治11年和宣统二年刊刻的地方志",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《广州府志》",
+          "type": "典籍作品",
+          "description": "与南海历史有关联的地方志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《番禺县志》",
+          "type": "典籍作品",
+          "description": "与南海历史有关联的地方志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《顺德县志》",
+          "type": "典籍作品",
+          "description": "与南海历史有关联的地方志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "bc5d92a2"
+    },
+    "chunk_0156": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港知名人士，受聘为南海县地方志编纂委员会顾问",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县地方志编委会办公104室",
+          "type": "建筑遗迹",
+          "description": "南海县地方志编纂委员会的办公室",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为纪念馆",
+          "type": "建筑遗迹",
+          "description": "纪念康有为的纪念馆",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "番禺县图书馆",
+          "type": "建筑遗迹",
+          "description": "广东省内的一家图书馆",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "62b5343a"
+    },
+    "chunk_0157": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "从事图书行业近半个世纪，向番禺县图书馆赠送书籍",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "番禺县图书馆",
+          "type": "建筑遗迹",
+          "description": "广东省县级图书馆之一，规模宏大，设备先进",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "沙湾飘色",
+          "type": "非遗技艺",
+          "description": "饮誉海内外的传统民俗活动",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县图书馆",
+          "type": "建筑遗迹",
+          "description": "与番禺县图书馆相似的县级图书馆",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东省番禺县",
+          "type": "地名",
+          "description": "位于广东省内的县级行政区",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "九比大桥",
+          "type": "建筑遗迹",
+          "description": "番禺县内的新建桥梁",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "956142a2"
+    },
+    "chunk_0158": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "关注祖国修志事业，为南海中学捐赠书籍并提供指导",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海中学",
+          "type": "地名",
+          "description": "位于佛山市南海区的中学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "建筑遗迹",
+          "description": "位于佛山市南海区，会议地点",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "戊戌维新",
+          "type": "历史事件",
+          "description": "19世纪末的变法运动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "type": "人物",
+          "description": "中国近代思想家，与康有为并称康梁",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县",
+          "type": "地名",
+          "description": "位于佛山市的县级行政区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "158b9886"
+    },
+    "chunk_0159": {
+      "entities": [
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "type": "人物",
+          "description": "清末维新变法的重要人物",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "戊戌变法",
+          "type": "历史事件",
+          "description": "1898年发生的中国历史事件",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵三湖书院",
+          "type": "建筑遗迹",
+          "description": "位于佛山市南海区西樵镇的书院",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d627cdc2"
+    },
+    "chunk_0160": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家，编印《南海丹青》等作品集",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画选》",
+          "type": "典籍作品",
+          "description": "石景宜编印的书画作品集",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《南海丹青》",
+          "type": "典籍作品",
+          "description": "石景宜编印的南海籍海内外书画家作品集",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市",
+          "type": "地名",
+          "description": "石景宜先生的故乡，辖南海、顺德、三水、高明等县",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山迎宾馆",
+          "type": "建筑遗迹",
+          "description": "佛山市内的接待宾馆",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "af688f15"
+    },
+    "chunk_0161": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "佛山市南海区文史资料作者，书法家、画家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市中医院",
+          "type": "建筑遗迹",
+          "description": "佛山市内的医疗机构",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市艺术中心",
+          "type": "建筑遗迹",
+          "description": "佛山市内的文化设施",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "迎宾馆",
+          "type": "建筑遗迹",
+          "description": "佛山市内的宾馆",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "醒狮队",
+          "type": "非遗技艺",
+          "description": "广东传统民间艺术表演队伍",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "唢呐队",
+          "type": "非遗技艺",
+          "description": "传统民间音乐表演队伍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "1031506a"
+    },
+    "chunk_0162": {
+      "entities": [
+        {
+          "name": "醒狮队",
+          "type": "非遗技艺",
+          "description": "由民间艺人组成的表演队伍，象征吉祥如意",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜先生",
+          "type": "人物",
+          "description": "爱国艺术家，致力于海峡两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市中医院",
+          "type": "建筑遗迹",
+          "description": "创建于1956年的医疗机构，以骨伤科闻名",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "f107fbc2"
+    },
+    "chunk_0163": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名书画家、艺术理论家，曾任中国美术家协会副主席",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区，广东四大名山之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "bc26dd9f"
+    },
+    "chunk_0164": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "佛山市知名人士，多次捐赠书籍给佛山及南海地区的图书馆和学校",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中医学概论》",
+          "type": "典籍作品",
+          "description": "佛山市中医院准备出版的书籍",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山艺术中心",
+          "type": "建筑遗迹",
+          "description": "佛山市的一个文化设施，用于展览和活动",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵胜地",
+          "type": "地名",
+          "description": "位于佛山市西樵山景区，著名旅游景点",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵中学",
+          "type": "建筑遗迹",
+          "description": "佛山市西樵镇的一所中学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵",
+          "type": "地名",
+          "description": "佛山市的一个镇，西樵山所在地",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "9cea6fd7"
+    },
+    "chunk_0165": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名学者、企业家，曾为南海县副县长的陪同下回乡考察",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵胜地",
+          "type": "建筑遗迹",
+          "description": "未明确具体遗迹，但指西樵山风景名胜区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵中学",
+          "type": "建筑遗迹",
+          "description": "位于西樵镇的学校，具体建筑未详述",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵大桥",
+          "type": "建筑遗迹",
+          "description": "西樵镇建成不久的大桥，用于交通",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪村石家居住地",
+          "type": "建筑遗迹",
+          "description": "石景宜祖居所在地，位于儒溪村",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石牌坊",
+          "type": "建筑遗迹",
+          "description": "石景宜旧居入口处的石牌坊，横匾刻有‘武威大道’四字",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "8c220555"
+    },
+    "chunk_0166": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "著名学者、收藏家，对家乡感情深厚",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "祖居",
+          "type": "建筑遗迹",
+          "description": "石景宜的故居，计划修缮并设立图书室",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵镇人民政府",
+          "type": "地名",
+          "description": "佛山市南海区西樵镇政府",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "a1b7b1af"
+    },
+    "chunk_0167": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "捐赠书籍给内地和台湾的学者和机构，曾任暨南大学董事",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区，广东名山之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "暨南大学",
+          "type": "人物",
+          "description": "为华侨和港澳台青年而设的最高学府，石景宜先生曾担任董事",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州图书馆",
+          "type": "人物",
+          "description": "接受石景宜先生赠书的单位之一",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "全国政协",
+          "type": "人物",
+          "description": "接受石景宜先生赠书的单位之一",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "韶关大学",
+          "type": "人物",
+          "description": "接受石景宜先生赠书的单位之一",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立历史博物馆",
+          "type": "人物",
+          "description": "设置有石景宜先生赠书陈列室，位于台湾地区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立艺术专科学校",
+          "type": "人物",
+          "description": "设置有石景宜先生赠书陈列室，位于台湾地区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县图书馆",
+          "type": "人物",
+          "description": "接受石景宜先生赠书的单位之一",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "8c40b025"
+    },
+    "chunk_0168": {
+      "entities": [],
+      "chunk_text_hash": "79954571"
+    },
+    "chunk_0169": {
+      "entities": [],
+      "chunk_text_hash": "ef5046ce"
+    },
+    "chunk_0170": {
+      "entities": [
+        {
+          "name": "石景宜先生",
+          "type": "人物",
+          "description": "捐赠大量书籍给广州图书馆的知名人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州图书馆",
+          "type": "建筑遗迹",
+          "description": "位于广东省广州市，接受石景宜先生赠书的图书馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《台湾文献史料丛刊》",
+          "type": "典籍作品",
+          "description": "具有重要参考价值的台湾文献书籍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《古今图书集成》",
+          "type": "典籍作品",
+          "description": "古代大型类书",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《历史语言研究所集刊》",
+          "type": "典籍作品",
+          "description": "历史学和语言学研究的学术期刊",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《传记文学》",
+          "type": "典籍作品",
+          "description": "传记类文学杂志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《故宫元画精华》",
+          "type": "典籍作品",
+          "description": "关于故宫收藏元代绘画的书籍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《故宫清瓷图录》",
+          "type": "典籍作品",
+          "description": "关于故宫清代瓷器的图录书籍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《圣经》",
+          "type": "典籍作品",
+          "description": "基督教经典著作",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《民声》杂志",
+          "type": "典籍作品",
+          "description": "1911年在广州出版的杂志",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "乾隆年间精抄本《北西厢记》",
+          "type": "典籍作品",
+          "description": "清代早期的珍贵戏曲抄本",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "4cd737e2"
+    },
+    "chunk_0171": {
+      "entities": [],
+      "chunk_text_hash": "3d11a156"
+    },
+    "chunk_0172": {
+      "entities": [],
+      "chunk_text_hash": "61850c96"
+    },
+    "chunk_0173": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "捐赠大量书籍支持教育事业的香港知名人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "全国政协赠书阅览室",
+          "type": "建筑遗迹",
+          "description": "专门设立用于存放和借阅捐赠图书的阅览室",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《世界战争全集》",
+          "type": "典籍作品",
+          "description": "军事类书籍，具体卷册不详",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《王国维先生全集》",
+          "type": "典籍作品",
+          "description": "文史类书籍，具体卷册不详",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "各省地方志",
+          "type": "典籍作品",
+          "description": "各地的地方文献资料",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "韶关大学",
+          "type": "地名",
+          "description": "位于广东省韶关市的高等院校",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "bcf8e401"
+    },
+    "chunk_0174": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "香港知名人士，捐赠大量图书给内地图书馆",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县图书馆",
+          "type": "建筑遗迹",
+          "description": "位于桂城的文化区，藏书丰富",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "景宜书屋",
+          "type": "建筑遗迹",
+          "description": "南海县图书馆内专门收藏石景宜捐赠书籍的房间",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《南海丹青》书画展",
+          "type": "典籍作品",
+          "description": "南海县举办的文化活动",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜捐赠图书特藏室",
+          "type": "建筑遗迹",
+          "description": "台湾国立历史博物馆内专门收藏石景宜捐赠书籍的房间",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "6424d4a2"
+    },
+    "chunk_0175": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "台湾知名出版家，积极推动两岸文化交流",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾国立艺术专科学校",
+          "type": "建筑遗迹",
+          "description": "未具体指明建筑遗迹，但提及学校图书馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "凌嵩郎",
+          "type": "人物",
+          "description": "台湾国立艺术专科学校校长",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国美术全集》",
+          "type": "典籍作品",
+          "description": "中国美术史书籍，共60册",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "84b4dc58"
+    },
+    "chunk_0176": {
+      "entities": [],
+      "chunk_text_hash": "a367f0ba"
+    },
+    "chunk_0177": {
+      "entities": [],
+      "chunk_text_hash": "1439e54b"
+    },
+    "chunk_0178": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "全国政协委员，暨南大学董事，陪同访问团考察华南师范大学和暨南大学",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "4114645f"
+    },
+    "chunk_0179": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "type": "人物",
+          "description": "促成台湾五南教育访问团访问暨南大学的重要人士",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "云冠平",
+          "type": "人物",
+          "description": "暨南大学副校长，参与接待台湾五南教育访问团",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "暨南大学",
+          "type": "地名",
+          "description": "位于广东省广州市的著名高等学府",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黄花岗七十二烈士墓",
+          "type": "建筑遗迹",
+          "description": "广州著名的革命遗址",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "6a562ae2"
+    },
+    "chunk_0180": {
+      "entities": [],
+      "chunk_text_hash": "ab7b821b"
+    },
+    "chunk_0181": {
+      "entities": [],
+      "chunk_text_hash": "8ed27859"
+    },
+    "chunk_0182": {
+      "entities": [],
+      "chunk_text_hash": "48effca2"
+    },
+    "chunk_0183": {
+      "entities": [],
+      "chunk_text_hash": "e5ff5774"
+    },
+    "chunk_0184": {
+      "entities": [],
+      "chunk_text_hash": "432e1d9b"
+    }
+  }
+}

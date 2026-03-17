@@ -1,0 +1,713 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation": "著有",
+          "evidence": "陈启沅所著关于蚕桑养殖技术的书籍《蚕桑谱》二卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "奉政公",
+          "target": "缉斋",
+          "relation": "同族",
+          "evidence": "先父奉政公，号缉斋",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "奉政公",
+          "target": "《蚕桑谱》",
+          "relation": "著有",
+          "evidence": "有予日：百姓足，君敦与不足。汝等勉之。沅既长，两赴童子试，而父没矣。遂弃书而继父志，与两家兄以农桑为业，实则半农而半儒也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "《蚕桑谱》",
+          "target": "奉政公",
+          "relation": "关联人物",
+          "evidence": "有予日：百姓足，君敦与不足。汝等勉之。沅既长，两赴童子试，而父没矣。遂弃书而继父志，与两家兄以农桑为业，实则半农而半儒也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "陈君芷馨",
+          "target": "《蚕桑谱》",
+          "relation": "著有",
+          "evidence": "陈君芷馨，心焉之，因出所著《蚕桑谱》示其乡人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "南海市南庄镇",
+          "relation": "出生于",
+          "evidence": "南海县整头堡荷徽乡人（今属南海市南庄镇）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "南海市南庄镇",
+          "relation": "活动于",
+          "evidence": "潘衍桐，南海县整头堡荷徽乡人（今属南海市南庄镇）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "吴封叙",
+          "target": "蚕桑之法",
+          "relation": "关联人物",
+          "evidence": "爱将此谱重刊，以广其传",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "李长龄",
+          "target": "官山",
+          "relation": "活动于",
+          "evidence": "机器丝，同治五年创自南海县属之官山地方",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "官山",
+          "target": "顺德",
+          "relation": "盛产",
+          "evidence": "粤省丝机器，以顺德为最多，新会次之，遵即派候补知县李长龄前往各县，逐一确查。去后，兹据该员禀称：机器丝，同治五年创自南海县属之官山地方，光绪七年迁往澳门，嗣后顺德各 县陆续添设",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "官山",
+          "target": "新会",
+          "relation": "盛产",
+          "evidence": "粤省丝机器，以顺德为最多，新会次之",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村乡",
+          "relation": "活动于",
+          "evidence": "后复在官山简村乡续创单车丝机器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "《蚕桑谱》",
+          "target": "陈启沅",
+          "relation": "著有",
+          "evidence": "所撰《蚕桑谱》书，考订精详，皆经验之语",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "《蚕桑谱》",
+          "target": "南顺机器缚丝厂",
+          "relation": "记载于",
+          "evidence": "所撰《蚕桑谱》书，考订精详，皆经验之语",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation": "著有",
+          "evidence": "南海息心老人芷馨陈启沅撰",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "息心老人芷馨",
+          "target": "陈启沅",
+          "relation": "同族",
+          "evidence": "南海息心老人芷馨陈启沅撰",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "蚕桑总论",
+          "target": "蚕萝",
+          "relation": "承载文化",
+          "evidence": "蚕萝：蚕茧退壳后的无足虫",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "吊鱼丝",
+          "target": "蚕桑总论",
+          "relation": "盛产",
+          "evidence": "枫树之蚕，世人取之以作吊鱼丝",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "蚕萝",
+          "target": "僵蚕",
+          "relation": "同类",
+          "evidence": "更有劣等者，曰僵蚕",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "青茧",
+          "target": "银茧",
+          "relation": "同类",
+          "evidence": "有黄、有白，有嫩黄近青色，称之曰青茧。黄者，名之日金茧。白者，日银茧",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "青茧",
+          "target": "金茧",
+          "relation": "同类",
+          "evidence": "有黄、有白，有嫩黄近青色，称之曰青茧。黄者，名之日金茧。白者，日银茧",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "练种",
+          "target": "广东桑",
+          "relation": "承载文化",
+          "evidence": "广东桑，倘长至六十日外而采之",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "练种",
+          "target": "大造",
+          "relation": "承载文化",
+          "evidence": "广蚕不能用此法，地利不同世。而广东之蚕，亦有二种，一名大造，又曰大蚕",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "练种",
+          "target": "连蚕",
+          "relation": "承载文化",
+          "evidence": "连蚕则无大花尾，实两种耳",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "大造",
+          "target": "光身",
+          "relation": "同类",
+          "evidence": "大岙内仍分三种，一曰光身，吕明印，日大花尾",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "大造",
+          "target": "大花尾",
+          "relation": "同类",
+          "evidence": "大岙内仍分三种，一曰光身，吕明印，日大花尾",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "蚕瓣铺",
+          "target": "泡水之法",
+          "relation": "承载文化",
+          "evidence": "历来泡水之法，俱用滚水一半，和冷水一半",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕瓣铺",
+          "target": "滚水",
+          "relation": "承载文化",
+          "evidence": "历来泡水之法，俱用滚水一半，和冷水一半",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕瓣铺",
+          "target": "冷水",
+          "relation": "承载文化",
+          "evidence": "历来泡水之法，俱用滚水一半，和冷水一半",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕师",
+          "target": "泡水之法",
+          "relation": "传承于",
+          "evidence": "因看蚕有无受症，方可作种，倘其种受了各症，下造则不佳矣，故有蚕师之称",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "蚕纸",
+          "target": "广东",
+          "relation": "盛产",
+          "evidence": "广东俗名日上箔注七十九",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "大眠",
+          "target": "成熟",
+          "relation": "发生于",
+          "evidence": "自大眠起而至成熟",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "上箔",
+          "target": "成熟",
+          "relation": "发生于",
+          "evidence": "上箔时或遇雨色缠绵",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "湖浙人",
+          "target": "蚕纸",
+          "relation": "关联人物",
+          "evidence": "湖浙人俗名日上山，广东俗名日上箔注七十九",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "广东",
+          "target": "蚕梦",
+          "relation": "盛产",
+          "evidence": "广东俱用炕茧之法而后丝。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "广东",
+          "target": "炕茧之法",
+          "relation": "承载文化",
+          "evidence": "广东俱用炕茧之法而后丝。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "炕茧之法",
+          "target": "广东",
+          "relation": "属于时期",
+          "evidence": "广东俱用炕茧之法而后丝。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "山塘",
+          "target": "肇庆",
+          "relation": "盛产",
+          "evidence": "其下等之丝，日山塘，日肇庆；其次日沙丝，日古镇；其上等之丝，日龙山，日葛岸。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "沙丝",
+          "target": "古镇",
+          "relation": "盛产",
+          "evidence": "其下等之丝，日山塘，日肇庆；其次日沙丝，日古镇；其上等之丝，日龙山，日葛岸。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "龙山",
+          "target": "葛岸",
+          "relation": "同类",
+          "evidence": "其上等之丝，日龙山，日葛岸。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "山塘",
+          "target": "肇庆",
+          "relation": "属于时期",
+          "evidence": "以山塘之劣等，又比龙山之上等，沽价仅值其半而已。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "同宫",
+          "target": "孖头",
+          "relation": "同族",
+          "evidence": "同宫，又曰孖头",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "蚕茧",
+          "target": "丝皮",
+          "relation": "承载文化",
+          "evidence": "凡蚕茧不拘厚薄，必有毛衣一层，名曰丝皮",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕茧",
+          "target": "生丝",
+          "relation": "记载于",
+          "evidence": "除去外衣，约三两五钱，除去内衣，二两五钱实得生丝二十一两",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕茧",
+          "target": "熟丝",
+          "relation": "记载于",
+          "evidence": "除去外衣，约三两五钱，除去内衣，二两五钱实得生丝二十一两",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕茧",
+          "target": "丝骨",
+          "relation": "承载文化",
+          "evidence": "除去里外两层，中间方是好丝注八十九。故茁厚者为 上等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "头造",
+          "target": "大造",
+          "relation": "同类",
+          "evidence": "头造养蚕有二种：一名大造，即大蚕；一名连蚕，即轮月",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "头造",
+          "target": "连蚕",
+          "relation": "同类",
+          "evidence": "头造养蚕有二种：一名大造，即大蚕；一名连蚕，即轮月",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "蚕桑",
+          "target": "鱼塘",
+          "relation": "盛产",
+          "evidence": "广州各属所种之桑，多因田土低陷，锹高作基塘。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "鱼塘",
+          "target": "蚕桑",
+          "relation": "承载文化",
+          "evidence": "广州各属所种之桑，多因田土低陷，锹高作基塘。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": []
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": []
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": []
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": []
+    },
+    "chunk_0070": {
+      "relations": []
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": []
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": []
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": [
+        {
+          "source": "蒸汽丝工广",
+          "target": "简村",
+          "relation": "创建修建",
+          "evidence": "1866年，广东第一间蒸汽丝工广是在南海县西樵官山附近的简村创建的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": []
+    },
+    "chunk_0093": {
+      "relations": []
+    }
+  }
+}

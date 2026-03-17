@@ -1,0 +1,3281 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [],
+      "chunk_text_hash": "410f985d"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "9442ed76"
+    },
+    "chunk_0002": {
+      "entities": [],
+      "chunk_text_hash": "f01406a5"
+    },
+    "chunk_0003": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁叶祥的一家",
+          "type": "宗族姓氏",
+          "description": "医学世家，梁叶祥的家庭成员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁镰丹",
+          "type": "人物",
+          "description": "末代举人，具体生平不详",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "佛山市南海区著名山脉",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "e4e84ebb"
+    },
+    "chunk_0004": {
+      "entities": [],
+      "chunk_text_hash": "cb25992e"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "1e38fa71"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "0a7dc51a"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "7b9a81f9"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "4f3dfdc6"
+    },
+    "chunk_0009": {
+      "entities": [],
+      "chunk_text_hash": "3a48e4de"
+    },
+    "chunk_0010": {
+      "entities": [],
+      "chunk_text_hash": "e4a7dfa9"
+    },
+    "chunk_0011": {
+      "entities": [],
+      "chunk_text_hash": "44f472bf"
+    },
+    "chunk_0012": {
+      "entities": [],
+      "chunk_text_hash": "8ed71995"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "0eceb800"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "936004a5"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "d70dbca3"
+    },
+    "chunk_0016": {
+      "entities": [],
+      "chunk_text_hash": "314fb32c"
+    },
+    "chunk_0017": {
+      "entities": [
+        {
+          "name": "杜路",
+          "type": "人物",
+          "description": "一九四九年南海县工委书记",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈启锐",
+          "type": "人物",
+          "description": "一九四九年南海县工委副书记",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "杨山",
+          "type": "人物",
+          "description": "一九四九年樵海区工委委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "招富",
+          "type": "人物",
+          "description": "一九四九年樵海区工委委员",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "关炳淳",
+          "type": "人物",
+          "description": "一九四九年樵海区工委书记",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石湾",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "澜石",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "深村",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "张槎",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "沙头",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "丹灶",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南庄",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵",
+          "type": "建筑遗迹",
+          "description": "通往高明、鹤山游击区必经之道",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "ea7ed927"
+    },
+    "chunk_0018": {
+      "entities": [
+        {
+          "name": "南庄",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石湾",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街，历史上包括石洲乡和溶洲村",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "溶洲村",
+          "type": "地名",
+          "description": "佛山市南海区石湾镇的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石洲乡",
+          "type": "地名",
+          "description": "历史上的一个行政单位，包括石湾和溶洲两村",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "张槎",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈恭受",
+          "type": "人物",
+          "description": "文中提及的国民党大小官员之一，张槎人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "罗炳",
+          "type": "人物",
+          "description": "文中提及的佛山伪南海县刑警队长，本名竹升炳",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈枝",
+          "type": "人物",
+          "description": "文中提及的石湾海口陈家成员之一，本名聋鬼枝",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "307de05c"
+    },
+    "chunk_0019": {
+      "entities": [
+        {
+          "name": "石湾",
+          "type": "地名",
+          "description": "佛山市南海区的一个名镇，陶瓷工业发达",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "一九四九年七月八月间",
+          "type": "朝代年号",
+          "description": "1949年7、8月间",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "0b8266c1"
+    },
+    "chunk_0020": {
+      "entities": [
+        {
+          "name": "梁登",
+          "type": "人物",
+          "description": "九江土匪头目",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "罗炳",
+          "type": "人物",
+          "description": "伪南海县刑警队长",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "罗勤",
+          "type": "人物",
+          "description": "南庄紫洞恶霸",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈恭受",
+          "type": "人物",
+          "description": "佛山张槎土皇帝",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "谭亮斌",
+          "type": "人物",
+          "description": "南海县支前指挥部主任",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "杜路",
+          "type": "人物",
+          "description": "南海县支前指挥部副主任",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "关炳淳",
+          "type": "人物",
+          "description": "南海县第一支前指挥所主任",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "招富",
+          "type": "人物",
+          "description": "南海县第一支前指挥所副主任",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "刘传",
+          "type": "人物",
+          "description": "石湾著名工艺美术师",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "1a78f962"
+    },
+    "chunk_0021": {
+      "entities": [],
+      "chunk_text_hash": "99e2526a"
+    },
+    "chunk_0022": {
+      "entities": [],
+      "chunk_text_hash": "aa10589a"
+    },
+    "chunk_0023": {
+      "entities": [],
+      "chunk_text_hash": "ed1ee334"
+    },
+    "chunk_0024": {
+      "entities": [
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "升平路",
+          "type": "地名",
+          "description": "佛山市内的街道名称",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "公正路",
+          "type": "地名",
+          "description": "佛山市内的街道名称",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "吕昭烈",
+          "type": "人物",
+          "description": "青运组、文教组成员，参与培训工作",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "沈瑶文",
+          "type": "人物",
+          "description": "青运组、文教组成员，参与培训工作",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李其山",
+          "type": "人物",
+          "description": "青运组、文教组成员，参与培训工作",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南桂园",
+          "type": "地名",
+          "description": "南海区内的地点名称，具体用途不明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "710760c3"
+    },
+    "chunk_0025": {
+      "entities": [
+        {
+          "name": "南海干训班",
+          "type": "历史事件",
+          "description": "昭烈在南桂园举办的培训班",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山解放",
+          "type": "历史事件",
+          "description": "一九四九年底佛山解放",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中山公园广场",
+          "type": "建筑遗迹",
+          "description": "佛山解放后举行庆祝游行和公开宣判的地点",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大小万山群岛",
+          "type": "地名",
+          "description": "一九五六年解放的岛屿",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "刘永源",
+          "type": "人物",
+          "description": "大小万山群岛解放后的师长",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "653b0b7e"
+    },
+    "chunk_0026": {
+      "entities": [],
+      "chunk_text_hash": "254385e8"
+    },
+    "chunk_0027": {
+      "entities": [],
+      "chunk_text_hash": "fa19745c"
+    },
+    "chunk_0028": {
+      "entities": [],
+      "chunk_text_hash": "e0e554f5"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "c08e9a18"
+    },
+    "chunk_0030": {
+      "entities": [],
+      "chunk_text_hash": "c00ceb3d"
+    },
+    "chunk_0031": {
+      "entities": [
+        {
+          "name": "谭甫仁",
+          "type": "人物",
+          "description": "佛山军事管制委员会政委，负责佛山和南海县的军管工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "谭亮斌",
+          "type": "人物",
+          "description": "佛山市委书记，参与文化教育系统的接管工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "方孟",
+          "type": "人物",
+          "description": "佛山市长，参与文化教育系统的接管工作",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "普君圩",
+          "type": "地名",
+          "description": "佛山市内的一个地方，用于举办教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "秀岩傅公祠",
+          "type": "建筑遗迹",
+          "description": "位于普君圩附近，曾作为佛山市第一期中小学教师进修班的地址",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁家据",
+          "type": "人物",
+          "description": "原任南海县教育局长，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "戴翼丰",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈士炯",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁寄鸥",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "邓元贞",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "凌风",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "蚁振让",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "左承志",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "许明远",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "司徒德曼",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁百衡",
+          "type": "人物",
+          "description": "市区内的公私立中小学校校长及教师之一，参与教师进修班",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "b1c3d96f"
+    },
+    "chunk_0032": {
+      "entities": [],
+      "chunk_text_hash": "1ac01ba0"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "842c7205"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "1a864869"
+    },
+    "chunk_0035": {
+      "entities": [],
+      "chunk_text_hash": "6653a546"
+    },
+    "chunk_0036": {
+      "entities": [
+        {
+          "name": "曹镇涛",
+          "type": "人物",
+          "description": "解放初的石岐师训班学员，原四区罗村小学教师",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈灿星",
+          "type": "人物",
+          "description": "解放初的石岐师训班学员，一区（张槎澜石）代表",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "关渭元",
+          "type": "人物",
+          "description": "解放初的石岐师训班学员，五区九江代表",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李海天",
+          "type": "人物",
+          "description": "解放初的石岐师训班学员，七区官山吉利南庄代表",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "98b3a8c0"
+    },
+    "chunk_0037": {
+      "entities": [],
+      "chunk_text_hash": "90175750"
+    },
+    "chunk_0038": {
+      "entities": [
+        {
+          "name": "罗村小学",
+          "type": "建筑遗迹",
+          "description": "当时的学校名称，位于罗村，现名为芝安乡一小",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "芝安乡一小",
+          "type": "建筑遗迹",
+          "description": "当时的学校名称，位于罗村，现为罗村小学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "里水镇",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇级行政区划",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "水口大闸",
+          "type": "建筑遗迹",
+          "description": "里水镇的水利设施，用于控制河流流量",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "罗洁夕照",
+          "type": "非遗技艺",
+          "description": "里水八景之一，与自然景观和文化活动有关",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "金丝逐浪",
+          "type": "非遗技艺",
+          "description": "里水八景之一，与自然景观和文化活动有关",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "4ab43495"
+    },
+    "chunk_0039": {
+      "entities": [
+        {
+          "name": "里水镇",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇，位于里水境内",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "水口大闸",
+          "type": "建筑遗迹",
+          "description": "1953年建成的水利工程，位于里水镇，用于防洪灌溉",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "3fb2eb85"
+    },
+    "chunk_0040": {
+      "entities": [],
+      "chunk_text_hash": "6c3afbf2"
+    },
+    "chunk_0041": {
+      "entities": [
+        {
+          "name": "官窑镇",
+          "type": "地名",
+          "description": "佛山市南海区的地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "群岗村",
+          "type": "地名",
+          "description": "官窑镇下的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "水口大闸",
+          "type": "建筑遗迹",
+          "description": "里水镇的水利设施",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "里水镇水电所所长吴德森同志",
+          "type": "人物",
+          "description": "提供并审阅本文内容的人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "远湖",
+          "type": "地名",
+          "description": "大沥区的一个地名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大镇乡",
+          "type": "地名",
+          "description": "大沥区的一个乡级行政区划",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "求益两等学堂",
+          "type": "非遗技艺",
+          "description": "早期的大镇乡设立的小学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "谢边学校",
+          "type": "地名",
+          "description": "谢边乡的学校名称",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "区立第四小学",
+          "type": "地名",
+          "description": "大沥圩的一所小学",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "水头乡龙溪村",
+          "type": "地名",
+          "description": "水头乡的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "雅瑶乡的锦北小学",
+          "type": "地名",
+          "description": "雅瑶乡的一所学校",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "b40e5eb9"
+    },
+    "chunk_0042": {
+      "entities": [],
+      "chunk_text_hash": "75d64d8c"
+    },
+    "chunk_0043": {
+      "entities": [],
+      "chunk_text_hash": "b08ebc95"
+    },
+    "chunk_0044": {
+      "entities": [],
+      "chunk_text_hash": "93ae5368"
+    },
+    "chunk_0045": {
+      "entities": [
+        {
+          "name": "叶丽容",
+          "type": "人物",
+          "description": "水头大队耕读班教师，积极负责，坚持教学八载",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "蛇龙南队",
+          "type": "地名",
+          "description": "文中提及的地名，具体位置不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "冲口队",
+          "type": "地名",
+          "description": "文中提及的地名，具体位置不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广东省教育战线先进代表大会",
+          "type": "历史事件",
+          "description": "叶丽容出席的会议",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥公社农业中学",
+          "type": "建筑遗迹",
+          "description": "1964年创办的农业中学，位于仙溪林场",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "仙溪",
+          "type": "地名",
+          "description": "农业中学的创办地点之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "太平",
+          "type": "地名",
+          "description": "文中提及的办农业中学的大队",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "雅瑶",
+          "type": "地名",
+          "description": "文中提及的办农业中学的大队",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "钟边",
+          "type": "地名",
+          "description": "文中提及的办农业中学的大队",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "谭边",
+          "type": "地名",
+          "description": "文中提及的办农业中学的大队",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "7589ed4f"
+    },
+    "chunk_0046": {
+      "entities": [],
+      "chunk_text_hash": "1b3ef2de"
+    },
+    "chunk_0047": {
+      "entities": [
+        {
+          "name": "南浦农团军",
+          "type": "历史事件",
+          "description": "大革命时期国共合作建立的南海县第一支农民革命武装，也是广东最早建立的农民自卫军之一",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中共组织",
+          "type": "历史事件",
+          "description": "1921年起在佛山镇开展革命活动的中国共产党组织",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "ae027962"
+    },
+    "chunk_0048": {
+      "entities": [
+        {
+          "name": "吴勤",
+          "type": "人物",
+          "description": "南浦村青年农民，出身贫苦，练武强身，自卫，后购买枪支",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南浦村",
+          "type": "地名",
+          "description": "南海县四区鸭沙乡一个小村，村民多为东莞人，常受欺压",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "409ecc31"
+    },
+    "chunk_0049": {
+      "entities": [
+        {
+          "name": "钱维方",
+          "type": "人物",
+          "description": "佛山武术高手，与梁复燃、梁桂华等人共同支持工人罢工",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "吴勤",
+          "type": "人物",
+          "description": "南浦村一带颇有实力的人物，参与了制饼工会的罢工事件",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁复燃",
+          "type": "人物",
+          "description": "佛山共产党员，与钱维方、梁桂华等人共同支持工人罢工",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁桂华",
+          "type": "人物",
+          "description": "佛山共产党员，与钱维方、梁复燃等人共同支持工人罢工",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南浦村",
+          "type": "地名",
+          "description": "佛山市南海区的一个村庄，文中提到吴勤在此活动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "鸭沙乡",
+          "type": "地名",
+          "description": "与南浦村相邻的乡，文中提到鸭沙乡民团与南浦村有矛盾",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "5e5f2835"
+    },
+    "chunk_0050": {
+      "entities": [
+        {
+          "name": "梁复燃",
+          "type": "人物",
+          "description": "动员昊勤不要受制于陈恭受，组织农团军",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "昊勤",
+          "type": "人物",
+          "description": "被动员不要受制于陈恭受，参与组织农团军",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈恭受",
+          "type": "人物",
+          "description": "国民党南海县长，反对梁复燃等人的提议",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李宝祥",
+          "type": "人物",
+          "description": "国民党南海县长，反对梁复燃等人的提议",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "廖仲恺",
+          "type": "人物",
+          "description": "广东省省长，出席南浦农团军开幕典礼并请彭素民揭幕",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "彭素民",
+          "type": "人物",
+          "description": "国民党党中央农民部部长，出席南浦农团军开幕典礼并发表演说",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南浦农团军",
+          "type": "非遗技艺",
+          "description": "在中共组织和国民党中央农民部支持下正式成立的农民自卫武装队伍",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李家祠团部",
+          "type": "建筑遗迹",
+          "description": "南浦农团军开幕典礼地点",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "221cd89d"
+    },
+    "chunk_0051": {
+      "entities": [],
+      "chunk_text_hash": "37f07476"
+    },
+    "chunk_0052": {
+      "entities": [
+        {
+          "name": "吴勤",
+          "type": "人物",
+          "description": "佛山近郊南海四区农民运动的重要领导者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "805954d7"
+    },
+    "chunk_0053": {
+      "entities": [],
+      "chunk_text_hash": "f0b179ff"
+    },
+    "chunk_0054": {
+      "entities": [
+        {
+          "name": "中共南海县委",
+          "type": "人物",
+          "description": "领导了南海的地下活动和武装斗争，参与广州起义的准备工作",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广州武装起义",
+          "type": "历史事件",
+          "description": "1927年12月11日广州工人赤卫队和国民党左派等联合举行的武装起义",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江",
+          "type": "地名",
+          "description": "位于佛山市南海区，起义前在此秘密设立制造炸弹的工厂",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石围塘火车站",
+          "type": "建筑遗迹",
+          "description": "被南海农民赤卫军团攻占，为广州起义提供支援",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥圩",
+          "type": "地名",
+          "description": "被南海农民赤卫军团攻占，为广州起义提供支援",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山普君圩",
+          "type": "地名",
+          "description": "被南海农民赤卫军团攻占，为广州起义提供支援",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "f013ff51"
+    },
+    "chunk_0055": {
+      "entities": [
+        {
+          "name": "张霭泉",
+          "type": "人物",
+          "description": "1927年配合广州起义的大沥战斗中牺牲的烈士，一决死队队长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山工人代表会",
+          "type": "宗族姓氏",
+          "description": "文中提到的佛山工人组织，但未明确具体宗族姓氏",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥",
+          "type": "地名",
+          "description": "南海县九区的地点，1927年配合广州起义的大沥战斗发生地",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "松岗镇显纲村",
+          "type": "地名",
+          "description": "张霭泉出生地，位于南海县松岗镇",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九区",
+          "type": "朝代年号",
+          "description": "文中提到的南海县行政区划，具体时期不详",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "b8e3e8c4"
+    },
+    "chunk_0056": {
+      "entities": [],
+      "chunk_text_hash": "74fb77d2"
+    },
+    "chunk_0057": {
+      "entities": [],
+      "chunk_text_hash": "c94967d5"
+    },
+    "chunk_0058": {
+      "entities": [
+        {
+          "name": "露泉",
+          "type": "人物",
+          "description": "在白色恐怖时期幸免于难的共产党员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "显纲村",
+          "type": "地名",
+          "description": "南海区的一个村庄，县委联络地点",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈道局",
+          "type": "人物",
+          "description": "中共南海县委员会书记",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "周侠生",
+          "type": "人物",
+          "description": "中共南海县委员会组织委员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "97913346"
+    },
+    "chunk_0059": {
+      "entities": [
+        {
+          "name": "住显纲",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "霉泉",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "显纲村",
+          "type": "地名",
+          "description": "文中提及的村庄名称",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "福军",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "秉和",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广州起义",
+          "type": "历史事件",
+          "description": "1927年广州工人阶级举行的武装起义",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县委",
+          "type": "人物",
+          "description": "文中提及的党组织名称",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈道周",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明，可能是南海县委领导",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "张写泉",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明，可能是南海县委成员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥圩",
+          "type": "地名",
+          "description": "文中提及的圩市名称",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李宝祥",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明，可能是反动民团成员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈凤江",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明，可能是反动民团成员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "钟若愚",
+          "type": "人物",
+          "description": "文中提及的人物，具体身份不明，可能是反动民团成员",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "0dcc3dfb"
+    },
+    "chunk_0060": {
+      "entities": [],
+      "chunk_text_hash": "1ddf6390"
+    },
+    "chunk_0061": {
+      "entities": [],
+      "chunk_text_hash": "6f13cd17"
+    },
+    "chunk_0062": {
+      "entities": [
+        {
+          "name": "杜氏大宗祠",
+          "type": "建筑遗迹",
+          "description": "白沙小学旧校舍，清代建筑",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石门中学",
+          "type": "地名",
+          "description": "位于里水圩附近的一所学校",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "同声社学",
+          "type": "建筑遗迹",
+          "description": "石门中学早期借用的校舍，具体位置不详",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中山大学",
+          "type": "地名",
+          "description": "一所高等学府，文中提及进步学生来源",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广州",
+          "type": "地名",
+          "description": "广东省省会，文中提及的活动地点",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "里水圩",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇街，文中多次提及",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "三水县芦苞镇",
+          "type": "地名",
+          "description": "佛山市三水区的一个镇，文中提及的活动地点",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "ed687e53"
+    },
+    "chunk_0063": {
+      "entities": [],
+      "chunk_text_hash": "a3ad2fbc"
+    },
+    "chunk_0064": {
+      "entities": [],
+      "chunk_text_hash": "d9c70db3"
+    },
+    "chunk_0065": {
+      "entities": [],
+      "chunk_text_hash": "4520c27e"
+    },
+    "chunk_0066": {
+      "entities": [],
+      "chunk_text_hash": "55099b10"
+    },
+    "chunk_0067": {
+      "entities": [],
+      "chunk_text_hash": "43ad2f23"
+    },
+    "chunk_0068": {
+      "entities": [],
+      "chunk_text_hash": "9367e6ea"
+    },
+    "chunk_0069": {
+      "entities": [],
+      "chunk_text_hash": "a00f58b1"
+    },
+    "chunk_0070": {
+      "entities": [],
+      "chunk_text_hash": "f6a5699e"
+    },
+    "chunk_0071": {
+      "entities": [
+        {
+          "name": "翁源",
+          "type": "地名",
+          "description": "广东省内的一个地名",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "英德东乡",
+          "type": "地名",
+          "description": "广东省内的一个地名",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县",
+          "type": "地名",
+          "description": "佛山市下属的一个县级行政区划",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "白沙小学",
+          "type": "建筑遗迹",
+          "description": "家乡的一所小学，需要重建",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "a763d6fa"
+    },
+    "chunk_0072": {
+      "entities": [
+        {
+          "name": "邓重行",
+          "type": "人物",
+          "description": "无产阶级革命事业的老同志",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "0c9d27ca"
+    },
+    "chunk_0073": {
+      "entities": [
+        {
+          "name": "邓重行",
+          "type": "人物",
+          "description": "1908年9月14日出生在南海县大榄乡，曾创办樟脑薄荷手工业作坊，支持家乡教育事业，参与革命工作并加入中国共产党",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大榄乡奎光小学",
+          "type": "建筑遗迹",
+          "description": "邓重行同志任董事长的小学，曾悬挂毛泽东、朱德肖像，传播革命理论，开展农民夜校教育",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "1fb39d15"
+    },
+    "chunk_0074": {
+      "entities": [
+        {
+          "name": "邓重行",
+          "type": "人物",
+          "description": "中共早期党员，在南海县和韶关市从事革命活动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "家庭手工业作坊",
+          "type": "非遗技艺",
+          "description": "邓重行同志当时开办的手工业生产场所",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "农民夜校",
+          "type": "非遗技艺",
+          "description": "用于农民教育的学校，提供夜间学习机会",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《新华南》",
+          "type": "典籍作品",
+          "description": "中共广东省委机关报，用于宣传抗日战争",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中国工业合作协会",
+          "type": "非遗技艺",
+          "description": "由外国人支持的抗日企业组织",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "印刷工会合作社",
+          "type": "非遗技艺",
+          "description": "由邓重行同志创办，用于印刷进步书刊和党内文件",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "樟脑工业合作社",
+          "type": "非遗技艺",
+          "description": "由邓重行同志创办，利用其技术设备进行生产",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "机器工业合作社",
+          "type": "非遗技艺",
+          "description": "由邓重行同志创办，用于机器生产",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "缝纫合作社",
+          "type": "非遗技艺",
+          "description": "由邓重行同志创办，进行缝纫生产",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "0ac77b05"
+    },
+    "chunk_0075": {
+      "entities": [],
+      "chunk_text_hash": "ccfd2f24"
+    },
+    "chunk_0076": {
+      "entities": [],
+      "chunk_text_hash": "e7a711b5"
+    },
+    "chunk_0077": {
+      "entities": [],
+      "chunk_text_hash": "e712b093"
+    },
+    "chunk_0078": {
+      "entities": [],
+      "chunk_text_hash": "b9f3bf32"
+    },
+    "chunk_0079": {
+      "entities": [],
+      "chunk_text_hash": "f25beeba"
+    },
+    "chunk_0080": {
+      "entities": [
+        {
+          "name": "梁叶祥",
+          "type": "人物",
+          "description": "医学世家梁家的医师，行医济世，仁心仁术",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁彰（兆熊）",
+          "type": "人物",
+          "description": "清同治末期出生，行医50多年，精通中医内科、正骨科，擅长治疗大热症",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑小江村",
+          "type": "地名",
+          "description": "民国期间，梁彰治疗过的地方",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "24d8963c"
+    },
+    "chunk_0081": {
+      "entities": [
+        {
+          "name": "梁彰",
+          "type": "人物",
+          "description": "清代至民国时期的医生，以治疗热症闻名",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑小江村",
+          "type": "地名",
+          "description": "佛山市南海区官窑镇的小江村",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁叶祥",
+          "type": "人物",
+          "description": "梁彰之子，继承父业成为医生，擅长治疗温病等病症",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "麻奢村",
+          "type": "地名",
+          "description": "佛山市南海区官窑镇的一个村庄",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "小江村",
+          "type": "地名",
+          "description": "佛山市南海区官窑镇的小江村",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "石市",
+          "type": "地名",
+          "description": "佛山市南海区官窑镇的一个街区或市场",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑石市",
+          "type": "地名",
+          "description": "佛山市南海区官窑镇的一个街区或市场",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海二区卫生所",
+          "type": "建筑遗迹",
+          "description": "1956年成立的卫生机构，用于医疗服务",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "7fdbd8eb"
+    },
+    "chunk_0082": {
+      "entities": [
+        {
+          "name": "梁叶祥",
+          "type": "人物",
+          "description": "医师，曾任官窑卫生院副院长，为南海县名老医生",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海二区卫生所",
+          "type": "建筑遗迹",
+          "description": "1956年筹建的卫生所",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑卫生院",
+          "type": "建筑遗迹",
+          "description": "梁叶祥曾任职的医院",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "3d4be1cf"
+    },
+    "chunk_0083": {
+      "entities": [
+        {
+          "name": "黄画镇",
+          "type": "地名",
+          "description": "中山县（市）边远地区的一个小镇",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑镇",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁展鹰",
+          "type": "人物",
+          "description": "中山医学院毕业，现任官窑镇卫生院院长",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "何恢绪",
+          "type": "人物",
+          "description": "重庆军医大学毕业，现任广州157陆军医院泌尿外科主任",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "017abcb1"
+    },
+    "chunk_0084": {
+      "entities": [
+        {
+          "name": "梁丹",
+          "type": "人物",
+          "description": "清代末期南海县举人，九江镇梅圳村人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梅圳村",
+          "type": "地名",
+          "description": "九江镇的一个村落",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "9d89d749"
+    },
+    "chunk_0085": {
+      "entities": [
+        {
+          "name": "梁丹",
+          "type": "人物",
+          "description": "清末民初学者，曾中举人，后任海南财政处长、湖北印花税局局长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "黄乐成",
+          "type": "人物",
+          "description": "梁丹的老师，帮助梁丹学习并收他为学生",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "宣统三年（1911年）",
+          "type": "朝代年号",
+          "description": "清朝末期的年份，梁丹参加科举考试并中举人",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "6c352ec1"
+    },
+    "chunk_0086": {
+      "entities": [
+        {
+          "name": "梁丹",
+          "type": "人物",
+          "description": "曾任五邑泊来农产品什项专税局长，后在广东饮料厂任秘书股长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "吴国祯",
+          "type": "人物",
+          "description": "劝梁丹返回广东谋职，并赠大洋3000元作旅费",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈济棠",
+          "type": "人物",
+          "description": "主粤期间，搜罗人才",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "区芳浦",
+          "type": "人物",
+          "description": "赏识梁丹并委派他到江门任职",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "邹镜屏",
+          "type": "人物",
+          "description": "介绍梁丹给财政厅长区芳浦",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江同乡会",
+          "type": "宗族姓氏",
+          "description": "旅港南海商会及九江同乡会援助梁丹",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "a05d6a24"
+    },
+    "chunk_0087": {
+      "entities": [
+        {
+          "name": "梁丹",
+          "type": "人物",
+          "description": "清末民初的知识分子，曾任南海中学教师，有深厚的古文知识",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海中学",
+          "type": "建筑遗迹",
+          "description": "旧时学校名称，现为广州市内的中学",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广州市",
+          "type": "地名",
+          "description": "梁丹任教的城市",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "eedb2d8c"
+    },
+    "chunk_0088": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "傅云若",
+          "type": "人物",
+          "description": "无具体信息提供",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于珠江三角洲西部的名山",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "7dc416c7"
+    },
+    "chunk_0089": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "type": "建筑遗迹",
+          "description": "广东著名山脉，有云泉仙馆等名胜",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "白云洞",
+          "type": "建筑遗迹",
+          "description": "西樵山中的一个著名洞穴",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "三湖书院",
+          "type": "建筑遗迹",
+          "description": "修复后的书院，位于西樵山上",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "高士祠",
+          "type": "建筑遗迹",
+          "description": "供奉何子明高士的祠堂",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "逍遥台",
+          "type": "建筑遗迹",
+          "description": "三湖书院内的一个平台",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "接东楼",
+          "type": "建筑遗迹",
+          "description": "逍遥台的一个别名",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "长生井",
+          "type": "建筑遗迹",
+          "description": "云洞附近的井，有神奇的传说",
+          "confidence": 0.7,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "新建的道观，位于逍遥台下",
+          "confidence": 0.95,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "赞化宫",
+          "type": "建筑遗迹",
+          "description": "云泉仙馆内的主要建筑",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "倚虹阁",
+          "type": "建筑遗迹",
+          "description": "云泉仙馆后右的阁楼",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "养云庐",
+          "type": "建筑遗迹",
+          "description": "倚虹阁上的小屋",
+          "confidence": 0.7,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于广东佛山市南海区的著名山脉",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "690178b6"
+    },
+    "chunk_0090": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "道光二十七年",
+          "type": "朝代年号",
+          "description": "1847年，清道光年间",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "咸丰八年",
+          "type": "朝代年号",
+          "description": "1858年，清咸丰年间",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "咸丰十年岁次庚申",
+          "type": "朝代年号",
+          "description": "1860年，清咸丰十年",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "e5892edc"
+    },
+    "chunk_0091": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "帝亲殿",
+          "type": "建筑遗迹",
+          "description": "云泉仙馆增建的殿宇",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "鸦片战争",
+          "type": "历史事件",
+          "description": "19世纪初期中国与英国之间的战争",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "咸丰",
+          "type": "朝代年号",
+          "description": "清朝第8位皇帝，1851-1861年在位",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "同治",
+          "type": "朝代年号",
+          "description": "清朝第9位皇帝，1862-1874年在位",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "光绪",
+          "type": "朝代年号",
+          "description": "清朝第12位皇帝，1875-1908年在位",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李树恭",
+          "type": "人物",
+          "description": "云泉仙馆第五传弟子，撰写了重修云泉仙馆的碑文",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "539acfaa"
+    },
+    "chunk_0092": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "5f22a4ae"
+    },
+    "chunk_0093": {
+      "entities": [
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "光绪27年",
+          "type": "朝代年号",
+          "description": "清末光绪年间，1901年",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "光绪之壬寅",
+          "type": "朝代年号",
+          "description": "清末光绪年间，1892年",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大岁之丁未",
+          "type": "朝代年号",
+          "description": "清末光绪年间，1907年",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江双蒸酒",
+          "type": "物产饮食",
+          "description": "南海区特色饮品，具有悠久历史",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "71547ab6"
+    },
+    "chunk_0094": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈兆平",
+          "type": "人物",
+          "description": "光绪三十三年（1907年）住持公耐道人陈兆平全倡建云泉仙馆",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "辛丑",
+          "type": "朝代年号",
+          "description": "干支纪年，对应1901年",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "95d73831"
+    },
+    "chunk_0095": {
+      "entities": [
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "九江镇",
+          "type": "地名",
+          "description": "佛山市南海区的镇街之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "光绪",
+          "type": "朝代年号",
+          "description": "清朝的最后一个年号",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "慈禧",
+          "type": "人物",
+          "description": "清末慈禧太后，中国历史上著名的女性政治家",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "宣统",
+          "type": "人物",
+          "description": "清末最后一位皇帝，年号为宣统",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈济棠",
+          "type": "人物",
+          "description": "民国时期广东军阀，曾任广东省主席等职",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "高士同",
+          "type": "地名",
+          "description": "佛山市南海区西樵山下的一个地名",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "慈就院",
+          "type": "建筑遗迹",
+          "description": "与云泉仙馆相关的建筑，具体位置在西樵山下",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "珠江三角洲",
+          "type": "地名",
+          "description": "泛指珠江流域下游地区，包括佛山市南海区",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "d5cc937c"
+    },
+    "chunk_0096": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "白云古洞",
+          "type": "建筑遗迹",
+          "description": "明代开辟的泉水洞穴，位于西樵山上",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "逍遥台",
+          "type": "建筑遗迹",
+          "description": "道光十八年建于西樵山上的平台",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "帝亲殿",
+          "type": "建筑遗迹",
+          "description": "云泉仙馆内供奉的殿堂",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "95cef69b"
+    },
+    "chunk_0097": {
+      "entities": [
+        {
+          "name": "康有为",
+          "type": "人物",
+          "description": "清末维新变法领袖，南海丹灶人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵山",
+          "type": "地名",
+          "description": "位于佛山市南海区的著名山脉",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "小云亭",
+          "type": "建筑遗迹",
+          "description": "位于云泉仙馆附近的小亭",
+          "confidence": 0.8,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "养云庐",
+          "type": "建筑遗迹",
+          "description": "原址重建的新景",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "遇仙桥",
+          "type": "建筑遗迹",
+          "description": "连接道路的石桥",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "倚虹楼",
+          "type": "建筑遗迹",
+          "description": "需要加固修茸的古建筑",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "墨莊",
+          "type": "建筑遗迹",
+          "description": "需要加固修茸的古建筑",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "祖堂",
+          "type": "建筑遗迹",
+          "description": "需要加固修茸的古建筑",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "逍遥台",
+          "type": "建筑遗迹",
+          "description": "需要加固修茸的古建筑",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "自在楼",
+          "type": "建筑遗迹",
+          "description": "入口处筑留芳台的位置",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "留芳台",
+          "type": "建筑遗迹",
+          "description": "在原自在楼入口处筑建的新台",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "鉴湖",
+          "type": "地名",
+          "description": "位于佛山市南海区的湖泊",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "2221c483"
+    },
+    "chunk_0098": {
+      "entities": [
+        {
+          "name": "云泉仙馆",
+          "type": "建筑遗迹",
+          "description": "西樵山清代道观，省级文保单位",
+          "confidence": 0.9,
+          "is_anchor": true,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "9c34dae7"
+    },
+    "chunk_0099": {
+      "entities": [
+        {
+          "name": "净法庵",
+          "type": "建筑遗迹",
+          "description": "平洲的一间小尼姑庵，清末坍塌",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "张荫泉居士",
+          "type": "人物",
+          "description": "张清，支持佛教活动的居士",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "刘慈让居士",
+          "type": "人物",
+          "description": "张荫泉的妻子，支持佛教活动的居士",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "照心法师",
+          "type": "人物",
+          "description": "俗家姓庞，石湾人，曾任张槎九莲胜会主持",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "df905a57"
+    },
+    "chunk_0100": {
+      "entities": [
+        {
+          "name": "照心法师",
+          "type": "人物",
+          "description": "驻锡平洲，指导佛教活动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "平洲教徒",
+          "type": "人物",
+          "description": "平洲地区的信众群体",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "净业社",
+          "type": "建筑遗迹",
+          "description": "平洲的佛教活动场所",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "六榕寺",
+          "type": "建筑遗迹",
+          "description": "广州的著名寺庙，觉澄老法师主持",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "觉澄老法师",
+          "type": "人物",
+          "description": "六榕寺主持，曾到平洲净业社演说佛法",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "宽道法师",
+          "type": "人物",
+          "description": "由香港回归，主持净业社",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "本焕和尚",
+          "type": "人物",
+          "description": "驻锡广州光孝寺，接受信徒皈依",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "光孝寺",
+          "type": "建筑遗迹",
+          "description": "广州的著名寺庙，本焕和尚驻锡之地",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《南海日报》",
+          "type": "典籍作品",
+          "description": "1929年秋在佛山城区出版的日报",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《南师学生》",
+          "type": "典籍作品",
+          "description": "《南海日报》的学生副刊，由中学生撰稿、主编",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "497deecf"
+    },
+    "chunk_0101": {
+      "entities": [
+        {
+          "name": "梁粲文",
+          "type": "人物",
+          "description": "中山大学哲学系毕业，担任《南海日报》编辑",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《南海日报》",
+          "type": "典籍作品",
+          "description": "20世纪20年代由国民党佛山区党部领导的报纸",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "莺岗城隍庙",
+          "type": "建筑遗迹",
+          "description": "南海县立师范学校旧址附近的一处庙宇",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "4b966088"
+    },
+    "chunk_0102": {
+      "entities": [
+        {
+          "name": "南海县立师范学校",
+          "type": "建筑遗迹",
+          "description": "1929年设在城区莺岗城隍庙旁的师范学校",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《南海日报》",
+          "type": "典籍作品",
+          "description": "当地报纸，曾刊载《南师学生》副刊",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《南师学生》",
+          "type": "典籍作品",
+          "description": "由南海县立师范学校学生创办的文艺副刊",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "梁桑文",
+          "type": "人物",
+          "description": "《南海日报》编辑，与许某熟识",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "28ababbf"
+    },
+    "chunk_0103": {
+      "entities": [
+        {
+          "name": "梁桑文",
+          "type": "人物",
+          "description": "1930年秋接任南海县立第一初级中学校校长",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县立第一初级中学校",
+          "type": "建筑遗迹",
+          "description": "1930年秋梁桑文曾任校长的学校",
+          "confidence": 0.75,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "秋声馆",
+          "type": "建筑遗迹",
+          "description": "三十年代初佛山城区中山公园内的建筑物，后被日伪军破坏",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县民众教育馆",
+          "type": "建筑遗迹",
+          "description": "1932年建立，以秋声馆为馆址，一直办至1938年10月",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中山公园",
+          "type": "地名",
+          "description": "佛山城区内的公园，建于三十年代初",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "b3060559"
+    },
+    "chunk_0104": {
+      "entities": [
+        {
+          "name": "佛山",
+          "type": "地名",
+          "description": "佛山市的简称，文中指佛山地区",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "秋声馆",
+          "type": "建筑遗迹",
+          "description": "位于佛山，一个建于土石平台上的小型平房建筑",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南海民众教育馆",
+          "type": "建筑遗迹",
+          "description": "在秋声馆内建立的教育与文化建设机构",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈仲简",
+          "type": "人物",
+          "description": "南海县教育局社会教育课（科）课长，兼任南海民众教育馆馆长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "傅秉昆",
+          "type": "人物",
+          "description": "担任南海民众教育馆总于事",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "黄少强",
+          "type": "人物",
+          "description": "我市名画家，曾在南海民众教育馆举办个人国画展览",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "陈凝丹",
+          "type": "人物",
+          "description": "我市名画家，曾在南海民众教育馆举办个人国画展览",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "460c9675"
+    },
+    "chunk_0105": {
+      "entities": [
+        {
+          "name": "黄友棣",
+          "type": "人物",
+          "description": "南海一中教师，参与组织抗战歌曲大联唱活动",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山精武会",
+          "type": "建筑遗迹",
+          "description": "佛山地区的一个武术团体，参与了抗日宣传演出",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "中山公园",
+          "type": "地名",
+          "description": "佛山市内的一个公园，抗战歌曲大联唱活动地点之一",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "cbce7584"
+    },
+    "chunk_0106": {
+      "entities": [
+        {
+          "name": "佛山",
+          "type": "地名",
+          "description": "佛山市及其所属区域",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "民教馆宣教组的话剧股",
+          "type": "宗族姓氏",
+          "description": "抗战时期在佛山进行演剧筹款的团体",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "《汉奸的子孙》",
+          "type": "典籍作品",
+          "description": "抗战时期的话剧作品",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "吕军",
+          "type": "人物",
+          "description": "侵华日军将领，文中指1938年入侵广东的日军部队",
+          "confidence": 0.8,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥曹边抗日记述",
+          "type": "历史事件",
+          "description": "记录了1938年秋大沥曹边人民自发抗日的情况",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "曹镇涛",
+          "type": "人物",
+          "description": "《大沥曹边抗日记述》的作者，记录了当地抗日活动",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "8d93009a"
+    },
+    "chunk_0107": {
+      "entities": [
+        {
+          "name": "曹国流",
+          "type": "人物",
+          "description": "参与抗日斗争的幸存者",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "曹边村",
+          "type": "地名",
+          "description": "南海区的一个村庄",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥镇",
+          "type": "地名",
+          "description": "佛山市南海区的一个镇",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "七·七事变",
+          "type": "历史事件",
+          "description": "抗日战争爆发的标志性事件",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大亚湾",
+          "type": "地名",
+          "description": "广东省的一个海湾",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广州",
+          "type": "地名",
+          "description": "广东省省会城市",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山",
+          "type": "地名",
+          "description": "佛山市，位于广东省南部",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "cf309531"
+    },
+    "chunk_0108": {
+      "entities": [],
+      "chunk_text_hash": "50f03093"
+    },
+    "chunk_0109": {
+      "entities": [
+        {
+          "name": "曹桥",
+          "type": "人物",
+          "description": "曹边自卫队员，因耳聋在抗日保乡战斗中牺牲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "滘边",
+          "type": "地名",
+          "description": "曹桥的籍贯所在",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "邝翰",
+          "type": "人物",
+          "description": "南岸人，在抗日保乡战斗中牺牲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "南岸",
+          "type": "地名",
+          "description": "邝翰的籍贯所在",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "曹亨",
+          "type": "人物",
+          "description": "涌口人，在抗日保乡战斗中牺牲",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "涌口",
+          "type": "地名",
+          "description": "曹亨的籍贯所在",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大范公益火柴厂",
+          "type": "建筑遗迹",
+          "description": "南海火柴厂前身，早期火柴工业的重要企业",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "公益牌",
+          "type": "非遗技艺",
+          "description": "大范公益火柴厂的产品之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "兄弟牌",
+          "type": "非遗技艺",
+          "description": "大范公益火柴厂的产品之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "孖圈牌",
+          "type": "非遗技艺",
+          "description": "大范公益火柴厂的产品之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "游泳牌",
+          "type": "非遗技艺",
+          "description": "大范公益火柴厂的产品之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥大范圩桥南街",
+          "type": "地名",
+          "description": "大范公益火柴厂的地址",
+          "confidence": 0.9,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "大范河",
+          "type": "地名",
+          "description": "交通便利的河流，连接大范与广州市",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "广云路",
+          "type": "地名",
+          "description": "交通便利的道路之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "禅炭公路",
+          "type": "地名",
+          "description": "交通便利的道路之一",
+          "confidence": 0.85,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "b8ef04a5"
+    },
+    "chunk_0110": {
+      "entities": [
+        {
+          "name": "大范",
+          "type": "地名",
+          "description": "佛山市南海区的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "敦和村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "凤雅村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "仁厚村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "荔邨村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "升平村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "和乐村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "桥西村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "西海村",
+          "type": "地名",
+          "description": "位于大范辖内的一个村庄",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "官窑礼岗乡",
+          "type": "地名",
+          "description": "佛山市南海区的一个乡",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "李信兰",
+          "type": "人物",
+          "description": "公益和记火柴厂的富商负责人",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "颜叔干",
+          "type": "人物",
+          "description": "公益和记火柴厂的经理",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "name": "张锡昌",
+          "type": "人物",
+          "description": "公益和记火柴厂的厂长",
+          "confidence": 0.95,
+          "is_anchor": false,
+          "source_file": "南海文史资料_第21辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "42a38b38"
+    },
+    "chunk_0111": {
+      "entities": [],
+      "chunk_text_hash": "da6bc924"
+    },
+    "chunk_0112": {
+      "entities": [],
+      "chunk_text_hash": "cbffcb9b"
+    },
+    "chunk_0113": {
+      "entities": [],
+      "chunk_text_hash": "de9efdb9"
+    },
+    "chunk_0114": {
+      "entities": [],
+      "chunk_text_hash": "87902b3c"
+    }
+  }
+}

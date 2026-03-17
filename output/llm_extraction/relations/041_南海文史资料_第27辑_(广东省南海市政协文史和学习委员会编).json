@@ -1,0 +1,4458 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "出生于",
+          "evidence": "朱次琦，字稚走，·一字子襄，出生于清嘉庆十二年（1807 年），系我市九江镇下西太平村人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "他是近代 我邑",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "朱次琦，字稚走，·一字子襄，出生于清嘉庆十二年（1807 年），系我市九江镇下西太平村人，世称九江先生。他是近代 我邑",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "子襄",
+          "target": "九江镇下西太平村",
+          "relation": "出生于",
+          "evidence": "子襄，出生于清嘉庆十二年（1807 年），系我市九江镇下西太平村人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "子襄",
+          "target": "朱九江先生纪念堂",
+          "relation": "位于",
+          "evidence": "在纪念会上，市政协主席关性乔，九江镇委副书记关尧均，市政协文史和学习委员会副主任李玉江、旅港九汇商会会长潘新安，旅加拿大学者关殊钞，南海诗社社长凌风、《南海县志》副主编关祥",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "子襄",
+          "relation": "关联人物",
+          "evidence": "他是近代我邑的著名学者和教育家，是维新变法领袖康有为的老师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "消嘉庆十二年",
+          "relation": "出生于",
+          "evidence": "朱九江先生是我市九江人，出生于消嘉庆十二年（1807年）八月二十二日",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "属于时期",
+          "evidence": "朱九江先生是我市九江人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "道光二十七年（1847年）他考取进士，在山西做官时政绩卓异，后弃官归里从事教学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "人们尊称他九江先生",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "消嘉庆十二年",
+          "target": "朱九江",
+          "relation": "出生于",
+          "evidence": "朱九江先生是我市九江人，出生于消嘉庆十二年（1807年）八月二十二日",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "道光二十七年",
+          "target": "朱九江",
+          "relation": "活动于",
+          "evidence": "道光二十七年（1847年）他考取进士，在山西做官时政绩卓异",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "清史",
+          "relation": "记载于",
+          "evidence": "其生平事迹载于《清史》卷四百七十九儒林传一",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "襄陵县",
+          "target": "清史",
+          "relation": "记载于",
+          "evidence": "其生平事迹载于《清史》卷四百七十九儒林传一",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "朱九江先生在山西时间七年，他深感富场黑暗，世风日下，于咸丰五年（1855年）弃官南归。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "咸丰七年（1857年）后于礼山设堂讲学20余年，作育英才，诲人不倦；康有为、简竹居、梁耀枢等都曾受业其门下，获益甚丰。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "朱九江先生在襄陵任职仅一百九十天",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "出生于",
+          "evidence": "朱九江先生在襄陵任职仅一百九十天",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "碑文",
+          "relation": "记载于",
+          "evidence": "并镂刻碑文，修筑祠堂纪念他",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "保甲",
+          "target": "襄陵",
+          "relation": "承载文化",
+          "evidence": "创保甲、除狼患",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《新三字经》",
+          "relation": "著有",
+          "evidence": "《新三字经》里就讲到性与情，俱可塑，若不教，行仍偏，教之道，德为先····孝与梯，须继承。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "朱九江先生是我镇下西管理区",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "同族",
+          "evidence": "朱九江先生是我镇下西管理区",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "中共九江镇委副书记关尧均",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "中共九江镇委副书记关尧均在纪念会上讲话",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江先生诞辰189周年纪念会",
+          "target": "朱九江",
+          "relation": "记载于",
+          "evidence": "在朱九江先生诞辰189周年纪念会上的讲话",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "下西管理区太平村",
+          "relation": "出生于",
+          "evidence": "朱九江先生是我镇下西管理区太平村人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "下西管理区太平村",
+          "relation": "活动于",
+          "evidence": "他生前大部分时间在家乡生活和设馆授徒",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "道光十九年",
+          "relation": "属于时期",
+          "evidence": "道光十九年，先生三十三岁",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九江镇",
+          "relation": "出生于",
+          "evidence": "朱次琦，字稚圭，世称九江先生，出生于清嘉庆十二年（1807年）八月二十二日，故居在南海九江下西太平村。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "下西太平村",
+          "relation": "活动于",
+          "evidence": "朱次琦，字稚圭，世称九江先生，出生于清嘉庆十二年（1807年）八月二十二日，故居在南海九江下西太平村。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱让",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "其先世于宋咸淳年末从南雄珠玑巷迁至九江上沙里，七传有族人朱让，是明万历年间的进士，累官到四川婺州知府，是先生的八世从祖。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱让",
+          "target": "高明县",
+          "relation": "关联人物",
+          "evidence": "朱让孙实莲，曾于明末协助陈子壮在九江率师抗清，摄理高明县事，殉职于高明。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "嘉庆十二年",
+          "target": "朱次琦",
+          "relation": "属于时期",
+          "evidence": "朱次琦，字稚圭，世称九江先生，出生于清嘉庆十二年（1807年）八月二十二日，故居在南海九江下西太平村。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海县志",
+          "target": "朱次琦",
+          "relation": "记载于",
+          "evidence": "朱九江先生生平家世事迹 《南海县志》副主编关祥",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "孝义县",
+          "relation": "活动于",
+          "evidence": "派署孝义县",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "襄陵县",
+          "relation": "活动于",
+          "evidence": "改襄陵县，在任190天",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "临汾县",
+          "relation": "活动于",
+          "evidence": "合理地解决了襄陵和临汾两县人民历久抢用汾水的纷争",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "琦先生",
+          "target": "山西",
+          "relation": "活动于",
+          "evidence": "赴山西任事七年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琦先生",
+          "target": "邓伯道祠",
+          "relation": "关联人物",
+          "evidence": "邑人先在邓伯道祠拜祀他，后来又单独建祠纪念",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琦先生",
+          "target": "山西",
+          "relation": "属于时期",
+          "evidence": "咸丰二年（1852）",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琦先生",
+          "target": "蒙古札萨克部",
+          "relation": "活动于",
+          "evidence": "与蒙古札萨克部因耕事发生械斗",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "襄陵县",
+          "target": "西山神庙",
+          "relation": "承载文化",
+          "evidence": "西山神庙正是乡民供奉祭祀狼的庙宇。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "西山神庙",
+          "target": "襄陵县",
+          "relation": "位于",
+          "evidence": "西山神庙正是乡民供奉祭祀狼的庙宇。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "关某",
+          "target": "壮缪供庙",
+          "relation": "活动于",
+          "evidence": "光生于城外张贴告示，言明某月某日在壮缪供庙公开审理此宗讼事，准许乡人旁听。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "四纲八渠",
+          "target": "平水",
+          "relation": "承载文化",
+          "evidence": "并筹款于境内建四纲八渠",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《平河均修水利碑》",
+          "target": "四纲八渠",
+          "relation": "记载于",
+          "evidence": "铭刻《平河均修水利碑》颂扬他",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "邑人",
+          "relation": "关联人物",
+          "evidence": "邑人依依不舍",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "光绪七年",
+          "relation": "活动于",
+          "evidence": "光绪七年，先生年七十五辞世",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "朱次琦（18071882），字稚圭，又字子襄，广东南海九江人，世称九江先生，是我国近代著名学者和教育家。他的一生，主要从事著述和讲学，门人甚多，最著名者为康有为和简朝亮。在他的七十五年人生旅程中，只在咸丰二年（1852，四十六岁）七月到山西襄陵（今襄汾）任署知县（代知县），至翌年二月卸任，仅做了一百九十天的县官。此后再也没有担任官职。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "良琛",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "良琛 送朱使君诗",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "广东珠江三角洲",
+          "relation": "活动于",
+          "evidence": "朱次琦的老家广东珠江三角洲一带以及其他地区，人民的反清起义正...",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "花县",
+          "relation": "同族",
+          "evidence": "朱次琦的老家广东珠江三角洲一带以及其他地区，人民的反清起义正...",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "山西",
+          "relation": "活动于",
+          "evidence": "进入山西并经时，途经关公庙...",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "襄陵县",
+          "relation": "活动于",
+          "evidence": "赴襄陵县任署县令",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "襄陵县",
+          "relation": "活动于",
+          "evidence": "办了为人们称颂的十件好事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "曲沃城南的一间酒家",
+          "relation": "活动于",
+          "evidence": "令捕快疾驰百二十里，连夜赶到曲沃城南的一间酒家",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "西山双灵龙澍神祠",
+          "relation": "活动于",
+          "evidence": "朱次琦亲自到西山双灵龙澍神祠祷告",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "关神庙",
+          "relation": "活动于",
+          "evidence": "乃在关神庙公开审理此案",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "关姓",
+          "target": "关神庙",
+          "relation": "关联人物",
+          "evidence": "县内居住着不少关姓的人，都是三国时关羽的后裔。关姓有 一世袭翰林院博士，常常以诉讼威胁其族人，索取钱财。一次，居然把官司打到县里。朱次琦乃在关神庙公开审理此案。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "关公",
+          "target": "关氏",
+          "relation": "同族",
+          "evidence": "致使关氏门内发生争讼",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "翰林博士",
+          "target": "关氏",
+          "relation": "关联人物",
+          "evidence": "这个翰林博士见到这 种场面，听了县令的这番说话，自觉理亏，惶恐求罢讼。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "读书日程",
+          "relation": "著有",
+          "evidence": "在襄陵曾颁布读书日程，劝人读书并亲自教学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "邓伯道祠",
+          "relation": "创建修建",
+          "evidence": "朱次琦到任伊始，便建邓伯道祠",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "邓攸",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "邓攸（？326年，字伯道，晋代人），在永嘉年间逃难到江南",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "朱次琦在襄陵期间",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "辞官返乡在礼山下设馆讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "简朝亮",
+          "target": "《朱九江先生集》",
+          "relation": "著有",
+          "evidence": "辑成《朱九江先生集》十卷并撰写了先生的年谱",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《朱九江先生集》",
+          "target": "朱九江",
+          "relation": "记载于",
+          "evidence": "本文完全依据简朝亮编的《朱九江先生集》所载资料 写成",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "康有为撰朱九江先生佚文序说",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《中国学术思想史论丛》",
+          "relation": "记载于",
+          "evidence": "近人钱穆对九江先生主孔子之学，无汉学，无宋学的说法，称尤为大见解",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "朱子",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "先生讲学礼山二十四年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "六经",
+          "target": "礼山",
+          "relation": "记载于",
+          "evidence": "六经之学，所以践迹也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱子",
+          "target": "六经",
+          "relation": "著有",
+          "evidence": "六经之学，所以践迹也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "丹灶",
+          "relation": "出生于",
+          "evidence": "康有为，南海丹灶苏村人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "丹灶",
+          "relation": "活动于",
+          "evidence": "康有为少时在丹灶读书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "康有为和简朝亮讲学的地方，岭学之崛起之地",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "简朝亮",
+          "relation": "同族",
+          "evidence": "简氏以讲学终其身,笃守师说",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "简朝亮",
+          "relation": "关联人物",
+          "evidence": "最为世所知的，当推简、康两门",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "简朝亮",
+          "target": "简岸",
+          "relation": "出生于",
+          "evidence": "简朝亮，顺德简岸人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "九江先生讲学乡居,发明九江之教",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "创建修建",
+          "evidence": "康有为后开万木草堂，在广州长兴里设教。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "长兴讲学记",
+          "relation": "著有",
+          "evidence": "他撰长兴讲学记说：今与二三子，通汉宋之故，而一归于孔子，臀犹道水自江河，则南北条皆可正也。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "朱九江先生者，先祖之畏友，频称云者，乃从之学。氏朱九江先生佚文序又说：有为未冠，以回参之列，辟受学，则先生年垂七十矣。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "礼山讲学，刻意以学术救政治之衰",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱九江先生",
+          "relation": "关联人物",
+          "evidence": "康有为亲身受教，感动地说：望之凝凝如 山岳，即之温温如醇酒",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "礼山",
+          "target": "朱九江先生",
+          "relation": "承载文化",
+          "evidence": "礼山讲学，刻意以学术救政治之衰",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "北上曾试祖道文",
+          "target": "九江先生",
+          "relation": "著有",
+          "evidence": "北上曾试祖道文中有说：不可知者遇，不可信者文，不敢负者学，不敢玩者身。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经世救民",
+          "target": "九江先生",
+          "relation": "承载文化",
+          "evidence": "经世救民，无论什么时代都用得着，绝无疑问了。至于孔学，也许有人以为在今世已相当失 效了。其实不然，孔子是圣之时的（孟子语），中庸大义所 在，无非是时的精微运用。那么，九江先生的遗教，至今当 还有其光辉的价值，尤其是他的高尚人格的表现在立身处事各方 面更值得后人学习。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经世救民",
+          "target": "九江先生",
+          "relation": "同类",
+          "evidence": "至于孔学，也许有人以为在今世已相当失 效了。其实不然，孔子是圣之时的（孟子语），中庸大义所 在，无非是时的精微运用。那么，九江先生的遗教，至今当 还有其光辉的价值，尤其是他的高尚人格的表现在立身处事各方 面更值得后人学习。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "朱允朴",
+          "target": "九江中学",
+          "relation": "活动于",
+          "evidence": "朱允朴今天我发言的题目是：学习和继承九江先生的教学思想和办学精神",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱允朴",
+          "target": "九江中学",
+          "relation": "关联人物",
+          "evidence": "朱允朴今天我发言的题目是：学习和继承九江先生的教学思想和办学精神",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江中学",
+          "target": "朱九江",
+          "relation": "承载文化",
+          "evidence": "九江中学既有纪念九江先生的含义",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江中学",
+          "target": "朱九江",
+          "relation": "活动于",
+          "evidence": "作为这所学校的师生，就应该向九江先生学习。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江中学",
+          "target": "朱九江",
+          "relation": "同族",
+          "evidence": "九江中学既有纪念九江先生的含义",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "九江先生",
+          "target": "朱先生",
+          "relation": "同类",
+          "evidence": "我们必须学习先生求学必先立志，明确学习是为了应天下国家之用，要有千秋业的伟大抱负。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "先生自五十一岁辞官归里后，翌年开始讲学于南乡礼山",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "简朝亮",
+          "target": "《朱九江先生集》",
+          "relation": "著有",
+          "evidence": "由他的高徒简朝亮等人搜集遗文写成的《朱九江先生集》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "康有为、简朝亮、梁耀枢等都曾在礼山学习多年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "耀枢等都曾在 礼山学习多年",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "潘新安",
+          "target": "九江先生",
+          "relation": "关联人物",
+          "evidence": "旅港南海九江商会会长潘新安",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "母背顽儿去",
+          "target": "先孺人",
+          "relation": "关联人物",
+          "evidence": "母背顽儿去，回头又七年。只身今异地，寒食一凄然。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "次琦道禀",
+          "target": "朱氏家谱序",
+          "relation": "著有",
+          "evidence": "《南海九江朱氏家谱序》一篇（节录）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "世本",
+          "target": "《南海九江朱氏家谱序例》",
+          "relation": "记载于",
+          "evidence": "书经云：克明峻德，以亲九族，古之帝王，以身作则。而亲九族，百姓如影从。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "世本",
+          "target": "《朱氏传芳集凡例》",
+          "relation": "记载于",
+          "evidence": "夫治国以齐家始，圣训也。家之有谱，犹树木之有根，所以人不能忘本也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江朱氏",
+          "target": "《南海九江朱氏家谱序例》",
+          "relation": "关联人物",
+          "evidence": "《南海九江朱氏家谱序例》一篇，由太史公作世表始，详加引证。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江朱氏",
+          "target": "《朱氏传芳集凡例》",
+          "relation": "关联人物",
+          "evidence": "中列有朱氏捐产族，勘酌范氏义庄章程损益变通规条",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "盖先生鉴于世优递迁，去孔孟之道日远，特订定此凡例，使族人奕世遵行，尽忠孝之分，抱仁爱之心，毋泰圣训也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "桑梓之亲",
+          "relation": "关联人物",
+          "evidence": "先生乡土情殷，此诗乃眼前所见，有感而作。盖西潦续至，堤决堪虞，万民鱼鉴之灾，中怀忧殆，天意如斯，非人力所能挽回也。极一片无可奈何之象。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "逊任君",
+          "target": "河南村",
+          "relation": "活动于",
+          "evidence": "昔踏河南村",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "关郭二生",
+          "target": "宗琦",
+          "relation": "关联人物",
+          "evidence": "《食春饼招关郭二生舍弟宗琦》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "河南村",
+          "target": "关郭二生",
+          "relation": "活动于",
+          "evidence": "昔踏河南村",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "朱九江（1807、9、251882、2、7、），名次琦，字稚圭，又字子襄。南海九江人。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "因热爱家乡，拒入都市而执教于家",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《朱九江年谱》",
+          "relation": "记载于",
+          "evidence": "《朱九江年谱》称：先生幼年，家少有，赠公群四子，",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "垫读书",
+          "relation": "活动于",
+          "evidence": "四岁入垫读书",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "垫读书",
+          "relation": "出生于",
+          "evidence": "四岁入垫读书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "越华书院",
+          "relation": "活动于",
+          "evidence": "肆业越华书院时",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄木湾观海诗",
+          "target": "朱九江",
+          "relation": "承载文化",
+          "evidence": "十二岁时所作黄木湾观海诗",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "新松赋",
+          "target": "朱九江",
+          "relation": "承载文化",
+          "evidence": "越华书院时的新松赋",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《朱九江年谱》",
+          "relation": "著有",
+          "evidence": "《朱九江年谱》称：先生幼年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "山西巡抚兆那苏图",
+          "relation": "关联人物",
+          "evidence": "为山西巡抚兆那苏图的先人立传，传成，兆那苏图送来太批羊酒貂锦朱提等礼物",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "山西巡抚兆那苏图",
+          "relation": "关联人物",
+          "evidence": "为山西巡抚兆那苏图的先人立传，传成，兆那苏图送来太批羊酒貂锦朱提等礼物，他同样拒之，仅受谢帖而已。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵县",
+          "relation": "活动于",
+          "evidence": "朱九江本人1852年7月29日奉命署孝义县，但因他表现勤政清廉，有脂膏不润之誉，旋于9月3日改授署襄陵县。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "襄陵县",
+          "target": "山西",
+          "relation": "属于时期",
+          "evidence": "襄陵为山西最富庶的县份之一，在山而素有金襄陵之称，是山西为官者人皆羡慕的地方。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "邓伯道祠",
+          "relation": "活动于",
+          "evidence": "亲往执教和审阅学生试卷",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江李村",
+          "relation": "活动于",
+          "evidence": "1833年6月27日，九江李村因大水决堤被淹，朱先生断然置安危于度外，扶老携幼上船避难。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江李村",
+          "relation": "活动于",
+          "evidence": "1839年夏，九江又遇大水，乡堤濒危，朱先生再次临危不惧，率众抢修坝，终于使家乡避免了一场水灾之害。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "义仓",
+          "relation": "创建修建",
+          "evidence": "为民着想的朱九江，为此在家乡创议建立义仓，使百姓即使在灾害之年，仍能安然度日。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "南海部令徐佩韦",
+          "relation": "关联人物",
+          "evidence": "1837年，他的好友，南海部令徐佩韦病故，徐身后无子，寡妻弱女，悲可怜，远近为之同叹。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "岑绩熙",
+          "relation": "关联人物",
+          "evidence": "同乡岑绩熙病亡，家贫甚，老母高龄九十，五男三女幼孤，悲掺凄凉。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "宝纶阁",
+          "relation": "创建修建",
+          "evidence": "用收来银两修建宝纶阁",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "宝纶阁",
+          "relation": "著有",
+          "evidence": "以藏其生前所用书籍",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "1856年回到家乡后，第二年便在南海尊经阁从教，第三 年转归九江故里",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "尊经阁",
+          "relation": "活动于",
+          "evidence": "1856年回到家乡后，第二年便在南海尊经阁从教",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "朱九江在家乡授徒讲学之所，从1858年起便一直是礼山草堂",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "尊经阁",
+          "target": "九江",
+          "relation": "位于",
+          "evidence": "1856年回到家乡后，第二年便在南海尊经阁从教，第三 年转归九江故里",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "礼山草堂",
+          "target": "九江",
+          "relation": "位于",
+          "evidence": "朱九江在家乡授徒讲学之所，从1858年起便一直是礼山草堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "朱九江不为名利所动，为躬行讲学，而假托患有疾病，拒绝赴京高升，继续留在礼山草堂执教",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "同治皇帝",
+          "relation": "承载文化",
+          "evidence": "1862年，同治皇帝登极，特诏全国人才十六名，其中广东两人，内有朱九江",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "康有为对恩师朱九江的评价甚高，极力称赞他是一个名符其实经世，不为无用之空谈高论",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "继续留在礼山草堂执教",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "1853年3月17日，朱九江在任职190天后离襄陵南归",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "西樵山凤翼峰",
+          "relation": "活动于",
+          "evidence": "葬于西樵山凤翼峰",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "襄陵举邑皇皇，如失慈母",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "经两昼夜、行三十里而至汾桥时，仍有穿着整齐的百十名秀才在那",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "朱九江南去后，襄陵人民更是筑祠以祀，念念不忘这位全心全意为襄陵人民",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "朱九江是当之无愧的南海一杰",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《朱九江先生集》",
+          "relation": "著有",
+          "evidence": "现存有关朱九江的著述，仅有其得意门生简朝亮于光绪二十年三年（1897年）搜集和编写的《朱九江先生集》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《朱九江先生集》",
+          "target": "西樵山凤翼峰",
+          "relation": "记载于",
+          "evidence": "现存有关朱九江的著述，仅有其得意门生简朝亮于光绪二十年三年（1897年）搜集和编写的《朱九江先生集》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海",
+          "target": "西樵山凤翼峰",
+          "relation": "位于",
+          "evidence": "葬于西樵山凤翼峰",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "经学",
+          "relation": "承载文化",
+          "evidence": "经可佐史；因古人已然之迹（即经学），一一可求证于史实。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "史学",
+          "relation": "承载文化",
+          "evidence": "史之于经，犹医案也。又云：以史通经，则经术行。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经学",
+          "target": "《诗》",
+          "relation": "记载于",
+          "evidence": "五学 经学：即《诗》、《书》、《礼》、《乐》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经学",
+          "target": "《书》",
+          "relation": "记载于",
+          "evidence": "五学 经学：即《诗》、《书》、《礼》、《乐》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经学",
+          "target": "《礼》",
+          "relation": "记载于",
+          "evidence": "五学 经学：即《诗》、《书》、《礼》、《乐》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经学",
+          "target": "《易》",
+          "relation": "记载于",
+          "evidence": "五学 经学：即《诗》、《书》、《礼》、《乐》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "经学",
+          "target": "《春秋》",
+          "relation": "记载于",
+          "evidence": "五学 经学：即《诗》、《书》、《礼》、《乐》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "史学",
+          "target": "《史记》",
+          "relation": "记载于",
+          "evidence": "诸史之中，朱先生尤重四史（汉司马迁《史记》、汉班固《汉书》、宋范哗《后汉书》、晋陈寿《三国志》），称之为史",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "史学",
+          "target": "《汉书》",
+          "relation": "记载于",
+          "evidence": "诸史之中，朱先生尤重四史（汉司马迁《史记》、汉班固《汉书》、宋范哗《后汉书》、晋陈寿《三国志》），称之为史",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "史学",
+          "target": "《后汉书》",
+          "relation": "记载于",
+          "evidence": "诸史之中，朱先生尤重四史（汉司马迁《史记》、汉班固《汉书》、宋范哗《后汉书》、晋陈寿《三国志》），称之为史",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "史学",
+          "target": "《三国志》",
+          "relation": "记载于",
+          "evidence": "诸史之中，朱先生尤重四史（汉司马迁《史记》、汉班固《汉书》、宋范哗《后汉书》、晋陈寿《三国志》），称之为史",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "司马迁",
+          "target": "《史记》",
+          "relation": "著有",
+          "evidence": "西汉司马迁所著的纪传体通史",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "班固",
+          "target": "《汉书》",
+          "relation": "著有",
+          "evidence": "东汉班固所著的纪传体断代史",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "范哗",
+          "target": "《后汉书》",
+          "relation": "著有",
+          "evidence": "南朝宋范哗所著的纪传体断代史",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈寿",
+          "target": "《三国志》",
+          "relation": "著有",
+          "evidence": "三国时期陈寿所著的纪传体断代史",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "司马光",
+          "target": "《资治通鉴》",
+          "relation": "著有",
+          "evidence": "北宋司马光主编的多卷本编年体史书",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "朱先生",
+          "target": "《九通》",
+          "relation": "著有",
+          "evidence": "《九通》（杜佑《通典》，郑樵《通志》、马端临《文献通考》、《续三通》、《皇朝三 通》），掌故之都市也。士不读《九通》，是谓不通。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "性理之学",
+          "relation": "著有",
+          "evidence": "性理之学：即理学，又称道学。自宋而明，理学名家辈出，",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "词章之学",
+          "relation": "著有",
+          "evidence": "词章之学，朱先生云君子之学，以告当世，以传来者；",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "性理之学",
+          "target": "词章之学",
+          "relation": "同类",
+          "evidence": "性理之学：即理学，又称道学。自宋而明，理学名家辈出， 识）、反躬居敬（身体力行、一本诚敬）之学，于陆丸渊之 治心之治学、陈白沙之端坐澄心以养端倪、王守仁之致良知之 说，皆不取焉。朱先生云：性理，非空言也。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "朱先生",
+          "target": "《答李翊书》",
+          "relation": "著有",
+          "evidence": "韩愈《答李翊书》中有自谓非三代两汉书不敢观",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "《论语》",
+          "relation": "记载于",
+          "evidence": "《论语》云：弟子入则孝，出则弟，谨而信，泛爱众，而亲仁。行有余力，则以学文",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "《中庸》",
+          "relation": "承载文化",
+          "evidence": "《中庸》谓不诚无物 到诚不息；朱寮谓诚之者，择善而固执之者也。正是此意",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "西樵山人",
+          "relation": "同族",
+          "evidence": "西樵山人为康有为别署",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "云出岭",
+          "relation": "承载文化",
+          "evidence": "幽士高怀云出岭，骚人秋思水周堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "西樵山人",
+          "target": "二万卷书楼",
+          "relation": "关联人物",
+          "evidence": "二万卷书楼乃其故里银塘乡藏书楼名",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "二万卷书楼",
+          "relation": "创建修建",
+          "evidence": "二万卷书楼乃其故里银塘乡藏书楼名",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "钱二万卷书朱文闲章。考 西樵山人为康有为别署",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "次年春去官归里，讲学于礼山草堂凡二十余 年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "粤督阮元屡聘主讲学海堂，均辞不就",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "羊城书院",
+          "relation": "活动于",
+          "evidence": "早年就读广州越华、羊芮 书院。道光十七年（1837）中举人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "谢兰生",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "朱九江早年读书于羊城书院，甚得山长谢兰生器重，受其亲炙，书法亦得其传授。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎简",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "黎简（清代岭南著名诗人、画家）",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "黎简",
+          "target": "二樵",
+          "relation": "同族",
+          "evidence": "黎简（1747一1799）号二樵",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎简",
+          "target": "乾隆",
+          "relation": "属于时期",
+          "evidence": "黎简（1747一1799）号二樵，广东顺德人，乾隆五十四年 （1789）拔贾",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "谢兰生",
+          "target": "嘉庆",
+          "relation": "属于时期",
+          "evidence": "谢兰生（1760 一1831）号里甫，广东南海人。嘉庆七年（1802）进上",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎简",
+          "target": "谢兰生",
+          "relation": "关联人物",
+          "evidence": "谢对黎是执弟子礼的，谢兰生的书画受黎简的深刻影响",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎简",
+          "target": "谢兰生",
+          "relation": "同族",
+          "evidence": "谢对黎是执弟子礼的，谢兰生的书画受黎简的深刻影响",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎简",
+          "target": "谢兰生",
+          "relation": "活动于",
+          "evidence": "黎、谢二人均生于乾隆年间",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "谢兰生",
+          "target": "《书诀》",
+          "relation": "著有",
+          "evidence": "近年发现的谢兰生《书诀》（7）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "朱次琦",
+          "relation": "传承于",
+          "evidence": "朱氏书学直接得之于谢兰生的传授，还可从《书诀》与《论 书口说》两文的比较中得之",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "谢兰生",
+          "relation": "传承于",
+          "evidence": "朱氏书学直接得之于谢兰生的传授",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "朱九江",
+          "relation": "同族",
+          "evidence": "朱九江之叔祖法庐弟子",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "谢兰生",
+          "relation": "关联人物",
+          "evidence": "朱氏书学直接得之于谢兰生的传授",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱杰勤",
+          "target": "朱九江",
+          "relation": "同族",
+          "evidence": "朱教授称此乃其叔祖法庐先先之钞本，而法庐为朱九江之 及门弟子",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "朱九江",
+          "relation": "同族",
+          "evidence": "朱九江是朱次琦的字",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "康有为对乃师的书法给予了很高的评价",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "颜真卿",
+          "relation": "同类",
+          "evidence": "其书导源于平原（颜真卿）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "欧阳询",
+          "relation": "同类",
+          "evidence": "蝶于欧（阳询）、虞（世南）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "虞世南",
+          "relation": "同类",
+          "evidence": "蝶于欧（阳询）、虞（世南）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "朱次琦是晚清大儒，对康有为日后的书风及其尊碑、倡碑的理论均产生了直接的影响",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "长联",
+          "target": "朱九江",
+          "relation": "著有",
+          "evidence": "文章称颂朱九江长联笔力气魄",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《广东历代名家书法》",
+          "target": "朱九江",
+          "relation": "著有",
+          "evidence": "《广东历代名家书法》所刊《淡泊斋记》行书稿本",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《礼山草堂绪余》",
+          "target": "朱九江",
+          "relation": "著有",
+          "evidence": "《礼山草堂绪余》一书（何受庵丛书之六，1984年刊）亦收有朱氏手稿及文章评语多件",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "进入礼山草堂后，随朱师从执笔学起",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "礼山草堂",
+          "relation": "创建修建",
+          "evidence": "据笔者所知，尚有朱氏写于道光二十七年（1847）的一副行楷八言联，联文为：是训是行绳其祖武，克勤克俭治孙谋，（九江下西管理区藏）",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "简朝亮",
+          "relation": "同族",
+          "evidence": "三 在朱次琦的众多弟子当中，最著名的有康有为、简朝亮（顺德人，近代著名学者）、梁耀枢（顺德人，同治辛未科状元）诸人",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "梁耀枢",
+          "relation": "同族",
+          "evidence": "三 在朱次琦的众多弟子当中，最著名的有康有为、简朝亮（顺德人，近代著名学者）、梁耀枢（顺德人，同治辛未科状元）诸人",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "黎简",
+          "relation": "同族",
+          "evidence": "以上康门四家，或为诗人、学者，或为书画大师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "黎简",
+          "relation": "传承于",
+          "evidence": "以上康门四家，或为诗人、学者，或为书画大师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "以上康门四家，或为诗人、学者，或为书画大师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "传承于",
+          "evidence": "以上康门四家，或为诗人、学者，或为书画大师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0082": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九江先生",
+          "relation": "关联人物",
+          "evidence": "九江先生无心作书家，其书却能格调高古",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《论书口说》",
+          "relation": "著有",
+          "evidence": "朱氏《论书口说》有云：学书欲造其极，当以晋人为轨也",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "关联人物",
+          "evidence": "康体字之宏大气势和雄深意度，直接导源于朱氏的雄浑苍秀之气",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双辑》",
+          "relation": "著有",
+          "evidence": "康有为书法的雄放大度及其对碑学的弘扬阐发，是受朱次琦书风的薰陶而引发的。康体字之宏大气势和雄深意度，直接导源于朱氏的雄浑苍秀之气",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《论书口说》",
+          "target": "朱次琦",
+          "relation": "著有",
+          "evidence": "朱氏《论书口说》有云：学书欲造其极，当以晋人为轨也",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "他对乃师书法的推崇和赞誉中可以略见",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云石墨韵轩",
+          "relation": "活动于",
+          "evidence": "一九九五年八月廿八日 于羊石墨韵轩之南",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双辑》",
+          "relation": "著有",
+          "evidence": "从康氏在《广艺舟双辑》书中，反复强调朱氏书学对自已的影响，以及他对乃师书法的推崇和赞誉中可以略见一斑。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《康南海自编年谱（外二种）》",
+          "relation": "著有",
+          "evidence": "《康南海自编年谱（外二种）》中华书局1992年版 第6页。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱九江",
+          "relation": "同族",
+          "evidence": "不慕浮名、僻处乡间的儒者，对康有为书法有影响",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱九江",
+          "relation": "关联人物",
+          "evidence": "正是这位不慕浮名、僻处乡间的 大儒，培养和造就了康有为这样一位开风气的书法大家。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "康有为《广艺舟双辑·榜书第二十四》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《康南海自编年谱（外二种）》",
+          "relation": "著有",
+          "evidence": "见《康南海自编年谱（外二种）》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广东文物》",
+          "relation": "记载于",
+          "evidence": "见·《广东文物》上海书店1990年影印版卷五《学生征文》第234页。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双辑·榜书第二十四》",
+          "relation": "著有",
+          "evidence": "康有为《广艺舟双辑·榜书第二十四》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《中国书法全集》",
+          "relation": "记载于",
+          "evidence": "转引自《中国书法全集》荣宝斋1993年版第78卷图版41。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《肖娴书法选》",
+          "relation": "记载于",
+          "evidence": "见《肖娴书法选》人民美术出版社1985版年版第30页。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《中国书论辑要》",
+          "relation": "记载于",
+          "evidence": "参见拙文《从晋唐写经看书法与佛教的关系》。载《纪念陈寅恪教授国际学术讨论会文集》中山大学出版社1989年版第512页。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "梁启超",
+          "relation": "关联人物",
+          "evidence": "梁启超·《康有为传》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "朱九江先生是一代大儒，且先生又工八法，书论也很精辟，所以同时是一位造诣极深的大书法家。由于先生的道德文章知名度很大，书法方面反为所掩。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "橙联",
+          "target": "扇面",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "诗稿",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "信稿",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "卷轴",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "笔记",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "便条",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "橙联",
+          "target": "文章批语",
+          "relation": "同类",
+          "evidence": "大概包括橙联、扇面、诗稿、信稿、卷轴、笔记、便条和文章批语等等",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "浓墨书法",
+          "target": "结字之法",
+          "relation": "承载文化",
+          "evidence": "结字之法，小心布置，大胆落笔",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "浓墨书法",
+          "relation": "关联人物",
+          "evidence": "从他的书法实践来看，他是做到身体力行的",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "结字之法",
+          "relation": "关联人物",
+          "evidence": "先生论书口说中有云：结字之 法，小心布置，大胆落笔",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "礼山讲堂",
+          "relation": "活动于",
+          "evidence": "昔在礼山讲堂听九师讲史",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "礼山讲堂",
+          "relation": "著有",
+          "evidence": "昔在礼山讲堂听九师讲史，论及忠臣义士及权奸耻等事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "羊城书院",
+          "relation": "活动于",
+          "evidence": "先生学书于羊城书院山长谢里甫",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《广艺舟双楫》",
+          "target": "康有为",
+          "relation": "著有",
+          "evidence": "其书导源于平原，碟于欧虞，而别出新意。据此，可见正书学颜真卿，并出入于欧阳询与虞世南两大名家之间。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "洪秀全",
+          "target": "朱次琦",
+          "relation": "同族",
+          "evidence": "至于说洪秀全是朱九江先生之得意门生，实属讹传之误。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "洪秀全",
+          "relation": "活动于",
+          "evidence": "洪秀全于道光十六年春，其年廿四岁，第二次赴广州就试时拜粤东大儒朱次琦先生之门，听其讲学。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "洪秀全",
+          "relation": "著有",
+          "evidence": "惟以九江先生到花县讲书一月洪氏辩门听讲不确",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "简竹居",
+          "relation": "关联人物",
+          "evidence": "朱次琦有三个得意门生，一是洪秀全，二是简竹居，三是康有为之说",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "朱次琦有三个得意门生，一是洪秀全，二是简竹居，三是康有为之说",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "花县",
+          "relation": "活动于",
+          "evidence": "世传九江在花县讲书一月",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪秀全",
+          "target": "朱次琦",
+          "relation": "活动于",
+          "evidence": "世传九江在花县讲书一月，洪秀全亦往辩门听课",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "刘成禺",
+          "target": "《世载堂杂忆》",
+          "relation": "著有",
+          "evidence": "余平生首尾未完毕之书如《禺生四唱》、《洪宪纪事诗本事注》、《忆江南杂诗注》、《马相伯、伍廷芳外交口授录》、《世载堂杂忆》与自传等尽归纳于《世载堂杂忆》中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "刘成禺",
+          "target": "《起义记》",
+          "relation": "关联人物",
+          "evidence": "方（见《起义记》）",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "洪秀全",
+          "relation": "活动于",
+          "evidence": "世传九江在花县讲书一月，洪秀全亦往辩门听课",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九江乡约公所",
+          "relation": "活动于",
+          "evidence": "朱次琦为九江乡约公所的司约陈大令卒而筹贱恤事，又为乡人岑续熙卒筹恤金",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "九江先生纪念堂",
+          "relation": "创建修建",
+          "evidence": "为纪念朱九江先生而建的建筑物",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "九江先生纪念堂",
+          "target": "九江中学",
+          "relation": "属于时期",
+          "evidence": "此为纪念先生之唯一学府",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "关宝轩",
+          "target": "九江先生纪念堂",
+          "relation": "创建修建",
+          "evidence": "捐建朱九江先生纪念堂一座",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "关宝轩",
+          "target": "九江先生纪念堂",
+          "relation": "活动于",
+          "evidence": "躬与盛事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李海云",
+          "target": "九江先生纪念堂",
+          "relation": "活动于",
+          "evidence": "亲临主持奠基仪式",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区萃仑",
+          "target": "九江先生纪念堂",
+          "relation": "活动于",
+          "evidence": "亲临主持奠基仪式",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈屈伸",
+          "target": "九江先生纪念堂",
+          "relation": "创建修建",
+          "evidence": "允以旅美乡侨名义，捐建朱九江先生纪念堂一座",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": [
+        {
+          "source": "清音桥",
+          "target": "襄陵镇",
+          "relation": "位于",
+          "evidence": "这是山西省襄汾县襄陵镇的一道古老的三孔石桥清音桥",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "清音桥",
+          "relation": "活动于",
+          "evidence": "当地老百姓在当时 的古驿道的清音桥夹道挽留他",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "清音桥",
+          "relation": "活动于",
+          "evidence": "襄陵衙门被日寇拆毁，搬走木头的这段史 实。朱先生曾在这里为人民办实事的地方",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "襄陵衙门",
+          "relation": "活动于",
+          "evidence": "襄陵衙门被日寇拆毁，搬走木头的这段史 实。朱先生曾在这里为人民办实事的地方",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "朱九江先生纪念堂",
+          "relation": "创建修建",
+          "evidence": "今年的9月16日是朱九江先生189周年诞辰。重建的朱九江先 生纪念堂已在4月落成",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《吕梁英雄传》",
+          "target": "朱九江先生纪念堂",
+          "relation": "记载于",
+          "evidence": "来到这处充满抗战故事《吕梁英雄传》的故乡",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": [
+        {
+          "source": "朱先生",
+          "target": "襄陵县",
+          "relation": "活动于",
+          "evidence": "朱先生就是这样处理了襄陵县许多棘手之事",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "西山",
+          "relation": "活动于",
+          "evidence": "二是治河东狼患。先生亲自率队到西山打狼十天",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "碑文",
+          "target": "襄陵县",
+          "relation": "记载于",
+          "evidence": "清史中详有记载。襄陵人民为了纪念朱先生，阖邑士绅清立碑纪功",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "河神庙",
+          "target": "襄陵县",
+          "relation": "位于",
+          "evidence": "而碑文已被有识之士抄记在世，我们浏览着立碑之处，原是昔日河神庙之畔",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0102": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "襄陵",
+          "relation": "活动于",
+          "evidence": "他在山西太原候官七年，才派上襄陵任知县",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "回家乡礼山办学堂20余年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "朱九江",
+          "relation": "著有",
+          "evidence": "康有为未冠，以回参之列，辟明",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "先生为先祖连州公（讳赞修，号述之）友，先君知县公（讳达初，号少农）与伯叔父两广文公（讳达菜，号彝仲，讳达节，号竹苏）皆捧杖受业。有为未冠，以回参之列，辟明",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0103": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "竹苏",
+          "relation": "同族",
+          "evidence": "号少农）与伯 叔父两广文公（讳达菜，号彝仲，讳达节，号竹苏）皆捧杖受 业",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "彝仲",
+          "relation": "同族",
+          "evidence": "号少农）与伯 叔父两广文公（讳达菜，号彝仲，讳达节，号竹苏）皆捧杖受 业",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "陈文公",
+          "relation": "同族",
+          "evidence": "号少农）与伯 叔父两广文公（讳达菜，号彝仲，讳达节，号竹苏）皆捧杖受 业",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "康成",
+          "target": "国朝学案",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "紫阳",
+          "target": "国朝学案",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梨洲",
+          "target": "国朝学案",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "船山",
+          "target": "国朝学案",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康成",
+          "target": "晋乘",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷，蒙古记，晋乘，各数十卷！",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "紫阳",
+          "target": "蒙古记",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷，蒙古记，晋乘，各数十卷！",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梨洲",
+          "target": "蒙古记",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷，蒙古记，晋乘，各数十卷！",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "船山",
+          "target": "蒙古记",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷，蒙古记，晋乘，各数十卷！",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康成",
+          "target": "国朝名臣言行录",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "紫阳",
+          "target": "国朝名臣言行录",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梨洲",
+          "target": "国朝名臣言行录",
+          "relation": "著有",
+          "evidence": "有国朝学案，国朝名臣言行录，凡百卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "《大雅堂诗集》",
+          "relation": "著有",
+          "evidence": "得是大雅堂诗集一卷",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《汝师斋一卷》",
+          "relation": "著有",
+          "evidence": "得是汝师斋一卷",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0106": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "讲学其乡之礼山下",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0107": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "汉学",
+          "relation": "承载文化",
+          "evidence": "今之言汉学宋学者、咻之于道中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孔子",
+          "target": "宋学",
+          "relation": "承载文化",
+          "evidence": "彼考据者、不宋学面汉学矣",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孝弟",
+          "target": "名节",
+          "relation": "同类",
+          "evidence": "立身行道、扬名于后世、以显父母。立身也者、名节之谓也。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "定公元年",
+          "relation": "活动于",
+          "evidence": "昔者定公元年，孔子不仕、而仕于定公九年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "六经",
+          "relation": "著有",
+          "evidence": "六经者、古人已然之迹也。六经之学、所以践迹也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱子",
+          "target": "六经",
+          "relation": "承载文化",
+          "evidence": "六经之学、所以践迹也。践迹而入于室、善人之道也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "文恭",
+          "target": "定公元年",
+          "relation": "活动于",
+          "evidence": "昔者定公元年，孔子不仕、而仕于定公九年。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "文恭",
+          "target": "朱子",
+          "relation": "关联人物",
+          "evidence": "文恭之学、读书而静养也、朱子所法乎孔子者也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张问",
+          "target": "陆子静",
+          "relation": "同类",
+          "evidence": "于张问善人之道。子白、不践迹亦不入于室。陆子静、善人也、未尝不学、然始事于心、不始事子学、而白六经注我、我注六经、虽善人乎、其非善人之道也。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "顾亭林",
+          "target": "纪文达",
+          "relation": "同类",
+          "evidence": "先生日、纪文达，汉学之前茅也、阮文达、汉学之后劲也。百年以来、聪明魁异之士多镭于斯矣。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "顾亭林",
+          "target": "阮文达",
+          "relation": "同类",
+          "evidence": "先生日、纪文达，汉学之前茅也、阮文达、汉学之后劲也。百年以来、聪明魁异之士多镭于斯矣。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "纪文达",
+          "target": "阮文达",
+          "relation": "同族",
+          "evidence": "先生日、纪文达，汉学之前茅也、阮文达、汉学之后劲也。百年以来、聪明魁异之士多镭于斯矣。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "诗经",
+          "relation": "著有",
+          "evidence": "孔子以诗书礼乐教弟子",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孔子",
+          "target": "礼记",
+          "relation": "著有",
+          "evidence": "孔子以诗书礼乐教弟子",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孔子",
+          "target": "易经",
+          "relation": "著有",
+          "evidence": "孔子以诗书礼乐教弟子",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孔子",
+          "target": "春秋",
+          "relation": "著有",
+          "evidence": "孔子以诗书礼乐教弟子",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "左传",
+          "target": "周礼",
+          "relation": "记载于",
+          "evidence": "周礼尽在鲁矣、吾乃今知周公之德与周之所以王也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "史记",
+          "target": "孔子",
+          "relation": "记载于",
+          "evidence": "孔于以诗书礼乐教弟子、盖三千焉、身通六艺者七十有二人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": [
+        {
+          "source": "董子",
+          "target": "六书小学",
+          "relation": "记载于",
+          "evidence": "董子云、诗无达话、易无达占、春秋无达辞。此董子之能通经也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱子",
+          "target": "程子",
+          "relation": "关联人物",
+          "evidence": "先生日、朱子、师程子者也。朱子释经、不或匡程子之失乎",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "六书小学",
+          "target": "董子",
+          "relation": "著有",
+          "evidence": "治经者所时资也。必谓先尽读小学诸书、而后可通圣人之道也、将徒蔽之也，为其书之不能无凿也",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "唐以前之文",
+          "relation": "著有",
+          "evidence": "唐以前之文多华",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜佑",
+          "target": "杜佑通典",
+          "relation": "著有",
+          "evidence": "杜佑通典、郑檐通志、马鼎临文獻通考、续三通、鼻朝三通。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "郑樵",
+          "target": "郑樵通志",
+          "relation": "著有",
+          "evidence": "杜佑通典、郑檐通志、马鼎临文獻通考、续三通、鼻朝三通。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马鼎临",
+          "target": "马鼎临文獻通考",
+          "relation": "著有",
+          "evidence": "杜佑通典、郑檐通志、马鼎临文獻通考、续三通、鼻朝三通。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "唐以前之文",
+          "target": "唐以后之文",
+          "relation": "同类",
+          "evidence": "唐以前之文多华、唐以后之文多朴、唐以前之文多、唐以后之文多平、唐以前之文句多短、唐以后之文句多长。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "南海陈氏宾馆",
+          "relation": "活动于",
+          "evidence": "予昔居南海陈氏宾馆",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "扫地北",
+          "relation": "关联人物",
+          "evidence": "其主人、今所称扫地北也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0117": {
+      "relations": []
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "康有为",
+          "relation": "关联人物",
+          "evidence": "此南海康有为称先生之言也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张格尔",
+          "target": "回人张格尔之乱",
+          "relation": "承载文化",
+          "evidence": "张格尔者，故回酋大和卓木博罗尼都之裔也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "莎车镇",
+          "relation": "记载于",
+          "evidence": "动我莎车镇，微闻势不孤",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "都尉合摩头曼陣",
+          "target": "亚夫营",
+          "relation": "同类",
+          "evidence": "都尉合摩头曼陣，将军曾守亚夫营",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0121": {
+      "relations": [
+        {
+          "source": "马加理",
+          "target": "腾越厅",
+          "relation": "活动于",
+          "evidence": "籍翻译官马加理在腾越厅被野人杀",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马加理",
+          "target": "蛮允",
+          "relation": "活动于",
+          "evidence": "十六日行至蛮允之缅佛寺",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马加理",
+          "target": "南平河",
+          "relation": "活动于",
+          "evidence": "正月十三行抵南平河",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "马加里",
+          "target": "烟台条约",
+          "relation": "记载于",
+          "evidence": "七月三日所立之烟台条约也。（节录东华续录光绪十页十二）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马加里",
+          "target": "滇抚邓尔恒",
+          "relation": "同族",
+          "evidence": "滇抚邓尔恒入觐，为盗所害，咸丰初事也。江督马新贻阅操，为贼所刺，同治间事也。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马加里",
+          "target": "江督马新贻",
+          "relation": "同族",
+          "evidence": "滇抚邓尔恒入觐，为盗所害，咸丰初事也。江督马新贻阅操，为贼所刺，同治间事也。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马加里",
+          "target": "湖督李章",
+          "relation": "同族",
+          "evidence": "当时不过命该省查办，必责以罪人斯得而已。马加理于缅甸云南交界处所，勘实非云南地，突为山苗杀，朝廷震怒，不特严伤该省督抚急办，且特命湖督李章驰往严诘真凶，尽法惩治，以慰马加理等枉死幽魂。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "屈服",
+          "target": "烟台和约",
+          "relation": "记载于",
+          "evidence": "烟台和约成。其最吃亏者为外国得有领事裁判权",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "光绪二年丙子",
+          "relation": "活动于",
+          "evidence": "光绪二年丙子（一八七六）先生七十岁",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "烟台和约",
+          "relation": "活动于",
+          "evidence": "烟台和约成。其最吃亏者为外国得有领事裁判权",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "庚辰",
+          "relation": "活动于",
+          "evidence": "庚辰（一八八）先生七十四岁",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "咸丰之事",
+          "target": "庚辰",
+          "relation": "属于时期",
+          "evidence": "回忆咸丰之事，噪血郊园，盟于城下。乘舆出逊，晏驾不还",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "公羊所谓百世之仇",
+          "target": "庚辰",
+          "relation": "记载于",
+          "evidence": "公羊所谓百世之仇，无时焉而可与通也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": [
+        {
+          "source": "先生",
+          "target": "邑学尊经阁",
+          "relation": "活动于",
+          "evidence": "居邑学尊经阁授徒",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "邑学尊经阁",
+          "target": "广州",
+          "relation": "发生于",
+          "evidence": "秋九月，外兵寇广州。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0125": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "道光三十年庚戌",
+          "relation": "活动于",
+          "evidence": "道光三十年庚戌（一八五）先生四十四岁。到晋寄伯兄书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "咸丰四年甲寅",
+          "relation": "活动于",
+          "evidence": "咸丰四年甲寅（一八五四）先生四十八岁。六月廿八日，在襄陵复王友书云",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "侯康",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "李垣恢",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "李文田",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "梁廷楠",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "何藻翔",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "张维屏",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史，张维屏之诗",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "谢里甫",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史，张维屏之诗，谢里甫之书法",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "黎二樵",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史，张维屏之诗，谢里甫之书法，黎二樵之绘画",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "邹特夫",
+          "relation": "同族",
+          "evidence": "例如侯康之经史学，李垣恢、李文田之西北史地，梁廷楠，何藻翔之中外关系史，张维屏之诗，谢里甫之书法，黎二樵之绘画，邹特夫之数学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "陈献章",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "湛若水",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "邝露",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "黎遂球",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "陈恭尹",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "梁佩兰",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "张穆",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "冯敏昌",
+          "relation": "同族",
+          "evidence": "明代学者可数的有理学家陈献章（白沙先生）、湛若水（甘泉），文学家邝露，黎遂球、陈恭尹（独漉山人）、梁佩兰，艺术家张穆、冯敏昌等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "阮元",
+          "target": "学海堂",
+          "relation": "创建修建",
+          "evidence": "道光六年，建学海堂于越秀山上",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": [
+        {
+          "source": "阮元",
+          "target": "学海堂",
+          "relation": "创建修建",
+          "evidence": "阮元创办学海堂",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "《皇清经解》",
+          "relation": "著有",
+          "evidence": "阮元还辑刊《皇清经解》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "《岭南遗书》",
+          "relation": "承载文化",
+          "evidence": "于是《岭南遗书》、《海山仙馆丛书》、《粤雅堂丛书》等相继问世",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "《海山仙馆丛书》",
+          "relation": "承载文化",
+          "evidence": "于是《岭南遗书》、《海山仙馆丛书》、《粤雅堂丛书》等相继问世",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "《粤雅堂丛书》",
+          "relation": "承载文化",
+          "evidence": "于是《岭南遗书》、《海山仙馆丛书》、《粤雅堂丛书》等相继问世",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "翁方纲",
+          "relation": "同族",
+          "evidence": "18世纪末，大金石学家翁方纲（覃溪）为广东学政凡三任共八年",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "吴荣光",
+          "relation": "关联人物",
+          "evidence": "吴荣光是阮元门生,有《筠清馆金文》行世",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阮元",
+          "target": "程恩泽",
+          "relation": "关联人物",
+          "evidence": "阮元的门人程恩泽（春海）曾担任广东正主考",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "程恩泽",
+          "target": "《程侍郎遗集》",
+          "relation": "著有",
+          "evidence": "程恩泽的遗作《程侍郎遗集》收入《粤雅堂丛书》中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "程恩泽",
+          "target": "《粤雅堂丛书》",
+          "relation": "承载文化",
+          "evidence": "程恩泽的遗作《程侍郎遗集》收入《粤雅堂丛书》中",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "程春海",
+          "target": "《程侍郎遗集》",
+          "relation": "著有",
+          "evidence": "程春海的遗作《程侍郎遗集》收入《粤雅堂丛书》中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《程侍郎遗集》",
+          "target": "学海堂",
+          "relation": "承载文化",
+          "evidence": "由学海堂学长谭莹校刻",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "谭莹",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "谭莹为学海堂学长数十年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈兰甫",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "曾为学海堂学长数十年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈兰甫",
+          "target": "《东垫读书记》",
+          "relation": "著有",
+          "evidence": "著述亦富。曾为学海堂学长数十年，至老为菊坡精舍山长。桃李满门，成就甚众。读者参看其《东垫读书记》和《东垫集》便知梗概",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈兰甫",
+          "target": "《东垫集》",
+          "relation": "著有",
+          "evidence": "著述亦富。曾为学海堂学长数十年，至老为菊坡精舍山长。桃李满门，成就甚众。读者参看其《东垫读书记》和《东垫集》便知梗概",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "因他晚年在故乡九江讲学20多年",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "南海县",
+          "relation": "出生于",
+          "evidence": "广东南海县九江乡人，先世居南雄州保昌县，南宋末年有朱元龙及其子迁入南海九江，因而入籍",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "朱成发",
+          "relation": "同族",
+          "evidence": "朱成发（奋之）为十五传，业商，疏财仗义，济困扶危一掷千金无吝色，推已及人，以仁恕见称，娶同里",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": []
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "陈莲史",
+          "relation": "关联人物",
+          "evidence": "陈莲史读此诗后，赞叹不止",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "《千字文》",
+          "relation": "著有",
+          "evidence": "《千字文》中 学优则仕，摄职从政这八个字可以概括先生的前半生。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《平河均修水利之碑铭》",
+          "relation": "记载于",
+          "evidence": "他在山西，特别襄陵令期内，德政甚多，具见于陈士枚撰《平河均修水利之碑铭》一义",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《稚圭先生画像记》",
+          "relation": "记载于",
+          "evidence": "王瑙《稚圭先生画像记》及晋人所辑 的《爱棠录》及《清史稿·循史传》中。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《爱棠录》",
+          "relation": "记载于",
+          "evidence": "王瑙《稚圭先生画像记》及晋人所辑 的《爱棠录》及《清史稿·循史传》中。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "《清史稿·循史传》",
+          "relation": "记载于",
+          "evidence": "王瑙《稚圭先生画像记》及晋人所辑 的《爱棠录》及《清史稿·循史传》中。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "朱先生",
+          "target": "九江乡礼山草堂",
+          "relation": "活动于",
+          "evidence": "拂衣归，讲学于其九江乡礼山草堂",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱先生",
+          "target": "九江乡礼山草堂",
+          "relation": "著有",
+          "evidence": "后远方从学者众，乃讲",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "学尊经阁",
+          "relation": "活动于",
+          "evidence": "先生回里后，居邑学尊经阁",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "后远方从学者众，乃讲学于礼山下的礼山草堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "礼山草堂",
+          "relation": "活动于",
+          "evidence": "后远方从学者众，乃讲学于礼山下的礼山草堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "创建修建",
+          "evidence": "1891年康有为开万木草堂于长兴里讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0135": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "创建修建",
+          "evidence": "1891 年康有为开万木草堂于长兴里讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation": "活动于",
+          "evidence": "1891 年康有为开万木草堂于长兴里讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "长兴里",
+          "relation": "活动于",
+          "evidence": "1891 年康有为开万木草堂于长兴里讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "万木草堂",
+          "relation": "关联人物",
+          "evidence": "朱九江先生以四行五学教授学者。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "长兴里",
+          "relation": "位于",
+          "evidence": "1891 年康有为开万木草堂于长兴里讲学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0136": {
+      "relations": []
+    },
+    "chunk_0137": {
+      "relations": []
+    },
+    "chunk_0138": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "《易》",
+          "relation": "著有",
+          "evidence": "于《易》验消长之机",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《书》",
+          "relation": "著有",
+          "evidence": "于《书》察治乱之迹",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《诗》",
+          "relation": "著有",
+          "evidence": "于《诗》辨邪正之介",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《礼》",
+          "relation": "著有",
+          "evidence": "于《礼》见圣人行事之大经",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《春秋》",
+          "relation": "著有",
+          "evidence": "于《春秋》见圣人断事之大权",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《乐经》",
+          "relation": "著有",
+          "evidence": "五经之外，本来还有《乐经》，共称六艺",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《清史稿》",
+          "relation": "记载于",
+          "evidence": "国史馆曾为他立传，因为他没有经学的书著，就把他列入《循更传》（见《清史稿》）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱法卢",
+          "target": "朱九江",
+          "relation": "关联人物",
+          "evidence": "朱法卢（桥舫）景廉曾从朱九江先生游",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0139": {
+      "relations": [
+        {
+          "source": "《康南海自编年谱》",
+          "target": "康有为",
+          "relation": "著有",
+          "evidence": "《康南海自编年谱》：康有为自编的个人经历和思想发展史",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《书》",
+          "target": "《春秋》",
+          "relation": "同类",
+          "evidence": "《书》与《春秋》，经之史，史之经也。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《书》",
+          "target": "《春秋》",
+          "relation": "同族",
+          "evidence": "《书》与《春秋》，经之史，史之经也。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《史记》",
+          "target": "《春秋》",
+          "relation": "同类",
+          "evidence": "司马迁《史记》自称继《春秋》而作。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《史记》",
+          "target": "《春秋》",
+          "relation": "同族",
+          "evidence": "司马迁《史记》自称继《春秋》而作。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0140": {
+      "relations": [
+        {
+          "source": "二十四史",
+          "target": "《史记》",
+          "relation": "同类",
+          "evidence": "特别是《史记》、《汉书》、《后汉书》和《三国志》，因为这四史写得最好。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "《汉书》",
+          "relation": "同类",
+          "evidence": "特别是《史记》、《汉书》、《后汉书》和《三国志》，因为这四史写得最好。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "《后汉书》",
+          "relation": "同类",
+          "evidence": "特别是《史记》、《汉书》、《后汉书》和《三国志》，因为这四史写得最好。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "《三国志》",
+          "relation": "同类",
+          "evidence": "特别是《史记》、《汉书》、《后汉书》和《三国志》，因为这四史写得最好。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "《明史》",
+          "relation": "同类",
+          "evidence": "《明史》也应该读，因为时代较近，清因袭明代的东西很多，我们不能知古而不知今。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "司马光《资治通鉴》",
+          "relation": "同类",
+          "evidence": "朱先生还极力推崇司马光《资治通鉴》，因为明体达用，有益于治国。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二十四史",
+          "target": "《续资治通鉴》",
+          "relation": "同类",
+          "evidence": "毕秋帆主编的《续资治通鉴》远不及它，但在同类的著作中还算第一。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《朱九江先生论史口说》",
+          "target": "《史记》",
+          "relation": "记载于",
+          "evidence": "此篇论前后《汉书》、《三国志》。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《朱九江先生论史口说》",
+          "target": "《汉书》",
+          "relation": "记载于",
+          "evidence": "此篇论前后《汉书》、《三国志》。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《朱九江先生论史口说》",
+          "target": "《三国志》",
+          "relation": "记载于",
+          "evidence": "此篇论前后《汉书》、《三国志》。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0141": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "《朱九江先生论史口说》",
+          "relation": "著有",
+          "evidence": "原书不名，既为校刻以传当世，遂名曰《朱九江先生论史口说》云。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《汉书》",
+          "target": "《朱九江先生论史口说》",
+          "relation": "记载于",
+          "evidence": "今此书只谈《汉书》、《后汉书》、《三国志》而不谈《史记》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《后汉书》",
+          "target": "《朱九江先生论史口说》",
+          "relation": "记载于",
+          "evidence": "今此书只谈《汉书》、《后汉书》、《三国志》而不谈《史记》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《三国志》",
+          "target": "《朱九江先生论史口说》",
+          "relation": "记载于",
+          "evidence": "今此书只谈《汉书》、《后汉书》、《三国志》而不谈《史记》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《史记》",
+          "target": "《朱九江先生论史口说》",
+          "relation": "记载于",
+          "evidence": "今此书只谈《汉书》、《后汉书》、《三国志》而不谈《史记》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜牧",
+          "target": "《朱九江先生论史口说》",
+          "relation": "关联人物",
+          "evidence": "杜牧有云：高摘屈宋艳，浓薰马斑香。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "班彪",
+          "relation": "同族",
+          "evidence": "朱先生对于班彪父子批评司马迁的错误意见，亦实事求是地加以纠正",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "司马迁",
+          "relation": "同族",
+          "evidence": "朱先生对于班彪父子批评司马迁的错误意见，亦实事求是地加以纠正",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《史记》",
+          "target": "朱九江",
+          "relation": "承载文化",
+          "evidence": "先生对于司马迁之史笔文笔极为推重说：史公之著书也，志在传事，务宜将三千年之事迹，纬之以文理，绘之以笔墨，善于序事，易于动听，使千秋万世，永垂不朽。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "司马迁",
+          "target": "《史记》",
+          "relation": "属于时期",
+          "evidence": "司马迁（人物）：西汉时期的史学家、文学家，著有《史记》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0142": {
+      "relations": []
+    },
+    "chunk_0143": {
+      "relations": []
+    },
+    "chunk_0144": {
+      "relations": []
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "陈寿",
+          "target": "《三国志》",
+          "relation": "著有",
+          "evidence": "《三国志》以魏为正统，实有难言之隐，不得已也。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "南海九江朱氏家谱序",
+          "relation": "著有",
+          "evidence": "曾撰《南海九江朱氏家谱序》及《南海九江朱氏家谱序例》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "南海九江朱氏家谱序例",
+          "relation": "著有",
+          "evidence": "曾撰《南海九江朱氏家谱序》及《南海九江朱氏家谱序例》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "家谱",
+          "relation": "关联人物",
+          "evidence": "谱之学（包括家谱、族谱）是史学的一支",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0147": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "九通",
+          "relation": "著有",
+          "evidence": "九通指杜佑《通典》、郑樵《通志》、马端临《文献通考》、续三通、皇朝三通",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0148": {
+      "relations": []
+    },
+    "chunk_0149": {
+      "relations": [
+        {
+          "source": "《文章流别》",
+          "target": "《集苑》",
+          "relation": "记载于",
+          "evidence": "其总集总当世之集，有总一家之集。总录当世者始于《文章流别》，后来《集苑》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《文章流别》",
+          "target": "《集林》",
+          "relation": "记载于",
+          "evidence": "其总集总当世之集，有总一家之集。总录当世者始于《文章流别》，后来《集苑》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《廖氏家集》",
+          "target": "《王氏文献》",
+          "relation": "同类",
+          "evidence": "总录一家者，著于《廖氏家集》，后来《王氏文献》、《陈氏义溪世稿》其类也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《廖氏家集》",
+          "target": "《陈氏义溪世稿》",
+          "relation": "同类",
+          "evidence": "总录一家者，著于《廖氏家集》，后来《王氏文献》、《陈氏义溪世稿》其类也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《玉海集》",
+          "target": "《金波集》",
+          "relation": "同族",
+          "evidence": "李善所谓骞中叶之辞林，酌前修之笔海是也。总录一家者，著于《廖氏家集》，后来《王氏文献》、《陈氏义溪世稿》其类也",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《玉台新咏》",
+          "target": "《珠英学士集》",
+          "relation": "同族",
+          "evidence": "总录当世者始于《文章流别》，后来《集苑》《集林》其流也。古人文集只以名氏名篇，南朝张融创加美号（融有玉海集十卷，金波集六十卷），丽总集之玉台珠英仿之",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《唐文粹》",
+          "target": "《圣宋文鉴》",
+          "relation": "同类",
+          "evidence": "尔后文粹文鉴诸（《唐文粹》姚铉撰、《圣宋文鉴》昌祖谦撰），豪承靡异。但姚氏谁取古风，吕氏兼遵近体，同源各委，稍别衡裁。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0150": {
+      "relations": [
+        {
+          "source": "全椒吴氏",
+          "target": "《昭明文选》",
+          "relation": "记载于",
+          "evidence": "《昭明文选》收入大量的诗歌，不仅诗 文不分，而研散体文亦兼收并蓄",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《诗经》",
+          "target": "《昭明文选》",
+          "relation": "记载于",
+          "evidence": "现将其关于《诗经》者摘要录 出。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0151": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "三百篇",
+          "relation": "著有",
+          "evidence": "康有为说：先生论诗之语累累故千言",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0152": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "《国朝名臣言行录》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《国朝逸民传》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《性学源流》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《国朝大儒学案》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《晋乘》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "《蒙古记》",
+          "relation": "著有",
+          "evidence": "朱先生晚年勤于著述，属稿中有《国朝名臣言行录》、《国 朝逸民传》、《性学源流》、《五史（宋、辽、金、元、明）实 征录》、《国朝大儒学案》、《晋乘》、《蒙古记》（后三种书 名未定）七种。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0153": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "康有为：《朱九江先生佚文序》载《不忍》杂志1915年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《不忍》杂志",
+          "relation": "著有",
+          "evidence": "康有为：《朱九江先生佚文序》载《不忍》杂志1915年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双辑》",
+          "relation": "著有",
+          "evidence": "康有为：《广艺舟双辑》，光绪年间在上海广",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0154": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "北行抵清远县与季弟宜城书 五弟无恙。征既迈、避逾十晨、愿言之怀、昔人所、爱 而不见、如何如何。吾弟内娱萱背、外隆德声、虽曾舆啮指而动 操，邵南樵山而振称、累其勤劳、无以喻之也、昂束装后、待友 佛山镇两日、乃得成行。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱杰勤",
+          "target": "朱九江",
+          "relation": "关联人物",
+          "evidence": "朱杰勤整理《朱九江先生论书》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "九江镇",
+          "relation": "活动于",
+          "evidence": "北行抵清远县与季弟宜城书 五弟无恙。征既迈、避逾十晨、愿言之怀、昔人所、爱 而不见、如何如何。吾弟内娱萱背、外隆德声、虽曾舆啮指而动 操，邵南樵山而振称、累其勤劳、无以喻之也、昂束装后、待友 佛山镇两日、乃得成行。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0155": {
+      "relations": []
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": [
+        {
+          "source": "灌然流滩",
+          "target": "公私鎏炭",
+          "relation": "承载文化",
+          "evidence": "以此忽怒、说若有亡。加以宿食东西、车不绝轭、鞭善稍休、颇欲修理故业、而忧从中来、停简辍毫、感旧伤怀、灌然流滩、诚不复能措意文字间矣。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "项领之叹",
+          "target": "士女如故也",
+          "relation": "关联人物",
+          "evidence": "项领之叹、诗雅以嗟。然窃惟自古泯婪之会，元黄戈马之秋、天命民彝、必不可以一朝绝、不绝则宜有所寄、寄斯钜者、宜在修学好古之儒、秦氏以还、如伏胜申公许郑二刘熊安生之伦是也。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0158": {
+      "relations": []
+    },
+    "chunk_0159": {
+      "relations": []
+    },
+    "chunk_0160": {
+      "relations": []
+    },
+    "chunk_0161": {
+      "relations": [
+        {
+          "source": "果堂",
+          "target": "菩闻果堂",
+          "relation": "同族",
+          "evidence": "果堂其同此感也哉",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0162": {
+      "relations": []
+    },
+    "chunk_0163": {
+      "relations": []
+    },
+    "chunk_0164": {
+      "relations": [
+        {
+          "source": "朱九江",
+          "target": "嘉庆十二年丁卯（一八零七）",
+          "relation": "出生于",
+          "evidence": "先生于八月二十二日降生。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "伯兄士琦",
+          "relation": "同族",
+          "evidence": "伯兄士琦，仲兄炳琦，季弟宗琦，叔者先生也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "仲兄炳琦",
+          "relation": "同族",
+          "evidence": "伯兄士琦，仲兄炳琦，季弟宗琦，叔者先生也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱九江",
+          "target": "季弟宗琦",
+          "relation": "同族",
+          "evidence": "伯兄士琦，仲兄炳琦，季弟宗琦，叔者先生也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0165": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "黄木湾",
+          "relation": "活动于",
+          "evidence": "制府阮文达命作黄木湾观海诗",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0166": {
+      "relations": []
+    },
+    "chunk_0167": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "南沙陈氏宾馆",
+          "relation": "活动于",
+          "evidence": "居南沙陈氏宾馆",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "正觉寺",
+          "relation": "活动于",
+          "evidence": "执丧居乡正觉寺，丧食三年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0168": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "赵瓯北年谱",
+          "relation": "著有",
+          "evidence": "先生少日书赵瓯北年谱诗云",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0169": {
+      "relations": []
+    },
+    "chunk_0170": {
+      "relations": [
+        {
+          "source": "先生",
+          "target": "礼山",
+          "relation": "活动于",
+          "evidence": "先生讲学礼山下",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "朱氏家谱",
+          "relation": "著有",
+          "evidence": "季弟会宗人修朱氏家谱，先生述序例授之。先坐编朱氏传芳集于后",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "黄太宜人",
+          "relation": "关联人物",
+          "evidence": "黄太宜人有二女，伯姬与张文学之子兆遵，未昏赋柏舟，仲姬与梁孝廉耀宸，既嫁而兄公耀枢大魁天下。先生归，太宜人以买妾请",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "邑陈氏",
+          "relation": "同族",
+          "evidence": "邑陈氏有蜱，氏霍，先生纳之",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "霍氏",
+          "relation": "同族",
+          "evidence": "邑陈氏有蜱，氏霍，先生纳之",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0171": {
+      "relations": [
+        {
+          "source": "先生",
+          "target": "西樵凤峰",
+          "relation": "属于时期",
+          "evidence": "葬邑西樵凤峰",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "先生",
+          "target": "西樵凤峰",
+          "relation": "活动于",
+          "evidence": "葬邑西樵凤峰",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第27辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0172": {
+      "relations": []
+    }
+  }
+}

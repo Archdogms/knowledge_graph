@@ -1,0 +1,105 @@
+{
+  "strong_coupling_count": 16,
+  "misalignment_count": 9,
+  "missing_A_count": 14,
+  "missing_B_count": 6,
+  "key_findings": [
+    "共识别 16 对强耦合文旅要素，主要集中在非遗传承基地与对应文化项目",
+    "发现 9 对错位关系，文化与景点仅在空间或主题层面有关联，深度融合不足",
+    "识别 14 项文化资源未转化为旅游产品，包括多项省级和市级非遗",
+    "发现 6 个景点缺少文化内涵支撑，多为现代公园和休闲设施"
+  ],
+  "recommendations": [
+    "优先开发省级非遗中尚未旅游化的项目（如洪拳、煎堆技艺、鱼花习俗等）",
+    "为千灯湖等现代公园注入南海非遗元素（如十番音乐演出、醒狮表演等）",
+    "加强书院文化与西樵山景区的深度融合（如复原书院场景、开发理学体验课程）",
+    "推动九江片区的美食非遗集群化展示（双蒸酒+煎堆+鱼花+酱油）",
+    "开发古村落连线旅游路线（松塘-烟桥-仙岗-孔村），提升文旅体验丰富度"
+  ],
+  "coordination_by_town": [
+    {
+      "town": "桂城街道",
+      "poi_count": 4174,
+      "nonheritage_count": 7,
+      "culture_mentions": 0,
+      "T_tourism": 1.0,
+      "C_culture": 0.6,
+      "coupling_degree": 0.9682,
+      "development_index": 0.8,
+      "coordination_degree": 0.8801,
+      "level": "极高协调"
+    },
+    {
+      "town": "西樵镇",
+      "poi_count": 1055,
+      "nonheritage_count": 5,
+      "culture_mentions": 41220,
+      "T_tourism": 0.2528,
+      "C_culture": 0.8286,
+      "coupling_degree": 0.8464,
+      "development_index": 0.5407,
+      "coordination_degree": 0.6765,
+      "level": "高度协调"
+    },
+    {
+      "town": "大沥镇",
+      "poi_count": 2080,
+      "nonheritage_count": 4,
+      "culture_mentions": 6,
+      "T_tourism": 0.4983,
+      "C_culture": 0.3429,
+      "coupling_degree": 0.9828,
+      "development_index": 0.4206,
+      "coordination_degree": 0.6429,
+      "level": "高度协调"
+    },
+    {
+      "town": "里水镇",
+      "poi_count": 2625,
+      "nonheritage_count": 2,
+      "culture_mentions": 20,
+      "T_tourism": 0.6289,
+      "C_culture": 0.1716,
+      "coupling_degree": 0.8208,
+      "development_index": 0.4003,
+      "coordination_degree": 0.5732,
+      "level": "中度协调"
+    },
+    {
+      "town": "狮山镇",
+      "poi_count": 2233,
+      "nonheritage_count": 2,
+      "culture_mentions": 48,
+      "T_tourism": 0.535,
+      "C_culture": 0.1719,
+      "coupling_degree": 0.858,
+      "development_index": 0.3534,
+      "coordination_degree": 0.5507,
+      "level": "中度协调"
+    },
+    {
+      "town": "九江镇",
+      "poi_count": 259,
+      "nonheritage_count": 5,
+      "culture_mentions": 1715,
+      "T_tourism": 0.0621,
+      "C_culture": 0.4452,
+      "coupling_degree": 0.6553,
+      "development_index": 0.2536,
+      "coordination_degree": 0.4077,
+      "level": "中度协调"
+    },
+    {
+      "town": "丹灶镇",
+      "poi_count": 1086,
+      "nonheritage_count": 1,
+      "culture_mentions": 0,
+      "T_tourism": 0.2602,
+      "C_culture": 0.0857,
+      "coupling_degree": 0.8635,
+      "development_index": 0.1729,
+      "coordination_degree": 0.3864,
+      "level": "低度协调"
+    }
+  ]
+}

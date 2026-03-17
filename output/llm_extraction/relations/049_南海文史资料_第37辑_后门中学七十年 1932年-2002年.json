@@ -1,0 +1,4990 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "石門中学",
+          "target": "里水同声社学",
+          "relation": "活动于",
+          "evidence": "石門中学办学初期校址 里水同声社学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "校门",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "校门（1935年建成） 1997年改建后的校门",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "芝庭堂",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "学校礼堂 芝庭堂（1935年）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "四友图书馆",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "四友图书馆（1934年冬）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "课室代表耀东课室",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "课室代表耀东课室（1935年）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "教学楼",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "新建的教学楼（左1986年、后2000年）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "游泳训练场地",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "1946年的游泳训练场地",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "400米标准田径运动场",
+          "target": "石門中学",
+          "relation": "属于时期",
+          "evidence": "新建的400米标准田径运动场",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "校董会主席陈风江",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "校董会主席陈风江",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "校董会副主席邓刚",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "校董会副主席邓刚",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "校董会副主席黄雾",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "校董会副主席黄雾",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "首任校长李景宗",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "首任校长李景宗",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林公",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "黄梓林公",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔墨缘公",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "孔墨缘公",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄健之公",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "黄健之公",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔仙洲公",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "孔仙洲公",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔安道先生",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "孔安道先生",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "建国后首任县长杜国彪校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "建国后首任县长 杜国彪校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "建国后首任校长杜路校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "建国后首任校长 杜路校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "1938年参加革命的杜国栋校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "1938年参加革命的 杜国栋校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈玲校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "陈玲校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门四老",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "石门四老 左起胡勃、 凌风、区杰、 张达衡老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "胡勃",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "石门四老 左起胡勃",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "石门四老 左起胡勃、 凌风",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区杰",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "石门四老 左起胡勃、 凌风、区杰",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡老师",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "石门四老 左起胡勃、 凌风、区杰、 张达衡老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄永藻老师",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "黄永藻老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "孔潜珍校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李国桥校友",
+          "target": "石門中学",
+          "relation": "关联人物",
+          "evidence": "李国桥校友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "李霜筠",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "李霜筠（135）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《黄氏家训遗书编选》",
+          "target": "石门中学校名",
+          "relation": "记载于",
+          "evidence": "选自《黄氏家训遗书编选》（136）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "了因",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "民国二十四年十二月十日了因与石门中学员生谈话录",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "校董会主席陈凤江先生（148）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邓刚",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "校董会副主席邓刚先生（149）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "校董会副主席黄弯先生（150）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "石门中学校名",
+          "relation": "关联人物",
+          "evidence": "芝庭堂捐赠者霍芝庭先生（154）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "《天重楼诗文集》",
+          "target": "霍芝庭先生",
+          "relation": "著有",
+          "evidence": "选自《天重楼诗文集》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《旅港南海商会史料专辑》",
+          "target": "李景宗先生",
+          "relation": "记载于",
+          "evidence": "附四（158）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《循环日报》",
+          "target": "石门中学校",
+          "relation": "记载于",
+          "evidence": "摘自《循环日报》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《建国日报》",
+          "target": "石门中学校",
+          "relation": "记载于",
+          "evidence": "摘自《建国日报》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "钟麟",
+          "target": "钟华",
+          "relation": "著有",
+          "evidence": "钟华：追求一一记高级工程师孔潜珍",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李国桥",
+          "target": "黎秀煊",
+          "relation": "同族",
+          "evidence": "黎秀煊（李国桥校友之一）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李国桥",
+          "target": "黎沛虹",
+          "relation": "关联人物",
+          "evidence": "黎沛虹教授（李国桥校友之一）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "南海文史资料",
+          "relation": "记载于",
+          "evidence": "选择了有七十三年校史的南海石门中学作为《南海文史资料》第37辑的征集对象和出版内容",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "耕雨犁云",
+          "target": "杏坛",
+          "relation": "记载于",
+          "evidence": "耕雨犁云，可免不辩黍麦。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "自是贤秀俱来，聚麝益馨；域不分，有容乃大。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "杏坛",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "春耕秋获，杏坛之业龙飞。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "韦编三绝",
+          "target": "石门中学",
+          "relation": "记载于",
+          "evidence": "刻苦读书，韦编三绝；辛勤向学，铁柱千磨。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "铁柱千磨",
+          "target": "石门中学",
+          "relation": "记载于",
+          "evidence": "刻苦读书，韦编三绝；辛勤向学，铁柱千磨。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "陈凤江",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "中华民国 民国二十一年（1932年） 秋 南海县四司联防局局长陈凤江委托旅港南海商会李景宗先生 在二、三、九区筹建一所农村中学。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "民国二十二年（1933年） 月 19日假座南海公会选举校董，即席互选陈风江为校董会正主席",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "南海公会",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "民国二十二年（1933年） 月 19日假座南海公会选举校董",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "黄梓林",
+          "target": "四友图书馆",
+          "relation": "创建修建",
+          "evidence": "四友图书馆一座，耗资白银三万元，捐建者是南海著名社会贤达黄梓林、黄健之昆仲，孔墨缘、孔仙洲昆仲",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "芝庭堂",
+          "relation": "创建修建",
+          "evidence": "大礼堂座，名为芝庭堂，耗资白银四万元，是广东省著名豪富霍芝庭先生所捐",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "四友图书馆",
+          "relation": "关联人物",
+          "evidence": "四友图书馆一座，耗资白银三万元，捐建者是南海著名社会贤达黄梓林、黄健之昆仲，孔墨缘、孔仙洲昆仲",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "芝庭堂",
+          "relation": "关联人物",
+          "evidence": "大礼堂座，名为芝庭堂，耗资白银四万元，是广东省著名豪富霍芝庭先生所捐",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "民国二十六年（1937年）二月校长李景宗，奉南海县政府示，任为南海教育科科长",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "省会考",
+          "target": "石门中学",
+          "relation": "记载于",
+          "evidence": "学生每年参加省会考，成绩均全数及格，为全省仅有",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "民国三十四年（1945年）十月新成立校董会，推举中委区芳浦任董事长",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄俊民",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "民国三十四年（1945年）十二月十一日至二十七日县长黄俊民签发的南海县政府训令",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "松岗",
+          "target": "南海县",
+          "relation": "位于",
+          "evidence": "1947年秋，学校组织了次童了军野营活动，活动地点在南海松岗。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "李景宗",
+          "target": "南海石门中学",
+          "relation": "创建修建",
+          "evidence": "1947年秋，在校内排练演出了揭露国民党接收大员罔顾亲情，虐待遗弃亲人为主线的话剧《还乡泪》。 9月28日，旅港南海商会听取了李景宗校长演述南海石门中学实况。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景宗",
+          "target": "南海石门中学",
+          "relation": "活动于",
+          "evidence": "1947年秋，在校内排练演出了揭露国民党接收大员罔顾亲情，虐待遗弃亲人为主线的话剧《还乡泪》。 9月28日，旅港南海商会听取了李景宗校长演述南海石门中学实况。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "四友图书馆",
+          "relation": "承载文化",
+          "evidence": "1948年秋，音乐教师叶冷先生作导演，组织部分师生担任角色，排练了话剧《黄金迷》。先在本校礼堂演出，然后到广州长堤基督教青年会售票公演了三晚，受到当时某些看过演出的单位及教育界人士的好评。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "四友图书馆",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "五月 石门中学举办建校十六周年庆祝活动，校友组织归宁团，回校聚会，连续几天举行粤剧演出（三晚通宵）、放烟花、二、三、九区篮球比赛、征联活动、营火晚会内容有歌舞、短剧、游戏等联欢活动，并在四友图书馆楼上展览中国近代科学家邹伯奇自制的天文仪器（现存广州五层楼博物馆）三天。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《黄河大合唱》",
+          "target": "南海石门中学",
+          "relation": "承载文化",
+          "evidence": "1948年秋，时任音乐老师叶冷先生组织了46、47届学生60余人，排练了《黄河大合唱》，并在本校礼堂演出。正式演出时，还到广州请了某中学音乐教师来校作小提琴伴奏，盛况空前。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "民国三十八年",
+          "target": "中华人民共和国",
+          "relation": "属于时期",
+          "evidence": "民国三十八年（至1949年9月止）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "灵芝药房",
+          "target": "镜湖课室",
+          "relation": "承载文化",
+          "evidence": "灵芝药房主人刘公永康概然捐药义卖得资交筹建高中校舍委员会重建，始得保存。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "欧阳绍春",
+          "target": "中华人民共和国",
+          "relation": "属于时期",
+          "evidence": "1949年10月下旬，中国人民解放军以某部营长为首，率领十余名指战员到本校接管原四司联防部，并在芝庭堂召开师生大会，宣布共产党的政策，解放军的纪律，号召全校师生安心教学，维护学校正常秩序。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "石门中学被评为广东省教育战线思想政治工作先进单位，南海县教育战线先进单位。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "南海县",
+          "relation": "传承于",
+          "evidence": "凌风、宋达庭、区杰被选为南海县第四届政协委员",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄光",
+          "target": "南海县",
+          "relation": "传承于",
+          "evidence": "凌风、宋达庭、区杰被选为南海县第四届政协委员",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "李炳发敬师楼",
+          "target": "石门中学",
+          "relation": "属于时期",
+          "evidence": "李炳发敬师楼落成剪彩",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": []
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": []
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": []
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "李巨添",
+          "target": "里水",
+          "relation": "出生于",
+          "evidence": "李巨添（里水）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李炼荣",
+          "target": "里水",
+          "relation": "出生于",
+          "evidence": "李炼荣（里水）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李敏兴",
+          "target": "里水",
+          "relation": "出生于",
+          "evidence": "李敏兴（里水）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "巫良光",
+          "target": "里水",
+          "relation": "出生于",
+          "evidence": "巫良光里水",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "吴喜荣",
+          "target": "里水",
+          "relation": "出生于",
+          "evidence": "吴喜荣（里水）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": []
+    },
+    "chunk_0070": {
+      "relations": []
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": []
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    },
+    "chunk_0078": {
+      "relations": []
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": [
+        {
+          "source": "杜路",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1933年春1935年 冬在校",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "杜国栋",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "在校，参加了广东省青年抗日先锋队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈玲",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1938年，陈玲（原名陈道灵）入石门中学读初",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": []
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": []
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "刘志根",
+          "target": "邵伟坚",
+          "relation": "同族",
+          "evidence": "1992年高三学生刘志根、邵伟坚被批准光荣参加了中国共产党",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": []
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": []
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": []
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": []
+    },
+    "chunk_0118": {
+      "relations": []
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": []
+    },
+    "chunk_0121": {
+      "relations": []
+    },
+    "chunk_0122": {
+      "relations": []
+    },
+    "chunk_0123": {
+      "relations": []
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": []
+    },
+    "chunk_0126": {
+      "relations": []
+    },
+    "chunk_0127": {
+      "relations": []
+    },
+    "chunk_0128": {
+      "relations": []
+    },
+    "chunk_0129": {
+      "relations": []
+    },
+    "chunk_0130": {
+      "relations": []
+    },
+    "chunk_0131": {
+      "relations": []
+    },
+    "chunk_0132": {
+      "relations": []
+    },
+    "chunk_0133": {
+      "relations": []
+    },
+    "chunk_0134": {
+      "relations": []
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": []
+    },
+    "chunk_0137": {
+      "relations": []
+    },
+    "chunk_0138": {
+      "relations": []
+    },
+    "chunk_0139": {
+      "relations": []
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": []
+    },
+    "chunk_0142": {
+      "relations": []
+    },
+    "chunk_0143": {
+      "relations": []
+    },
+    "chunk_0144": {
+      "relations": []
+    },
+    "chunk_0145": {
+      "relations": []
+    },
+    "chunk_0146": {
+      "relations": []
+    },
+    "chunk_0147": {
+      "relations": []
+    },
+    "chunk_0148": {
+      "relations": []
+    },
+    "chunk_0149": {
+      "relations": []
+    },
+    "chunk_0150": {
+      "relations": []
+    },
+    "chunk_0151": {
+      "relations": []
+    },
+    "chunk_0152": {
+      "relations": []
+    },
+    "chunk_0153": {
+      "relations": []
+    },
+    "chunk_0154": {
+      "relations": []
+    },
+    "chunk_0155": {
+      "relations": []
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": []
+    },
+    "chunk_0158": {
+      "relations": []
+    },
+    "chunk_0159": {
+      "relations": []
+    },
+    "chunk_0160": {
+      "relations": []
+    },
+    "chunk_0161": {
+      "relations": []
+    },
+    "chunk_0162": {
+      "relations": []
+    },
+    "chunk_0163": {
+      "relations": []
+    },
+    "chunk_0164": {
+      "relations": []
+    },
+    "chunk_0165": {
+      "relations": []
+    },
+    "chunk_0166": {
+      "relations": []
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": []
+    },
+    "chunk_0169": {
+      "relations": []
+    },
+    "chunk_0170": {
+      "relations": []
+    },
+    "chunk_0171": {
+      "relations": []
+    },
+    "chunk_0172": {
+      "relations": []
+    },
+    "chunk_0173": {
+      "relations": [
+        {
+          "source": "石门山",
+          "target": "石门村",
+          "relation": "位于",
+          "evidence": "石门山下，与风林岭形成峡谷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门村",
+          "target": "石门山",
+          "relation": "位于",
+          "evidence": "石门山下，与风林岭形成峡谷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0174": {
+      "relations": [
+        {
+          "source": "金山古寺",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "和顺镇的金山古寺",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门返照",
+          "target": "石门山",
+          "relation": "位于",
+          "evidence": "石门山与风林岭合掌形成一峡谷",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门返照",
+          "target": "石门中学校",
+          "relation": "承载文化",
+          "evidence": "以石门返照这一名胜作为校名",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学校",
+          "target": "石门山",
+          "relation": "位于",
+          "evidence": "前臨大水，源遠而清",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学校",
+          "target": "和顺镇",
+          "relation": "属于时期",
+          "evidence": "民國二十二年十一月十九日",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0175": {
+      "relations": []
+    },
+    "chunk_0176": {
+      "relations": [
+        {
+          "source": "三達德",
+          "target": "五達道",
+          "relation": "承载文化",
+          "evidence": "中庸以三達德行 五達道",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "先儒",
+          "target": "德育之尚",
+          "relation": "传承于",
+          "evidence": "先儒以明辨行為訓，其蔓後世者深矣",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "智育之道",
+          "target": "德育之尚",
+          "relation": "关联人物",
+          "evidence": "今之言教育者，亦知德育之尚矣",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "格致誠正",
+          "target": "修齊治平",
+          "relation": "同类",
+          "evidence": "格致誠正，仁之修也：修齊治平，仁之用也",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "德育之尚",
+          "target": "智育之道",
+          "relation": "关联人物",
+          "evidence": "今之言教育者，亦知德育之尚矣",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "家训遗书",
+          "relation": "记载于",
+          "evidence": "孔子曰：有殺身以成仁，無求生以害仁。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孟子",
+          "target": "家训遗书",
+          "relation": "记载于",
+          "evidence": "孟子曰：富貴不能淫，贫贱不能移，威武不能屈。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "三达德",
+          "target": "家训遗书",
+          "relation": "记载于",
+          "evidence": "先儒以三達德行五逹道為訓。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "南海中学",
+          "target": "石门",
+          "relation": "承载文化",
+          "evidence": "校以石門名，荔我校為三區人士所共立，而石門之水浩瀚磅礴，源遠流長，而贯注於三區也。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "南海中学",
+          "target": "三达德",
+          "relation": "承载文化",
+          "evidence": "校創於三區，因而義取於三達德。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景康",
+          "target": "南海中学",
+          "relation": "创建修建",
+          "evidence": "李景康先生是李景宗校长的胞兄，于一九一三年至一九二五年任南海中学校长",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": []
+    },
+    "chunk_0179": {
+      "relations": [
+        {
+          "source": "黄梓林",
+          "target": "石門中學",
+          "relation": "关联人物",
+          "evidence": "了因甚望學子君，今日廊身本校之中",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "薯莨",
+          "target": "石門中學",
+          "relation": "盛产",
+          "evidence": "吾粤有特产曰薯莨，滤其汁以晒布与帛",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0180": {
+      "relations": [
+        {
+          "source": "区芳浦",
+          "target": "石门中学校",
+          "relation": "创建修建",
+          "evidence": "二十二年十一月十九日，先生所董石门中学校，奠基礼成",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "石门中学校",
+          "relation": "活动于",
+          "evidence": "二十二年十一月十九日，先生所董石门中学校，奠基礼成",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学校",
+          "target": "普刺史吴隐之沉香沙遗迹",
+          "relation": "承载文化",
+          "evidence": "石门有普刺史吴隐之沉香沙遗迹，廉吏清风",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0181": {
+      "relations": [
+        {
+          "source": "石门之山",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "石门之山廉廉其贞兮，石门之水淀其清兮，风日流美明旦新兮，菁菁者我沐德而咏仁兮。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门之水",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "石门之山廉廉其贞兮，石门之水淀其清兮，风日流美明旦新兮，菁菁者我沐德而咏仁兮。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "前门",
+          "relation": "承载文化",
+          "evidence": "六、石门中学重建前门碑记 石门中学前门建于一九三三年，至今垂六十余年矣。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0182": {
+      "relations": [
+        {
+          "source": "黄梓林",
+          "target": "《四友》",
+          "relation": "创建修建",
+          "evidence": "今茂才昆仲概然斥资，吾代父叔分任其半",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔安道",
+          "target": "《四友》",
+          "relation": "创建修建",
+          "evidence": "孔安道君且告予日：吾父墨缘公，吾叔仙洲公，实与梓林、健之先生昆仲为夙交",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "《四友》",
+          "relation": "承载文化",
+          "evidence": "允宜名以《四友》，匪特纪念先人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔安道",
+          "target": "《四友》",
+          "relation": "承载文化",
+          "evidence": "亦不敢以予兄弟之名与父执并列也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0183": {
+      "relations": []
+    },
+    "chunk_0184": {
+      "relations": []
+    },
+    "chunk_0185": {
+      "relations": []
+    },
+    "chunk_0186": {
+      "relations": []
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "何仲谋",
+          "target": "敦和堂",
+          "relation": "关联人物",
+          "evidence": "何仲谋...敦和堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何广森",
+          "target": "敦和堂",
+          "relation": "关联人物",
+          "evidence": "何广森...敦和堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何荣基",
+          "target": "敦和堂",
+          "relation": "关联人物",
+          "evidence": "何荣基...敦和堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何励吾",
+          "target": "敦和堂",
+          "relation": "关联人物",
+          "evidence": "何励吾...敦和堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁毓生",
+          "target": "惊睦堂",
+          "relation": "关联人物",
+          "evidence": "梁毓生...惊睦堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "苏舜阶",
+          "target": "黄慎远堂",
+          "relation": "关联人物",
+          "evidence": "苏舜阶...黄慎远堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "苏鹤筹",
+          "target": "黄慎远堂",
+          "relation": "关联人物",
+          "evidence": "苏鹤筹...黄慎远堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "苏炼生",
+          "target": "黄慎远堂",
+          "relation": "关联人物",
+          "evidence": "苏炼生...黄慎远堂",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": [
+        {
+          "source": "姚状元",
+          "target": "白沙乡大文教村",
+          "relation": "出生于",
+          "evidence": "姚状元讳大宁，号熙亭，南海第二区白沙乡大文教村人",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "风劝祠",
+          "target": "泌冲乡",
+          "relation": "位于",
+          "evidence": "按：风劝祠乃十二世邹可张专祠，中奉肖像如生，曾任福建省建阳知县，并捐钜量田产瞻族云",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0190": {
+      "relations": [
+        {
+          "source": "陈澧",
+          "target": "石中",
+          "relation": "创建修建",
+          "evidence": "陈澧南为二三九区团防局长，初拟为石中筹款于蘸会",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "石中",
+          "relation": "关联人物",
+          "evidence": "1、陈澧南即校董会主席陈凤江先生。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景康",
+          "target": "石中",
+          "relation": "关联人物",
+          "evidence": "2、李风坡即李景康先生。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "石中",
+          "relation": "关联人物",
+          "evidence": "3、予是指黄梓林先生。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0191": {
+      "relations": []
+    },
+    "chunk_0192": {
+      "relations": [
+        {
+          "source": "陈凤江",
+          "target": "里水麻奢",
+          "relation": "出生于",
+          "evidence": "陈凤江先生，原名陈澧南，大号陈士模，是里水麻奢人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "三江司",
+          "relation": "属于时期",
+          "evidence": "两度出任南海四司（金利司、三江司、神安司、黄鼎司）联防局局长",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "神安司",
+          "relation": "属于时期",
+          "evidence": "两度出任南海四司（金利司、三江司、神安司、黄鼎司）联防局局长",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "黄鼎司",
+          "relation": "属于时期",
+          "evidence": "两度出任南海四司（金利司、三江司、神安司、黄鼎司）联防局局长",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0193": {
+      "relations": [
+        {
+          "source": "陈凤江",
+          "target": "私立南海二、三、九区石门中学",
+          "relation": "创建修建",
+          "evidence": "他利用交际广泛、高朋众多的优势，组织募捐队伍，分别募捐于广州、香港和乡间。筹款后终于使选址在北村的石门中学于1933年11月奠基，1935年秋建成后",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "私立南海二、三、九区石门中学",
+          "relation": "活动于",
+          "evidence": "陈先生为首届校董会主席",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "麻奢",
+          "relation": "活动于",
+          "evidence": "1947年，陈先生在麻奢创办凤江中学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈凤江",
+          "target": "里水同声社学旧址",
+          "relation": "活动于",
+          "evidence": "1933年春办校初期，借用里水同声社学旧址上课",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0194": {
+      "relations": []
+    },
+    "chunk_0195": {
+      "relations": []
+    },
+    "chunk_0196": {
+      "relations": [
+        {
+          "source": "邓刚",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "邓刚是主事人之一。知情的乡人常说：筹建石门中学，邓刚起了很大的作用。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邓刚",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1933年11月石门中学奠基，邓刚被选为校董会副主席。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江小学",
+          "relation": "创建修建",
+          "evidence": "1929年倡议乡人共同合力创建横江小学，任首届校长。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江图书馆",
+          "relation": "创建修建",
+          "evidence": "1930年黄等先生又单独出资建了一间横江图书馆，并捐献了套《万有文库》及其他书籍。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "广东省商会联合会",
+          "relation": "承载文化",
+          "evidence": "1931一1932年他当选为广东省商会联合会首任主席，作为商界的代表，这时的苛捐杂税多如牛毛，他代表商界反映民意，反对过多的税捐。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江小学",
+          "relation": "关联人物",
+          "evidence": "1929年倡议乡人共同合力创建横江小学，任首届校长。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江图书馆",
+          "relation": "关联人物",
+          "evidence": "1930年黄等先生又单独出资建了一间横江图书馆，并捐献了套《万有文库》及其他书籍。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "广东省商会联合会",
+          "relation": "传承于",
+          "evidence": "1931一1932年他当选为广东省商会联合会首任主席，作为商界的代表，这时的苛捐杂税多如牛毛，他代表商界反映民意，反对过多的税捐。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江小学",
+          "relation": "著有",
+          "evidence": "1930年黄等先生又单独出资建了一间横江图书馆，并捐献了套《万有文库》及其他书籍。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄弯",
+          "target": "横江图书馆",
+          "relation": "活动于",
+          "evidence": "1930年黄等先生又单独出资建了一间横江图书馆，并捐献了套《万有文库》及其他书籍。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0197": {
+      "relations": [
+        {
+          "source": "区芳浦",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "区芳浦成功豁免薯行税捐，黄录弯捐建石门中学前门5000元",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄录弯",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "黄录弯婉拒谢礼并捐建校门，1933年被选为校董会副主席",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄荣康",
+          "target": "石门中学",
+          "relation": "著有",
+          "evidence": "黄荣康先生撰文刻一块石门中学的碑记",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "横江小学",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "黄录弯是横江小学和石门中学创建者之一",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0198": {
+      "relations": [
+        {
+          "source": "区芳浦",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "即邀请区芳浦作主礼嘉宾。区是我的好友，亦南海县人。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈济棠",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "陈整顿广州财政，决定减免税项，其初亚不包括晒食行业税捐。该行业推举陈、汤、何三人到省商会联合会向我求助，祈向政府反映民意要求。适其时，南海县二、三、九区小学校瞬合在盐步镇进行连动会，我即邀请区芳浦作主礼嘉宾。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈济棠",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "陈整顿广州财政，决定减免税项，其初亚不包括晒食行业税捐。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "横江小学",
+          "relation": "关联人物",
+          "evidence": "即邀请区芳浦作主礼嘉宾。区是我的好友，亦南海县人。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "横江图书馆",
+          "relation": "关联人物",
+          "evidence": "即邀请区芳浦作主礼嘉宾。区是我的好友，亦南海县人。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "盐步镇",
+          "relation": "活动于",
+          "evidence": "适其时，南海县二、三、九区小学校瞬合在盐步镇进行连动会，我即邀请区芳浦作主礼嘉宾。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "适其时，南海县二、三、九区小学校瞬合在盐步镇进行连动会，我即邀请区芳浦作主礼嘉宾。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区芳浦",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "区是我的好友，亦南海县人。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0199": {
+      "relations": []
+    },
+    "chunk_0200": {
+      "relations": []
+    },
+    "chunk_0201": {
+      "relations": [
+        {
+          "source": "霍芝庭",
+          "target": "天楼诗文集",
+          "relation": "著有",
+          "evidence": "霍芝庭先生，南海县石头乡人，1877年出生于一锅商（福利铁锅店）家庭。其父是当地的小财主，家有田地数十亩，另有水碾坊及铁锅铺。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "天楼诗文集",
+          "relation": "著有",
+          "evidence": "霍先生在家中男孩排行老十，他成年后当上实业家，人们尊称为十叔。他没有文化，早年曾在香港做工。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "天楼诗文集",
+          "relation": "著有",
+          "evidence": "霍家最有影响的一项投资，是在澳门建设当时属一流水平的国际酒店，此项投资霍芝庭先生在世时已有计划，后由其",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "天楼诗文集",
+          "relation": "著有",
+          "evidence": "1931年开办学海书院。并以财力支持陈济棠开办军、水泥、硫酸、榨糖等企业，兴办钱庄和建筑公司。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0202": {
+      "relations": [
+        {
+          "source": "霍芝庭",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "霍芝庭先生是筹备建设石门中学五委员之一，并捐资四万元建成礼堂芝庭堂。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "芝庭堂",
+          "relation": "创建修建",
+          "evidence": "霍芝庭先生是筹备建设石门中学五委员之一，并捐资四万元建成礼堂芝庭堂。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "霍芝庭",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "霍芝庭先生是筹备建设石门中学五委员之一，并捐资四万元建成礼堂芝庭堂。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0203": {
+      "relations": [
+        {
+          "source": "黄梓林",
+          "target": "乌茶布围",
+          "relation": "创建修建",
+          "evidence": "参与修筑乌茶布围，抗击洪水",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "乌茶布围",
+          "target": "官窑一带",
+          "relation": "位于",
+          "evidence": "乌茶布围位于官窑马步头北侧",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "官窑一带",
+          "relation": "活动于",
+          "evidence": "1915年，官窑一带洪水泛滥成灾，黄梓林先生立即带头捐资赈灾",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0204": {
+      "relations": [
+        {
+          "source": "于小江村",
+          "target": "敦睦小学",
+          "relation": "创建修建",
+          "evidence": "于小江村创办敦睦小学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "四友图书馆",
+          "relation": "创建修建",
+          "evidence": "黄梓林会同兄弟黄健之、孔墨缘、孔仙洲四人捐资3万元，兴建四友图书馆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄梓林",
+          "target": "广州方便医院",
+          "relation": "创建修建",
+          "evidence": "1946年，黄梓林先生捐资约3万元港币给广州方便医院",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔安道",
+          "target": "四友图书馆",
+          "relation": "关联人物",
+          "evidence": "四友图书馆捐资者之一孔安道先生",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔昭逵",
+          "target": "广州方便医院",
+          "relation": "关联人物",
+          "evidence": "孔昭逵（孔子第七十代传人）字安道（1888一1968）广东南海人，捐资广州方便医院",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0205": {
+      "relations": [
+        {
+          "source": "孔安道",
+          "target": "四友图书馆",
+          "relation": "创建修建",
+          "evidence": "以其父墨缘公及叔父仙洲公名义移同黄梓林、黄健之昆仲等四人合资捐建四友图书馆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔安道纪念金会",
+          "target": "孔安道纪念小学",
+          "relation": "关联人物",
+          "evidence": "更在家乡和顺镇捐资兴建孔安道纪念小学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔村小学",
+          "target": "孔安道纪念小学",
+          "relation": "同族",
+          "evidence": "孔安道纪念小学、孔继光纪念小学",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0206": {
+      "relations": [
+        {
+          "source": "孔安道纪念小学",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "在家乡和顺镇捐资兴建孔安道纪念小学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔继光纪念小学",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "在家乡和顺镇捐资兴建孔继光纪念小学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "和顺一中",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "对和顺一中亦捐赠教学大楼",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "和顺高中",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "对和顺高中亦捐赠教学大楼",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "和顺医院",
+          "target": "和顺镇",
+          "relation": "位于",
+          "evidence": "对和顺医院之兴建亦付出一分力量",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景宗",
+          "target": "和顺镇",
+          "relation": "活动于",
+          "evidence": "1932年创办石门中学，自1933年春任校长至1938年",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景宗",
+          "target": "孔村",
+          "relation": "关联人物",
+          "evidence": "孔村的村政建设如修茸大小祠堂，敷设自来水管等亦全力资助",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景康",
+          "target": "和顺镇",
+          "relation": "活动于",
+          "evidence": "1932年创办石门中学，自1933年春任校长至1938年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景康",
+          "target": "孔村",
+          "relation": "关联人物",
+          "evidence": "孔村的村政建设如修茸大小祠堂，敷设自来水管等亦全力资助",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0207": {
+      "relations": [
+        {
+          "source": "金利、三江、神安、黄鼎等四司",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "因我二、三、九区，向有四司联防局之设（金利、三江、神安、黄鼎等四司）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0208": {
+      "relations": []
+    },
+    "chunk_0209": {
+      "relations": []
+    },
+    "chunk_0210": {
+      "relations": []
+    },
+    "chunk_0211": {
+      "relations": []
+    },
+    "chunk_0212": {
+      "relations": []
+    },
+    "chunk_0213": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "运动会",
+          "relation": "承载文化",
+          "evidence": "石门中学，于本学期自辟运动场，于四月一日至三日举行第二次全校运动大会",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "南海县长黄华",
+          "target": "南海石门中学",
+          "relation": "关联人物",
+          "evidence": "继请南海县长黄华训话",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0214": {
+      "relations": []
+    },
+    "chunk_0215": {
+      "relations": []
+    },
+    "chunk_0216": {
+      "relations": []
+    },
+    "chunk_0217": {
+      "relations": []
+    },
+    "chunk_0218": {
+      "relations": []
+    },
+    "chunk_0219": {
+      "relations": []
+    },
+    "chunk_0220": {
+      "relations": [
+        {
+          "source": "陈季孙",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "陈季孙是当时建安乡乡长，石门中学为二三九区人之中学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景宗",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "李景宗为石门中学校董会董事长，校友会发起人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "广州市学宫街南海同乡会",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "校友会通知在广州市学宫街南海同乡会举行",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0221": {
+      "relations": [
+        {
+          "source": "石门中学校",
+          "target": "南海",
+          "relation": "位于",
+          "evidence": "石门中学校校歌中提到'南海衣冠表光武烈文'",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄家",
+          "target": "石门中学校",
+          "relation": "同族",
+          "evidence": "石门中学校校歌中提到'石门浩瀚 黄家'",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0222": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "里水同声社学",
+          "relation": "位于",
+          "evidence": "临时校址设在里水同声社学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0223": {
+      "relations": [
+        {
+          "source": "《腾王阁序》",
+          "target": "傅朝阳",
+          "relation": "著有",
+          "evidence": "《腾王阁序》《春夜宴桃李园序》《进学解》就是他当时讲授过的文章",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《春夜宴桃李园序》",
+          "target": "傅朝阳",
+          "relation": "著有",
+          "evidence": "《腾王阁序》《春夜宴桃李园序》《进学解》就是他当时讲授过的文章",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "《进学解》",
+          "target": "傅朝阳",
+          "relation": "著有",
+          "evidence": "《腾王阁序》《春夜宴桃李园序》《进学解》就是他当时讲授过的文章",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0224": {
+      "relations": [
+        {
+          "source": "欧阳老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "欧阳老师教我先阅读有关无线电书籍和杂志",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "谭静波老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "图画课的谭静波老师、司徒林老师教我画国画临摹写生",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "司徒林老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "图画课的谭静波老师、司徒林老师教我画国画临摹写生",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0225": {
+      "relations": [
+        {
+          "source": "李德才",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "石门中学1949届初中校友李德才先生近日凭记忆辑录",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄觉梦",
+          "target": "石门中学",
+          "relation": "著有",
+          "evidence": "撰写了石门中学诗钟征文序",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "五子",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "结吟社于芳华，首推五子",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "三家",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "崛起三家",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0226": {
+      "relations": [
+        {
+          "source": "李煜",
+          "target": "诗钟",
+          "relation": "承载文化",
+          "evidence": "诗钟与诗歌的另 一不同之处是：它不限于写一个主题，而是上下句各写各的主题。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "周敦颐",
+          "target": "程颜",
+          "relation": "同类",
+          "evidence": "五子，（北宋曾有著名的五子：周敦颐、邵雍、张载、程颜、程颐）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邵雍",
+          "target": "程颐",
+          "relation": "同类",
+          "evidence": "五子，（北宋曾有著名的五子：周敦颐、邵雍、张载、程颜、程颐）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张载",
+          "target": "程颐",
+          "relation": "同类",
+          "evidence": "五子，（北宋曾有著名的五子：周敦颐、邵雍、张载、程颜、程颐）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "程颜",
+          "target": "程颐",
+          "relation": "同族",
+          "evidence": "五子，（北宋曾有著名的五子：周敦颐、邵雍、张载、程颜、程颐）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0227": {
+      "relations": [
+        {
+          "source": "屈大均",
+          "target": "陈恭尹",
+          "relation": "同类",
+          "evidence": "与屈大均、陈恭尹、梁佩兰并称为岭南三家之一",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "屈大均",
+          "target": "梁佩兰",
+          "relation": "同类",
+          "evidence": "与屈大均、陈恭尹、梁佩兰并称为岭南三家之一",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈恭尹",
+          "target": "梁佩兰",
+          "relation": "同类",
+          "evidence": "与屈大均、陈恭尹、梁佩兰并称为岭南三家之一",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "岭南三家",
+          "target": "屈大均",
+          "relation": "关联人物",
+          "evidence": "清初同为岭南（广东）人屈大均（1630-1696番禺人）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "岭南三家",
+          "target": "陈恭尹",
+          "relation": "关联人物",
+          "evidence": "清初同为岭南（广东）人陈恭尹（1631-1700顺德县人）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "岭南三家",
+          "target": "梁佩兰",
+          "relation": "关联人物",
+          "evidence": "清初同为岭南（广东）人梁佩兰（1629-1705南海县人）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "岭南三家",
+          "target": "郑卫之音",
+          "relation": "承载文化",
+          "evidence": "郑卫之音，指靡靡之音。本是郑、卫两国（今河南中部与东部）的民间音乐，可谓我国民间音乐的鼻祖。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "岭南三家",
+          "target": "黄钟",
+          "relation": "承载文化",
+          "evidence": "黄钟：古乐十二律之一，声调最宏大响亮。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0228": {
+      "relations": []
+    },
+    "chunk_0229": {
+      "relations": []
+    },
+    "chunk_0230": {
+      "relations": []
+    },
+    "chunk_0231": {
+      "relations": []
+    },
+    "chunk_0232": {
+      "relations": []
+    },
+    "chunk_0233": {
+      "relations": []
+    },
+    "chunk_0234": {
+      "relations": []
+    },
+    "chunk_0235": {
+      "relations": []
+    },
+    "chunk_0236": {
+      "relations": []
+    },
+    "chunk_0237": {
+      "relations": [
+        {
+          "source": "李景宗",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "李景宗是一位热心办教育的长者",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李景宗",
+          "target": "石中",
+          "relation": "创建修建",
+          "evidence": "校长李景宗，不经常在校，只经常为学校筹教育经费",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李尚樾",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "其子李尚樾是我班同学，文静好学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0238": {
+      "relations": [
+        {
+          "source": "赵钊",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "赵钊讲解形势，布置迎接解放后的任务，动员同学参加革命工作。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "赵钊",
+          "target": "石中",
+          "relation": "创建修建",
+          "evidence": "石中团员直接我他，在校亦公布过团章拟组织石中团支部。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "三河区工委",
+          "target": "石中",
+          "relation": "承载文化",
+          "evidence": "三河区工委委员（三河区包括盐步、大沥、平洲），时以大沥某小学教师身份作掩护的中共党员赵钊化装来校找我在江边面谈批准我入团。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0239": {
+      "relations": []
+    },
+    "chunk_0240": {
+      "relations": [
+        {
+          "source": "陈仁康",
+          "target": "曾风齐",
+          "relation": "同族",
+          "evidence": "1948年夏，陈仁康、陈创基、陈标、李作彬、陈锦煊、邹有梅、陈慧清、李定娥、颜冰坚、曾风齐等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈仁康",
+          "target": "黄永藻",
+          "relation": "关联人物",
+          "evidence": "每天清晨五点半钟左右就由传达室李铎（我们尊称他老人家为锋敖）或驰叔叫我们起床，要比全校同学早起半个小时左右，集中后由我们敬爱的黄永藻老师带领，张达衡老师协助进行艰苦的训练",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈仁康",
+          "target": "李铎",
+          "relation": "关联人物",
+          "evidence": "每天清晨五点半钟左右就由传达室李铎（我们尊称他老人家为锋敖）或驰叔叫我们起床",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄永藻",
+          "target": "李铎",
+          "relation": "关联人物",
+          "evidence": "每天清晨五点半钟左右就由传达室李铎（我们尊称他老人家为锋敖）或驰叔叫我们起床，要比全校同学早起半个小时左右，集中后由我们敬爱的黄永藻老师带领，张达衡老师协助进行艰苦的训练",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "黄永藻",
+          "relation": "关联人物",
+          "evidence": "每天清晨五点半钟左右就由传达室李铎（我们尊称他老人家为锋敖）或驰叔叫我们起床，要比全校同学早起半个小时左右，集中后由我们敬爱的黄永藻老师带领，张达衡老师协助进行艰苦的训练",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0241": {
+      "relations": []
+    },
+    "chunk_0242": {
+      "relations": [
+        {
+          "source": "颜言永椿",
+          "target": "盐步沙涌队",
+          "relation": "关联人物",
+          "evidence": "颜言永椿代表盐步沙涌队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李耀华",
+          "target": "北村白浪队",
+          "relation": "关联人物",
+          "evidence": "李耀华代表北村白浪队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "颜志和",
+          "target": "里水队",
+          "relation": "关联人物",
+          "evidence": "颜志和补充了里水队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶伯敏",
+          "target": "麻奢联友队",
+          "relation": "关联人物",
+          "evidence": "叶伯敏补充了麻奢联友队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "洗灼芬",
+          "target": "河村黑虎队",
+          "relation": "关联人物",
+          "evidence": "洗灼芬代表河村黑虎队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄致和",
+          "target": "泌冲长风队",
+          "relation": "关联人物",
+          "evidence": "黄致和补充了泌冲长风队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈义康",
+          "target": "石门中学红队",
+          "relation": "关联人物",
+          "evidence": "陈义康代表石门中学红队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "冯大伟",
+          "target": "石门中学白队",
+          "relation": "关联人物",
+          "evidence": "冯大伟代表石门中学白队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邹渠兴",
+          "target": "石门中学红队",
+          "relation": "关联人物",
+          "evidence": "邹渠兴代表石门中学红队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁少平",
+          "target": "石门中学白队",
+          "relation": "关联人物",
+          "evidence": "梁少平代表石门中学白队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "关铭权",
+          "target": "石门中学红队",
+          "relation": "关联人物",
+          "evidence": "关铭权代表石门中学红队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李炽衡",
+          "target": "石门中学白队",
+          "relation": "关联人物",
+          "evidence": "李炽衡代表石门中学白队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "吴普昌",
+          "target": "石门中学红队",
+          "relation": "关联人物",
+          "evidence": "吴普昌代表石门中学红队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈自潜",
+          "target": "石门中学白队",
+          "relation": "关联人物",
+          "evidence": "陈自潜代表石门中学白队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "唐鉴麟",
+          "target": "石门中学红队",
+          "relation": "关联人物",
+          "evidence": "唐鉴麟代表石门中学红队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈增光",
+          "target": "石门中学白队",
+          "relation": "关联人物",
+          "evidence": "陈增光代表石门中学白队",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0243": {
+      "relations": []
+    },
+    "chunk_0244": {
+      "relations": []
+    },
+    "chunk_0245": {
+      "relations": []
+    },
+    "chunk_0246": {
+      "relations": [
+        {
+          "source": "张达衡",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "张达衡老师做到管理、教育、训练都严格要求",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0247": {
+      "relations": []
+    },
+    "chunk_0248": {
+      "relations": [
+        {
+          "source": "叶乾康",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "马嘉麟",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔庆超",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈创基",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张荣根",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "冯广雄",
+          "target": "南海中学",
+          "relation": "活动于",
+          "evidence": "打球也很活跃，打得较好的有叶乾康、马嘉麟、孔庆超、陈创基、张荣根、冯广雄等同学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0249": {
+      "relations": []
+    },
+    "chunk_0250": {
+      "relations": []
+    },
+    "chunk_0251": {
+      "relations": []
+    },
+    "chunk_0252": {
+      "relations": [
+        {
+          "source": "梁碧峰",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "他本非教我级语文，但因我对新诗亦颇感兴趣，故时有问他请教。他在石中任教时，我知他正在修改一本叙事长诗",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁碧峰",
+          "target": "石中",
+          "relation": "著有",
+          "evidence": "经常叫陈琼珍同学腾正原稿。内容是叙述西部小数民族男女青年的爱情故事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "四 友图书馆",
+          "target": "石中",
+          "relation": "关联人物",
+          "evidence": "课室为独立单间平房，四边有走廊：课室之间有适当之空间，裁以翠竹，绿荫婆娑，空幽清雅，使人心旷神怡，上课时又不互相干扰，在当时来说，亦可算是一流的校舍。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0253": {
+      "relations": [
+        {
+          "source": "叶荫凑",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "我在石中读书时的姓名是叶荫凑",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "谷子白雪漫浪",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "在班级墙报上我常以谷子白雪漫浪等笔名发表诗歌文章",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "赵钊",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "在大沥以小学教师身份作掩护之中共地下党员赵钊曾多次到石中找我谈话",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "赵钊",
+          "target": "《新民主主义青年团入团志愿书》",
+          "relation": "记载于",
+          "evidence": "还给我阅读《新民主主义青年团入团志愿书》时，姓名栏填写的只是谷子二字",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶荫凑",
+          "target": "何杰魂",
+          "relation": "同类",
+          "evidence": "我与杰魂",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶荫凑",
+          "target": "冯廉章",
+          "relation": "同类",
+          "evidence": "我与杰魂",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0254": {
+      "relations": [
+        {
+          "source": "石中",
+          "target": "北村观音庙",
+          "relation": "位于",
+          "evidence": "一直送到北村观音庙前方始告别",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0255": {
+      "relations": [
+        {
+          "source": "第三支前指挥所",
+          "target": "盐步九图",
+          "relation": "活动于",
+          "evidence": "曾在盐步九图演出活报剧等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0256": {
+      "relations": []
+    },
+    "chunk_0257": {
+      "relations": [
+        {
+          "source": "区太杰",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "《林冲夜奔》剧目在石中排练演出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁碧峰",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "梁碧峰曾在石中任教",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "北村",
+          "relation": "位于",
+          "evidence": "《林冲夜奔》在北村演出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "《林冲夜奔》在佛山演出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "官窑",
+          "relation": "位于",
+          "evidence": "《林冲夜奔》在官窑演出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "盐步",
+          "relation": "位于",
+          "evidence": "《林冲夜奔》在盐步演出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0258": {
+      "relations": [
+        {
+          "source": "《林》剧",
+          "target": "平地村",
+          "relation": "发生于",
+          "evidence": "《林》剧的演出是成功的",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0259": {
+      "relations": []
+    },
+    "chunk_0260": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "三区政府",
+          "relation": "关联人物",
+          "evidence": "务必派出师生工友打着写有标语的小旗参加斗争大会",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张秩友",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石中工友张秩友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "三区政府",
+          "target": "大沥乡",
+          "relation": "活动于",
+          "evidence": "三区政府在大沥乡召开斗争大会",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "大沥乡",
+          "relation": "活动于",
+          "evidence": "务必派出师生工友打着写有标语的小旗参加斗争大会",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张秩友",
+          "target": "大沥乡",
+          "relation": "活动于",
+          "evidence": "苦大仇深的大沥孤儿、石中工友张秩友",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张秩友",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "苦大仇深的大沥孤儿、石中工友张秩友",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "盐步",
+          "relation": "活动于",
+          "evidence": "在盐步演出时",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0261": {
+      "relations": [
+        {
+          "source": "区老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "当年，我是学生会干部参与《林》剧排练、演出全过程",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "胡老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "近年来多次回校探望区、胡、张三位老师，重谈旧事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "近年来多次回校探望区、胡、张三位老师，重谈旧事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "大沥",
+          "relation": "位于",
+          "evidence": "当年大沥游行我又是组织者",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0262": {
+      "relations": []
+    },
+    "chunk_0263": {
+      "relations": []
+    },
+    "chunk_0264": {
+      "relations": []
+    },
+    "chunk_0265": {
+      "relations": []
+    },
+    "chunk_0266": {
+      "relations": []
+    },
+    "chunk_0267": {
+      "relations": []
+    },
+    "chunk_0268": {
+      "relations": [
+        {
+          "source": "芝庭堂",
+          "target": "霍芝庭",
+          "relation": "承载文化",
+          "evidence": "大礼堂又名芝庭堂，纪念捐赠者霍芝庭",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "芝庭堂",
+          "target": "霍芝庭",
+          "relation": "属于时期",
+          "evidence": "大礼堂又名芝庭堂，纪念捐赠者霍芝庭",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0269": {
+      "relations": [
+        {
+          "source": "霍芝庭",
+          "target": "大礼堂",
+          "relation": "创建修建",
+          "evidence": "大礼堂又名芝庭堂，纪念捐赠者霍芝庭",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "英雄树",
+          "target": "石中",
+          "relation": "关联人物",
+          "evidence": "校门旁之英雄树，当年入校便相逢",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "满江红",
+          "target": "大礼堂",
+          "relation": "承载文化",
+          "evidence": "回忆少时身畔事，依稀共唱满江红",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0270": {
+      "relations": [
+        {
+          "source": "宋达庭",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "在石门中学半个学年的学习生活，给我留下了终生难以磨灭的美好回忆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄氏宗祠",
+          "target": "石门中学",
+          "relation": "位于",
+          "evidence": "石门中学旁的祠堂，宗祠中有廿四孝故事的浮雕",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0271": {
+      "relations": []
+    },
+    "chunk_0272": {
+      "relations": [
+        {
+          "source": "宋老师",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "宋老师在校园的操场上遇到我",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "杏坛工程",
+          "target": "石中",
+          "relation": "承载文化",
+          "evidence": "祝杏坛工程大告成功",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "青蓝工程",
+          "target": "石中",
+          "relation": "承载文化",
+          "evidence": "祝青蓝工程大告成功",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "杏坛工程",
+          "relation": "传承于",
+          "evidence": "祝杏坛工程大告成功",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "青蓝工程",
+          "relation": "传承于",
+          "evidence": "祝青蓝工程大告成功",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "校园工程",
+          "relation": "传承于",
+          "evidence": "祝校园工程大告成功",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0273": {
+      "relations": [
+        {
+          "source": "石门返照",
+          "target": "石门县",
+          "relation": "承载文化",
+          "evidence": "石门县因县城东有两座巨岩壁立如门",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0274": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "凌风老师",
+          "relation": "关联人物",
+          "evidence": "尤其不能忘怀的是凌风老师的淳淳教诲，他不但授课辟入里，主次分明，且对学生作业批改得非常认真，将错别字一剔出改正，还用非常工整的蝇头小楷写下详尽的评语。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风老师",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "尤其不能忘怀的是凌风老师的淳淳教诲，他不但授课辟入里，主次分明，且对学生作业批改得非常认真，将错别字一剔出改正，还用非常工整的蝇头小楷写下详尽的评语。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0275": {
+      "relations": [
+        {
+          "source": "凌老师",
+          "target": "凌风老师",
+          "relation": "同族",
+          "evidence": "凌风老师：凌老师的笔名或尊称",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老师",
+          "target": "《晓窗幽梦》",
+          "relation": "著有",
+          "evidence": "准备将近几年的著述汇编成《晓窗幽梦》一书出版",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风老师",
+          "target": "凌老师",
+          "relation": "关联人物",
+          "evidence": "凌风老师：凌老师的笔名或尊称",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0276": {
+      "relations": [
+        {
+          "source": "凌风",
+          "target": "后门中学",
+          "relation": "活动于",
+          "evidence": "今年8月11日与当年初中时的同窗学友一起，回母校看望初中时第位班主任张达衡老师和张老师整整共处一天。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "后门中学",
+          "relation": "活动于",
+          "evidence": "今年8月11日与当年初中时的同窗学友一起，回母校看望初中时第位班主任张达衡老师和张老师整整共处一天。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "后门中学",
+          "target": "石门中学",
+          "relation": "同类",
+          "evidence": "石门中学（地名）：文中提及的另一所学校，培育出高考状元",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "张达衡",
+          "relation": "同族",
+          "evidence": "今年8月11日与当年初中时的同窗学友一起，回母校看望初中时第位班主任张达衡老师和张老师整整共处一天。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0277": {
+      "relations": [
+        {
+          "source": "李炼荣",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "每当一家人欢聚的时候，我们都会回忆在石中学习的幸福时光。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "李洛荣",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "当年是石中的学生会主席，在中山大学毕业后便分配到部队，后调到海军广州舰艇学院担任教授。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0278": {
+      "relations": []
+    },
+    "chunk_0279": {
+      "relations": []
+    },
+    "chunk_0280": {
+      "relations": []
+    },
+    "chunk_0281": {
+      "relations": [
+        {
+          "source": "石门中学",
+          "target": "黄永藻",
+          "relation": "活动于",
+          "evidence": "1947年，学校来了一位名叫黄永藻的体育教师，他致力于游泳教学。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "黄永藻",
+          "relation": "著有",
+          "evidence": "每年参加各级游泳比赛，均取得很好的成绩。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "陈玮",
+          "relation": "关联人物",
+          "evidence": "校友陈玮 70年来，石门中学为国家培养了无数各行各业的优秀人才",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄永藻",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1947年，学校来了一位名叫黄永藻的体育教师，他致力于游泳教学。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "郑敏瑛",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1951年，石中学生参加南海县游泳比赛，囊括了全部奖项。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "郑敏瑛",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1952年，南海县第一届游泳选拔赛在石中举行，石中学生再显神威，并代表南海县参加粤中区比赛，夺得七项冠军。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈昆",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1952年，陈昆、郑燕瑛被选为省队队员参加中南区比赛，分别获得亚军、季军。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "郑燕瑛",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1952年，陈昆、郑燕瑛被选为省队队员参加中南区比赛，分别获得亚军、季军。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0282": {
+      "relations": []
+    },
+    "chunk_0283": {
+      "relations": [
+        {
+          "source": "石中",
+          "target": "石门中学",
+          "relation": "同类",
+          "evidence": "石门中学与附近的六联乡、黄岐乡、秀水",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0284": {
+      "relations": []
+    },
+    "chunk_0285": {
+      "relations": [
+        {
+          "source": "陈梨",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "陈梨老师 南海石门中学教工团支部于1954年成立",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "苏国平",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "苏国平是南海石门中学教工团支部共产党员，兼管团支部的工作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0286": {
+      "relations": []
+    },
+    "chunk_0287": {
+      "relations": [
+        {
+          "source": "叶柏恒",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邝章标",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "朱五根",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何广祯",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "利达平",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "吕志强",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "沈冠琪",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "周展怀",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "蒋祖国",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "冯文权",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "苏可乐",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "高秉红",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "关凤琼",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "蔡毅",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邝蔼仪",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁小颖",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "叶柏恒邝章标朱五根何广祯利达平吕志强沈冠琪周展怀蒋祖国冯文权苏可乐高秉红关凤琼蔡毅邝蔼仪梁小颖吕小茵黄永熙黄锦华吕小菱梁少妍吕小薇蔡穗丁德森（朝晖文艺宣传队成员）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "吕小薇",
+          "target": "石门中学朝晖文艺宣传队",
+          "relation": "关联人物",
+          "evidence": "吕小薇（朝晖文艺宣传队成员之一，校友刘淑贞提及）",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0288": {
+      "relations": [
+        {
+          "source": "叶桂容",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "叶桂容同学（曾任南海市常委...都是石中的宣传委员兼播音员",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶桂容",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "我们每天中午11时30分和下午4时30分准时开广播",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "塘边",
+          "relation": "位于",
+          "evidence": "塘边·间只有儿平方米的小房屋里",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "环校涌",
+          "target": "石中",
+          "relation": "属于时期",
+          "evidence": "全校同学都在挖环校涌",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "环校涌",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "全校同学都在挖环校涌",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0289": {
+      "relations": [
+        {
+          "source": "黄岐渔业村",
+          "target": "珠江南岸",
+          "relation": "位于",
+          "evidence": "房子依珠江南岸，沿河滩，一层层、排排而建",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "高三（5）班",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "高三（5）班的同学们一马当先",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "藤料仓库",
+          "target": "黄岐渔业村",
+          "relation": "位于",
+          "evidence": "渔业村旁边有几座很大的藤料仓库",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0290": {
+      "relations": []
+    },
+    "chunk_0291": {
+      "relations": []
+    },
+    "chunk_0292": {
+      "relations": []
+    },
+    "chunk_0293": {
+      "relations": [
+        {
+          "source": "欧阳炎",
+          "target": "石门学校",
+          "relation": "关联人物",
+          "evidence": "欧阳炎师长，校友吴书剑、冯伯伟、郑维城、关铭权的老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0294": {
+      "relations": []
+    },
+    "chunk_0295": {
+      "relations": []
+    },
+    "chunk_0296": {
+      "relations": []
+    },
+    "chunk_0297": {
+      "relations": [
+        {
+          "source": "梁老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "虽然他只当了我们个学期的班主任便离开石门中学",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "梁老师",
+          "target": "火社",
+          "relation": "创建修建",
+          "evidence": "他也是火社的倡导者！指引我们这一代人走向光明之路",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0298": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "南海石门中学",
+          "relation": "关联人物",
+          "evidence": "1947年起任南海石门中学体育教师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0299": {
+      "relations": []
+    },
+    "chunk_0300": {
+      "relations": [
+        {
+          "source": "区杰",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "四老是指区杰老师、凌风老师、张达衡老师、胡淳老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "四老是指区杰老师、凌风老师、张达衡老师、胡淳老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "四老是指区杰老师、凌风老师、张达衡老师、胡淳老师",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区杰",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石门中学教师，四老之一",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石门中学教师，四老之一",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石门中学教师，四老之一，潘寿南文中提及的人物",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "胡淳",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石门中学教师，四老之一",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0301": {
+      "relations": [
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "张达衡老师1946年8月进入私立南海石门中学校工作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "1946年8月，张达衡由石门中学首任校长李景宗介绍进入私立南海石门中学校工作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "四友图书馆",
+          "relation": "活动于",
+          "evidence": "四友图书馆门前的四棵橡树一样，感受了石门中学一直以来的风风雨雨",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0302": {
+      "relations": [
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "张达衡老师在石门中学的三十多年中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0303": {
+      "relations": [
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "张老师找学生帮忙，商业局长批了250公斤，才结束了石门中学没有电话的历史。他还每年带学生到南海藤厂勤工俭学，到泌冲开荒种地。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "他还每年带学生到南海藤厂勤工俭学，到泌冲开荒种地。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "北江大堤",
+          "relation": "活动于",
+          "evidence": "某一年北江大堤决堤，水漫堤面，学校面临着人水的冲击，学校组织师生共筑人墙护堤，张达衡老师累得咯血。同时他还组织食堂煮姜水给师生喝，用以祛寒。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "北村祠堂",
+          "relation": "活动于",
+          "evidence": "学生宿舍不足，张达衡带领三个班的学生到北村祠堂住宿，并且带领学生做操，晚上跟他们讲人生，讲故事。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "石门中学当时没有电话，原因是没有14号电线，张老师找学生帮忙，商业局长批了250公斤，才结束了石门中学没有电话的历史。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "著有",
+          "evidence": "张达衡老师工作的几十年中，实现了一心意为了学校，切为了学生的宗旨。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "陈仁康",
+          "relation": "关联人物",
+          "evidence": "后来成为中国人民解放军八一篮球队中锋的陈仁康，就是他们当年训练出来的。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "黄永藻",
+          "relation": "关联人物",
+          "evidence": "张达衡老师协助体育老师黄永藻经常带领学生进行体育训练，尤其是篮球队训练。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0304": {
+      "relations": [
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1990年春，六联乡六个生产队投票选举他为人民代表，参加黄岐镇代表会议。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "创建修建",
+          "evidence": "当年参加工作时的美丽而简洁的学校，如今已发展成为省内颇有名气的广东省·级学校。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区太杰",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "自1953年我入读石门中学，因爱好画画就加入美术课外小组。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区太杰",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "自1953年我入读石门中学，因爱好画画就加入美术课外小组。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "属于时期",
+          "evidence": "当年参加工作时的美丽而简洁的学校，如今已发展成为省内颇有名气的广东省·级学校。",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0305": {
+      "relations": [
+        {
+          "source": "区老师",
+          "target": "《孔雀双栖图》",
+          "relation": "承载文化",
+          "evidence": "创作那一幅《孔雀双栖图》，（我画孔雀，老师加牡丹及山石补成）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区老师",
+          "target": "《孔雀双栖图》",
+          "relation": "传承于",
+          "evidence": "创作那一幅《孔雀双栖图》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0306": {
+      "relations": [
+        {
+          "source": "孔子",
+          "target": "《论语·述而篇》",
+          "relation": "记载于",
+          "evidence": "故事出自《论语·述而篇》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0307": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "三湖书院",
+          "relation": "活动于",
+          "evidence": "他有一首七绝《夜宿三湖书院》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0308": {
+      "relations": [
+        {
+          "source": "忆明珠",
+          "target": "区老",
+          "relation": "同族",
+          "evidence": "台湾老诗人忆明珠的诗句",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "区老",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "47年从曲江励群中学调到石门中学从事美术教育工作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "雷锋塔倒",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "50年代出版了年画《雷锋塔倒》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "金顶思凡",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "50年代出版了年画《金顶思凡》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0309": {
+      "relations": [
+        {
+          "source": "区老",
+          "target": "《水韵山情》",
+          "relation": "著有",
+          "evidence": "90年，出版了诗集《水韵山情》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0310": {
+      "relations": [
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "退休后曾先后出版过4本书的凌老师，是教语文的。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "著有",
+          "evidence": "《晓窗幽梦》是凌老师的·本散文集。",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "石门中学有位已退休了20年的教师，一直对石中的发展十分关注，其对70年校庆筹备工作竭力襄助，对石门诗社的复办又不遗余力这位老师，就是自号并得到群众称颂的石门老燕 凌风老师。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0311": {
+      "relations": []
+    },
+    "chunk_0312": {
+      "relations": [
+        {
+          "source": "凌老师",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "凌老师长期担任语文科组长、教导主任、工会主席和班主任",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老师",
+          "target": "石中",
+          "relation": "著有",
+          "evidence": "凌老师教过的学生，语文成绩都有番上下（方言，意即具备：定的水平）",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0313": {
+      "relations": [
+        {
+          "source": "凌老师",
+          "target": "石中",
+          "relation": "活动于",
+          "evidence": "30多年来，凌老师在石中仅当过儿届班主任",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老师",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "回到佛山后，他曾辅导过电大中文系学生写毕业论文",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老师",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "在佛山曾教过青少宫和老干的书法班",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老师",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "70岁后，在南海报社先当顾问，后当副刊部编辑",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石中",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "凌老师1984年离开石中，回到佛山后",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0314": {
+      "relations": [
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "凌风老师系石门中学语文老师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "石门中学",
+          "relation": "属于时期",
+          "evidence": "凌风老师系石门中学语文老师",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "南海诗社",
+          "relation": "关联人物",
+          "evidence": "曾任南海诗社社长",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "全国楹联学会",
+          "relation": "关联人物",
+          "evidence": "全国楹联学会会员",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "广东省楹联学会",
+          "relation": "关联人物",
+          "evidence": "广东省楹联学会常务理事",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "全国诗词学会",
+          "relation": "关联人物",
+          "evidence": "全国诗词学会会员",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌风",
+          "target": "广东省诗词学会",
+          "relation": "关联人物",
+          "evidence": "广东省诗词学会理事",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0315": {
+      "relations": [
+        {
+          "source": "凌老",
+          "target": "《二石》",
+          "relation": "著有",
+          "evidence": "《二石》情怀随子美，《晓窗》意境效青莲。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "凌老",
+          "target": "《晓窗》",
+          "relation": "著有",
+          "evidence": "《二石》情怀随子美，《晓窗》意境效青莲。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0316": {
+      "relations": [
+        {
+          "source": "何化万",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "何化万老师自1973年调入石门中学任教后从事科研工作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0317": {
+      "relations": []
+    },
+    "chunk_0318": {
+      "relations": []
+    },
+    "chunk_0319": {
+      "relations": []
+    },
+    "chunk_0320": {
+      "relations": []
+    },
+    "chunk_0321": {
+      "relations": [
+        {
+          "source": "何灼强",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "南海籍运动员何灼强",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "罗建明",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "南海籍运动员罗建明",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "高惠珠",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "南海籍运动员高惠珠",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何老师",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "何老师结合教学取得丰厚的科研成果与论著的同时，也获得了多项的荣誉",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0322": {
+      "relations": []
+    },
+    "chunk_0323": {
+      "relations": []
+    },
+    "chunk_0324": {
+      "relations": [
+        {
+          "source": "钟麟",
+          "target": "南海县三区沥东乡龙腹村",
+          "relation": "出生于",
+          "evidence": "就随家人回到祖籍一一广东南海县三区沥东乡龙腹村",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "钟麟",
+          "target": "南海县石门中学",
+          "relation": "活动于",
+          "evidence": "小学毕业后，钟麟考上南海县石门中学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "钟麟",
+          "target": "广东省立高级水产职业学校",
+          "relation": "活动于",
+          "evidence": "怀着对海洋航海、水产事业的向往，钟麟在还有一个学期才初中毕业的情况下，说服石门中学的老师，以相当难度越级报考。经层层筛选，钟麟以优异的成绩，奋力拼搏，杀出重围，成为广东水产最高学府的第一批学生",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0325": {
+      "relations": []
+    },
+    "chunk_0326": {
+      "relations": []
+    },
+    "chunk_0327": {
+      "relations": []
+    },
+    "chunk_0328": {
+      "relations": [
+        {
+          "source": "钟麟",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "钟麟1932年就读于南海石门中学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "钟麟",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "他就是石门中学首届校友",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0329": {
+      "relations": [
+        {
+          "source": "钟麟",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "钟麟1932年就读于南海石门中学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "钟麟",
+          "target": "石门中学",
+          "relation": "著有",
+          "evidence": "1975年被联合国聘请为联合国粮农组织淡水养殖培训班教授。多次在联合国的讲台上讲课，为世界培养了大批淡水养殖人才。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "南海石门中学",
+          "relation": "位于",
+          "evidence": "南海石门中学：位于佛山市南海区的学校",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0330": {
+      "relations": []
+    },
+    "chunk_0331": {
+      "relations": []
+    },
+    "chunk_0332": {
+      "relations": [
+        {
+          "source": "钟麟",
+          "target": "南海",
+          "relation": "出生于",
+          "evidence": "南海这块人杰地灵，自古以来孕育了很多英雄豪杰。当一个杰出人物的出现，必然会影响一段历史。今年是叔父钟麟诞辰88周年和家鱼人丁繁殖成功45周年纪念。在他身上，体现了党和国家对科学工作者所取得成绩的肯定，也体现了老一辈知识分子爱党爱国，无私奉献的优秀品质。我们应在他的母校，在南海浩瀚的历史记录里记上辉煌的一笔。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "钟麟",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "他的研究所当时在他的领导下，在国内外是很有影响的，他的成果创造了巨大的社会效益和世界效应，今天已在世界的广大地区普通使用。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0333": {
+      "relations": [
+        {
+          "source": "孔潜珍",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1934 年春入石门中学初读书，1936年冬初中毕业",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1948年9月至1952年2月在石门中学任教",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍",
+          "target": "广钢",
+          "relation": "活动于",
+          "evidence": "1962年广钢高锰钢铸件投产，1971年，他主持了第·炼钢车间高架式氧气顶吹转炉工艺总体设计；1973年，他主持了连续炼钢试验研究的了艺总体设计",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "孔潜珍",
+          "relation": "关联人物",
+          "evidence": "1934 年春入石门中学初读书，1936年冬初中毕业",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0334": {
+      "relations": []
+    },
+    "chunk_0335": {
+      "relations": []
+    },
+    "chunk_0336": {
+      "relations": [
+        {
+          "source": "孔潜珍",
+          "target": "入党申请书",
+          "relation": "著有",
+          "evidence": "九六五年，他第次向党组织诚挚地递交了入党申请书",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍",
+          "target": "广钢",
+          "relation": "活动于",
+          "evidence": "钢追求着贡献，追求着理想，他和广钢一起前进着",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍",
+          "target": "华东一个煤矿",
+          "relation": "活动于",
+          "evidence": "一九四六年的中秋节，孔潜珍前往华东一个煤矿处理井下的技术问题",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "孔潜珍",
+          "target": "华东一个煤矿",
+          "relation": "同族",
+          "evidence": "一九四六年的中秋节，孔潜珍前往华东一个煤矿处理井下的技术问题",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "刘青山、张子善",
+          "target": "华东一个煤矿",
+          "relation": "同族",
+          "evidence": "身居共产党重要职位的刘青山、张子善，因堕落为贪污犯，受到处决",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0337": {
+      "relations": []
+    },
+    "chunk_0338": {
+      "relations": []
+    },
+    "chunk_0339": {
+      "relations": [
+        {
+          "source": "何兆雄",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1938年10月广州沦陷后在香港石门中学继续读书至1941年7月止",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0340": {
+      "relations": [
+        {
+          "source": "李国桥",
+          "target": "石门中学校友",
+          "relation": "关联人物",
+          "evidence": "黎秀煊 在广州中医药大学，有一位中外闻名的抗疟专家，他就是南海医家石门中学校友李国桥先生。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0341": {
+      "relations": []
+    },
+    "chunk_0342": {
+      "relations": []
+    },
+    "chunk_0343": {
+      "relations": []
+    },
+    "chunk_0344": {
+      "relations": []
+    },
+    "chunk_0345": {
+      "relations": []
+    },
+    "chunk_0346": {
+      "relations": []
+    },
+    "chunk_0347": {
+      "relations": []
+    },
+    "chunk_0348": {
+      "relations": []
+    },
+    "chunk_0349": {
+      "relations": []
+    },
+    "chunk_0350": {
+      "relations": [
+        {
+          "source": "黎沛虹",
+          "target": "《商胡堵口辩谬》",
+          "relation": "著有",
+          "evidence": "黎教授先后受聘为《湖北水利志》副总编、《浙江水利志》、《河北水利志》、《黄河水利志》等近100部江河水利志学术顾问。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "《湖北水利志》",
+          "relation": "著有",
+          "evidence": "黎教授先后受聘为《湖北水利志》副总编、《浙江水利志》、《河北水利志》、《黄河水利志》等近100部江河水利志学术顾问。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "《浙江水利志》",
+          "relation": "著有",
+          "evidence": "黎教授先后受聘为《湖北水利志》副总编、《浙江水利志》、《河北水利志》、《黄河水利志》等近100部江河水利志学术顾问。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "《河北水利志》",
+          "relation": "著有",
+          "evidence": "黎教授先后受聘为《湖北水利志》副总编、《浙江水利志》、《河北水利志》、《黄河水利志》等近100部江河水利志学术顾问。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "《黄河水利志》",
+          "relation": "著有",
+          "evidence": "黎教授先后受聘为《湖北水利志》副总编、《浙江水利志》、《河北水利志》、《黄河水利志》等近100部江河水利志学术顾问。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "《清韵集》",
+          "relation": "著有",
+          "evidence": "黎教授教学研究之余，酷爱书法及古典诗词写作，曾正式出版个人诗词集《清韵集》。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "武汉大学珞珈诗社",
+          "relation": "关联人物",
+          "evidence": "现为武汉大学珞珈诗社副理事长。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "冯伯伟",
+          "relation": "关联人物",
+          "evidence": "校友冯伯伟吴书剑",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黎沛虹",
+          "target": "吴书剑",
+          "relation": "关联人物",
+          "evidence": "校友冯伯伟吴书剑",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0351": {
+      "relations": []
+    },
+    "chunk_0352": {
+      "relations": []
+    },
+    "chunk_0353": {
+      "relations": []
+    },
+    "chunk_0354": {
+      "relations": []
+    },
+    "chunk_0355": {
+      "relations": []
+    },
+    "chunk_0356": {
+      "relations": []
+    },
+    "chunk_0357": {
+      "relations": []
+    },
+    "chunk_0358": {
+      "relations": []
+    },
+    "chunk_0359": {
+      "relations": []
+    },
+    "chunk_0360": {
+      "relations": [
+        {
+          "source": "杜国栋",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1934年春至1936年冬入读石门中学初中，后参加革命活动",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0361": {
+      "relations": [
+        {
+          "source": "中共广州市委特派员",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1946年2月任中共广州市委特派员到南海县恢复南海党组织活动，1949年5月任中共南海、三水、花县工作委员会书记。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "中共广州市委特派员",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1950年2月南海县支前指挥部接管石门中学，委派指挥部负责人杜路兼任校长（1950年2月至1951年2月）。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈玲烈士",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "抗战初期就读于石门中学，参加进步师生组织的宣传队，在街头唱抗日歌曲，演救亡话剧等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "石门中学",
+          "target": "南海县农民协会筹备委员会主席",
+          "relation": "承载文化",
+          "evidence": "1950年4月任南海县农民协会筹备委员会主席。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0362": {
+      "relations": []
+    },
+    "chunk_0363": {
+      "relations": []
+    },
+    "chunk_0364": {
+      "relations": []
+    },
+    "chunk_0365": {
+      "relations": []
+    },
+    "chunk_0366": {
+      "relations": []
+    },
+    "chunk_0367": {
+      "relations": [
+        {
+          "source": "陈玲",
+          "target": "岗廊",
+          "relation": "位于",
+          "evidence": "敌人下毒手了，伪警察局长带着刑警队把陈玲和两位同志押出牢房，用汽车押到曲江犁市以北一个叫岗廊的山野上",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "冯伯伟",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "校友冯伯伟（郑维城，1948年9月入门门中学初二读书，至1951年1月读高一时，响应党的号召，抗美援朝中参军；历任战士、班长、坦克车长、连长，曾在军委办公厅、总参政治部、总参管理局、总参雷达电子部等单位任科长、处长、副校长等职；曾立二等功，三等功各一次，多次被评为五好工作者、先进工作者；是从军四十四年的少将。）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "郑维城",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "校友冯伯伟（郑维城，1948年9月入门门中学初二读书，至1951年1月读高一时，响应党的号召，抗美援朝中参军；历任战士、班长、坦克车长、连长，曾在军委办公厅、总参政治部、总参管理局、总参雷达电子部等单位任科长、处长、副校长等职；曾立二等功，三等功各一次，多次被评为五好工作者、先进工作者；是从军四十四年的少将。）",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0368": {
+      "relations": []
+    },
+    "chunk_0369": {
+      "relations": []
+    },
+    "chunk_0370": {
+      "relations": []
+    },
+    "chunk_0371": {
+      "relations": []
+    },
+    "chunk_0372": {
+      "relations": []
+    },
+    "chunk_0373": {
+      "relations": [
+        {
+          "source": "维城",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "群众为了表达对他们的郑副院 长的敬慕之情，送了一首诗",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "郑副院",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "群众为了表达对他们的郑副院 长的敬慕之情，送了一首诗",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0374": {
+      "relations": [
+        {
+          "source": "陈仁康",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "陈仁康于1946一1949年就读于石门中学",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈仁康",
+          "target": "石门中学",
+          "relation": "同族",
+          "evidence": "陈仁康于1946一1949年就读于石门中学。当年在黄永藻老师悉心培养下，开始表现出良好的体育才能，对篮球运动尤其突出。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0375": {
+      "relations": [
+        {
+          "source": "陈仁康",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "在校三年，受母校良好校风熏陶，良师益友的教导和帮助，我们得以在艰苦朴素、奋发向士的环境中学习，在火热的学生生活中成长。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈仁康",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "当时，我们在张达衡、黄永藻老师带领下，亲手锄出跑道、球场、投掷场，挖沙坑，建简易游泳场。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "陈仁康",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "石门浩瀚载桃李，母校春风育贤能。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "张达衡",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "当时，我们在张达衡、黄永藻老师带领下，亲手锄出跑道、球场、投掷场，挖沙坑，建简易游泳场。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "黄永藻",
+          "target": "石门中学",
+          "relation": "关联人物",
+          "evidence": "当时，我们在张达衡、黄永藻老师带领下，亲手锄出跑道、球场、投掷场，挖沙坑，建简易游泳场。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "中南军区政治部篮球队",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "解放后，我和李德才、陈琼珍、叶于康及我弟陈义康，加入动会，我被选入中南军区政治部篮球队。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "中国人民解放军第·届运动会",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "1952年参加在北京举行的中国人民解放军第·届运动会，我们获得第一名，我被选入总政八一篮球队。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "总政八一篮球队",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "解放后，我和李德才、陈琼珍、叶于康及我弟陈义康，加入动会，我被选入中南军区政治部篮球队。1952年参加在北京举行的中国人民解放军第·届运动会，我们获得第一名，我被选入总政八一篮球队。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "第四届世界青年联欢节运动会",
+          "target": "石门中学",
+          "relation": "承载文化",
+          "evidence": "1954年随国家队出访匈牙利、波兰、罗马尼亚、保加利亚等国，战胜很多外国劲旅。1957年，我在广州军区当教练，代表广州市篮球队参加",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0376": {
+      "relations": [
+        {
+          "source": "邵而",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "观看到母校的同 学在团体操表演中英姿讽爽，朝气蓬勃，动作整齐、协调、优美， 令人鼓舞。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0377": {
+      "relations": [
+        {
+          "source": "何灼强",
+          "target": "中国举重协会",
+          "relation": "关联人物",
+          "evidence": "被推选为第五届中国举重协会科研委员会委员",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "何灼强",
+          "target": "南海市",
+          "relation": "活动于",
+          "evidence": "积极投身于参政议政的工作中，为南海业余体校成为培养冠军的摇篮出谋献策",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0378": {
+      "relations": [
+        {
+          "source": "叶谷子",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1947年9月至1949年10月曾就读于石门中学",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶谷子",
+          "target": "《世界美术大典》",
+          "relation": "著有",
+          "evidence": "作品曾在省市多次展出及在报刊上发表，并入编《世界美术大典》、《中国书法家作品选集》、《中国书画藏典》等十余种典集",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶谷子",
+          "target": "《中国书法家作品选集》",
+          "relation": "著有",
+          "evidence": "作品曾在省市多次展出及在报刊上发表，并入编《世界美术大典》、《中国书法家作品选集》、《中国书画藏典》等十余种典集",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶谷子",
+          "target": "《中国书画藏典》",
+          "relation": "著有",
+          "evidence": "作品曾在省市多次展出及在报刊上发表，并入编《世界美术大典》、《中国书法家作品选集》、《中国书画藏典》等十余种典集",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "叶谷子",
+          "target": "《叶谷子印痕墨迹》",
+          "relation": "著有",
+          "evidence": "出版有个人专集《叶谷子印痕墨迹》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0379": {
+      "relations": []
+    },
+    "chunk_0380": {
+      "relations": [
+        {
+          "source": "曾宪就",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1946年春石门中学复校后第届入学",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "吴书剑",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1946年春石门中学复校后第届入学，1948年冬毕业",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0381": {
+      "relations": [
+        {
+          "source": "邵锐勋",
+          "target": "石门中学",
+          "relation": "活动于",
+          "evidence": "1952年考入石门中学，在丁班参加青年团",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邵锐勋",
+          "target": "广州市第六中学",
+          "relation": "活动于",
+          "evidence": "1955年他考入广州市第六中学，也在丁班",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        },
+        {
+          "source": "邵锐勋",
+          "target": "北京机械工业部超重运输研究所",
+          "relation": "活动于",
+          "evidence": "1964年毕业分配到北京机械工业部超重运输研究所",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第37辑_后门中学七十年 1932年-2002年"
+        }
+      ]
+    },
+    "chunk_0382": {
+      "relations": []
+    },
+    "chunk_0383": {
+      "relations": []
+    },
+    "chunk_0384": {
+      "relations": []
+    }
+  }
+}

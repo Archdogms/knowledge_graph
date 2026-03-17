@@ -1,0 +1,7067 @@
+{
+  "chunks": {
+    "chunk_1482": {
+      "relations": []
+    },
+    "chunk_1483": {
+      "relations": []
+    },
+    "chunk_1484": {
+      "relations": []
+    },
+    "chunk_1485": {
+      "relations": []
+    },
+    "chunk_1486": {
+      "relations": [
+        {
+          "source": "光绪",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "羔州社学岭西羔州村光绪四年1878年已拆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "道光",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "邓林社学道光年间已拆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "咸丰",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "崇德社学咸丰六年1856年已拆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "岭西羔州村",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "羔州社学岭西羔州村光绪四年1878年已拆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1487": {
+      "relations": []
+    },
+    "chunk_1488": {
+      "relations": [
+        {
+          "source": "干林私塾",
+          "target": "百东大岗圩",
+          "relation": "位于",
+          "evidence": "最早开办的私塾是百东大岗圩的干林私塾",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "简村陈励儒学",
+          "target": "简村陈氏",
+          "relation": "关联人物",
+          "evidence": "简村陈励儒学是简村陈氏家族的私塾教育场所",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "关族世德小学堂",
+          "target": "儒溪村关氏宗祠",
+          "relation": "承载文化",
+          "evidence": "三十三年在儒溪村关氏宗祠开办关族世德小学堂",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大同圩字祖庙",
+          "target": "大同圩局仁善堂",
+          "relation": "位于",
+          "evidence": "三十三年在大同圩内字祖庙及局仁善堂开办大同公立两等小学堂",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大同圩字祖庙",
+          "target": "大同公立两等小学堂",
+          "relation": "承载文化",
+          "evidence": "三十三年在大同圩内字祖庙及局仁善堂开办大同公立两等小学堂",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1489": {
+      "relations": [
+        {
+          "source": "官山教会纯光园",
+          "target": "官山圩",
+          "relation": "位于",
+          "evidence": "官山教会纯光园 开办于官山圩",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1490": {
+      "relations": [
+        {
+          "source": "攀龙小学",
+          "target": "儒溪江",
+          "relation": "位于",
+          "evidence": "民国36年儒溪江边村的攀龙小学附设一个幼儿班",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "攀龙小学",
+          "target": "岭南中",
+          "relation": "同类",
+          "evidence": "1955年开始农村开办幼儿园最早有岭南中、儒溪、基边3所",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "攀龙小学",
+          "target": "田心",
+          "relation": "同类",
+          "evidence": "1955年开始农村开办幼儿园最早有岭南中、儒溪、基边3所",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "攀龙小学",
+          "target": "简村",
+          "relation": "同类",
+          "evidence": "1955年开始农村开办幼儿园最早有岭南中、儒溪、基边3所",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "攀龙小学",
+          "target": "百东",
+          "relation": "同类",
+          "evidence": "1955年开始农村开办幼儿园最早有岭南中、儒溪、基边3所",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "攀龙小学",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "民国36年儒溪江边村的攀龙小学附设一个幼儿班",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1491": {
+      "relations": []
+    },
+    "chunk_1492": {
+      "relations": []
+    },
+    "chunk_1493": {
+      "relations": []
+    },
+    "chunk_1494": {
+      "relations": []
+    },
+    "chunk_1495": {
+      "relations": []
+    },
+    "chunk_1496": {
+      "relations": []
+    },
+    "chunk_1497": {
+      "relations": []
+    },
+    "chunk_1498": {
+      "relations": []
+    },
+    "chunk_1499": {
+      "relations": []
+    },
+    "chunk_1500": {
+      "relations": [
+        {
+          "source": "西樵山旅游度假区",
+          "target": "沙头镇山根一小",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原沙头镇山根一小划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山旅游度假区",
+          "target": "大同小学",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原九江镇的大同小学划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山旅游度假区",
+          "target": "七星小学",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原九江镇的七星小学划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山旅游度假区",
+          "target": "显岗小学",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原九江镇的显岗小学划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山旅游度假区",
+          "target": "朝山小学",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原九江镇的朝山小学划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山旅游度假区",
+          "target": "西岸学校",
+          "relation": "位于",
+          "evidence": "成立西樵山旅游度假区，原九江镇的西岸学校划入西樵管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1501": {
+      "relations": []
+    },
+    "chunk_1502": {
+      "relations": []
+    },
+    "chunk_1503": {
+      "relations": []
+    },
+    "chunk_1504": {
+      "relations": []
+    },
+    "chunk_1505": {
+      "relations": []
+    },
+    "chunk_1506": {
+      "relations": []
+    },
+    "chunk_1507": {
+      "relations": []
+    },
+    "chunk_1508": {
+      "relations": []
+    },
+    "chunk_1509": {
+      "relations": []
+    },
+    "chunk_1510": {
+      "relations": []
+    },
+    "chunk_1511": {
+      "relations": []
+    },
+    "chunk_1512": {
+      "relations": []
+    },
+    "chunk_1513": {
+      "relations": []
+    },
+    "chunk_1514": {
+      "relations": []
+    },
+    "chunk_1515": {
+      "relations": []
+    },
+    "chunk_1516": {
+      "relations": []
+    },
+    "chunk_1517": {
+      "relations": []
+    },
+    "chunk_1518": {
+      "relations": []
+    },
+    "chunk_1519": {
+      "relations": []
+    },
+    "chunk_1520": {
+      "relations": []
+    },
+    "chunk_1521": {
+      "relations": []
+    },
+    "chunk_1522": {
+      "relations": []
+    },
+    "chunk_1523": {
+      "relations": []
+    },
+    "chunk_1524": {
+      "relations": []
+    },
+    "chunk_1525": {
+      "relations": []
+    },
+    "chunk_1526": {
+      "relations": []
+    },
+    "chunk_1527": {
+      "relations": []
+    },
+    "chunk_1528": {
+      "relations": []
+    },
+    "chunk_1529": {
+      "relations": []
+    },
+    "chunk_1530": {
+      "relations": []
+    },
+    "chunk_1531": {
+      "relations": []
+    },
+    "chunk_1532": {
+      "relations": []
+    },
+    "chunk_1533": {
+      "relations": []
+    },
+    "chunk_1534": {
+      "relations": []
+    },
+    "chunk_1535": {
+      "relations": []
+    },
+    "chunk_1536": {
+      "relations": []
+    },
+    "chunk_1537": {
+      "relations": []
+    },
+    "chunk_1538": {
+      "relations": [
+        {
+          "source": "西樵中学",
+          "target": "西樵官山圩",
+          "relation": "位于",
+          "evidence": "曾将初中班搬到西樵官山圩",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵中学",
+          "target": "简村陈氏大祠堂",
+          "relation": "位于",
+          "evidence": "后来迁至简村陈氏大祠堂",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "红卫中学",
+          "target": "西樵中学",
+          "relation": "关联人物",
+          "evidence": "原名西樵中学，后改为红卫中学",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "南海中学",
+          "target": "西樵中学",
+          "relation": "关联人物",
+          "evidence": "复办的南海中学名义招收附读于西樵中学的学生",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1539": {
+      "relations": []
+    },
+    "chunk_1540": {
+      "relations": []
+    },
+    "chunk_1541": {
+      "relations": []
+    },
+    "chunk_1542": {
+      "relations": []
+    },
+    "chunk_1543": {
+      "relations": [
+        {
+          "source": "岭西大队",
+          "target": "儒溪林场",
+          "relation": "活动于",
+          "evidence": "儒溪林场参加生产劳动",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1544": {
+      "relations": []
+    },
+    "chunk_1545": {
+      "relations": []
+    },
+    "chunk_1546": {
+      "relations": []
+    },
+    "chunk_1547": {
+      "relations": []
+    },
+    "chunk_1548": {
+      "relations": []
+    },
+    "chunk_1549": {
+      "relations": []
+    },
+    "chunk_1550": {
+      "relations": []
+    },
+    "chunk_1551": {
+      "relations": []
+    },
+    "chunk_1552": {
+      "relations": []
+    },
+    "chunk_1553": {
+      "relations": []
+    },
+    "chunk_1554": {
+      "relations": []
+    },
+    "chunk_1555": {
+      "relations": []
+    },
+    "chunk_1556": {
+      "relations": []
+    },
+    "chunk_1557": {
+      "relations": []
+    },
+    "chunk_1558": {
+      "relations": []
+    },
+    "chunk_1559": {
+      "relations": []
+    },
+    "chunk_1560": {
+      "relations": []
+    },
+    "chunk_1561": {
+      "relations": []
+    },
+    "chunk_1562": {
+      "relations": []
+    },
+    "chunk_1563": {
+      "relations": []
+    },
+    "chunk_1564": {
+      "relations": []
+    },
+    "chunk_1565": {
+      "relations": []
+    },
+    "chunk_1566": {
+      "relations": []
+    },
+    "chunk_1567": {
+      "relations": []
+    },
+    "chunk_1568": {
+      "relations": []
+    },
+    "chunk_1569": {
+      "relations": []
+    },
+    "chunk_1570": {
+      "relations": []
+    },
+    "chunk_1571": {
+      "relations": []
+    },
+    "chunk_1572": {
+      "relations": []
+    },
+    "chunk_1573": {
+      "relations": []
+    },
+    "chunk_1574": {
+      "relations": []
+    },
+    "chunk_1575": {
+      "relations": []
+    },
+    "chunk_1576": {
+      "relations": []
+    },
+    "chunk_1577": {
+      "relations": []
+    },
+    "chunk_1578": {
+      "relations": []
+    },
+    "chunk_1579": {
+      "relations": []
+    },
+    "chunk_1580": {
+      "relations": []
+    },
+    "chunk_1581": {
+      "relations": []
+    },
+    "chunk_1582": {
+      "relations": []
+    },
+    "chunk_1583": {
+      "relations": []
+    },
+    "chunk_1584": {
+      "relations": []
+    },
+    "chunk_1585": {
+      "relations": []
+    },
+    "chunk_1586": {
+      "relations": []
+    },
+    "chunk_1587": {
+      "relations": []
+    },
+    "chunk_1588": {
+      "relations": []
+    },
+    "chunk_1589": {
+      "relations": []
+    },
+    "chunk_1590": {
+      "relations": []
+    },
+    "chunk_1591": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "同治",
+          "relation": "属于时期",
+          "evidence": "清同治十一年1872年简村人陈启沅引进国外先进技术",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪",
+          "relation": "属于时期",
+          "evidence": "清道光二十四年1844年民乐林村程家改革标梭平纹机逐步演变",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1592": {
+      "relations": [
+        {
+          "source": "程丙全",
+          "target": "程绍江",
+          "relation": "同族",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "程丙全",
+          "target": "程泽",
+          "relation": "同族",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "程丙全",
+          "target": "程周",
+          "relation": "同族",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "香云纱",
+          "relation": "承载文化",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "D211A型圆盘煮草机",
+          "relation": "承载文化",
+          "evidence": "1970年南海丝厂与佛山纺织机械厂在学习无锡经验的基础上对D211A型圆盘煮草机进行研究试制于1974年6月试制成功并投入使用。该煮草机功效比千页机提高10倍旧机者一棚划要13分钟新机只需要70一90秒大大提高工效改善劳动",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "D211A型圆盘煮草机",
+          "relation": "活动于",
+          "evidence": "1970年南海丝厂与佛山纺织机械厂在学习无锡经验的基础上对D211A型圆盘煮草机进行研究试制于1974年6月试制成功并投入使用。该煮草机功效比千页机提高10倍旧机者一棚划要13分钟新机只需要70一90秒大大提高工效改善劳动",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "D211A型圆盘煮草机",
+          "relation": "创建修建",
+          "evidence": "1970年南海丝厂与佛山纺织机械厂在学习无锡经验的基础上对D211A型圆盘煮草机进行研究试制于1974年6月试制成功并投入使用。该煮草机功效比千页机提高10倍旧机者一棚划要13分钟新机只需要70一90秒大大提高工效改善劳动",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "香云纱",
+          "relation": "传承于",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "D211A型圆盘煮草机",
+          "relation": "传承于",
+          "evidence": "1970年南海丝厂与佛山纺织机械厂在学习无锡经验的基础上对D211A型圆盘煮草机进行研究试制于1974年6月试制成功并投入使用。该煮草机功效比千页机提高10倍旧机者一棚划要13分钟新机只需要70一90秒大大提高工效改善劳动",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "香云纱",
+          "relation": "著有",
+          "evidence": "民国4年1915年民乐程家村的程丙全、程绍江、程泽、程周等四人研究发明马蒋丝绸织提花绞综首创纽眼通花的香云纱",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民乐林村",
+          "target": "D211A型圆盘煮草机",
+          "relation": "著有",
+          "evidence": "1970年南海丝厂与佛山纺织机械厂在学习无锡经验的基础上对D211A型圆盘煮草机进行研究试制于1974年6月试制成功并投入使用。该煮草机功效比千页机提高10倍旧机者一棚划要13分钟新机只需要70一90秒大大提高工效改善劳动",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1593": {
+      "relations": []
+    },
+    "chunk_1594": {
+      "relations": []
+    },
+    "chunk_1595": {
+      "relations": []
+    },
+    "chunk_1596": {
+      "relations": []
+    },
+    "chunk_1597": {
+      "relations": []
+    },
+    "chunk_1598": {
+      "relations": []
+    },
+    "chunk_1599": {
+      "relations": []
+    },
+    "chunk_1600": {
+      "relations": []
+    },
+    "chunk_1601": {
+      "relations": []
+    },
+    "chunk_1602": {
+      "relations": []
+    },
+    "chunk_1603": {
+      "relations": [
+        {
+          "source": "戏剧创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "音乐创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "新闻报道组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "美术创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "诗歌创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "书法创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "摄影创作组",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "诗社",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1982年西樵文化中心内设有戏剧创作组、音乐创作组、新闻报道组、美术创作组、诗歌创作组、书法创作组、摄影创作组、诗社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1604": {
+      "relations": [
+        {
+          "source": "西樵文化站",
+          "target": "西樵文化活动中心",
+          "relation": "位于",
+          "evidence": "西樵文化站设在文化中心内",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "天镇峰公园",
+          "target": "西樵文化站",
+          "relation": "位于",
+          "evidence": "1989年又将天镇峰公园划归文化站管理",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1605": {
+      "relations": []
+    },
+    "chunk_1606": {
+      "relations": []
+    },
+    "chunk_1607": {
+      "relations": []
+    },
+    "chunk_1608": {
+      "relations": []
+    },
+    "chunk_1609": {
+      "relations": [
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省作家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省作家协会各1人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省民间文艺家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省民间文艺家协会各1人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省音乐家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省音乐家协会各2人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省美术家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省美术家协会各3人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省摄影家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省摄影家协会各7人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中国机联学会会员",
+          "target": "广东省书法家协会会员",
+          "relation": "同类",
+          "evidence": "中国机联学会会员、广东省书法家协会各1人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1610": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆常以文会友举行征诗活动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵诗社",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "1984年成立读书会在西樵山白云洞举行雅集活动",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵诗社",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "1985年8月南海、三水、高明、石湾4县区的150多名诗人在北京白云洞举行雅集活动",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "始建于",
+          "evidence": "云泉仙馆常以文会友举行征诗活动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵诗社",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "1981年成立西樵诗社",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "1991年4月18日两广枫",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1611": {
+      "relations": [
+        {
+          "source": "两广枫联学会",
+          "target": "西樵中旅社",
+          "relation": "活动于",
+          "evidence": "1991年4月18日 两广枫联学会在西樵中旅社举行雅集活动",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵文艺小报",
+          "target": "西樵中旅社",
+          "relation": "承载文化",
+          "evidence": "1995年创办《西樵文艺》小报",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵画会",
+          "target": "西樵画廊",
+          "relation": "活动于",
+          "evidence": "1986年10月19日成立西樵画会，1987年西樵画廊落成并举办了11期美术作品展",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵画廊",
+          "target": "天镇峰公园",
+          "relation": "位于",
+          "evidence": "1989年9月西樵画廊迁到天镇峰公园",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "鹤勇强",
+          "target": "西樵画会",
+          "relation": "关联人物",
+          "evidence": "1986年10月19日成立西樵画会",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "鹤勇强",
+          "target": "西樵书法协会",
+          "relation": "关联人物",
+          "evidence": "1987年4月14日成立西樵书法协会",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵文化站",
+          "target": "西樵中旅社",
+          "relation": "承载文化",
+          "evidence": "1978年西樵文化站成立美术组会员19人",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵文化站",
+          "target": "西樵书法协会",
+          "relation": "创建修建",
+          "evidence": "1979年成立西樵文化站书法组会员15人，1987年4月14日成立西樵书法协会",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1612": {
+      "relations": []
+    },
+    "chunk_1613": {
+      "relations": []
+    },
+    "chunk_1614": {
+      "relations": [
+        {
+          "source": "群贤剧社",
+          "target": "群贤小隐曲艺队",
+          "relation": "承载文化",
+          "evidence": "群贤小隐有曲艺队改为群贤剧社",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "北帝诞",
+          "target": "南海县西樵之夏音乐曲艺花会",
+          "relation": "发生于",
+          "evidence": "1981年8月南海县西樵之夏音乐曲艺花会在西樵山白云洞举行",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1615": {
+      "relations": [
+        {
+          "source": "西樵音乐曲艺协会送戏下乡",
+          "target": "玉广场",
+          "relation": "承载文化",
+          "evidence": "1999年12月25日在厅玉广场举办 迎千年迈向新世纪文艺晚会",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1616": {
+      "relations": []
+    },
+    "chunk_1617": {
+      "relations": []
+    },
+    "chunk_1618": {
+      "relations": [
+        {
+          "source": "西权剧院",
+          "target": "西权文化中心",
+          "relation": "承载文化",
+          "evidence": "西权文化中心内的剧院",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西权剧院",
+          "target": "西樵会堂",
+          "relation": "同类",
+          "evidence": "所有演出活动就在会场进行",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1619": {
+      "relations": []
+    },
+    "chunk_1620": {
+      "relations": []
+    },
+    "chunk_1621": {
+      "relations": []
+    },
+    "chunk_1622": {
+      "relations": []
+    },
+    "chunk_1623": {
+      "relations": []
+    },
+    "chunk_1624": {
+      "relations": []
+    },
+    "chunk_1625": {
+      "relations": [
+        {
+          "source": "康有为故居",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "1986 年 南 海县博物 馆 迁 至 西 权 山 蠕 龙 洞。共 投资 89 万 元建 筑 面积 5000 平方 米。博 物 馆 负责 南海境内 西 樵 山、西 岸、庆 云 洞 、陈 启 沅 故居和 康有为 故居 等文物 管理 及 保护 工作",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅故居",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "1986 年 南 海县博物 馆 迁 至 西 权 山 蠕 龙 洞。共 投资 89 万 元建 筑 面积 5000 平方 米。博 物 馆 负责 南海境内 西 樵 山、西 岸、庆 云 洞 、陈 启 沅 故居和 康有为 故居 等文物 管理 及 保护 工作",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1626": {
+      "relations": [
+        {
+          "source": "中山大学教授架鈧寿",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "中山大学教授架鈧寿在北京举行的中国猿人第一个头盖骨发现30周年纪念会上作了专题报告",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "广东省博物馆的考古工作者",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "广东省博物馆的考古工作者到西樵山复查、发现了新的石器分布点",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "贾兰坡",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "1960年 中国考古学家、教授贾兰坡在西樵山西部镇第一级文化头峰山腰西坡上发现了保存完好的贝壳堆积并就西樵山遗址的重要发现提出了西樵山文化这一概念",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "夏鼐",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "1979年中国考古学家夏鼐在总结新中国考古30年成就时再次提到西樵山文化这一概念",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山文化",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "1960年中国考古学家、教授贾兰坡在西樵山西部镇第一级文化头峰山腰西坡上发现了保存完好的贝壳堆积并就西樵山遗址的重要发现提出了西樵山文化这一概念",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山文化",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "1974年以后不少考古工作者多次到西樵山",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1627": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "云路村",
+          "relation": "位于",
+          "evidence": "西樵山云路村北公路旁的铁泉岩和藏书岩附近",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山遗址",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "1978年经广东省人民政府审定公布的省级重点文物保护单位",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山遗址",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "1978年经广东省人民政府审定公布的省级重点文物保护单位",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1628": {
+      "relations": []
+    },
+    "chunk_1629": {
+      "relations": []
+    },
+    "chunk_1630": {
+      "relations": []
+    },
+    "chunk_1631": {
+      "relations": []
+    },
+    "chunk_1632": {
+      "relations": []
+    },
+    "chunk_1633": {
+      "relations": [
+        {
+          "source": "大同",
+          "target": "贝丘遗址",
+          "relation": "属于时期",
+          "evidence": "1994年大同划入西樵原在大同经文物普查发现的贝丘遗址8处",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大同圩",
+          "target": "贝丘遗址",
+          "relation": "承载文化",
+          "evidence": "大同圩周土整平地贝壳分布面积颇广有文化层堆积陶片丰富",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "贝丘遗址",
+          "target": "大同",
+          "relation": "位于",
+          "evidence": "1994年大同划入西樵原在大同经文物普查发现的贝丘遗址8处",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1634": {
+      "relations": []
+    },
+    "chunk_1635": {
+      "relations": []
+    },
+    "chunk_1636": {
+      "relations": [
+        {
+          "source": "鱼塘",
+          "target": "新高家村",
+          "relation": "位于",
+          "evidence": "鱼塘底到夹砂绳纹陶片和动物骨骼。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "鱼塘",
+          "target": "新河新楼村",
+          "relation": "位于",
+          "evidence": "鱼塘底到夹砂绳纹陶片和动物骨骼。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "鱼塘",
+          "target": "新河村螺岗",
+          "relation": "位于",
+          "evidence": "鱼塘底到夹砂绳纹陶片和动物骨骼。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "新高家村",
+          "target": "桥头",
+          "relation": "位于",
+          "evidence": "联新高家村西公路平地涌边可见到文化层堆积采集到来砂绳纹陶片桥头",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "新河新楼村",
+          "target": "桥头",
+          "relation": "位于",
+          "evidence": "联新高家村西公路平地涌边可见到文化层堆积采集到来砂绳纹陶片桥头",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "新河村螺岗",
+          "target": "桥头",
+          "relation": "位于",
+          "evidence": "联新高家村西公路平地涌边可见到文化层堆积采集到来砂绳纹陶片桥头",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1637": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "大同灶岗",
+          "relation": "位于",
+          "evidence": "重点记录两个有代表性的遗址即大同灶岗贝丘遗址和百西乓鱼岗贝丘遗址",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "百西乓鱼岗",
+          "relation": "位于",
+          "evidence": "重点记录两个有代表性的遗址即大同灶岗贝丘遗址和百西乓鱼岗贝丘遗址",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1638": {
+      "relations": []
+    },
+    "chunk_1639": {
+      "relations": []
+    },
+    "chunk_1640": {
+      "relations": [
+        {
+          "source": "石燕岩",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "石天燕岩石遗址在西樵山狮脑峰东南面",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石燕岩",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "明朝以前多为露天开采明朝以后发展为洞穴开采",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石燕岩",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "石天燕岩石遗址在西樵山狮脑峰东南面",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石岗圩",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵附近一带的建筑、春白、石柱、夹柱石均是此种石料",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1641": {
+      "relations": [
+        {
+          "source": "洞穴开采",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "洞穴开采遗留的结构",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "洞穴开采",
+          "target": "石天窗格",
+          "relation": "承载文化",
+          "evidence": "石天窗格就是采用此种方法开采而成",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "洞穴开采",
+          "target": "洞肉人",
+          "relation": "承载文化",
+          "evidence": "洞肉人工采石遗迹明显",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "露天开采",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "露天开采明朝以后发展为洞穴开采",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "斜井掘进",
+          "target": "石天窗格",
+          "relation": "承载文化",
+          "evidence": "石天窗格就是采用此种方法开采而成",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "竹园里村冶炼遗址",
+          "target": "河岗竹园村",
+          "relation": "位于",
+          "evidence": "竹园里村冶炼遗址在河岗竹园村南端鱼塘东侧",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "竹园里村冶炼遗址",
+          "target": "太平鲤鱼岗",
+          "relation": "位于",
+          "evidence": "铁屎墩冶铁遗址在太平鲤鱼岗东北田野中",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1642": {
+      "relations": [
+        {
+          "source": "湛甘泉",
+          "target": "云谷旧白沙祠",
+          "relation": "活动于",
+          "evidence": "湛甘泉和王阳明赠诗在云谷旧白沙祠后",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛甘泉",
+          "target": "大科峰南峭壁",
+          "relation": "活动于",
+          "evidence": "楷书横刻。清邓士宪书。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1643": {
+      "relations": [
+        {
+          "source": "湛甘泉",
+          "target": "行书摩崖",
+          "relation": "承载文化",
+          "evidence": "行 书 摩 崖 湛 甘泉 书。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "江若水",
+          "target": "行书摩崖",
+          "relation": "著有",
+          "evidence": "末行 署 前 兵部 尚书 八十二 公 江 若水 书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云谷",
+          "target": "行书摩崖",
+          "relation": "承载文化",
+          "evidence": "千秋 云 谷还归我 三 二 羊求 作近邻。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1644": {
+      "relations": [
+        {
+          "source": "东毅",
+          "target": "柏E山",
+          "relation": "活动于",
+          "evidence": "东毅。正书。诗已柏E山张硕载",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1645": {
+      "relations": [
+        {
+          "source": "湛若水",
+          "target": "仰辰台",
+          "relation": "创建修建",
+          "evidence": "丙午九月十二日新定仰辰台 湛若水书",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛若水",
+          "target": "妈岩",
+          "relation": "活动于",
+          "evidence": "在锦岩内。正书。诗曰...",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1646": {
+      "relations": [
+        {
+          "source": "黎简",
+          "target": "石燕岩",
+          "relation": "活动于",
+          "evidence": "石屏峰在石燕岩前石屏峰上。正书直刻。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石燕岩",
+          "target": "玉白洞",
+          "relation": "位于",
+          "evidence": "玉白岩在怕在玉白洞云洞玉口内。岩正上书。正。摩书。横崖横刻刻。",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1647": {
+      "relations": [
+        {
+          "source": "何子明",
+          "target": "白云洞",
+          "relation": "关联人物",
+          "evidence": "何子明，白云洞主人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "何元干",
+          "target": "白云洞",
+          "relation": "关联人物",
+          "evidence": "外孙 何 元干重 刻",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "何子明",
+          "target": "白云岩",
+          "relation": "关联人物",
+          "evidence": "念 白云主人 何子明",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1648": {
+      "relations": [
+        {
+          "source": "白云径",
+          "target": "白云洞",
+          "relation": "位于",
+          "evidence": "白云径径 满 白云时。战 破 白云迹心与 白云 期 。卫 彼 和 白云 洞 洞里白云迷。跳出白云",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "白云静室",
+          "relation": "位于",
+          "evidence": "白云静室 在 白洞云南辟上。隶书。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "梁烽乔山氏",
+          "target": "白云径",
+          "relation": "著有",
+          "evidence": "铁 桥 主人梁 烽 乔山氏 草 。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "何白云先生",
+          "target": "白云洞",
+          "relation": "活动于",
+          "evidence": "何 白 云先生读 书处在 岩 口 。正书 。直刻。旁刻孙 元 干重修。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "仇效忠",
+          "target": "白云洞",
+          "relation": "著有",
+          "evidence": "奇观 在 白洞云壁上。正书。右 旁刻 民国二十 四年春。左 旁 刻 乙 已 观 eT tivkiziG DISRR BROS NIT MAWA Me ABE BAEW AHA BHR TEA IADAP IEA 2 HOEK BAJAUR RAB AADAP iE BA BA",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "杜禧芝",
+          "target": "白云洞",
+          "relation": "著有",
+          "evidence": "杜 禧 芝 铭 直道人题",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1649": {
+      "relations": []
+    },
+    "chunk_1650": {
+      "relations": []
+    },
+    "chunk_1651": {
+      "relations": [
+        {
+          "source": "关风鸣",
+          "target": "石门",
+          "relation": "位于",
+          "evidence": "石门在披云台右侧巨石上",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1652": {
+      "relations": []
+    },
+    "chunk_1653": {
+      "relations": [
+        {
+          "source": "逍遥台",
+          "target": "小桃源",
+          "relation": "位于",
+          "evidence": "逍遥台在逍遥台上。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "小桃源",
+          "target": "涤尘桥",
+          "relation": "位于",
+          "evidence": "涤尘桥在小桃源内。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "小桃源",
+          "target": "水镜",
+          "relation": "位于",
+          "evidence": "水镜在小桃源内。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1654": {
+      "relations": [
+        {
+          "source": "试剑石",
+          "target": "小桃源",
+          "relation": "位于",
+          "evidence": "试剑石在小桃源",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "试剑石",
+          "target": "小桃源",
+          "relation": "承载文化",
+          "evidence": "试剑石上有题诗",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "试剑石",
+          "target": "小桃源",
+          "relation": "活动于",
+          "evidence": "试剑石位于小桃源",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1655": {
+      "relations": [
+        {
+          "source": "岑怀瑾",
+          "target": "乾隆庚成中秋",
+          "relation": "承载文化",
+          "evidence": "乾隆庚成中秋里人岑怀瑾题并书",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "岑怀伯",
+          "target": "乾隆庚成初春",
+          "relation": "承载文化",
+          "evidence": "乾隆庚成初春里人岑怀伯题并书",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "钓矶",
+          "target": "会龙湖",
+          "relation": "位于",
+          "evidence": "钓矶在会龙湖旁巨石上",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "观澜印月",
+          "target": "会龙湖",
+          "relation": "位于",
+          "evidence": "观澜印月在会龙湖旁",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "奎光楼顶层",
+          "target": "奎光楼",
+          "relation": "属于时期",
+          "evidence": "奎光楼顶层：西樵山上的建筑，顶层有刻字",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1656": {
+      "relations": [
+        {
+          "source": "三湖书院",
+          "target": "林则徐",
+          "relation": "著有",
+          "evidence": "三 湖 书院 AHGAER EBMSA WotR RAL 浣督 粤 使者林则徐 书",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "道光",
+          "relation": "始建于",
+          "evidence": "旁 刻 道光 成申新 正钦差大 臣",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "高士祠",
+          "target": "道光",
+          "relation": "始建于",
+          "evidence": "旁 刻 道光 辛 丑 仲春 里人李 宗",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1657": {
+      "relations": [
+        {
+          "source": "高士祠",
+          "target": "披云台",
+          "relation": "位于",
+          "evidence": "高士祠在披云台右",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "郭沫若",
+          "target": "高士祠",
+          "relation": "关联人物",
+          "evidence": "旁刻郭沫若题字",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1658": {
+      "relations": [
+        {
+          "source": "方献夫幕志铭石碑",
+          "target": "清代",
+          "relation": "记载于",
+          "evidence": "碑长103米宽066米厚014米。石面刻有FAROERAAH BOR太子太保吏部尚书武英磺大学士赠太保谥文曙方公墓志铭",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1659": {
+      "relations": []
+    },
+    "chunk_1660": {
+      "relations": []
+    },
+    "chunk_1661": {
+      "relations": []
+    },
+    "chunk_1662": {
+      "relations": []
+    },
+    "chunk_1663": {
+      "relations": []
+    },
+    "chunk_1664": {
+      "relations": []
+    },
+    "chunk_1665": {
+      "relations": []
+    },
+    "chunk_1666": {
+      "relations": []
+    },
+    "chunk_1667": {
+      "relations": []
+    },
+    "chunk_1668": {
+      "relations": []
+    },
+    "chunk_1669": {
+      "relations": []
+    },
+    "chunk_1670": {
+      "relations": []
+    },
+    "chunk_1671": {
+      "relations": []
+    },
+    "chunk_1672": {
+      "relations": []
+    },
+    "chunk_1673": {
+      "relations": []
+    },
+    "chunk_1674": {
+      "relations": []
+    },
+    "chunk_1675": {
+      "relations": []
+    },
+    "chunk_1676": {
+      "relations": []
+    },
+    "chunk_1677": {
+      "relations": []
+    },
+    "chunk_1678": {
+      "relations": []
+    },
+    "chunk_1679": {
+      "relations": []
+    },
+    "chunk_1680": {
+      "relations": []
+    },
+    "chunk_1681": {
+      "relations": []
+    },
+    "chunk_1682": {
+      "relations": []
+    },
+    "chunk_1683": {
+      "relations": []
+    },
+    "chunk_1684": {
+      "relations": []
+    },
+    "chunk_1685": {
+      "relations": []
+    },
+    "chunk_1686": {
+      "relations": []
+    },
+    "chunk_1687": {
+      "relations": []
+    },
+    "chunk_1688": {
+      "relations": [
+        {
+          "source": "清乾隆十五年",
+          "target": "李汝昭",
+          "relation": "记载于",
+          "evidence": "柴胡等数十剂治愈一位患病两个月屡医无效态奉一息家人已为之准备棺材的一位伤寒病人名医郭治用世所罕见的项蒸外治法治愈一例清远县男性水肿患者。1950年11月成立官山联合诊所有中医陈洋清、杨秩挺、秦达初。骨科有黎剑辉、陆棉、康佳雄等。20世纪80年代西樵卫生院中医黄昌明以针刺合谷焙车从为主加牵正散治疗面神经麻痹48例治愈43例",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "官山联合诊所",
+          "target": "清远县",
+          "relation": "位于",
+          "evidence": "1950年11月成立官山联合诊所有中医陈洋清、杨秩挺、秦达初。骨科有黎剑辉、陆棉、康佳雄等。20世纪80年代西樵卫生院中医黄昌明以针刺合谷焙车从为主加牵正散治疗面神经麻痹48例治愈43例",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "何永灵",
+          "target": "西樵医院",
+          "relation": "活动于",
+          "evidence": "19881990年间西樵卫生院中医师何永灵运用轩滁法治疗入跨咳嗽久泻脱肛久漏成骨共13例疗效满意。西樵卫生院医师余悦均运用手法复位治疗肪骨外踩骨折旋转移位10例经6一7周治疗功能基本恢复。1994年开展股骨置换术治疗股骨、颈骨折的老年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "余悦均",
+          "target": "西樵医院",
+          "relation": "活动于",
+          "evidence": "19881990年间西樵卫生院中医师何永灵运用轩滁法治疗入跨咳嗽久泻脱肛久漏成骨共13例疗效满意。西樵卫生院医师余悦均运用手法复位治疗肪骨外踩骨折旋转移位10例经6一7周治疗功能基本恢复。1994年开展股骨置换术治疗股骨、颈骨折的老年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1689": {
+      "relations": [
+        {
+          "source": "西医",
+          "target": "官山圩",
+          "relation": "承载文化",
+          "evidence": "1930年官山圩曾设有由官山商民办的官山方便医院",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西医",
+          "target": "官山圩",
+          "relation": "活动于",
+          "evidence": "1930年官山圩曾设有由官山商民办的官山方便医院",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西医",
+          "target": "官山圩",
+          "relation": "活动于",
+          "evidence": "1950年11月官山联合诊所成立只有门诊无住院部西医无分科只有专一妇产科",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西医",
+          "target": "官山圩",
+          "relation": "活动于",
+          "evidence": "1963年成立西权卫生院以西医为主设有10张住院病床",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1690": {
+      "relations": []
+    },
+    "chunk_1691": {
+      "relations": []
+    },
+    "chunk_1692": {
+      "relations": []
+    },
+    "chunk_1693": {
+      "relations": []
+    },
+    "chunk_1694": {
+      "relations": []
+    },
+    "chunk_1695": {
+      "relations": []
+    },
+    "chunk_1696": {
+      "relations": []
+    },
+    "chunk_1697": {
+      "relations": []
+    },
+    "chunk_1698": {
+      "relations": []
+    },
+    "chunk_1699": {
+      "relations": []
+    },
+    "chunk_1700": {
+      "relations": []
+    },
+    "chunk_1701": {
+      "relations": []
+    },
+    "chunk_1702": {
+      "relations": []
+    },
+    "chunk_1703": {
+      "relations": []
+    },
+    "chunk_1704": {
+      "relations": []
+    },
+    "chunk_1705": {
+      "relations": []
+    },
+    "chunk_1706": {
+      "relations": []
+    },
+    "chunk_1707": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "声水窦",
+          "relation": "创建修建",
+          "evidence": "捐资重修声水窦",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "克勤义学",
+          "relation": "创建修建",
+          "evidence": "倡办克勤义学",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "官山普济堂",
+          "relation": "创建修建",
+          "evidence": "资助官山普济堂",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "寿世党药材店",
+          "relation": "创建修建",
+          "evidence": "资助设立寿世党药材店",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "金瓯堡同善堂",
+          "relation": "属于时期",
+          "evidence": "光绪年间金瓯堡儒村设立的慈善机构",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "百光堡尝正善堂",
+          "relation": "属于时期",
+          "evidence": "光绪年间百光堡大岗墟设立的慈善机构",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "官山方便医院",
+          "relation": "属于时期",
+          "evidence": "民国时期官山设立的济贫医疗机构",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1708": {
+      "relations": []
+    },
+    "chunk_1709": {
+      "relations": []
+    },
+    "chunk_1710": {
+      "relations": []
+    },
+    "chunk_1711": {
+      "relations": []
+    },
+    "chunk_1712": {
+      "relations": []
+    },
+    "chunk_1713": {
+      "relations": []
+    },
+    "chunk_1714": {
+      "relations": []
+    },
+    "chunk_1715": {
+      "relations": []
+    },
+    "chunk_1716": {
+      "relations": []
+    },
+    "chunk_1717": {
+      "relations": []
+    },
+    "chunk_1718": {
+      "relations": []
+    },
+    "chunk_1719": {
+      "relations": []
+    },
+    "chunk_1720": {
+      "relations": []
+    },
+    "chunk_1721": {
+      "relations": []
+    },
+    "chunk_1722": {
+      "relations": []
+    },
+    "chunk_1723": {
+      "relations": []
+    },
+    "chunk_1724": {
+      "relations": [
+        {
+          "source": "抗日阵亡将士暨死难同胞纪念碑",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "在西樵山东部珠峰旁龙船坑口建立南海县西樵山抗日阵亡将士暨死难同胞纪念碑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "抗日胜利纪念亭",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "在百步梯道路旁和火山岩口建立抗日胜利纪念亭",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1725": {
+      "relations": [
+        {
+          "source": "抗日胜利纪念亭",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "建立抗日胜利纪念亭。并在西樵山上举行大型的追悼会。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1726": {
+      "relations": []
+    },
+    "chunk_1727": {
+      "relations": []
+    },
+    "chunk_1728": {
+      "relations": []
+    },
+    "chunk_1729": {
+      "relations": []
+    },
+    "chunk_1730": {
+      "relations": []
+    },
+    "chunk_1731": {
+      "relations": []
+    },
+    "chunk_1732": {
+      "relations": []
+    },
+    "chunk_1733": {
+      "relations": []
+    },
+    "chunk_1734": {
+      "relations": []
+    },
+    "chunk_1735": {
+      "relations": []
+    },
+    "chunk_1736": {
+      "relations": []
+    },
+    "chunk_1737": {
+      "relations": []
+    },
+    "chunk_1738": {
+      "relations": []
+    },
+    "chunk_1739": {
+      "relations": []
+    },
+    "chunk_1740": {
+      "relations": []
+    },
+    "chunk_1741": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "民乐村",
+          "relation": "位于",
+          "evidence": "民乐村位于西樵山下",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "岭西羔州村",
+          "relation": "位于",
+          "evidence": "岭西羔州村位于西樵山下",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "文明安全小区",
+          "relation": "承载文化",
+          "evidence": "民乐村、岭西羔州村等16个单位被评为安全小区",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民国时期",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "民国时期境内无专设侨务机构",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1742": {
+      "relations": [
+        {
+          "source": "西樵侨联大厦",
+          "target": "西樵公社",
+          "relation": "位于",
+          "evidence": "2001年9月占地2000多平方米的西樵侨联大厦建成西樵侨务办公室迁至侨联大厦内办公",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1743": {
+      "relations": []
+    },
+    "chunk_1744": {
+      "relations": []
+    },
+    "chunk_1745": {
+      "relations": [
+        {
+          "source": "《明史》",
+          "target": "道明",
+          "relation": "记载于",
+          "evidence": "西权人出国历史最早见于《明史。外国传五三佛齐》",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1746": {
+      "relations": []
+    },
+    "chunk_1747": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "安南",
+          "relation": "活动于",
+          "evidence": "陈启沅到安南经商",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫",
+          "relation": "承载文化",
+          "evidence": "陈启沅在安南开设的经营纱网和杂货的店铺名称",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1748": {
+      "relations": []
+    },
+    "chunk_1749": {
+      "relations": []
+    },
+    "chunk_1750": {
+      "relations": []
+    },
+    "chunk_1751": {
+      "relations": [
+        {
+          "source": "任连",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "任连选可连任下设账房、知客、巡照任期内都是一年。凡申请人道须由两名已人道者作介绍填写人道手册经三个月考察被认为属品端好善、有心莫道的方可予吸收。获吸收入道的人需交纳一次人道费满三年后可长住馆内",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "道教感会",
+          "relation": "承载文化",
+          "evidence": "仙馆每年举行道教感会有农历正月初九的玉皇诞、四月十四的虽祖圣诞和七月十五的重兰节3次。",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1752": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "咸丰二年",
+          "relation": "始建于",
+          "evidence": "由 于 住 馆 的 人 日 增 而 不 断 扩 建 从 咸丰 二 年 1852 年 起逐 渐 建设形成 云泉仙 馆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "赞化言",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "帝亲殿",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "祖堂",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "墨庄",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "自在楼",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "邯郸别局",
+          "target": "云泉仙馆",
+          "relation": "属于时期",
+          "evidence": "含 赞 化 言、帝 亲 殿、祖 堂 、墨庄和 自在 楼 和 邯郸别怪 两 部 分 建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "官山圩",
+          "relation": "位于",
+          "evidence": "从 民国 2 年 起先 后 在 香港、西 樵 官 山 圩 、佛 山 镇、广 州 市购置房产",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "佛山市",
+          "relation": "位于",
+          "evidence": "从 民国 2 年 起先 后 在 香港、西 樵 官 山 圩 、佛 山 镇、广 州 市购置房产",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "广州市",
+          "relation": "位于",
+          "evidence": "从 民国 2 年 起先 后 在 香港、西 樵 官 山 圩 、佛 山 镇、广 州 市购置房产",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "由 于 住 馆 的 人 日 增 而 不 断 扩 建 从 咸丰 二 年 1852 年 起逐 渐 建设形成 云泉仙 馆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1753": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆与邯郸别即等建筑物1958年开发西樵山时交由西樵林场接管",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "庆云洞",
+          "relation": "同类",
+          "evidence": "云泉仙馆与邯郸别即等建筑物",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "庆云洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "庆云洞始建于清光绪二十四年1898年",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1754": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "清光绪二十七年",
+          "relation": "始建于",
+          "evidence": "云泉仙馆始 建于清光绪二十七年1901 年",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "赤松黄大仙普庆坛",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山赤松黄大仙普庆坛",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "赤松黄大仙普庆坛",
+          "target": "清光绪二十七年",
+          "relation": "始建于",
+          "evidence": "始 建于清光绪二十七年1901 年",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "赤松黄大仙普庆坛",
+          "target": "七星石矿场",
+          "relation": "位于",
+          "evidence": "在西樵山原七星石矿场内恢复黄大仙普庆坛",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "白云寺位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "宝峰寺",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "宝峰寺位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "正德二年",
+          "target": "宝峰寺",
+          "relation": "始建于",
+          "evidence": "正德二年1507年创建",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1755": {
+      "relations": [
+        {
+          "source": "嘉庆二十四年",
+          "target": "白云古寺",
+          "relation": "始建于",
+          "evidence": "嘉庆二十四年（1819年）清辉和尚募化重建改名和白云宝震",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民国10年",
+          "target": "基教督西樵堂",
+          "relation": "始建于",
+          "evidence": "建于民国10年（1921年）",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "民国2年",
+          "target": "基教督西樵堂",
+          "relation": "关联人物",
+          "evidence": "民国2年（1913年）19岁的女传教士何义思由美国前来协助",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1756": {
+      "relations": [
+        {
+          "source": "何义思",
+          "target": "官山教会",
+          "relation": "创建修建",
+          "evidence": "10年正式以基督教希伯仑会官山教会注册全面发展教务购置土地在官山先后办有花边厂、布广、强华小学和男女圣经班",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1757": {
+      "relations": [
+        {
+          "source": "希伯仑教会",
+          "target": "官山礼拜堂",
+          "relation": "创建修建",
+          "evidence": "和希伯仑教会在中国西樵官山建会设堂",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1758": {
+      "relations": [
+        {
+          "source": "灰塑狮子",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "庙内有灰塑狮子，神态逼真威武",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石将军",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "庙内有石将军，雕工精巧、造型生动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石狮子",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "庙内有石狮子，雕工精巧、造型生动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石天井栏",
+          "target": "云泉仙馆",
+          "relation": "承载文化",
+          "evidence": "庙内有石天井栏，雕工精巧、造型生动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1759": {
+      "relations": [
+        {
+          "source": "康四",
+          "target": "石湾",
+          "relation": "活动于",
+          "evidence": "精巧、造型生动。房项陶塑是当时石湾的一流陶艺",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "万明炉社",
+          "target": "石湾",
+          "relation": "活动于",
+          "evidence": "良内有一大钟是康四四十六年1707年重修时由佛山万明炉社铸造",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "真武帝君",
+          "target": "北帝庙",
+          "relation": "承载文化",
+          "evidence": "广东多水乡以水为始源所以来北帝庙又称为祖庙。诞期是农历三月初三",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "玄武",
+          "target": "北帝庙",
+          "relation": "承载文化",
+          "evidence": "广东多水乡以水为始源所以来北帝庙又称为祖庙。诞期是农历三月初三",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "北帝庙",
+          "target": "百西村头村",
+          "relation": "位于",
+          "evidence": "再西文武唐人位于百西村头村",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "文武庙",
+          "target": "百西村头村",
+          "relation": "位于",
+          "evidence": "再西文武唐人位于百西村头村",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "孔夫子",
+          "target": "文武庙",
+          "relation": "关联人物",
+          "evidence": "文武庙礼孔夫子和关帝",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "关帝",
+          "target": "文武庙",
+          "relation": "关联人物",
+          "evidence": "文武庙礼孔夫子和关帝",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "北帝庙",
+          "target": "乾隆二十六年",
+          "relation": "始建于",
+          "evidence": "庙内有石碑四块记录四次乾隆二十六年、乾隆四十一年、道光丙午年、同治七年重修的经过和捐款芳名",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "北帝庙",
+          "target": "道光丙午年",
+          "relation": "始建于",
+          "evidence": "庙内有石碑四块记录四次乾隆二十六年、乾隆四十一年、道光丙午年、同治七年重修的经过和捐款芳名",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1760": {
+      "relations": []
+    },
+    "chunk_1761": {
+      "relations": []
+    },
+    "chunk_1762": {
+      "relations": [
+        {
+          "source": "仓颉",
+          "target": "西樵山白云洞",
+          "relation": "位于",
+          "evidence": "为首创文字的仓颉，在西樵山白云洞。",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "春节",
+          "target": "交年",
+          "relation": "承载文化",
+          "evidence": "农历新旧年交接的时间点俗称交年。",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "春节",
+          "target": "守岁",
+          "relation": "承载文化",
+          "evidence": "守岁的人们。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1763": {
+      "relations": [
+        {
+          "source": "接财神",
+          "target": "压岁肴肉",
+          "relation": "同族",
+          "evidence": "有部分地区元日不杀生以吃斋菜和压岁肴肉为主",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "舞醒狮",
+          "target": "村庙",
+          "relation": "承载文化",
+          "evidence": "有携带香烛祭品到宗祠或村庙进行祭礼活动的",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "舞醒狮",
+          "target": "宗祠",
+          "relation": "承载文化",
+          "evidence": "有携带香烛祭品到宗祠或村庙进行祭礼活动的",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "压岁肴肉",
+          "target": "接财神",
+          "relation": "关联人物",
+          "evidence": "部分地区元日不杀生以吃斋菜和压岁肴肉为主，谓之接财神",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1764": {
+      "relations": []
+    },
+    "chunk_1765": {
+      "relations": [
+        {
+          "source": "元宵节",
+          "target": "舞狮子",
+          "relation": "承载文化",
+          "evidence": "元 宵 夜 有 些 地 方还有 舞 狮 子",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1766": {
+      "relations": [
+        {
+          "source": "元宵",
+          "target": "十番锣鼓",
+          "relation": "承载文化",
+          "evidence": "元宵夜有舞狮子、细龙、放烟花和十番锣鼓游行活动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "元宵",
+          "target": "炒米饼",
+          "relation": "盛产",
+          "evidence": "先制炒米饼以备这天食用",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "清明节",
+          "target": "炒米饼",
+          "relation": "承载文化",
+          "evidence": "先制炒米饼以备这天食用",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1767": {
+      "relations": []
+    },
+    "chunk_1768": {
+      "relations": []
+    },
+    "chunk_1769": {
+      "relations": []
+    },
+    "chunk_1770": {
+      "relations": []
+    },
+    "chunk_1771": {
+      "relations": [
+        {
+          "source": "中秋节",
+          "target": "月饼",
+          "relation": "承载文化",
+          "evidence": "中秋节习俗一是吃月饼并以月饼相馈赠",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "中秋节",
+          "target": "拜月",
+          "relation": "承载文化",
+          "evidence": "中秋之夜圆月东升时设宣拜月交家同在月下置酒赏月吃月饼咀田螺剥熟开柚子扫菱角等边吃边燃炮拜月娘",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1772": {
+      "relations": []
+    },
+    "chunk_1773": {
+      "relations": [
+        {
+          "source": "重阳节",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "西樵山是重阳节日最佳的登高点",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1774": {
+      "relations": [
+        {
+          "source": "登高",
+          "target": "重阳节",
+          "relation": "发生于",
+          "evidence": "也 有 趁 登高扫 祭先人",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "登高",
+          "target": "老人节",
+          "relation": "发生于",
+          "evidence": "国家 将 重阳 节 定 重节的阳官山城区 为 老人节",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "祭祖",
+          "target": "冬至",
+          "relation": "承载文化",
+          "evidence": "这 一 天  各 家 燕 糙、宁 鸡 杀 网、作 成或甜 汤 圆 和祭礼 祖 宗。祭 后围炉共桌 打 边 炉  吃火锅",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "过冬",
+          "target": "冬至",
+          "relation": "发生于",
+          "evidence": "冬至 农历十四 节气 之 一也 是 时序和 节 序 合 一 的 节日",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1775": {
+      "relations": [
+        {
+          "source": "祭灶",
+          "target": "确麦芽糖",
+          "relation": "承载文化",
+          "evidence": "一定要有的确麦芽糖",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1776": {
+      "relations": []
+    },
+    "chunk_1777": {
+      "relations": []
+    },
+    "chunk_1778": {
+      "relations": []
+    },
+    "chunk_1779": {
+      "relations": []
+    },
+    "chunk_1780": {
+      "relations": []
+    },
+    "chunk_1781": {
+      "relations": [
+        {
+          "source": "信三仰习俗",
+          "target": "土地庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "北帝庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "观音庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "文武庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "华光庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "贤福庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "三灵庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "三元宫",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "五言庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "文昌庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "三界庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "金花庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "朱大元帅庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "天后宫",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "车公庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "信三仰习俗",
+          "target": "康公庙",
+          "relation": "承载文化",
+          "evidence": "信三仰习俗象拜庙神建国前境内庙宇林立有200多座。最多是土地庙其次有北帝庙、观音庙等",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1782": {
+      "relations": []
+    },
+    "chunk_1783": {
+      "relations": [
+        {
+          "source": "大酥棚",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "建一个大酥棚俗称酰坛，然后分别延请僧、尼、道三方各据分坛育经礼佛。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "开冬学",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "开学的日子多选在冬季称开冬学。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "角仔",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "开学时主家制作角仔以米粉担皮以肉料为馅蒸熟向亲友及近邻分送。",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "三字经",
+          "target": "西樵山",
+          "relation": "记载于",
+          "evidence": "开学之日孩子多于早晨起床穿上新衣参神祠祖带上用红纸皮包襄着的三本红皮书，三字经、王字文、幼学许内夹殴、茵各一株。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "王字文",
+          "target": "西樵山",
+          "relation": "记载于",
+          "evidence": "开学之日孩子多于早晨起床穿上新衣参神祠祖带上用红纸皮包襄着的三本红皮书，三字经、王字文、幼学许内夹殴、茵各一株。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "幼学许",
+          "target": "西樵山",
+          "relation": "记载于",
+          "evidence": "开学之日孩子多于早晨起床穿上新衣参神祠祖带上用红纸皮包襄着的三本红皮书，三字经、王字文、幼学许内夹殴、茵各一株。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "开冬学",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "开学的日子多选在冬季称开冬学。",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1784": {
+      "relations": [
+        {
+          "source": "《三字经》",
+          "target": "开笔礼",
+          "relation": "记载于",
+          "evidence": "教读《字三经》拿 着 学童的手描红 字",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "《王字文》",
+          "target": "开笔礼",
+          "relation": "记载于",
+          "evidence": "教读《字三经》拿 着 学童的手描红 字",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "《幼学许》",
+          "target": "开笔礼",
+          "relation": "记载于",
+          "evidence": "教读《字三经》拿 着 学童的手描红 字",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "孔子",
+          "target": "开笔礼",
+          "relation": "承载文化",
+          "evidence": "入 亢 后 先 参拜 孔子 再 拜 敬 熟 师",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1785": {
+      "relations": [
+        {
+          "source": "加冠礼",
+          "target": "成年礼",
+          "relation": "同类",
+          "evidence": "加冠礼、及敌礼表示已经进入成年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "及敌礼",
+          "target": "成年礼",
+          "relation": "同类",
+          "evidence": "加冠礼、及敌礼表示已经进入成年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "迎亲",
+          "target": "三书六礼",
+          "relation": "承载文化",
+          "evidence": "婚礼旧俗婚姻一概由父母包办而且必须实行三书六礼",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1786": {
+      "relations": [
+        {
+          "source": "文定",
+          "target": "迎亲",
+          "relation": "承载文化",
+          "evidence": "文定订婚 经问 名相亲后双 方合意便择 言 举行文定《众 称做小聘  即双方 互通各 自写有 自己 的 籍贯 、姓氏、年 庚 、住址和父母 、祖 父母 、曾祖父 母的字号姓氏",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "文定",
+          "target": "探嫁妆",
+          "relation": "承载文化",
+          "evidence": "女方 复回 礼 书 、拜帖及煎 堆糕 果 等给 家男 家则将 女方复回 的 糕 分赠 亲 友 。请 期 即 男方 择 定迎亲 吉 日 由 媒人 告知 女方《俗送称日 迎前亲一两天女 方 将 家 具 被服等嫁妆 送 至男家也 有 些 女 家 在 亲 迎 前夕将 嫁妆 及 亲友 送 来 的礼品 展 出 让 亲友观赏 称为探 嫁妆",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "迎亲",
+          "target": "探嫁妆",
+          "relation": "承载文化",
+          "evidence": "女方 复回 礼 书 、拜帖及煎 堆糕 果 等给 家男 家则将 女方复回 的 糕 分赠 亲 友 。请 期 即 男方 择 定迎亲 吉 日 由 媒人 告知 女方《俗送称日 迎前亲一两天女 方 将 家 具 被服等嫁妆 送 至男家也 有 些 女 家 在 亲 迎 前夕将 嫁妆 及 亲友 送 来 的礼品 展 出 让 亲友观赏 称为探 嫁妆",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "冠礼",
+          "target": "迎亲",
+          "relation": "承载文化",
+          "evidence": "男方请花 公 子夫女齐妇全的人 ARBRE 大床举行 冠礼即 替 新即戴上礼帽 帽 上筹花 身上挂红 女方请大 第七节 宗教 民俗 715。 擒陪伴 新 娘 的妇人 为 新 娘 举行 禾 礼",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "探嫁妆",
+          "target": "迎亲",
+          "relation": "承载文化",
+          "evidence": "女方 复回 礼 书 、拜帖及煎 堆糕 果 等给 家男 家则将 女方复回 的 糕 分赠 亲 友 。请 期 即 男方 择 定迎亲 吉 日 由 媒人 告知 女方《俗送称日 迎前亲一两天女 方 将 家 具 被服等嫁妆 送 至男家也 有 些 女 家 在 亲 迎 前夕将 嫁妆 及 亲友 送 来 的礼品 展 出 让 亲友观赏 称为探 嫁妆",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1787": {
+      "relations": []
+    },
+    "chunk_1788": {
+      "relations": []
+    },
+    "chunk_1789": {
+      "relations": []
+    },
+    "chunk_1790": {
+      "relations": []
+    },
+    "chunk_1791": {
+      "relations": []
+    },
+    "chunk_1792": {
+      "relations": [
+        {
+          "source": "杏头村",
+          "target": "简村",
+          "relation": "位于",
+          "evidence": "建国初 与简村为邻的杏头村",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "自梳女",
+          "target": "杏头村",
+          "relation": "盛产",
+          "evidence": "就有自梳女200多人",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "嫁鬼",
+          "target": "自梳女",
+          "relation": "承载文化",
+          "evidence": "有些自梳女于是名义上嫁给自己一个早已死去的男子俗称嫁鬼",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "嫁神主",
+          "target": "自梳女",
+          "relation": "承载文化",
+          "evidence": "有些自梳女于是名义上嫁给自己一个早已死去的男子俗称嫁神主",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1793": {
+      "relations": []
+    },
+    "chunk_1794": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "扒龙舟",
+          "relation": "承载文化",
+          "evidence": "扒龙舟西权地处珠江三角洲水网地带",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "扒龙舟",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "扒龙舟西权地处珠江三角洲水网地带",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1795": {
+      "relations": [
+        {
+          "source": "张飞",
+          "target": "醒狮",
+          "relation": "同类",
+          "evidence": "当中 分 圆 形、长 形、扁 形、葵 形 等 即 所 谓 张 飞 五彩色 二 花 面等一般分 黑、红、黄 三 色黑色 代表 张飞 红色 代表 关公 黄色 又 称 金色 代表 刘备。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "关羽",
+          "target": "醒狮",
+          "relation": "同类",
+          "evidence": "当中 分 圆 形、长 形、扁 形、葵 形 等 即 所 谓 张 飞 五彩色 二 花 面等一般分 黑、红、黄 三 色黑色 代表 张飞 红色 代表 关公 黄色 又 称 金色 代表 刘备。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "刘备",
+          "target": "醒狮",
+          "relation": "同类",
+          "evidence": "当中 分 圆 形、长 形、扁 形、葵 形 等 即 所 谓 张 飞 五彩色 二 花 面等一般分 黑、红、黄 三 色黑色 代表 张飞 红色 代表 关公 黄色 又 称 金色 代表 刘备。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1796": {
+      "relations": [
+        {
+          "source": "舞狮",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "舞狮是西樵山地区的传统民俗活动",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大头佛",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "大头佛是舞狮活动中扮演的角色",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛甘录",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "湛甘录在西樵山上讲学",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛甘录",
+          "target": "西樵山",
+          "relation": "同族",
+          "evidence": "湛甘录在西樵山上讲学",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1797": {
+      "relations": [
+        {
+          "source": "曹松",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "于咸通年未至乾符年间来到西樵山爱幕山中景色",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "曹松",
+          "target": "西樵山",
+          "relation": "著有",
+          "evidence": "曾把从浙江带来的顾沙茶种俗称为云雾茶教山民栽植焙制",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云雾茶",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "使西樵山成为广东最早的产茶区之一",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1798": {
+      "relations": [
+        {
+          "source": "正德九年",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "正德九年会试会元。告归成婚读书西樵山中",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "嘉靖元年",
+          "target": "西樵山",
+          "relation": "承载文化",
+          "evidence": "嘉靖元年授兵部主事",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1799": {
+      "relations": []
+    },
+    "chunk_1800": {
+      "relations": [
+        {
+          "source": "云谷书院",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "携眷寅居于西樵山上 开办云谷书院",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科书院",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "携眷寅居于西樵山上 开办大科书院",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛若水",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "携眷寅居于西樵山上 开办云谷书院和大科书院 倡理学",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云谷书院",
+          "target": "湛若水",
+          "relation": "创建修建",
+          "evidence": "携眷寅居于西樵山上 开办云谷书院",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科书院",
+          "target": "湛若水",
+          "relation": "创建修建",
+          "evidence": "携眷寅居于西樵山上 开办大科书院",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1801": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "天关书院",
+          "relation": "创建修建",
+          "evidence": "在广州开设天关书院",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "寅莫",
+          "relation": "活动于",
+          "evidence": "葬在西樵山上建有寅莫",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "湛甘泉集",
+          "relation": "著有",
+          "evidence": "遗车有《湛甘泉集》",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "天关书院",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "在广州开设天关书院",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "寅莫",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "葬在西樵山上建有寅莫",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛甘泉集",
+          "target": "湛甘泉",
+          "relation": "记载于",
+          "evidence": "遗车有《湛甘泉集》",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1802": {
+      "relations": []
+    },
+    "chunk_1803": {
+      "relations": [
+        {
+          "source": "唐练上",
+          "target": "国子监",
+          "relation": "著有",
+          "evidence": "该地学子上京人国子监是从此颜任内开始",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "次颜",
+          "target": "国子监",
+          "relation": "活动于",
+          "evidence": "该地学子上京人国子监是从此颜任内开始",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "次颜",
+          "target": "八寨屯兵",
+          "relation": "创建修建",
+          "evidence": "建议设立八寨屯兵",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "次颜",
+          "target": "宁远堂稿",
+          "relation": "著有",
+          "evidence": "结庐粤秀山下。雁后养利人立祠纪念遗著有《宁远堂稿》",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "严清",
+          "target": "次颜",
+          "relation": "关联人物",
+          "evidence": "以执法不阿清苦勤政受到大司寇严清的器重",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1804": {
+      "relations": [
+        {
+          "source": "镇东",
+          "target": "岳阳楼",
+          "relation": "活动于",
+          "evidence": "镇东在岳阳楼上题诗一首弃官南归",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "镇东",
+          "target": "岳阳楼",
+          "relation": "创建修建",
+          "evidence": "镇东在岳阳楼上题诗一首弃官南归",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1805": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "康有为四十一年升兵部职方郎中，奉命到西樵山处理总兵赵和良之事",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1806": {
+      "relations": [
+        {
+          "source": "梦瑶",
+          "target": "南园诗社",
+          "relation": "同族",
+          "evidence": "南园诗社盛极一时",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1807": {
+      "relations": []
+    },
+    "chunk_1808": {
+      "relations": [
+        {
+          "source": "梁融",
+          "target": "咸丰",
+          "relation": "属于时期",
+          "evidence": "清 咸丰 元年 1851 年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1809": {
+      "relations": []
+    },
+    "chunk_1810": {
+      "relations": []
+    },
+    "chunk_1811": {
+      "relations": []
+    },
+    "chunk_1812": {
+      "relations": [
+        {
+          "source": "仕钊",
+          "target": "光绪十六年",
+          "relation": "活动于",
+          "evidence": "光绪十六年1890年，寿辰仕钊进京随班祝寿",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "仕钊",
+          "target": "李鸿章",
+          "relation": "关联人物",
+          "evidence": "李鸿章调派任北洋舰队威远兵船正管轮",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "仕钊",
+          "target": "光绪二十二年",
+          "relation": "活动于",
+          "evidence": "光绪二十二年1896年，卒于家中",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1813": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "同治十一",
+          "relation": "活动于",
+          "evidence": "同治十一年 1872 年 陈启沅因生计远涉安南",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1814": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation": "活动于",
+          "evidence": "其侄回简村利用旧有三房和设备复办一家规模较小的利厚生缆丝三",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "利厚生缆丝三",
+          "target": "简村",
+          "relation": "位于",
+          "evidence": "其侄回简村利用旧有三房和设备复办一家规模较小的利厚生缆丝三",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "利贞缘丝厂",
+          "target": "简村",
+          "relation": "位于",
+          "evidence": "又跟次子一起制成足踏缆丝车以适应小资本者的需要并使用这种机在简村中增设了利贞缘丝厂",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "珠江三角洲",
+          "target": "利贞缘丝厂",
+          "relation": "盛产",
+          "evidence": "10年内风行珠江三角洲地区用此法者不下2万余人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1815": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "光绪十五年",
+          "relation": "属于时期",
+          "evidence": "光绪十五年1889年成举人",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪十五年",
+          "relation": "活动于",
+          "evidence": "光绪十五年1889年成举人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1816": {
+      "relations": [
+        {
+          "source": "潘誉征",
+          "target": "同治十二年",
+          "relation": "著有",
+          "evidence": "清同治十二年1873年应顺天乡试成举人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "潘誉征",
+          "target": "光绪七年",
+          "relation": "活动于",
+          "evidence": "其父病逝",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1817": {
+      "relations": [
+        {
+          "source": "誉征",
+          "target": "奉天府沈阳市",
+          "relation": "活动于",
+          "evidence": "其父斯注在奉天府沈阳市任督学病逝誉征前往扶枢归昔",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "誉征",
+          "target": "光绪七年1881年",
+          "relation": "属于时期",
+          "evidence": "光绪七年1881年其父斯注在奉天府沈阳市任督学病逝誉征前往扶枢归昔",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "誉征",
+          "target": "顺德",
+          "relation": "属于时期",
+          "evidence": "香山、顺德频海沙田多被盗匪盘路肆行揽劫耕农常受其害誉征据情上书请求派兵惩贡",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "誉征",
+          "target": "大栅围马头网水闸",
+          "relation": "活动于",
+          "evidence": "经常侵扰海疆戒严当局延请誉征办理广东全省团练誉征统筹全局协理各项机宜",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1818": {
+      "relations": [
+        {
+          "source": "誉征",
+          "target": "练水陆团勇",
+          "relation": "关联人物",
+          "evidence": "誉征性情孝顺友爱主理家务达30多年",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "誉征",
+          "target": "南海县志",
+          "relation": "著有",
+          "evidence": "光绪三十三年南海倡修县志FEEAEMEREUSERRAFREPUKAMTAHUGKIMAA B38oAVEREAFFMtSBLE培育后进门下成才者不乏人。生平布衣蔬食勤俭自持手订家规以读书明理勤俭谋生八字来勉励后人。乡族中举几修路建祠、创设义会及时恤贫困等都乐意出力嘉惠后人。上晚年潜心研讨经史。84岁时孙曾达20余人。93岁时参加清光绪二十九年1903年癸卯科试成举人。翌年赴京参加礼部试 试后房官读其文大加赞赏认为文笔足非老手写",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1819": {
+      "relations": [
+        {
+          "source": "房官",
+          "target": "礼部",
+          "relation": "活动于",
+          "evidence": "年赴京参加 礼部 试",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "程友琦",
+          "target": "举人",
+          "relation": "记载于",
+          "evidence": "光绪八年1882年 成举人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "程友琦",
+          "target": "进士",
+          "relation": "记载于",
+          "evidence": "二十一年成进士",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "程友琦",
+          "target": "翰林院编修",
+          "relation": "记载于",
+          "evidence": "选翰林院编修。曾充国史任馆协和修、编书处协修。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1820": {
+      "relations": [
+        {
+          "source": "戴鸿慈",
+          "target": "同治十二年",
+          "relation": "出生于",
+          "evidence": "同治十二年1873年考举人名列第一",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "同治十二年",
+          "relation": "活动于",
+          "evidence": "同治十二年1873年考举人名列第一",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "光绪二年",
+          "relation": "活动于",
+          "evidence": "光绪二年1876年成进士选翰林院庶吉士",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1821": {
+      "relations": []
+    },
+    "chunk_1822": {
+      "relations": []
+    },
+    "chunk_1823": {
+      "relations": []
+    },
+    "chunk_1824": {
+      "relations": []
+    },
+    "chunk_1825": {
+      "relations": [
+        {
+          "source": "前县令",
+          "target": "馆陶",
+          "relation": "位于",
+          "evidence": "河水从馆陶下注",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "前县令",
+          "target": "卫河",
+          "relation": "活动于",
+          "evidence": "调集村民把河道堵塞",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "如泣",
+          "target": "简村",
+          "relation": "同族",
+          "evidence": "子持 简村人",
+          "confidence": 1.0,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "子持",
+          "target": "简村",
+          "relation": "同族",
+          "evidence": "子持 简村人",
+          "confidence": 1.0,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1826": {
+      "relations": []
+    },
+    "chunk_1827": {
+      "relations": []
+    },
+    "chunk_1828": {
+      "relations": [
+        {
+          "source": "连捷",
+          "target": "博白",
+          "relation": "承载文化",
+          "evidence": "该地生产贫将文化落后一向认为难治",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大登",
+          "target": "博白",
+          "relation": "活动于",
+          "evidence": "大登到任后调查得知附近山寨",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大登",
+          "target": "嘉庆九年",
+          "relation": "属于时期",
+          "evidence": "嘉庆九年1804年成举人",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1829": {
+      "relations": []
+    },
+    "chunk_1830": {
+      "relations": []
+    },
+    "chunk_1831": {
+      "relations": [
+        {
+          "source": "龙头骨",
+          "target": "番禺陈沪",
+          "relation": "关联人物",
+          "evidence": "瞻仰租赁吊与会者有番禺陈沪、陈融等学者文人",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "龙头骨",
+          "target": "番禺陈融",
+          "relation": "关联人物",
+          "evidence": "瞻仰租赁吊与会者有番禺陈沪、陈融等学者文人",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1832": {
+      "relations": []
+    },
+    "chunk_1833": {
+      "relations": []
+    },
+    "chunk_1834": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "清光绪十四年1888年受聘为德国柏林大学汉文教授多年。归国后寄寓广州河南瑞华坊",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "德国柏林大学",
+          "relation": "创建修建",
+          "evidence": "曾为孙中山老师。区凤亏长于中国古典文学光绪十四年1888年受聘为德国柏林大学汉文教授多年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "孙中山",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "孙中山革命活动地点之一",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "孙中山",
+          "target": "兴中会总会",
+          "relation": "承载文化",
+          "evidence": "次年风亏与革命志士陆黎东、陈少白等协助孙中山在香港组织兴中会总会筹备武装起义",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "兴中会总会",
+          "target": "孙中山",
+          "relation": "传承于",
+          "evidence": "次年风亏与革命志士陆黎东、陈少白等协助孙中山在香港组织兴中会总会筹备武装起义",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1835": {
+      "relations": [
+        {
+          "source": "陆卑东",
+          "target": "香港",
+          "relation": "活动于",
+          "evidence": "避居香港任华民政务司署华文总书记兼香港荷里活道伦敦道会道济会长老",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈少白",
+          "target": "香港",
+          "relation": "活动于",
+          "evidence": "资助陈少白在香港创办《中国日报》宣传革命",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "《中国日报》",
+          "target": "陈少白",
+          "relation": "著有",
+          "evidence": "资助陈少白在香港创办《中国日报》宣传革命",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1836": {
+      "relations": []
+    },
+    "chunk_1837": {
+      "relations": []
+    },
+    "chunk_1838": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "中国之评论",
+          "relation": "著有",
+          "evidence": "《中国之评论》《新政安衡》《新政议论》和《与英国巴公讨论门户开放》等。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "新政安衡",
+          "relation": "著有",
+          "evidence": "《中国之评论》《新政安衡》《新政议论》和《与英国巴公讨论门户开放》等。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "新政议论",
+          "relation": "著有",
+          "evidence": "《中国之评论》《新政安衡》《新政议论》和《与英国巴公讨论门户开放》等。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "与英国巴公讨论门户开放",
+          "relation": "著有",
+          "evidence": "《中国之评论》《新政安衡》《新政议论》和《与英国巴公讨论门户开放》等。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "圣士提反男中学",
+          "relation": "创建修建",
+          "evidence": "十九年与港绅曹允善、周少歧创办圣士提反男中学",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "香港大学",
+          "relation": "创建修建",
+          "evidence": "宣统元年1909年任香港大学劝捐董事会主席参与筹建香港大学的工作。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "西医书院",
+          "relation": "创建修建",
+          "evidence": "翌年将所创办的西医书院并入香港大学。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1839": {
+      "relations": [
+        {
+          "source": "林福",
+          "target": "飞鸿武术馆",
+          "relation": "创建修建",
+          "evidence": "在 广州 第七甫 水 脚边开设 飞鸿武馆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "林福",
+          "target": "广州仁安里",
+          "relation": "活动于",
+          "evidence": "回 广州 后 在 广州 仁 安里开设 宝 芝 林 药店",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "飞鸿武术馆",
+          "target": "通脉丹",
+          "relation": "承载文化",
+          "evidence": "所 售 成药 通 脉 丹风行",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "宝芝林药店",
+          "target": "通脉丹",
+          "relation": "承载文化",
+          "evidence": "所 售 成药 通 脉 丹风行",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "飞鸿武术馆",
+          "target": "周雄光、李锦全、苏乞儿",
+          "relation": "关联人物",
+          "evidence": "与广东 铁 打 名 医周雄 光、李 锦 全、苏乞儿 并 称 广 东 四大 门槛",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1840": {
+      "relations": []
+    },
+    "chunk_1841": {
+      "relations": []
+    },
+    "chunk_1842": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation": "同族",
+          "evidence": "简村人 陈启沅 第五子",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "均和栈杂货店",
+          "relation": "创建修建",
+          "evidence": "早年随父至安南营商在堤岸开设均和栈杂货店",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "奇和堂药局",
+          "relation": "创建修建",
+          "evidence": "其后析资回国先后在广州和佛山开设奇和堂药局",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation": "同族",
+          "evidence": "简村人 陈启沅 第五子",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "孙中山",
+          "target": "均和栈杂货店",
+          "relation": "关联人物",
+          "evidence": "时孙中山至安南策动华侨参与反清革命得与孙中山结识",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1843": {
+      "relations": [
+        {
+          "source": "竹君",
+          "target": "广东会馆",
+          "relation": "同族",
+          "evidence": "竹君与该地广东会馆同人协商析资建起专供接待孕妇分挽的场所",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "竹君",
+          "target": "光绪二十三年",
+          "relation": "活动于",
+          "evidence": "清光绪二十三年1897年竹君在堤岸目睹该地有一陋俗不准孕妇在家中生产",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "竹君",
+          "target": "民国16年",
+          "relation": "活动于",
+          "evidence": "民国成立后移居香港历任香港大学堂经学总教习、香港皇仁书院男女师范校校长、尊经学校校长等职",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1844": {
+      "relations": [
+        {
+          "source": "陈锦涛",
+          "target": "简村",
+          "relation": "出生于",
+          "evidence": "陈锦涛1871—1939字澜生，简村人。",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "香港皇仁书院",
+          "relation": "活动于",
+          "evidence": "幼年就读于香港皇仁书院毕业",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "香港皇仁书院",
+          "relation": "活动于",
+          "evidence": "旋任天津大学堂教习。清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。回国后应清廷语试赐法科进证。历任广东视学、京兆视学、大清银行监察、印支部预算司司长、统计局局长、印铸局副局",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "香港皇仁书院",
+          "relation": "活动于",
+          "evidence": "旋任天津大学堂教习。清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。回国后应清廷语试赐法科进证。历任广东视学、京兆视学、大清银行监察、印支部预算司司长、统计局局长、印铸局副局",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "天津大学堂",
+          "relation": "活动于",
+          "evidence": "旋任天津大学堂教习。清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。回国后应清廷语试赐法科进证。历任广东视学、京兆视学、大清银行监察、印支部预算司司长、统计局局长、印铸局副局",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "美国哥伦比亚大学",
+          "relation": "活动于",
+          "evidence": "旋任天津大学堂教习。清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。回国后应清廷语试赐法科进证。历任广东视学、京兆视学、大清银行监察、印支部预算司司长、统计局局长、印铸局副局",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "香港大学",
+          "relation": "活动于",
+          "evidence": "民国16年1927年应聘为香港大学中文系主任讲师任教香港大学教授达30年。",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "天津大学堂",
+          "target": "光绪二十七年",
+          "relation": "属于时期",
+          "evidence": "清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "美国哥伦比亚大学",
+          "target": "光绪二十七年",
+          "relation": "属于时期",
+          "evidence": "清光绪二十七年1901年进入美国哥伦比亚大学学数学、社会学翌年获理学硕士学位。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1845": {
+      "relations": []
+    },
+    "chunk_1846": {
+      "relations": [
+        {
+          "source": "区大原",
+          "target": "松塘村",
+          "relation": "出生于",
+          "evidence": "松塘村人",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1847": {
+      "relations": []
+    },
+    "chunk_1848": {
+      "relations": []
+    },
+    "chunk_1849": {
+      "relations": []
+    },
+    "chunk_1850": {
+      "relations": []
+    },
+    "chunk_1851": {
+      "relations": []
+    },
+    "chunk_1852": {
+      "relations": []
+    },
+    "chunk_1853": {
+      "relations": []
+    },
+    "chunk_1854": {
+      "relations": []
+    },
+    "chunk_1855": {
+      "relations": [
+        {
+          "source": "傅老榨",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "他在家乡西樵山云村内建起占地20多亩的傅家庄园",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "傅家庄园",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "他在家乡西樵山云村内建起占地20多亩的傅家庄园",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "傅老榨",
+          "target": "傅家庄园",
+          "relation": "创建修建",
+          "evidence": "他在家乡西樵山云村内建起占地20多亩的傅家庄园",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1856": {
+      "relations": []
+    },
+    "chunk_1857": {
+      "relations": []
+    },
+    "chunk_1858": {
+      "relations": []
+    },
+    "chunk_1859": {
+      "relations": []
+    },
+    "chunk_1860": {
+      "relations": [
+        {
+          "source": "邓芬",
+          "target": "澳门",
+          "relation": "活动于",
+          "evidence": "抗战胜利后重返澳门成为同乡澳门巨赌商傅氏的清客",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "邓芬",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "被聘为广州市立美术学校的主任教授",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "邓芬",
+          "target": "澳门",
+          "relation": "出生于",
+          "evidence": "1895年一月出生于澳门",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "邓芬",
+          "target": "赵少昂",
+          "relation": "同类",
+          "evidence": "两位广东画家的作品入选",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "《秋意图》",
+          "target": "邓芬",
+          "relation": "著有",
+          "evidence": "邓芬的《秋意图》",
+          "confidence": 1.0,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1861": {
+      "relations": []
+    },
+    "chunk_1862": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "在此她扎编了大量学术和艺术论著",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "岭南文史著书立说之地",
+          "relation": "活动于",
+          "evidence": "在此她扎编了大量学术和艺术论著",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1863": {
+      "relations": []
+    },
+    "chunk_1864": {
+      "relations": []
+    },
+    "chunk_1865": {
+      "relations": []
+    },
+    "chunk_1866": {
+      "relations": []
+    },
+    "chunk_1867": {
+      "relations": []
+    },
+    "chunk_1868": {
+      "relations": []
+    },
+    "chunk_1869": {
+      "relations": [
+        {
+          "source": "任剑辉",
+          "target": "西厢待月",
+          "relation": "著有",
+          "evidence": "其 后 又 四 处 走 埠在 梧州 成 名成名作是《 西 厢 待月》",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "任剑辉",
+          "target": "群艳芳影",
+          "relation": "活动于",
+          "evidence": "民国 28 年 1939 年 在 全 女班 群艳芳影中挑 大 粱",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "任剑辉",
+          "target": "新声粤剧团",
+          "relation": "活动于",
+          "evidence": "从 民国 24 年到 34 年 在 澳门 演出是 澳门 的长寿 班霸 新 声 粤 剧团的 创 办 人和人台 柱",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1870": {
+      "relations": [
+        {
+          "source": "剑辉",
+          "target": "粤剧",
+          "relation": "活动于",
+          "evidence": "从出道到退休在舞台上一直享誉数十多年从未中断和低沉过",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "剑辉",
+          "target": "李后主",
+          "relation": "著有",
+          "evidence": "主演的最后一部影片是1968年公映的《李后主》",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "唐伯虎点秋香",
+          "target": "粤剧",
+          "relation": "属于时期",
+          "evidence": "《唐伯虎点秋香》等成为传世名作",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "再世红梅记",
+          "target": "粤剧",
+          "relation": "属于时期",
+          "evidence": "《再世红梅记》等成为传世名作",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "粤剧",
+          "target": "剑辉",
+          "relation": "承载文化",
+          "evidence": "从1951到1967年间任剑辉涉足影坛一共主演了接近290部粤剧电影将粤剧电影推向高峰",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1871": {
+      "relations": []
+    },
+    "chunk_1872": {
+      "relations": []
+    },
+    "chunk_1873": {
+      "relations": []
+    },
+    "chunk_1874": {
+      "relations": [
+        {
+          "source": "黄君壁",
+          "target": "清心会",
+          "relation": "关联人物",
+          "evidence": "车有《黄君壁画册》《白云堂画论画法》与清心会、张大千交称台湾国画三杰",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1875": {
+      "relations": []
+    },
+    "chunk_1876": {
+      "relations": []
+    },
+    "chunk_1877": {
+      "relations": []
+    },
+    "chunk_1878": {
+      "relations": []
+    },
+    "chunk_1879": {
+      "relations": []
+    },
+    "chunk_1880": {
+      "relations": [
+        {
+          "source": "郭英会",
+          "target": "陕北公学",
+          "relation": "活动于",
+          "evidence": "至28年5月在陕北公学晋东南抗大一分校学习",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "郭英会",
+          "target": "八路军南部军区",
+          "relation": "活动于",
+          "evidence": "34年8月在八路军南部军区分区政治部任职",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1881": {
+      "relations": []
+    },
+    "chunk_1882": {
+      "relations": []
+    },
+    "chunk_1883": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "儒溪",
+          "relation": "出生于",
+          "evidence": "石景宜1916年出生儒溪人",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "广州肚勤大学",
+          "relation": "著有",
+          "evidence": "高中毕业后考入广州肚勤大学商学系",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1884": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "《南海丹青》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "《华夏千家书画集》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "《中国当代书画选》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "《千色集》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "《心愿》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石景宜",
+          "target": "《熔情集》",
+          "relation": "著有",
+          "evidence": "精印了《南海丹青》《华夏千家书画集》《中国当代书画选》《千色集入《心愿》《熔情集》等巨型画集",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1885": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "石景宜刘紫英文化艺术馆",
+          "relation": "创建修建",
+          "evidence": "1998年石景宜夫妇在香港成立石景宜刘紫英文化艺术馆",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_1886": {
+      "relations": []
+    },
+    "chunk_1887": {
+      "relations": []
+    },
+    "chunk_1888": {
+      "relations": []
+    },
+    "chunk_1889": {
+      "relations": []
+    },
+    "chunk_1890": {
+      "relations": []
+    },
+    "chunk_1891": {
+      "relations": []
+    },
+    "chunk_1892": {
+      "relations": []
+    },
+    "chunk_1893": {
+      "relations": []
+    },
+    "chunk_1894": {
+      "relations": []
+    },
+    "chunk_1895": {
+      "relations": []
+    },
+    "chunk_1896": {
+      "relations": []
+    },
+    "chunk_1897": {
+      "relations": []
+    },
+    "chunk_1898": {
+      "relations": []
+    },
+    "chunk_1899": {
+      "relations": []
+    },
+    "chunk_1900": {
+      "relations": []
+    },
+    "chunk_1901": {
+      "relations": []
+    },
+    "chunk_1902": {
+      "relations": []
+    },
+    "chunk_1903": {
+      "relations": []
+    },
+    "chunk_1904": {
+      "relations": []
+    },
+    "chunk_1905": {
+      "relations": []
+    },
+    "chunk_1906": {
+      "relations": []
+    },
+    "chunk_1907": {
+      "relations": []
+    },
+    "chunk_1908": {
+      "relations": []
+    },
+    "chunk_1909": {
+      "relations": []
+    },
+    "chunk_1910": {
+      "relations": []
+    },
+    "chunk_1911": {
+      "relations": []
+    },
+    "chunk_1912": {
+      "relations": []
+    },
+    "chunk_1913": {
+      "relations": []
+    },
+    "chunk_1914": {
+      "relations": []
+    },
+    "chunk_1915": {
+      "relations": []
+    },
+    "chunk_1916": {
+      "relations": []
+    },
+    "chunk_1917": {
+      "relations": []
+    },
+    "chunk_1918": {
+      "relations": []
+    },
+    "chunk_1919": {
+      "relations": []
+    },
+    "chunk_1920": {
+      "relations": []
+    },
+    "chunk_1921": {
+      "relations": []
+    },
+    "chunk_1922": {
+      "relations": []
+    },
+    "chunk_1923": {
+      "relations": []
+    },
+    "chunk_1924": {
+      "relations": []
+    },
+    "chunk_1925": {
+      "relations": []
+    },
+    "chunk_1926": {
+      "relations": []
+    },
+    "chunk_1927": {
+      "relations": []
+    },
+    "chunk_1928": {
+      "relations": []
+    },
+    "chunk_1929": {
+      "relations": []
+    },
+    "chunk_1930": {
+      "relations": []
+    },
+    "chunk_1931": {
+      "relations": []
+    },
+    "chunk_1932": {
+      "relations": []
+    },
+    "chunk_1933": {
+      "relations": []
+    },
+    "chunk_1934": {
+      "relations": []
+    },
+    "chunk_1935": {
+      "relations": []
+    },
+    "chunk_1936": {
+      "relations": []
+    },
+    "chunk_1937": {
+      "relations": []
+    },
+    "chunk_1938": {
+      "relations": []
+    },
+    "chunk_1939": {
+      "relations": []
+    },
+    "chunk_1940": {
+      "relations": []
+    },
+    "chunk_1941": {
+      "relations": []
+    },
+    "chunk_1942": {
+      "relations": []
+    },
+    "chunk_1943": {
+      "relations": []
+    },
+    "chunk_1944": {
+      "relations": []
+    },
+    "chunk_1945": {
+      "relations": []
+    },
+    "chunk_1946": {
+      "relations": []
+    },
+    "chunk_1947": {
+      "relations": []
+    },
+    "chunk_1948": {
+      "relations": []
+    },
+    "chunk_1949": {
+      "relations": []
+    },
+    "chunk_1950": {
+      "relations": []
+    },
+    "chunk_1951": {
+      "relations": []
+    },
+    "chunk_1952": {
+      "relations": []
+    },
+    "chunk_1953": {
+      "relations": []
+    },
+    "chunk_1954": {
+      "relations": []
+    },
+    "chunk_1955": {
+      "relations": []
+    },
+    "chunk_1956": {
+      "relations": []
+    },
+    "chunk_1957": {
+      "relations": []
+    },
+    "chunk_1958": {
+      "relations": []
+    },
+    "chunk_1959": {
+      "relations": []
+    },
+    "chunk_1960": {
+      "relations": []
+    },
+    "chunk_1961": {
+      "relations": []
+    },
+    "chunk_1962": {
+      "relations": []
+    },
+    "chunk_1963": {
+      "relations": []
+    },
+    "chunk_1964": {
+      "relations": []
+    },
+    "chunk_1965": {
+      "relations": []
+    },
+    "chunk_1966": {
+      "relations": []
+    },
+    "chunk_1967": {
+      "relations": []
+    },
+    "chunk_1968": {
+      "relations": []
+    },
+    "chunk_1969": {
+      "relations": []
+    },
+    "chunk_1970": {
+      "relations": []
+    },
+    "chunk_1971": {
+      "relations": []
+    },
+    "chunk_1972": {
+      "relations": []
+    },
+    "chunk_1973": {
+      "relations": []
+    },
+    "chunk_1974": {
+      "relations": []
+    },
+    "chunk_1975": {
+      "relations": []
+    },
+    "chunk_1976": {
+      "relations": []
+    },
+    "chunk_1977": {
+      "relations": []
+    },
+    "chunk_1978": {
+      "relations": []
+    },
+    "chunk_1979": {
+      "relations": []
+    },
+    "chunk_1980": {
+      "relations": []
+    },
+    "chunk_1981": {
+      "relations": []
+    },
+    "chunk_1982": {
+      "relations": []
+    },
+    "chunk_1983": {
+      "relations": []
+    },
+    "chunk_1984": {
+      "relations": []
+    },
+    "chunk_1985": {
+      "relations": []
+    },
+    "chunk_1986": {
+      "relations": []
+    },
+    "chunk_1987": {
+      "relations": []
+    },
+    "chunk_1988": {
+      "relations": []
+    },
+    "chunk_1989": {
+      "relations": []
+    },
+    "chunk_1990": {
+      "relations": []
+    },
+    "chunk_1991": {
+      "relations": []
+    },
+    "chunk_1992": {
+      "relations": []
+    },
+    "chunk_1993": {
+      "relations": []
+    },
+    "chunk_1994": {
+      "relations": []
+    },
+    "chunk_1995": {
+      "relations": []
+    },
+    "chunk_1996": {
+      "relations": []
+    },
+    "chunk_1997": {
+      "relations": []
+    },
+    "chunk_1998": {
+      "relations": []
+    },
+    "chunk_1999": {
+      "relations": []
+    },
+    "chunk_2000": {
+      "relations": []
+    },
+    "chunk_2001": {
+      "relations": []
+    },
+    "chunk_2002": {
+      "relations": []
+    },
+    "chunk_2003": {
+      "relations": []
+    },
+    "chunk_2004": {
+      "relations": []
+    },
+    "chunk_2005": {
+      "relations": []
+    },
+    "chunk_2006": {
+      "relations": []
+    },
+    "chunk_2007": {
+      "relations": []
+    },
+    "chunk_2008": {
+      "relations": []
+    },
+    "chunk_2009": {
+      "relations": []
+    },
+    "chunk_2010": {
+      "relations": []
+    },
+    "chunk_2011": {
+      "relations": []
+    },
+    "chunk_2012": {
+      "relations": []
+    },
+    "chunk_2013": {
+      "relations": [
+        {
+          "source": "桂林府志",
+          "target": "秋色金钱障纪闻",
+          "relation": "记载于",
+          "evidence": "《桂林府志》、《律名正义述要》、《医方全》、《比例尺解》、《乐只堂人》、《本草韵语》、《秋色金钱障纪闻》等。参修《岑县溪志》。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "出使九国日记",
+          "target": "欧美政治要义",
+          "relation": "关联人物",
+          "evidence": "《出使九国日记》《欧美政治要义》《出使俄国日记》《列国政要全书》。",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "出使俄国日记",
+          "target": "列国政要全书",
+          "relation": "关联人物",
+          "evidence": "《出使九国日记》《欧美政治要义》《出使俄国日记》《列国政要全书》。",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "庄来定子稿",
+          "target": "鱼图雷说",
+          "relation": "同族",
+          "evidence": "《庄来定子稿》。附录《鱼图雷说》。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2014": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "鱼图雷说",
+          "relation": "著有",
+          "evidence": "《鱼图雷说》。 KR iS HARE fra CPR RBM GBCEM GRA PRES 进步论》《 康 有 为 君 政 见 之 评论》、《 睡 与 醒》等 。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "康有为",
+          "target": "抱残室写生杂记",
+          "relation": "著有",
+          "evidence": "《 抱残 室写生 杂记 》、 《中 国画 即写生 画说》 《和吾 粤画人 之 我见》",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈锦涛",
+          "target": "均富",
+          "relation": "著有",
+          "evidence": "陈锦涛 《均富》。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "黄君壁册画",
+          "target": "白云堂画论画法",
+          "relation": "关联人物",
+          "evidence": "《 黄 君 壁册画》《 白 云堂画论 画法》。",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2015": {
+      "relations": []
+    },
+    "chunk_2016": {
+      "relations": [
+        {
+          "source": "赵伦",
+          "target": "大科峰",
+          "relation": "活动于",
+          "evidence": "赵伦站在大科峰上面对寒风扫兴极了",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2017": {
+      "relations": [
+        {
+          "source": "赵伦",
+          "target": "大科峰",
+          "relation": "活动于",
+          "evidence": "赵伦一看高兴极了 大喊一声 拿酒来一口气灌下",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2018": {
+      "relations": []
+    },
+    "chunk_2019": {
+      "relations": []
+    },
+    "chunk_2020": {
+      "relations": [
+        {
+          "source": "女子",
+          "target": "方竹",
+          "relation": "承载文化",
+          "evidence": "女子在轿里长叹一声冲出轿门跳进崖下，男子非常悲愤把棚下的方竹株拔了起来",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "方竹",
+          "target": "竹子",
+          "relation": "同类",
+          "evidence": "男子非常悲愤把棚下的方竹株拔了起来",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "方竹",
+          "target": "女子",
+          "relation": "关联人物",
+          "evidence": "女子在轿里长叹一声冲出轿门跳进崖下，男子非常悲愤把棚下的方竹株拔了起来",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2021": {
+      "relations": []
+    },
+    "chunk_2022": {
+      "relations": [
+        {
+          "source": "惠明",
+          "target": "大岸村",
+          "relation": "活动于",
+          "evidence": "惠明忽然回来",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "惠明",
+          "target": "大岸村",
+          "relation": "同族",
+          "evidence": "明代隆庆年间大岸村住有霍姓等人家",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "惠明",
+          "target": "霍姓",
+          "relation": "同族",
+          "evidence": "明代隆庆年间大岸村住有霍姓等人家",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2023": {
+      "relations": [
+        {
+          "source": "镇东",
+          "target": "西樵山",
+          "relation": "出生于",
+          "evidence": "出生在西樵山东面日出东方且朝迎旭日",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2024": {
+      "relations": [
+        {
+          "source": "镇东",
+          "target": "关公",
+          "relation": "关联人物",
+          "evidence": "在对联游戏中，有人在关公面前要大刀",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "镇东",
+          "target": "凌云蛟",
+          "relation": "关联人物",
+          "evidence": "镇东气愤地说河深跃出凌云蛟",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2025": {
+      "relations": [
+        {
+          "source": "奉旨荣归",
+          "target": "镇东",
+          "relation": "发生于",
+          "evidence": "族人于是想借镇东荣归之日当官船载运旗杆登岸进村",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "镇东",
+          "target": "奉旨荣归",
+          "relation": "活动于",
+          "evidence": "族人于是想借镇东荣归之日当官船载运旗杆登岸进村",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2026": {
+      "relations": []
+    },
+    "chunk_2027": {
+      "relations": [
+        {
+          "source": "方净老",
+          "target": "黄牛岗",
+          "relation": "活动于",
+          "evidence": "凡路过此地者务必担泥一担上坟头不得有误",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大岗圩",
+          "target": "黄牛岗",
+          "relation": "位于",
+          "evidence": "大岗圩的黄牛岗为立墓之地",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2028": {
+      "relations": [
+        {
+          "source": "陈姓乡人",
+          "target": "石湾伦家村",
+          "relation": "活动于",
+          "evidence": "陈姓乡人到石湾伦家村走亲",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "伦文叙",
+          "target": "方阁老坟头",
+          "relation": "关联人物",
+          "evidence": "修方阁老山坟一事",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "伦文叙",
+          "target": "大岗圩",
+          "relation": "活动于",
+          "evidence": "来到大岗圩口",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2029": {
+      "relations": [
+        {
+          "source": "伦文叙",
+          "target": "大岗圩",
+          "relation": "活动于",
+          "evidence": "派人送他过大岗圩找亲",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "伦文叙",
+          "target": "大岗圩",
+          "relation": "关联人物",
+          "evidence": "派...过大岗圩找亲",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2030": {
+      "relations": []
+    },
+    "chunk_2031": {
+      "relations": []
+    },
+    "chunk_2032": {
+      "relations": []
+    },
+    "chunk_2033": {
+      "relations": [
+        {
+          "source": "茶女",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "茶女采茶在西樵山",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2034": {
+      "relations": []
+    },
+    "chunk_2035": {
+      "relations": []
+    },
+    "chunk_2036": {
+      "relations": []
+    },
+    "chunk_2037": {
+      "relations": []
+    },
+    "chunk_2038": {
+      "relations": []
+    },
+    "chunk_2039": {
+      "relations": [
+        {
+          "source": "陈献章",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "陈献章百中过丈榴上岭东。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈献章",
+          "target": "西樵山",
+          "relation": "同族",
+          "evidence": "陈献章，明代哲学家、教育家，南海人，心学代表人物。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2040": {
+      "relations": [
+        {
+          "source": "方献夫",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "方献夫 登大科峰绝顶",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "方献夫",
+          "target": "西樵山",
+          "relation": "著有",
+          "evidence": "方献夫 附录 登大科峰绝顶",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科峰",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "大科峰 西樵山上的一个著名景点",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2041": {
+      "relations": [
+        {
+          "source": "谢程太史",
+          "target": "人天台",
+          "relation": "活动于",
+          "evidence": "问桃花直人天台石径斜",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "谢程太史",
+          "target": "九龙洞",
+          "relation": "活动于",
+          "evidence": "游九龙洞明",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "人天台",
+          "target": "九龙洞",
+          "relation": "位于",
+          "evidence": "游九龙洞明",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "松溪惠樵茶",
+          "target": "林泉",
+          "relation": "盛产",
+          "evidence": "每到林泉似有缘",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2042": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "西樵之山",
+          "relation": "属于时期",
+          "evidence": "西樵之山 插 震 汉",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "传道溪头寺",
+          "relation": "承载文化",
+          "evidence": "传道溪 头 寺  来 寻 洞 口云",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "求羊践旧盟",
+          "target": "西樵之山",
+          "relation": "发生于",
+          "evidence": "长 与 求 羊践旧 盟",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2043": {
+      "relations": []
+    },
+    "chunk_2044": {
+      "relations": [
+        {
+          "source": "松花酒",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "松花酒熟人归去吾自移家驾短辕。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大夫庙",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "大夫庙Ca程可则自识离骚赋长怜泽畔吟。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2045": {
+      "relations": [
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "附录 游 西 樵 山左转 三 里 至逍遥 石下 A 袁枚 fa i Pa A 为 访白云洞。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "万牛石",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "左转尤奇绝 HAEAT FF 万 牛 捞 不 前 两 手推可 动 。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "无叶井泉",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "友人 送 西 樵 无 叶 井泉 Gt Rial TEEADN He ER AIR RK WUC REE Ta TE EE ae tr AN AT PH",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2046": {
+      "relations": [
+        {
+          "source": "张锦芳",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "张锦芳 山灵于奇伟境绝恒自爱。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "张锦芳",
+          "target": "西樵山",
+          "relation": "同族",
+          "evidence": "童年冬日和冰攀跻天鸡初鸣迎日御。",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2047": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "七贤祠",
+          "relation": "活动于",
+          "evidence": "昔人此读书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "朱次琦",
+          "target": "白云洞",
+          "relation": "活动于",
+          "evidence": "昔人此读书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2048": {
+      "relations": [
+        {
+          "source": "朱次琦",
+          "target": "云师不世情",
+          "relation": "活动于",
+          "evidence": "细者知凡几。达七千西云出其趾。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云师不世情",
+          "target": "华盖峰",
+          "relation": "位于",
+          "evidence": "华盖峰清亭上二。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2049": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "高士祠",
+          "relation": "活动于",
+          "evidence": "高士祠中曾小住",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山白云洞",
+          "target": "三湖院",
+          "relation": "位于",
+          "evidence": "三湖院步外长堤",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2050": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆：西樵山上清代道观",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "遥遥两仙馆云泉与长春",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "遥遥两仙馆云泉与长春：西樵山上道教建筑",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "遥遥两仙馆云泉与长春",
+          "relation": "同类",
+          "evidence": "遥遥两仙馆云泉与长春：西樵山上道教建筑",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2051": {
+      "relations": [
+        {
+          "source": "董必武",
+          "target": "白云洞",
+          "relation": "活动于",
+          "evidence": "董必武欲揽西检胜先应访白云",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "赵朴初",
+          "target": "桃源阁",
+          "relation": "活动于",
+          "evidence": "一九八六年重访西樵山书赠桃源阁",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "游西檐白云洞",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "桃源阁",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "宿桃源阁",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2052": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "有为读书处今日四化忙",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "山上龙舟呈洛水洞中窗格吐烟霞",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵大饼",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "西樵自古属名山文化依来不等闲",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2053": {
+      "relations": []
+    },
+    "chunk_2054": {
+      "relations": [
+        {
+          "source": "布天娇",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "布 天 娇 惊 龙 翔。我 背 扁 舟 盗 长 往 归 来 福 地 何 薄 爽。激 石 枕 流 无所营 万 里 流 深 从此 放。",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石上松子",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "石上松子 纷纷 落。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "仁风",
+          "target": "西樵山",
+          "relation": "属于时期",
+          "evidence": "仁 风 几 延 位 摘 清 饮 涧 披 云 徘。行 寻 仙 子 上 升 处 满 地 落花 扫 不 去。",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2055": {
+      "relations": []
+    },
+    "chunk_2056": {
+      "relations": [
+        {
+          "source": "湛若水",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "湛若水 泛泳江头。遥观双瀑际广朗悬层邱。四子逸兴发歌声落前洲。舟夺百海",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "湛若水",
+          "target": "西樵泉石记",
+          "relation": "著有",
+          "evidence": "附录 827。西樵泉石记",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "双瀑",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "遥观双瀑际广朗悬层邱",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "四子逸兴",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "四子逸兴发歌声落前洲",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2057": {
+      "relations": [
+        {
+          "source": "电白云",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "电白云之水源于中峰",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "双龙洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "立看下视于白云者曰双龙洞",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2058": {
+      "relations": []
+    },
+    "chunk_2059": {
+      "relations": [
+        {
+          "source": "聚仙台",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "庚子春，忠铭王公归上自南部道经三城约为西樵之游。余受征台、有事粤乘出山名公未余面至云路里闻公借袁中翰懋吉登聚仙台",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2060": {
+      "relations": []
+    },
+    "chunk_2061": {
+      "relations": []
+    },
+    "chunk_2062": {
+      "relations": []
+    },
+    "chunk_2063": {
+      "relations": [
+        {
+          "source": "文囊书院",
+          "target": "方子木邓亭",
+          "relation": "关联人物",
+          "evidence": "经木邓并浏殉可鉴",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "文囊书院",
+          "target": "鸡镇峰碍",
+          "relation": "活动于",
+          "evidence": "山居在鸡镇峰碍",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "龙井泉",
+          "target": "白云洞",
+          "relation": "盛产",
+          "evidence": "是日拟游碧玉、白云二洞",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "龙井泉",
+          "target": "碧玉洞",
+          "relation": "盛产",
+          "evidence": "是日拟游碧玉、白云二洞",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2064": {
+      "relations": [
+        {
+          "source": "碧玉洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "碧玉洞为西樵山著名景点之一",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "白云洞为西樵山著名景点之一",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科峰",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "大科峰为西樵山最高峰",
+          "confidence": 0.95,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2065": {
+      "relations": [
+        {
+          "source": "卧泉",
+          "target": "喷玉兰",
+          "relation": "位于",
+          "evidence": "其一在喷玉兰",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "立泉",
+          "target": "锦岩",
+          "relation": "位于",
+          "evidence": "其一在锦岩",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "立泉",
+          "target": "汶玉岩",
+          "relation": "位于",
+          "evidence": "其一在汶玉岩",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "喷玉兰",
+          "target": "垂虹洞",
+          "relation": "位于",
+          "evidence": "二在垂虹洞左右交流如双虹",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "上白沙书院瀑",
+          "target": "云谷",
+          "relation": "位于",
+          "evidence": "又有二泉在云谷中群峰回合",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "碧玉洞",
+          "target": "喷玉崖",
+          "relation": "位于",
+          "evidence": "其在碧玉洞者璧崖而出",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2066": {
+      "relations": []
+    },
+    "chunk_2067": {
+      "relations": []
+    },
+    "chunk_2068": {
+      "relations": []
+    },
+    "chunk_2069": {
+      "relations": []
+    },
+    "chunk_2070": {
+      "relations": [
+        {
+          "source": "康南海",
+          "target": "三湖书院",
+          "relation": "活动于",
+          "evidence": "相传康南海曾在這裡读书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2071": {
+      "relations": [
+        {
+          "source": "大科峰",
+          "target": "七十二峰",
+          "relation": "位于",
+          "evidence": "大科峰屹立在七十二峰之上",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "十台",
+          "target": "淇若水",
+          "relation": "创建修建",
+          "evidence": "明嘉靖年间这十台曾经由理学家淇若水一度修建",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科村",
+          "target": "大科峰",
+          "relation": "位于",
+          "evidence": "大科峰下为大科村",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科书院",
+          "target": "湛若水",
+          "relation": "活动于",
+          "evidence": "当时有名的大科书院就建立在这里湛若水带了一班弟子读书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科书院",
+          "target": "大科村",
+          "relation": "位于",
+          "evidence": "当时有名的大科书院就建立在这里",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2072": {
+      "relations": []
+    },
+    "chunk_2073": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "196年时的行政单位，今属佛山市南海区",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "郭沫若",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "196年郭沫若游览西樵山",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2074": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "云泉仙馆",
+          "relation": "位于",
+          "evidence": "云泉仙馆的右边因崖筑楼层层而上背崖面西",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆的右边因崖筑楼层层而上背崖面西",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2075": {
+      "relations": [
+        {
+          "source": "白云洞",
+          "target": "洗心石",
+          "relation": "位于",
+          "evidence": "瀑布从东面的山头流下在SRAM AAAS BARBS Wao ERA kat R DF Site TR RARKAH CAAT KAM KA一巨石当其冲名日洗心石。石上溺有和孔穴可供手足攀登上。",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2076": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "日云洞",
+          "relation": "活动于",
+          "evidence": "康有为在日云洞一带却看不到康的题壁。这正证明康也有厌",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2077": {
+      "relations": [
+        {
+          "source": "试剑石",
+          "target": "吕洞宾",
+          "relation": "承载文化",
+          "evidence": "有人题诗说吕洞宾试剑把石臂成两段",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "试剑石",
+          "target": "吕洞宾",
+          "relation": "创建修建",
+          "evidence": "吕洞宾试剑石",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "吕洞宾",
+          "target": "试剑石",
+          "relation": "同族",
+          "evidence": "吕洞宾试剑石",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2078": {
+      "relations": [
+        {
+          "source": "吕洞宾",
+          "target": "白云洞",
+          "relation": "关联人物",
+          "evidence": "以前崇拜吕洞宾者实在泻染太过",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "天湖瀑布",
+          "relation": "承载文化",
+          "evidence": "听了白云洞的瀑布就想更进一境探出它的源头",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2079": {
+      "relations": [
+        {
+          "source": "白云洞",
+          "target": "白云瀑",
+          "relation": "承载文化",
+          "evidence": "白云洞中看瀑时以为银河落九天者",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "天湖",
+          "target": "白云瀑",
+          "relation": "承载文化",
+          "evidence": "故白云瀑赖以终年不断",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "天湖",
+          "target": "白云瀑",
+          "relation": "位于",
+          "evidence": "故白云瀑赖以终年不断",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2080": {
+      "relations": []
+    },
+    "chunk_2081": {
+      "relations": []
+    },
+    "chunk_2082": {
+      "relations": [
+        {
+          "source": "养云起",
+          "target": "小云亭",
+          "relation": "位于",
+          "evidence": "由小云亭经洗尘桥山后几幢访房高人云表",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "养云起",
+          "target": "洗尘桥",
+          "relation": "位于",
+          "evidence": "由小云亭经洗尘桥山后几幢访房高人云表",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "养云起",
+          "target": "围墙",
+          "relation": "位于",
+          "evidence": "此地颇有点中之趣。此庐不知何人所建亦不知何时被毁有目前在围墙中只剩下饥地的败瓦残砖木石狼藉",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "养云起",
+          "target": "高台",
+          "relation": "位于",
+          "evidence": "左侧有一段高台写在壁上的书画狐存",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "养云起",
+          "target": "摩虚",
+          "relation": "位于",
+          "evidence": "壁上有灵液、让水等摩虚",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "养云起",
+          "target": "著水池",
+          "relation": "位于",
+          "evidence": "筑有著水池接引山泉流入旅行社中供饮水之用",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2083": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆位于西樵山",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "云雾茶",
+          "relation": "承载文化",
+          "evidence": "和云泉仙馆告别时饮了西樵的特产云雾茶",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "云雾茶",
+          "relation": "盛产",
+          "evidence": "这也就是西樵的特产别处所未见",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2084": {
+      "relations": [
+        {
+          "source": "白玉兰花",
+          "target": "西樵山",
+          "relation": "盛产",
+          "evidence": "黑色没有尖端。这也是西樵的特产",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "春节前市集",
+          "target": "西樵山",
+          "relation": "发生于",
+          "evidence": "这次前来固然想爬疏山 听听泉每一下舒筋骨 但 是 更重要的是瞧一瞧山脚下春节前夕市集的情景",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2085": {
+      "relations": []
+    },
+    "chunk_2086": {
+      "relations": []
+    },
+    "chunk_2087": {
+      "relations": [
+        {
+          "source": "区公所",
+          "target": "鱼火锅",
+          "relation": "承载文化",
+          "evidence": "那个晚上区的领导同志区委书记、区长等和我们围炉夜话吃的是鱼火锅",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2088": {
+      "relations": [
+        {
+          "source": "西樵",
+          "target": "农村经济",
+          "relation": "承载文化",
+          "evidence": "大家都被农村经济欣欣向荣的景象喜乐了",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2089": {
+      "relations": []
+    },
+    "chunk_2090": {
+      "relations": []
+    },
+    "chunk_2091": {
+      "relations": []
+    },
+    "chunk_2092": {
+      "relations": []
+    },
+    "chunk_2093": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "康有为少时在丹灶读书",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2094": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "四方竹",
+          "relation": "盛产",
+          "evidence": "西樵山出产的四方竹、缺尾螺",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "缺尾螺",
+          "relation": "盛产",
+          "evidence": "西樵山出产的四方竹、缺尾螺",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "天淹向",
+          "relation": "位于",
+          "evidence": "西樵山顶那个可以让人划龙船的天淹向",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2095": {
+      "relations": [
+        {
+          "source": "烟霞洞",
+          "target": "仰止亭",
+          "relation": "位于",
+          "evidence": "其前为仰止亭",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "仰止亭",
+          "target": "正谊堂",
+          "relation": "位于",
+          "evidence": "正谊堂又其前作",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "正谊堂",
+          "target": "乐阁",
+          "relation": "位于",
+          "evidence": "乐阁阁下为门缘",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石门",
+          "target": "大鼓石",
+          "relation": "位于",
+          "evidence": "门外章石直立如双靡拱开是为石门。大鼓石在石门之外",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "石门",
+          "target": "金钟石",
+          "relation": "位于",
+          "evidence": "金钟石在石门之右",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "进修斋",
+          "target": "敬义祠",
+          "relation": "位于",
+          "evidence": "敬义祠又作业馆于其前东南面",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2096": {
+      "relations": [
+        {
+          "source": "敬义裔",
+          "target": "进修斋",
+          "relation": "同族",
+          "evidence": "北面。其北作敬义裔以对进修斋制亦如之",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "作业馆",
+          "target": "礼门",
+          "relation": "位于",
+          "evidence": "又作业馆于其前东南面以与宾馆相对。帮作礼门",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "星池",
+          "target": "烟震洞门",
+          "relation": "位于",
+          "evidence": "池外有田田外为烟震洞门",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "锦肉",
+          "target": "录出落星池",
+          "relation": "属于时期",
+          "evidence": "西有锦肉其北有录出落星池",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "乐澡庄",
+          "target": "石涧",
+          "relation": "属于时期",
+          "evidence": "石涧之北有乐澡庄疙先生俏门人身耕处",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "观音岩",
+          "target": "石涧",
+          "relation": "位于",
+          "evidence": "观音岩在石润西上下易震下注夺左北流二里达于吉水亦大科前之一奇观也",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2097": {
+      "relations": []
+    },
+    "chunk_2098": {
+      "relations": [
+        {
+          "source": "大科",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "今大科之士亲受训规其所得必有大多于我者宜先生去年被征大科士四五人轻万里之远易半年之程刘科举之利从先生而北来也。诸君今次第且还西樵其常、如先生之在大科平幸勿以山水之佳空自适。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大科",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "诸君今次第且还西樵其常、如先生之在大科平幸勿以山水之佳空自适。",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2099": {
+      "relations": []
+    },
+    "chunk_2100": {
+      "relations": []
+    },
+    "chunk_2101": {
+      "relations": [
+        {
+          "source": "只园之业",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "只园之业欲垂永久并铬上德于不耳。僧于樵山西",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2102": {
+      "relations": []
+    },
+    "chunk_2103": {
+      "relations": [
+        {
+          "source": "云谷",
+          "target": "霍文敏石泉",
+          "relation": "属于时期",
+          "evidence": "建于霍文敏石泉",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云谷",
+          "target": "方文囊",
+          "relation": "属于时期",
+          "evidence": "建于方文囊",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞三湖书院",
+          "target": "大科",
+          "relation": "同类",
+          "evidence": "若大科、云谷",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞三湖书院",
+          "target": "云谷",
+          "relation": "同类",
+          "evidence": "若大科、云谷",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞三湖书院",
+          "target": "三峰",
+          "relation": "同类",
+          "evidence": "若大科、云谷",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞三湖书院",
+          "target": "岑君珊轩",
+          "relation": "关联人物",
+          "evidence": "岑君珊轩与二三同志名",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2104": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "岑君珊轩",
+          "relation": "位于",
+          "evidence": "岑君珊轩与二三同志名之因以名其书院者也。书院枕峰面湖",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "书院",
+          "relation": "位于",
+          "evidence": "书院枕峰面湖 空明殉地樵北诸胜尽在几席",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "书院",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "书院枕峰面湖 空明殉地樵北诸胜尽在几席",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2105": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "乾 隆 五十六 年",
+          "relation": "始建于",
+          "evidence": "乾 隆 五十六 年 太岁 辛亥十二 月 朔 。 易 建 云泉仙 馆 碑记",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2106": {
+      "relations": [
+        {
+          "source": "何子明",
+          "target": "云泉仙馆",
+          "relation": "创建修建",
+          "evidence": "所 谓 身 居 赤 城 名 在 丹 台 者  非 直 为 游观地 也。而 白云 一 洞 尤 奥 窃奇岂 。 自 何子明 高士开 辟后代有 所 搜 刚。",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2107": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "道光二十七年",
+          "relation": "始建于",
+          "evidence": "经始于道光二十七年",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "冯督赞勋",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "居斯洞者沐浴致数涵泳圣泽",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "冯督赞勋",
+          "target": "西樵山",
+          "relation": "著有",
+          "evidence": "为之记",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2108": {
+      "relations": [
+        {
+          "source": "冯督赞勋",
+          "target": "七十二峰书院",
+          "relation": "创建修建",
+          "evidence": "新建七十二峰书院碑记",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "海滨邹鲁",
+          "target": "七十二峰书院",
+          "relation": "记载于",
+          "evidence": "海滨邹鲁形容七十二峰书院",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2109": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "白云洞",
+          "relation": "位于",
+          "evidence": "西樵山 白云洞口硅光 楼 门 联",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "白云洞",
+          "relation": "位于",
+          "evidence": "西樵山 白云洞第一洞天 牌坊 联",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "白云洞",
+          "relation": "位于",
+          "evidence": "西樵山 白云洞字祖庙门柱联",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "白云洞牌坊联",
+          "relation": "承载文化",
+          "evidence": "白云洞第一洞天 牌坊 联",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "白云洞",
+          "target": "白云洞字祖庙门柱联",
+          "relation": "承载文化",
+          "evidence": "白云洞字祖庙门柱联",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2110": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "白云洞",
+          "relation": "位于",
+          "evidence": "西樵出白云洞字",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "白云洞",
+          "relation": "承载文化",
+          "evidence": "白云洞字...白云洞柱联",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "小云亭",
+          "relation": "位于",
+          "evidence": "西樵山...小云亭柱联",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "小云亭",
+          "relation": "承载文化",
+          "evidence": "...小云亭柱联",
+          "confidence": 0.85,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2111": {
+      "relations": []
+    },
+    "chunk_2112": {
+      "relations": []
+    },
+    "chunk_2113": {
+      "relations": []
+    },
+    "chunk_2114": {
+      "relations": []
+    },
+    "chunk_2115": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "南海县（地名）：清代至民国时期的行政区划，隶属于广东省",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "云莲台海景区",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云莲台海景区450",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "大岸村",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "南海县（地名）：清代至民国时期的行政区划，隶属于广东省",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2116": {
+      "relations": [
+        {
+          "source": "丝织",
+          "target": "太平村",
+          "relation": "承载文化",
+          "evidence": "丝织生产基地 303",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "文物",
+          "target": "太平村",
+          "relation": "位于",
+          "evidence": "文物 64",
+          "confidence": 0.7,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2117": {
+      "relations": [
+        {
+          "source": "石门洞",
+          "target": "石燕岩景区",
+          "relation": "同类",
+          "evidence": "石门洞 、仰 展台 景区 454 石灰 283 民兵训练 584 石 燕 岩 景区 455 民兵活动 585",
+          "confidence": 0.75,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2118": {
+      "relations": []
+    },
+    "chunk_2119": {
+      "relations": []
+    },
+    "chunk_2120": {
+      "relations": []
+    },
+    "chunk_2121": {
+      "relations": []
+    },
+    "chunk_2122": {
+      "relations": []
+    },
+    "chunk_2123": {
+      "relations": []
+    },
+    "chunk_2124": {
+      "relations": []
+    },
+    "chunk_2125": {
+      "relations": []
+    },
+    "chunk_2126": {
+      "relations": []
+    },
+    "chunk_2127": {
+      "relations": []
+    },
+    "chunk_2128": {
+      "relations": []
+    },
+    "chunk_2129": {
+      "relations": []
+    },
+    "chunk_2130": {
+      "relations": []
+    },
+    "chunk_2131": {
+      "relations": []
+    },
+    "chunk_2132": {
+      "relations": []
+    },
+    "chunk_2133": {
+      "relations": []
+    },
+    "chunk_2134": {
+      "relations": []
+    },
+    "chunk_2135": {
+      "relations": []
+    },
+    "chunk_2136": {
+      "relations": []
+    },
+    "chunk_2137": {
+      "relations": []
+    },
+    "chunk_2138": {
+      "relations": []
+    },
+    "chunk_2139": {
+      "relations": []
+    },
+    "chunk_2140": {
+      "relations": [
+        {
+          "source": "西樵山遗址",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "西樵山遗址位于佛山市南海区，有石器时代遗址",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2141": {
+      "relations": []
+    },
+    "chunk_2142": {
+      "relations": []
+    },
+    "chunk_2143": {
+      "relations": []
+    },
+    "chunk_2144": {
+      "relations": []
+    },
+    "chunk_2145": {
+      "relations": []
+    },
+    "chunk_2146": {
+      "relations": []
+    },
+    "chunk_2147": {
+      "relations": []
+    },
+    "chunk_2148": {
+      "relations": []
+    },
+    "chunk_2149": {
+      "relations": []
+    },
+    "chunk_2150": {
+      "relations": []
+    },
+    "chunk_2151": {
+      "relations": []
+    },
+    "chunk_2152": {
+      "relations": []
+    },
+    "chunk_2153": {
+      "relations": []
+    },
+    "chunk_2154": {
+      "relations": []
+    },
+    "chunk_2155": {
+      "relations": []
+    },
+    "chunk_2156": {
+      "relations": []
+    },
+    "chunk_2157": {
+      "relations": []
+    },
+    "chunk_2158": {
+      "relations": []
+    },
+    "chunk_2159": {
+      "relations": []
+    },
+    "chunk_2160": {
+      "relations": []
+    },
+    "chunk_2161": {
+      "relations": []
+    },
+    "chunk_2162": {
+      "relations": []
+    },
+    "chunk_2163": {
+      "relations": []
+    },
+    "chunk_2164": {
+      "relations": []
+    },
+    "chunk_2165": {
+      "relations": []
+    },
+    "chunk_2166": {
+      "relations": []
+    },
+    "chunk_2167": {
+      "relations": []
+    },
+    "chunk_2168": {
+      "relations": []
+    },
+    "chunk_2169": {
+      "relations": []
+    },
+    "chunk_2170": {
+      "relations": []
+    },
+    "chunk_2171": {
+      "relations": []
+    },
+    "chunk_2172": {
+      "relations": []
+    },
+    "chunk_2173": {
+      "relations": []
+    },
+    "chunk_2174": {
+      "relations": []
+    },
+    "chunk_2175": {
+      "relations": []
+    },
+    "chunk_2176": {
+      "relations": []
+    },
+    "chunk_2177": {
+      "relations": []
+    },
+    "chunk_2178": {
+      "relations": []
+    },
+    "chunk_2179": {
+      "relations": []
+    },
+    "chunk_2180": {
+      "relations": []
+    },
+    "chunk_2181": {
+      "relations": []
+    },
+    "chunk_2182": {
+      "relations": []
+    },
+    "chunk_2183": {
+      "relations": []
+    },
+    "chunk_2184": {
+      "relations": []
+    },
+    "chunk_2185": {
+      "relations": []
+    },
+    "chunk_2186": {
+      "relations": []
+    },
+    "chunk_2187": {
+      "relations": []
+    },
+    "chunk_2188": {
+      "relations": []
+    },
+    "chunk_2189": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "龙舟 racing",
+          "relation": "承载文化",
+          "evidence": "2 Service secceeccereceeeeseaeeesseeaneeseeesseeeeaegaa 438 Section 3 Tour Programs in Xiqiao Mountain   ee 440 1 Flower Appreciation and Appraisement pp 440 2 DragonBoat Racing in the Tianhu Lake",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "西樵山",
+          "target": "狮舞",
+          "relation": "承载文化",
+          "evidence": "442 5 Religious Tour eccccr",
+          "confidence": 0.8,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2190": {
+      "relations": []
+    },
+    "chunk_2191": {
+      "relations": []
+    },
+    "chunk_2192": {
+      "relations": []
+    },
+    "chunk_2193": {
+      "relations": []
+    },
+    "chunk_2194": {
+      "relations": []
+    },
+    "chunk_2195": {
+      "relations": []
+    },
+    "chunk_2196": {
+      "relations": []
+    },
+    "chunk_2197": {
+      "relations": []
+    },
+    "chunk_2198": {
+      "relations": []
+    },
+    "chunk_2199": {
+      "relations": []
+    },
+    "chunk_2200": {
+      "relations": []
+    },
+    "chunk_2201": {
+      "relations": []
+    },
+    "chunk_2202": {
+      "relations": []
+    },
+    "chunk_2203": {
+      "relations": []
+    },
+    "chunk_2204": {
+      "relations": []
+    },
+    "chunk_2205": {
+      "relations": []
+    },
+    "chunk_2206": {
+      "relations": []
+    },
+    "chunk_2207": {
+      "relations": []
+    },
+    "chunk_2208": {
+      "relations": []
+    },
+    "chunk_2209": {
+      "relations": []
+    },
+    "chunk_2210": {
+      "relations": []
+    },
+    "chunk_2211": {
+      "relations": []
+    },
+    "chunk_2212": {
+      "relations": []
+    },
+    "chunk_2213": {
+      "relations": []
+    },
+    "chunk_2214": {
+      "relations": []
+    },
+    "chunk_2215": {
+      "relations": [
+        {
+          "source": "陈金源",
+          "target": "南海市西樵山旅游度假区志",
+          "relation": "著有",
+          "evidence": "聘请从事修志工作多年的陈金源、陈云杷对全志进行修改和总和化",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        },
+        {
+          "source": "陈云杷",
+          "target": "南海市西樵山旅游度假区志",
+          "relation": "著有",
+          "evidence": "聘请从事修志工作多年的陈金源、陈云杷对全志进行修改和总和化",
+          "confidence": 0.9,
+          "source_file": "南海市西樵山旅游度假区志"
+        }
+      ]
+    },
+    "chunk_2216": {
+      "relations": []
+    },
+    "chunk_2217": {
+      "relations": []
+    },
+    "chunk_2218": {
+      "relations": []
+    }
+  }
+}

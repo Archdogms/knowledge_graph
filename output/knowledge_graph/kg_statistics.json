@@ -1,0 +1,119 @@
+{
+  "entity_count": 626,
+  "relation_count": 5000,
+  "anchor_count": 165,
+  "entity_types": {
+    "地点": 206,
+    "人物": 95,
+    "朝代": 116,
+    "文化要素": 88,
+    "建筑": 114,
+    "事件": 7
+  },
+  "relation_types": {
+    "未知": 5000
+  },
+  "top_entities": [
+    {
+      "name": "南海",
+      "type": "地点",
+      "mentions": 7092
+    },
+    {
+      "name": "佛山",
+      "type": "地点",
+      "mentions": 6897
+    },
+    {
+      "name": "广州",
+      "type": "地点",
+      "mentions": 3249
+    },
+    {
+      "name": "广东",
+      "type": "地点",
+      "mentions": 3054
+    },
+    {
+      "name": "先生",
+      "type": "人物",
+      "mentions": 2454
+    },
+    {
+      "name": "康有为",
+      "type": "人物",
+      "mentions": 2400
+    },
+    {
+      "name": "九江",
+      "type": "地点",
+      "mentions": 1687
+    },
+    {
+      "name": "南海县",
+      "type": "地点",
+      "mentions": 1557
+    },
+    {
+      "name": "民国",
+      "type": "朝代",
+      "mentions": 1296
+    },
+    {
+      "name": "龙舟",
+      "type": "文化要素",
+      "mentions": 1011
+    },
+    {
+      "name": "黄飞鸿",
+      "type": "人物",
+      "mentions": 824
+    },
+    {
+      "name": "佛山市",
+      "type": "地点",
+      "mentions": 719
+    },
+    {
+      "name": "光绪",
+      "type": "朝代",
+      "mentions": 663
+    },
+    {
+      "name": "岭南",
+      "type": "地点",
+      "mentions": 647
+    },
+    {
+      "name": "戴鸿慈",
+      "type": "人物",
+      "mentions": 635
+    },
+    {
+      "name": "铁路",
+      "type": "地点",
+      "mentions": 631
+    },
+    {
+      "name": "石景宜",
+      "type": "人物",
+      "mentions": 622
+    },
+    {
+      "name": "年代",
+      "type": "朝代",
+      "mentions": 589
+    },
+    {
+      "name": "粤剧",
+      "type": "文化要素",
+      "mentions": 558
+    },
+    {
+      "name": "文艺",
+      "type": "文化要素",
+      "mentions": 518
+    }
+  ],
+  "extraction_method": "jieba+rules"
+}

@@ -1,0 +1,6440 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "据清代《南海县志。邹伯奇列传》称",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "林则徐",
+          "relation": "同族",
+          "evidence": "道光十九年林则徐虎门焚锁",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《甲寅恒星表》",
+          "relation": "著有",
+          "evidence": "绘制和撰写了《甲寅恒星表》《赤道星图》和《黄道星图》等三卷天文著作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道星图》",
+          "relation": "著有",
+          "evidence": "绘制和撰写了《甲寅恒星表》《赤道星图》和《黄道星图》等三卷天文著作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《黄道星图》",
+          "relation": "著有",
+          "evidence": "绘制和撰写了《甲寅恒星表》《赤道星图》和《黄道星图》等三卷天文著作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "承载文化",
+          "evidence": "而且还制造了天球仪",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "七政仪",
+          "relation": "承载文化",
+          "evidence": "而且还制造了天球仪和七政仪",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "他在二十五岁那年1844写成了《格术补》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "承载文化",
+          "evidence": "总结我国有关几何光学方面的经验，发展了沈括在《梦溪笔谈》中的格术",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《墨经》",
+          "relation": "同类",
+          "evidence": "关于光学的著作",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄影之器 记",
+          "relation": "著有",
+          "evidence": "撰写《摄影之器 记》说记其事在他的一篇草稿抄本",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《皇舆全图》",
+          "relation": "著有",
+          "evidence": "绘制了全国地图包括总图一幅及分图六十幅有辣治甲皮1874刻本《皇舆全图》一大册",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治年续编《南海县志》",
+          "relation": "著有",
+          "evidence": "因因此在主持绘制同治年续编《南海县志》地图时",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "石刻《汝同洲图》",
+          "relation": "创建修建",
+          "evidence": "石刻《汝同洲图》和西的山图》传世",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "石刻《汝同洲图》",
+          "target": "陈淡",
+          "relation": "记载于",
+          "evidence": "陈淡在《汝同洲图》的右上方作一记",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广州学海堂",
+          "relation": "活动于",
+          "evidence": "推举为广州学海堂学长",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广东地图绘制局",
+          "relation": "活动于",
+          "evidence": "当时主政广东的部尚半聘请他主持广东地图绘制局",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《印征君遗书》",
+          "relation": "著有",
+          "evidence": "其子达泉寻其生平著述为《印征君遗书》四卷刊行于世",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "陈澧",
+          "relation": "关联人物",
+          "evidence": "他许多工作都得到邹奇的帮助和支持书信来往特多",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "学海堂由阮元在道光元年创建于广州",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "学海堂考《岭商学报》一43卷193年4",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广东沿海地图",
+          "relation": "著有",
+          "evidence": "邹伯奇被郭册毒聘请测绘广东沿海地区地图",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "同治三年",
+          "relation": "承载文化",
+          "evidence": "同治三年1864 邹伯奇被郭册毒聘请测绘广东沿海地图",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "祠堂",
+          "relation": "活动于",
+          "evidence": "背景是祠堂的石级",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "云泉仙馆",
+          "relation": "同族",
+          "evidence": "邹伯奇对光学的研究",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "祠堂",
+          "target": "石门中学",
+          "relation": "盛产",
+          "evidence": "初存于谈冲之东的石门中学",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "祠堂",
+          "relation": "活动于",
+          "evidence": "照片上的背景是这一祠堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《远西奇器图说》",
+          "relation": "著有",
+          "evidence": "该书卷一第七款到二十二款的十六个问题都是求物体的几何重心问题。其中第十一款和最后三款是求立体的重心，其他大部分是求平面形的重心",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《求重心术》",
+          "relation": "著有",
+          "evidence": "他在《求重心术》中用数学方法求几何重心",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "赤道南 北恒图星",
+          "relation": "著有",
+          "evidence": "绘制天文图表 及作 天 球仪 有 赤道南 北恒图星",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《和遗书》",
+          "relation": "著有",
+          "evidence": "过去 兽 怀 疑是香刊印 过近年我们 在浙江 省 网 书馆 发现了 两 HEEL REE TAR CARE ERS AR 分别称 为《赤南道恒星 图》 和《赤北道恒星图》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "羊柳扩城书屋",
+          "target": "邹伯奇",
+          "relation": "活动于",
+          "evidence": "羊柳扩城书屋两幅赤道星图是同治元年松溪革堂缩临的原刊本",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "松溪革堂",
+          "target": "邹伯奇",
+          "relation": "同族",
+          "evidence": "松溪革堂印由可见这两大赤道星图是同治元年松溪革堂缩临的原刊本",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "羊柳扩城书屋",
+          "relation": "活动于",
+          "evidence": "羊柳扩城书屋两幅赤道星图是同治元年松溪革堂缩临的原刊本",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治元年",
+          "relation": "属于时期",
+          "evidence": "羊柳扩城书屋两幅赤道星图是同治元年松溪革堂缩临的原刊本",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "咸丰甲寅",
+          "relation": "属于时期",
+          "evidence": "说明中提到的咸丰甲寅岁前冬至恒星黄赤经纬表二卷分图",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "著有",
+          "evidence": "制作了天球仪，高约30厘米，内容与天文图一致",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "太阳系表演仪",
+          "relation": "著有",
+          "evidence": "制作了太阳系表演仪，展示太阳系结构",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "天球仪",
+          "target": "太阳系表演仪",
+          "relation": "同类",
+          "evidence": "两者都是邹伯奇制作的天文仪器",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "海王星",
+          "target": "太阳系表演仪",
+          "relation": "记载于",
+          "evidence": "太阳在中心有八个大行星，其中海王星是1846年发现的，仪器上就有了",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "光绪二十九年",
+          "relation": "活动于",
+          "evidence": "光绪二十九年1903邹代钧绘《中外与地全图》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治年间",
+          "relation": "活动于",
+          "evidence": "同治年间在邹伯奇承担测绘广东地区的地图时",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广东地区",
+          "relation": "活动于",
+          "evidence": "同治年间在邹伯奇承担测绘广东地区的地图时",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation": "著有",
+          "evidence": "其中《测量备要》具有代表性",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation": "著有",
+          "evidence": "述其中《测量备要》具有代表性在其测绘工具中有种SURED注说以计用山之高",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "风坪针",
+          "target": "指南尺",
+          "relation": "同类",
+          "evidence": "指南尺在《测量备要》中讲凡作地图执此行路针向某字若干步周折越历随笔记薄正位布画率分合度。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "指南分率尺",
+          "relation": "承载文化",
+          "evidence": "指南分率尺是邹伯奇设计的一种用于测量方向的直尺",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "罗经",
+          "relation": "承载文化",
+          "evidence": "罗经是古代导航工具之一",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《涯冈洲图》碑",
+          "relation": "活动于",
+          "evidence": "邹伯奇命门人罗照沧族弟邹景隆等用此法绘此图",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浑圆水准式",
+          "relation": "著有",
+          "evidence": "邹伯奇设计一种叫'浑圆水准式'的水准仪",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "风雨针",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "风雨针《前已叙及风雨针'是邹伯奇给别人的信中收入一誉清稿本中",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "地平式日晷",
+          "relation": "著有",
+          "evidence": "其一姻盘呈长方形 长 164 厘米 宽 88 厘米 一端中则安一立表 立表是长 方柱形 长 15 厘米宽 1 厘米高 138 厘米",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": []
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "对 数 尺",
+          "relation": "著有",
+          "evidence": "邹伯奇设计制造了对数尺和度算板",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "对 数 尺",
+          "relation": "活动于",
+          "evidence": "邹氏对数尺是由两块同大的木条构成",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《四寅恒旦表》",
+          "relation": "著有",
+          "evidence": "咸丰四年1854年 邹伯奇撰《四寅恒旦表》一卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道星图》",
+          "relation": "著有",
+          "evidence": "咸丰四年1854年 邹伯奇撰《赤道星图》一卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《黄道星图》",
+          "relation": "著有",
+          "evidence": "咸丰四年1854年 邹伯奇撰《黄道星图》一卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《灵台仪象志》",
+          "relation": "著有",
+          "evidence": "咸丰九年1744年 增修《仪象考成》补其缺误道光甲辰再加考测为《仪象考成续编》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《仪象考成》",
+          "relation": "著有",
+          "evidence": "咸丰九年1744年 增修《仪象考成》补其缺误道光甲辰再加考测为《仪象考成续编》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《仪象考成续编》",
+          "relation": "著有",
+          "evidence": "咸丰九年1744年 增修《仪象考成》补其缺误道光甲辰再加考测为《仪象考成续编》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治《南海志》卷海十八",
+          "relation": "记载于",
+          "evidence": "同治《南只志》卷海十八。31据现推测立表庶绘图制器密合天行也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄影器",
+          "relation": "承载文化",
+          "evidence": "邹伯奇所制摄影器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《说自哆钟《答友人问漏箭简法》",
+          "relation": "著有",
+          "evidence": "《说自哆钟《答友人问漏箭简法》等物理学论文",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《皇舆全图》",
+          "relation": "著有",
+          "evidence": "曾绘《皇舆全图》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《地球图》",
+          "relation": "著有",
+          "evidence": "又变西人之旧作地球正背两面全图用圆周视圆法绘《地球图》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "摄影器",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "邹伯奇所制摄影器",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《说自哆钟《答友人问漏箭简法》",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "《说自哆钟《答友人问漏箭简法》等物理学论文",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《皇舆全图》",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "曾绘《皇舆全图》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《地球图》",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "又变西人之旧作地球正背两面全图用圆周视圆法绘《地球图》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation": "著有",
+          "evidence": "所著 《测量备要》 四 卷 即 为准备 行 测绘图 而 作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "岭南",
+          "relation": "活动于",
+          "evidence": "生长于开放风气之先的岭南",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "岭南",
+          "relation": "承载文化",
+          "evidence": "使得岭南的硕学和江浙的才士纷纷莫名而来",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "算学",
+          "target": "岭南",
+          "relation": "承载文化",
+          "evidence": "使得岭南的硕学和江浙的才士纷纷莫名而来",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《乘方捷术》",
+          "relation": "著有",
+          "evidence": "作《乘方捷术》以补正之",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《乘方捷术》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "作《乘方捷术》以补正之",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《戈载考》",
+          "relation": "著有",
+          "evidence": "邹伯奇 声誉 鹊起 不 少学术 名流 都争 FASS SEA WY ST 28PRE 亦 深 深 折服 于 分 伯 奇 的《 戈载考》 Ea Sab",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "陈澧",
+          "target": "邹伯奇",
+          "relation": "同族",
+          "evidence": "所以 说 届 尊 乃 因为 陈 澧 长 乌 伯 奇 近 十岁",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《明会堂通图》",
+          "relation": "著有",
+          "evidence": "他 的《明会堂通图 BOTT ARCS LIDS HARE 会而通之 以 为图说。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《焚溪笔谈》",
+          "relation": "著有",
+          "evidence": "《焚溪笔谈》的研读更能体现出他善读古书的特点",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "关联人物",
+          "evidence": "例如他曾因《梦溪笔谈》的一段记载前文已引此处略",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道光二十四年",
+          "relation": "属于时期",
+          "evidence": "因用镜取火忽悟其能摄诸形色也急闭窗穴极验之引申触类而作此器",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "摄影之器",
+          "target": "梦溪笔谈",
+          "relation": "记载于",
+          "evidence": "取《梦溪笔谈》读而极思之验之室中之云影飞之鸟往来",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "著有",
+          "evidence": "《梦溪笔谈》启发其发明照相机",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "记载于",
+          "evidence": "注意这里不是浮光掠影囊街了事地读而是读而极思之并做实验以验之",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "著有",
+          "evidence": "正是在做实验的过程中因用镜取火验证《梦溪笔谈》上所说",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "记载于",
+          "evidence": "产生灵感顿悟其能摄诸形色也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "著有",
+          "evidence": "于是赶紧抓住这个灵感顿悟以实证验实之急闭窗穴板验之",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "记载于",
+          "evidence": "引申触类而作此器即触类而灵感发引申而相机成中国第一架照相机就这样诞生了",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "照相机",
+          "relation": "著有",
+          "evidence": "邹伯奇发明了照相机",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "七政仪",
+          "relation": "著有",
+          "evidence": "邹伯奇制作了演示天文学仪器七政仪",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "4幅漂冈洲图",
+          "relation": "著有",
+          "evidence": "指导弟子罗照沧族弟邹綦隆绘制的4幅漂冈洲图",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "邹伯奇家乡南海县的县志图亦由邹伯奇手定义例被准为",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "林则徐",
+          "relation": "同类",
+          "evidence": "林则徐虎门销烟的壮举在科研为现实斗争服务方面立下了大功。邹伯奇一生绝意仕途潜心科学研究真正做到了古人所说",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》称他于声音文字度数之源尤精于天文历算",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天文历算",
+          "relation": "承载文化",
+          "evidence": "尤其是算学方面使他在岭南独树一帜赢得岭内外学者的衷心仰幕",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天文历算",
+          "relation": "同族",
+          "evidence": "尤精于天文历算",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "夏弯翔",
+          "relation": "活动于",
+          "evidence": "夏弯翔是从浙江远道而来向邹伯奇学习的",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "夏弯翔",
+          "relation": "关联人物",
+          "evidence": "夏弯翔是从浙江远道而来向邹伯奇学习的",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《三统术详说》",
+          "relation": "著有",
+          "evidence": "著作如《三统术详说》四卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《三角平视法》",
+          "relation": "著有",
+          "evidence": "《三角平视法》一卷等说",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《分征君遗书》",
+          "relation": "记载于",
+          "evidence": "从《分征君遗书》刻成的始末更能看出",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "丁取忠",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "提及的与邹伯奇神交已久的长沙算学家丁取忠",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "孔继藩",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "邹伯奇的弟子孔继藩、汤警盘任校勘",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "汤警盘",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "邹伯奇的弟子孔继藩、汤警盘任校勘",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "卷 《 格 术 补 》 一",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《乘方捷术》",
+          "relation": "著有",
+          "evidence": "卷 《 乘 方 捷 术》 三",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《存稿》",
+          "relation": "著有",
+          "evidence": "卷 《 存 稿》 一",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "先征君",
+          "relation": "同族",
+          "evidence": "邹伯奇儿子 分 达 泉",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "吴子登",
+          "relation": "关联人物",
+          "evidence": "南 丰 吴 子 登先 皆 精 算 学 来 游岭南",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "夏弯翔",
+          "relation": "关联人物",
+          "evidence": "这个有 形 或无 形 学派的 成员夏 弯 翔",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "徐有于",
+          "relation": "关联人物",
+          "evidence": "这个有 形 或无 形 学派的 成员夏 弯 翔 徐 有 于",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《夏氏算书》",
+          "relation": "著有",
+          "evidence": "收录了 这 个 有 形 或无 形 学派的 成员夏 弯 翔 徐 有 于 的《夏氏 算 书》 四种",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《徐氏算书》",
+          "relation": "著有",
+          "evidence": "收录了 这 个 有 形 或无 形 学派的 成员夏 弯 翔 徐 有 于 的《夏氏 算 书》 四种和《 徐 氏 算 书》 三种。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《分征君遗书》",
+          "relation": "著有",
+          "evidence": "《分征君遗书》刻成于邹伯奇死后",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《学计一得自序》",
+          "relation": "著有",
+          "evidence": "他在《学计一得自序》中响亮地提出和欲会通中西之法",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "他能融贯中西之说，《南海县志》所称",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《考工记》",
+          "relation": "承载文化",
+          "evidence": "如对《考工记》等古籍的研究",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "承载文化",
+          "evidence": "如对《梦溪笔谈》等古籍的研究",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《分征君遗书》",
+          "target": "《邹征看遗书》",
+          "relation": "记载于",
+          "evidence": "《邹征看遗书》卷首邹达泉的说明",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "漏箭",
+          "relation": "承载文化",
+          "evidence": "他在《自鸭钟》一文中详细探讨了自鸣钟的结构原理",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "漏箭",
+          "relation": "著有",
+          "evidence": "他在《自鸭钟》一文中详细探讨了自鸣钟的结构原理",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "漏箭",
+          "target": "《渚器图说》",
+          "relation": "记载于",
+          "evidence": "漏箭是在瑞士耶稣会传教士邓玉函《渚器图说》中的基础上加以改进而成",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "自鸭钟",
+          "relation": "承载文化",
+          "evidence": "他的自鸭钟，其法盖源于比利时耶稣会传教士南剑仁《灵台仪象图考》而别出心裁变革之",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "自鸭钟",
+          "relation": "著有",
+          "evidence": "他在《自鸭钟》一文中详细探讨了自鸣钟的结构原理",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "自鸭钟",
+          "target": "《灵台仪象图考》",
+          "relation": "记载于",
+          "evidence": "他的自鸭钟，其法盖源于比利时耶稣会传教士南剑仁《灵台仪象图考》而别出心裁变革之",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "天体仪",
+          "relation": "承载文化",
+          "evidence": "他所制作的天体仪与康黑年间南怀仁制作的不同",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天体仪",
+          "relation": "活动于",
+          "evidence": "邹伯奇生于欧风美驭豫而来之世",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《求重心术》",
+          "relation": "著有",
+          "evidence": "他的《求重心术》AEARS的几何重心比K远西奇器图说中介绍的西方物体重心的求法大大前进了一步",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0080": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《学计一得》",
+          "relation": "著有",
+          "evidence": "在《学计一得卷下论西法缘古所有》中说",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "和仲",
+          "target": "《考工》",
+          "relation": "记载于",
+          "evidence": "世谓之工百工之事圣大之所作也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "和仲",
+          "relation": "关联人物",
+          "evidence": "伯奇则谓西人天学未必本之和仲",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《春秋经传日月考》",
+          "relation": "著有",
+          "evidence": "作成《春秋经传日月考》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《古尺步考》",
+          "relation": "著有",
+          "evidence": "所著《古尺步考》《夏小正南门星量形制考》《深衣考》《戈载考》《明堂会通图说》等篇",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《夏小正南门星量形制考》",
+          "relation": "著有",
+          "evidence": "所著《古尺步考》《夏小正南门星量形制考》《深衣考》《戈载考》《明堂会通图说》等篇",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《深衣考》",
+          "relation": "著有",
+          "evidence": "所著《古尺步考》《夏小正南门星量形制考》《深衣考》《戈载考》《明堂会通图说》等篇",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《戈载考》",
+          "relation": "著有",
+          "evidence": "所著《古尺步考》《夏小正南门星量形制考》《深衣考》《戈载考》《明堂会通图说》等篇",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《明堂会通图说》",
+          "relation": "著有",
+          "evidence": "所著《古尺步考》《夏小正南门星量形制考》《深衣考》《戈载考》《明堂会通图说》等篇",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "格术",
+          "relation": "承载文化",
+          "evidence": "述及的格术此术古已有之",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "格术",
+          "target": "《梦溪笔谈》",
+          "relation": "记载于",
+          "evidence": "此书撰成相未详因其中提到答吴子登问估计当在同治二年",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《数理精蕴》",
+          "relation": "著有",
+          "evidence": "邹伯奇，清代科学家，著有《数理精蕴》等书",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《梦溪笔谈》",
+          "target": "《数理精蕴》",
+          "relation": "记载于",
+          "evidence": "征君得《梦溪笔谈》之说",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《考工记》",
+          "relation": "记载于",
+          "evidence": "他颇钞自信心既不自卑也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "对 数 尺",
+          "relation": "著有",
+          "evidence": "其 物其 图  其说明 书《 对 数 尺记》 现 尚 留存",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "漏箭",
+          "relation": "著有",
+          "evidence": "有 漏箭见《 答 友人癌漏箭  简法》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影器 RAY 钟",
+          "relation": "著有",
+          "evidence": "并 在《 征 君 存 稿》中 有《摄影之器记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "对 数 尺",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "其 物其 图  其说明 书《 对 数 尺记》 现 尚 留存",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "漏箭",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "有 漏箭见《 答 友人癌漏箭  简法》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "摄影器 RAY 钟",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "并 在《 征 君 存 稿》中 有《摄影之器记》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "道光二十四年",
+          "target": "邹伯奇",
+          "relation": "属于时期",
+          "evidence": "道光 二 十 四 年 时 二 十 五 岁",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "自鸣钟",
+          "relation": "承载文化",
+          "evidence": "按先生设计所制自鸣钟",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《与地全图》",
+          "relation": "著有",
+          "evidence": "总目》刻成的就有《与地全图》一册",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道南北恒星图》",
+          "relation": "著有",
+          "evidence": "还有《赤道南北恒星图》一册",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《洗冈洲图》",
+          "relation": "著有",
+          "evidence": "还有勒于石的《洗冈洲图》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "云泉仙馆",
+          "relation": "活动于",
+          "evidence": "邹伯奇在指导他人绘制《桑园围全图》时，可能曾在此地活动",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "桑园围全图",
+          "relation": "著有",
+          "evidence": "邹伯奇根据斐秀分率准望法绘制的地理图",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "柳叶格星图",
+          "relation": "著有",
+          "evidence": "邹伯奇绘制的星图，被誉为千古绝作",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "黄经道纬格",
+          "relation": "著有",
+          "evidence": "邹伯奇绘制的星图坐标系",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《遗书》",
+          "relation": "著有",
+          "evidence": "因求《遗书》捐资个仪付梓",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "执事敬",
+          "relation": "承载文化",
+          "evidence": "这主要是由于他执事敬的品德",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "与人忠",
+          "relation": "承载文化",
+          "evidence": "这主要是由于他与人忠的品德",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "除设帐授徒和任书院主外经常与友辈陈休戚与共的感情",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "夏弯翔",
+          "relation": "同族",
+          "evidence": "特别的是先生对死友夏弯翔知交丁取忠",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "丁取忠",
+          "relation": "同族",
+          "evidence": "特别的是先生对死友夏弯翔知交丁取忠",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "项名达",
+          "relation": "同族",
+          "evidence": "对同时代的前辈如项名达",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "徐有壬",
+          "relation": "同族",
+          "evidence": "比邹长十九岁",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治帝",
+          "relation": "关联人物",
+          "evidence": "1866年曾上书同治帝",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同文馆",
+          "relation": "活动于",
+          "evidence": "建议聘请他到北京同文馆教书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《邹征君遗书》",
+          "relation": "著有",
+          "evidence": "现在保存下来的是他的儿子分达泉64编编辑的",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县",
+          "relation": "出生于",
+          "evidence": "邹伯奇 南海 县泌冲乡人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0106": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《邹征君中书》",
+          "relation": "著有",
+          "evidence": "今天 我们 能 读 到 的 《 邹 征君中 书》 还 是 他 死 后别人 捐 钱 印 出来 的",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "七政仪地图",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "邹伯奇亲 手 制作 的 七政仪 地 图",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0110": {
+      "relations": [
+        {
+          "source": "郑复光",
+          "target": "《镜镜论凝》",
+          "relation": "著有",
+          "evidence": "郑复光著的《镜镜论凝》也有取镜景",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《镜镜论凝》",
+          "target": "暗箱",
+          "relation": "记载于",
+          "evidence": "该书于道光二十七年印行肯定邹伯奇制成摄影之器时未见过这本书郑氏这本书也是一本伟大的光学著作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《镜镜论凝》",
+          "relation": "记载于",
+          "evidence": "该书于道光二十七年印行肯定邹伯奇制成摄影之器时未见过这本书郑氏这本书也是一本伟大的光学著作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "道光二十七年",
+          "target": "《镜镜论凝》",
+          "relation": "记载于",
+          "evidence": "该书于道光二十七年印行",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "邹征君",
+          "relation": "同族",
+          "evidence": "邹征君遗书中的序言",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "邹征君",
+          "relation": "关联人物",
+          "evidence": "邹征君遗书中的序言",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹征君",
+          "target": "达泉",
+          "relation": "同族",
+          "evidence": "邹征君遗书中的序言",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹征君",
+          "target": "达泉",
+          "relation": "关联人物",
+          "evidence": "邹征君遗书中的序言",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "邹孟孙才",
+          "relation": "同族",
+          "evidence": "邹孟孙才是邹伯奇的曾孙",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄影机",
+          "relation": "记载于",
+          "evidence": "讲光学原理有下面的一大段人之能视物者",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "咸丰八年",
+          "relation": "记载于",
+          "evidence": "陈潘在咸丰八年蔡他写4学计一得》的序言中提到过",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": []
+    },
+    "chunk_0118": {
+      "relations": []
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": []
+    },
+    "chunk_0121": {
+      "relations": []
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "阳起石",
+          "target": "铁锈水",
+          "relation": "承载文化",
+          "evidence": "阳起石可能是含钙镁铁的HEME PUR木楼子",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "铁锈水",
+          "target": "阳起石",
+          "relation": "承载文化",
+          "evidence": "铁锈水是一种硫化砷盐类，其功用估计是杀菌防腐用",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "祠堂",
+          "relation": "承载文化",
+          "evidence": "其中有一张是邹伯奇的小75023像背景是祠堂的石级",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "祠堂",
+          "relation": "活动于",
+          "evidence": "背景是祠堂的石级他本人身穿白长衫坐在倒子上手执白团扇",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": []
+    },
+    "chunk_0125": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道光24年",
+          "relation": "活动于",
+          "evidence": "他在道光24年即制成摄影之器那年1844",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影之器",
+          "relation": "著有",
+          "evidence": "从学计一得上各篇论文中都可以证实",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0126": {
+      "relations": []
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《畴人歌》",
+          "relation": "著有",
+          "evidence": "徐源写的《畴人歌》赠给他",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《物理小识》",
+          "relation": "著有",
+          "evidence": "方以智著《物理小识》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影",
+          "relation": "关联人物",
+          "evidence": "邹伯奇在1869年去世，他的遗稿由光学原理讲到摄影机的结构和摄影过程以及药料配方等可以算是我国最早的摄影文献",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》王申续修版 卷十八第12页 纯伯奇在我国完成摄影本",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "摄影",
+          "target": "照相机",
+          "relation": "承载文化",
+          "evidence": "邹伯奇发明了一项技术 涉及照相原理和制造方法",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": []
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "暗箱",
+          "relation": "创建修建",
+          "evidence": "先制一暗箱",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "暗箱",
+          "relation": "著有",
+          "evidence": "这段记载更详细介绍了邹伯奇自制照相机的情况",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "乙未",
+          "relation": "属于时期",
+          "evidence": "先 是 岁 在乙未  即 1835 年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "塔倒影",
+          "relation": "记载于",
+          "evidence": "客有 以 塔倒影 献 疑 者 取 《 梦 溪笔谈》 读 而 极思 之",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0133": {
+      "relations": []
+    },
+    "chunk_0134": {
+      "relations": []
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": []
+    },
+    "chunk_0137": {
+      "relations": []
+    },
+    "chunk_0138": {
+      "relations": []
+    },
+    "chunk_0139": {
+      "relations": []
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": []
+    },
+    "chunk_0142": {
+      "relations": []
+    },
+    "chunk_0143": {
+      "relations": []
+    },
+    "chunk_0144": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《小尔雅释度量衡》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《对数尺记》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷，《对数尺记》一卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《乘方捷术》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷，《对数尺记》一卷、《乘方捷术》三卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《存稿》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷，《对数尺记》一卷、《乘方捷术》三卷，《存稿》一卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《恒星图》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷，《对数尺记》一卷、《乘方捷术》三卷，《存稿》一卷，《恒星图》二帧",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《熏地图》",
+          "relation": "著有",
+          "evidence": "据陈瑛为邹伯奇遗书所作的序中说征君即邹伯奇所著书有《学计一得》二卷，《补小尔雅释度量衡》一卷，《格术补》一卷，《对数尺记》一卷、《乘方捷术》三卷，《存稿》一卷，《恒星图》二帧，《熏地图》一册",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0145": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "考工记",
+          "relation": "著有",
+          "evidence": "《考工记》即说智者创造器用而由百工制造",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "太阳黑子",
+          "relation": "记载于",
+          "evidence": "关于太阳黑子的问题《淮南子》一书已有记载",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "祖冲之",
+          "target": "考工记",
+          "relation": "关联人物",
+          "evidence": "南北朝的祖冲之等都已经正确解决",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "赵友钦",
+          "target": "考工记",
+          "relation": "关联人物",
+          "evidence": "元朝的赵友钦等都已经正确解决",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0146": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《宣夜说》",
+          "relation": "著有",
+          "evidence": "《宣夜说》一文中也说丁未夏夜测候中星常至夜分",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0147": {
+      "relations": []
+    },
+    "chunk_0148": {
+      "relations": []
+    },
+    "chunk_0149": {
+      "relations": []
+    },
+    "chunk_0150": {
+      "relations": []
+    },
+    "chunk_0151": {
+      "relations": []
+    },
+    "chunk_0152": {
+      "relations": []
+    },
+    "chunk_0153": {
+      "relations": []
+    },
+    "chunk_0154": {
+      "relations": []
+    },
+    "chunk_0155": {
+      "relations": []
+    },
+    "chunk_0156": {
+      "relations": []
+    },
+    "chunk_0157": {
+      "relations": []
+    },
+    "chunk_0158": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "著有",
+          "evidence": "邹伯奇设计制造了我国流传至今的第二架天球仪",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0159": {
+      "relations": []
+    },
+    "chunk_0160": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "浑仪",
+          "relation": "关联人物",
+          "evidence": "邹伯奇的天球仪从结构到形式可以说都是中国的式",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0161": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《赤道南北恒星图》",
+          "relation": "著有",
+          "evidence": "还有两幅《黄道南北恒星总图》...还有...一幅北天赤极附图也...这些星图都是按中国传统的甬法画出的星座连线法",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《黄道南北恒星总图》",
+          "relation": "著有",
+          "evidence": "还有两幅《黄道南北恒星总图》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《北天赤极附图》",
+          "relation": "著有",
+          "evidence": "还有...一幅北天赤极附图也...",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浑球",
+          "relation": "承载文化",
+          "evidence": "邹伯奇的星图和天球仪有密切的关系...首先想作浑球",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "承载文化",
+          "evidence": "邹伯奇的星图和天球仪有密切的关系...首先想作浑球",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《赤道南北恒星图》",
+          "target": "天球仪",
+          "relation": "同类",
+          "evidence": "邹伯奇的星图和天球仪有密切的关系",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《黄道南北恒星总图》",
+          "target": "天球仪",
+          "relation": "同类",
+          "evidence": "邹伯奇的星图和天球仪有密切的关系",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《北天赤极附图》",
+          "target": "天球仪",
+          "relation": "同类",
+          "evidence": "邹伯奇的星图和天球仪有密切的关系",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0162": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《甲成实恒星表》",
+          "relation": "著有",
+          "evidence": "他制作了《甲成实恒星表》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道星图》",
+          "relation": "著有",
+          "evidence": "绘成了《赤道星图》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《黄道星图》",
+          "relation": "著有",
+          "evidence": "绘成了《黄道星图》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "承载文化",
+          "evidence": "据此则他的天球仪之作当不晚于甲寅年即1854年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "曾国藩",
+          "relation": "关联人物",
+          "evidence": "多次拒绝清政府和身处高位声势显赫的曾国藩的征调",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0163": {
+      "relations": []
+    },
+    "chunk_0164": {
+      "relations": []
+    },
+    "chunk_0165": {
+      "relations": []
+    },
+    "chunk_0166": {
+      "relations": []
+    },
+    "chunk_0167": {
+      "relations": []
+    },
+    "chunk_0168": {
+      "relations": []
+    },
+    "chunk_0169": {
+      "relations": []
+    },
+    "chunk_0170": {
+      "relations": []
+    },
+    "chunk_0171": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广州博物馆",
+          "relation": "关联人物",
+          "evidence": "现藏广州市博物馆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "日心地动说",
+          "relation": "著有",
+          "evidence": "做了太阳系表演仪器",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "日心地动说",
+          "relation": "活动于",
+          "evidence": "在对待哥白尼的日心地动说问题上是很有积极的",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0172": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation": "著有",
+          "evidence": "还有《测量备要》等重要科学著作未能问世",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《邹征铬遗书》",
+          "relation": "著有",
+          "evidence": "将其中的一部分题名为《邹征铬遗书》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0173": {
+      "relations": []
+    },
+    "chunk_0174": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《光论》",
+          "relation": "著有",
+          "evidence": "邹伯奇写过两篇光学论文即《格术补》和《摄影之器记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "邹伯奇写过两篇光学论文即《格术补》和《摄影之器记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《摄影之器记》",
+          "relation": "著有",
+          "evidence": "邹伯奇写过两篇光学论文即《格术补》和《摄影之器记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《邹征君遗书》",
+          "relation": "著有",
+          "evidence": "都收人《邹征君遗书中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《格术补》",
+          "target": "《邹征君遗书》",
+          "relation": "记载于",
+          "evidence": "都收人《邹征君遗书中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《摄影之器记》",
+          "target": "《邹征君遗书》",
+          "relation": "记载于",
+          "evidence": "都收人《邹征君遗书中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0175": {
+      "relations": []
+    },
+    "chunk_0176": {
+      "relations": []
+    },
+    "chunk_0177": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "折射",
+          "relation": "著有",
+          "evidence": "邹伯奇对折射进行了实验",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "折射",
+          "relation": "活动于",
+          "evidence": "邹伯奇对折射进行了实验",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0178": {
+      "relations": []
+    },
+    "chunk_0179": {
+      "relations": []
+    },
+    "chunk_0180": {
+      "relations": []
+    },
+    "chunk_0181": {
+      "relations": []
+    },
+    "chunk_0182": {
+      "relations": []
+    },
+    "chunk_0183": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "乾隆二十五年",
+          "relation": "属于时期",
+          "evidence": "乾隆二十五年1760清政府作了具摄光千里镜",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0184": {
+      "relations": []
+    },
+    "chunk_0185": {
+      "relations": []
+    },
+    "chunk_0186": {
+      "relations": []
+    },
+    "chunk_0187": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄影器",
+          "relation": "著有",
+          "evidence": "研制成功我国最早的照相术照相机本身就是他1844年研制成功的摄影器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "分氏",
+          "relation": "同族",
+          "evidence": "邹伯奇的后裔献给广州市博物馆的文物中有...",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇故居",
+          "target": "邹伯奇",
+          "relation": "活动于",
+          "evidence": "1962年暑假期间华南化工学院梁恒心等曾先后到分伯奇故居访问",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇故居",
+          "target": "邹伯奇",
+          "relation": "创建修建",
+          "evidence": "邹氏的后裔又把一部分手稿送给中国摄影学会广东分会",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "分氏",
+          "target": "邹伯奇故居",
+          "relation": "关联人物",
+          "evidence": "1962年暑假期间华南化工学院梁恒心等曾先后到分伯奇故居访问",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0188": {
+      "relations": []
+    },
+    "chunk_0189": {
+      "relations": []
+    },
+    "chunk_0190": {
+      "relations": []
+    },
+    "chunk_0191": {
+      "relations": []
+    },
+    "chunk_0192": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《理化精详》",
+          "relation": "著有",
+          "evidence": "邹伯奇还著《理化精详》一书",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《理化精详》",
+          "target": "照相术",
+          "relation": "承载文化",
+          "evidence": "可见这本书中包括照相术的内容",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "照相术",
+          "relation": "活动于",
+          "evidence": "1846年外国人第一次把照相机带到广州照相，1844年作摄影器之后两年了邹伯奇死于1869年他对照相化学的研究",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0193": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "色相丹真",
+          "relation": "著有",
+          "evidence": "在我们图最早介绍欧洲照相术的书《色相丹真》于1877年才翻译出版",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》：未在文本中直接提及，但作为地方志可能提及邹伯奇",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0194": {
+      "relations": []
+    },
+    "chunk_0195": {
+      "relations": []
+    },
+    "chunk_0196": {
+      "relations": []
+    },
+    "chunk_0197": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄影器",
+          "relation": "著有",
+          "evidence": "邹伯奇的光学研究情况有所了解我们拟从以下三个方面进行介绍和论述。首先是邹伯奇是通过一系列的光学实验来正确地盖述光学理论的。为了使读者对邹伯奇的光学研究情况有所了 解我们拟从以 下 三 个 方面进行 介绍 和论述。邹伯奇制造的摄影器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《梦溪笔谈》",
+          "target": "摄影器",
+          "relation": "记载于",
+          "evidence": "写《梦溪笔谈》之名见《梦溪笔谈》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0198": {
+      "relations": [
+        {
+          "source": "格术",
+          "target": "《梦溪笔谈》",
+          "relation": "记载于",
+          "evidence": "书中文云阳煤照物皆倒中间有碍故也。算家谓之格术",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "沈括",
+          "target": "《梦溪笔谈》",
+          "relation": "著有",
+          "evidence": "沈括的《梦溪笔谈》卷三此卷讨论了针孔四面镜成倒像的道理",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "格术",
+          "target": "沈括",
+          "relation": "传承于",
+          "evidence": "后人很少加以研究直到邹伯奇才以此为课题再行深入探讨",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0199": {
+      "relations": []
+    },
+    "chunk_0200": {
+      "relations": []
+    },
+    "chunk_0201": {
+      "relations": []
+    },
+    "chunk_0202": {
+      "relations": []
+    },
+    "chunk_0203": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "摄器",
+          "relation": "创建修建",
+          "evidence": "邹伯奇所制的光学仪器之一摄器",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "郑复光",
+          "relation": "关联人物",
+          "evidence": "受了郑复光 黄履的影响",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "黄履",
+          "relation": "关联人物",
+          "evidence": "受了郑复光 黄履的影响",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "黄履",
+          "relation": "同族",
+          "evidence": "黄履制造过千里镜",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄器",
+          "relation": "著有",
+          "evidence": "邹伯奇的一部手稿关于照相术的最早文献",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0204": {
+      "relations": []
+    },
+    "chunk_0205": {
+      "relations": []
+    },
+    "chunk_0206": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "邹伯奇故居",
+          "relation": "创建修建",
+          "evidence": "邹伯奇故居是邹伯奇生前居住和进行光学研究的地方",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "邹伯奇故居",
+          "relation": "活动于",
+          "evidence": "邹伯奇故居是邹伯奇生前居住和进行光学研究的地方",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "木挽楼",
+          "relation": "关联人物",
+          "evidence": "木挽楼是邹伯奇的住所的一部分",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0207": {
+      "relations": []
+    },
+    "chunk_0208": {
+      "relations": []
+    },
+    "chunk_0209": {
+      "relations": []
+    },
+    "chunk_0210": {
+      "relations": []
+    },
+    "chunk_0211": {
+      "relations": []
+    },
+    "chunk_0212": {
+      "relations": []
+    },
+    "chunk_0213": {
+      "relations": []
+    },
+    "chunk_0214": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "1869年逝世《格术补》自然是1869年前成文",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《格术补》",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "1869年逝世《格术补》自然是1869年前成文",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0215": {
+      "relations": []
+    },
+    "chunk_0216": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "《格术补》是邹伯奇的著作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0217": {
+      "relations": []
+    },
+    "chunk_0218": {
+      "relations": []
+    },
+    "chunk_0219": {
+      "relations": []
+    },
+    "chunk_0220": {
+      "relations": []
+    },
+    "chunk_0221": {
+      "relations": []
+    },
+    "chunk_0222": {
+      "relations": []
+    },
+    "chunk_0223": {
+      "relations": []
+    },
+    "chunk_0224": {
+      "relations": []
+    },
+    "chunk_0225": {
+      "relations": []
+    },
+    "chunk_0226": {
+      "relations": []
+    },
+    "chunk_0227": {
+      "relations": []
+    },
+    "chunk_0228": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "显微镜",
+          "relation": "著有",
+          "evidence": "他详细地描述了放大镜原理、匣利略显微镜以及三种显微镜的结构和原理。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "望远镜",
+          "relation": "著有",
+          "evidence": "他还介绍了三枚四枚五枚透镜组成的望远镜。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0229": {
+      "relations": []
+    },
+    "chunk_0230": {
+      "relations": []
+    },
+    "chunk_0231": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《遗书》",
+          "relation": "著有",
+          "evidence": "君遗书还有不少没有出版",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《存稿》",
+          "relation": "著有",
+          "evidence": "还有未发表的手稿中有未题名的文章",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0232": {
+      "relations": []
+    },
+    "chunk_0233": {
+      "relations": []
+    },
+    "chunk_0234": {
+      "relations": []
+    },
+    "chunk_0235": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "浑作球",
+          "relation": "创建修建",
+          "evidence": "他在自序中概述了1854年春天制作浑作球的过程",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《甲寅恒星表》",
+          "relation": "著有",
+          "evidence": "邹伯奇关于天象的论著有《甲寅恒星表》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道星图》",
+          "relation": "著有",
+          "evidence": "邹伯奇关于天象的论著有《甲寅恒星表》《赤道星图》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《星黄加各一道卷》",
+          "relation": "著有",
+          "evidence": "邹伯奇关于天象的论著有《甲寅恒星表》《赤道星图》和《星黄加各一道卷》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0236": {
+      "relations": []
+    },
+    "chunk_0237": {
+      "relations": []
+    },
+    "chunk_0238": {
+      "relations": []
+    },
+    "chunk_0239": {
+      "relations": []
+    },
+    "chunk_0240": {
+      "relations": []
+    },
+    "chunk_0241": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "康有为",
+          "relation": "同族",
+          "evidence": "康有为，南海丹灶人",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0242": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation": "著有",
+          "evidence": "邹伯奇还制作过对数尺",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《对数尺记》",
+          "relation": "著有",
+          "evidence": "邹伯奇写了《对数尺记》一卷来说明他所制作的对数尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "邹伯奇又曾撰《格术补》一卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "对数尺",
+          "target": "《对数尺记》",
+          "relation": "记载于",
+          "evidence": "邹伯奇写了《对数尺记》一卷来说明他所制作的对数尺",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0243": {
+      "relations": []
+    },
+    "chunk_0244": {
+      "relations": []
+    },
+    "chunk_0245": {
+      "relations": []
+    },
+    "chunk_0246": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《学计一得》",
+          "relation": "著有",
+          "evidence": "尝谓群经注足引算术未能简要，即经义中有关于天文算术为先介所来发或发而来羡明者，随时录出成《学计一得》二卷。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《甲寅恒星表》",
+          "relation": "著有",
+          "evidence": "于天象著《甲寅恒星表》《杰道星图》《黄道星图》各一以考证经史恒星出没历代岁差之故。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《杰道星图》",
+          "relation": "著有",
+          "evidence": "于天象著《甲寅恒星表》《杰道星图》《黄道星图》各一以考证经史恒星出没历代岁差之故。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《黄道星图》",
+          "relation": "著有",
+          "evidence": "于天象著《甲寅恒星表》《杰道星图》《黄道星图》各一以考证经史恒星出没历代岁差之故。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0247": {
+      "relations": []
+    },
+    "chunk_0248": {
+      "relations": []
+    },
+    "chunk_0249": {
+      "relations": []
+    },
+    "chunk_0250": {
+      "relations": []
+    },
+    "chunk_0251": {
+      "relations": []
+    },
+    "chunk_0252": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "《南海县志 同治十一 年 于申续志卷18 清 畴人传三编卷五 清史稿卷507 均有传",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0253": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县",
+          "relation": "出生于",
+          "evidence": "邹伯奇生于广东省南海县神安司泌冲堡",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "神安司泌冲堡",
+          "relation": "活动于",
+          "evidence": "父善文在本乡教书数十年算术",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹迪元",
+          "target": "神安司泌冲堡",
+          "relation": "活动于",
+          "evidence": "父善文在本乡教书数十年算术",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县",
+          "relation": "属于时期",
+          "evidence": "邹伯奇生于广东省南海县",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹迪元",
+          "target": "南海县",
+          "relation": "出生于",
+          "evidence": "邹迪元字善文在本乡教书数十年",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0254": {
+      "relations": []
+    },
+    "chunk_0255": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "自述道五光年乙丁7823",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "阮元",
+          "target": "学海堂",
+          "relation": "承载文化",
+          "evidence": "颁发广州学海堂章程",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "阮元",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "颁发广州学海堂章程",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "吴兰修",
+          "target": "学海堂",
+          "relation": "创建修建",
+          "evidence": "十二月建学海营成堂",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "李兆洛",
+          "target": "学海堂",
+          "relation": "著有",
+          "evidence": "绘《皇朝内府一统与地全图》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0256": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《计学一得自序》",
+          "relation": "著有",
+          "evidence": "在《计学一得自序》中自述",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "嘉庆丁丑进士",
+          "relation": "属于时期",
+          "evidence": "嘉庆丁丑进士韶州府教授",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0257": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》庚成续修卷十七有传",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0258": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "海县志庚成续修卷十七有传",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "李兆洛",
+          "target": "《道乡集》",
+          "relation": "著有",
+          "evidence": "李兆洛在江苏重校刊刻道乡集",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海南村孔氏家谱》",
+          "relation": "记载于",
+          "evidence": "道光十四年甲午1834。太岁广东选高材生肆业于学海堂陈澧为举首",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0259": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "于 学海堂 陈澧为举首 同举者有 张 性 4 侯 度 靓 许 玉 彬  青 皋",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "始起学习研究北宋 沈 括 所 写 的 《 梦 溪笔谈 》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影之器记",
+          "relation": "著有",
+          "evidence": "算 家亩 之 格 术 是这伯 奇 在 《摄影之器记》 一 文里所 自述。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "塔倒影",
+          "target": "学海堂",
+          "relation": "承载文化",
+          "evidence": "先岁在是乙末 客有以 塔倒影 献疑 者",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0260": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "林则徐",
+          "relation": "同族",
+          "evidence": "林则徐试制一种用作计算的比例规，后改制为一种能以量代算之用具。邹伯奇参加其督学试广属文章问音韵流。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "越华书院",
+          "relation": "活动于",
+          "evidence": "伯奇所对独详购成为正月条则徐抵广州查禁鸦片设行辕于越华书院。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "林则徐",
+          "target": "越华书院",
+          "relation": "活动于",
+          "evidence": "则徐抵广州查禁鸦片设行辕于越华书院。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "林则徐",
+          "target": "虎门",
+          "relation": "盛产",
+          "evidence": "五月十五日林则徐在虎门销烟。",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0261": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "指南尺",
+          "relation": "创建修建",
+          "evidence": "道光庚子 邹特夫作指南尺",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "升平十二社学",
+          "relation": "关联人物",
+          "evidence": "浔峰社学在横沙招月航和伯奇舅父招培中等倡导下创建",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浔峰社学",
+          "relation": "创建修建",
+          "evidence": "浔峰社学在横沙招月航和伯奇舅父招培中等倡导下创建",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浔峰社学",
+          "relation": "活动于",
+          "evidence": "浔峰社学使浔峰上下十五乡守望相助",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0262": {
+      "relations": []
+    },
+    "chunk_0263": {
+      "relations": []
+    },
+    "chunk_0264": {
+      "relations": []
+    },
+    "chunk_0265": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《论礼器图牛羊角三晴》",
+          "relation": "著有",
+          "evidence": "《论礼器图牛羊角三晴》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《订正向报之算迪》",
+          "relation": "著有",
+          "evidence": "《订正向报之算迪》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《弧矢算术辨》",
+          "relation": "著有",
+          "evidence": "《弧矢算术辨》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《月答问》",
+          "relation": "著有",
+          "evidence": "《月答问》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《周体算经考证》",
+          "relation": "著有",
+          "evidence": "《周体算经考证》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《度算版释例》",
+          "relation": "著有",
+          "evidence": "撰《度算版释例》手稿",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0266": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》同治壬申续志道廿六光年丙午7840",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0267": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《尺冈草堂遗集》",
+          "relation": "著有",
+          "evidence": "撰写有关摄影机的结构和照相过程及冲洗DSR术手稿。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "清代同治年间编撰的地方志书籍，《南海县志》有记载邹伯奇的相关信息。",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0268": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "普英会",
+          "relation": "关联人物",
+          "evidence": "邹伯奇外祖父招健升等人集会的场所",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "七政仪",
+          "target": "普英会",
+          "relation": "承载文化",
+          "evidence": "制作太阳系天体表演仪一七政仪",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "七政仪",
+          "relation": "著有",
+          "evidence": "编制《太阳周岁行度表》手稿",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0269": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《计学一得序》",
+          "relation": "著有",
+          "evidence": "编成《计学一得序》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《太阳周岁行度表》",
+          "relation": "著有",
+          "evidence": "编成《太阳周岁行度表》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《释茧》",
+          "relation": "著有",
+          "evidence": "有《释茧》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《文王称王辨》",
+          "relation": "著有",
+          "evidence": "有《文王称王辨》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《皇侃论语》",
+          "relation": "著有",
+          "evidence": "有《皇侃论语》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《邹氏遗集》",
+          "relation": "著有",
+          "evidence": "收入此集中有《邹氏遗集》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《积古斋钟易器款识》",
+          "relation": "著有",
+          "evidence": "汇编《积古斋钟易器款识》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《明堂会通图说》",
+          "relation": "著有",
+          "evidence": "所著《明堂会通图说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《计学一得序》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "编成《计学一得序》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《太阳周岁行度表》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "编成《太阳周岁行度表》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《释茧》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "有《释茧》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《文王称王辨》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "有《文王称王辨》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《皇侃论语》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "有《皇侃论语》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《邹氏遗集》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "收入此集中有《邹氏遗集》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《积古斋钟易器款识》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "汇编《积古斋钟易器款识》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《明堂会通图说》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "所著《明堂会通图说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "道光九年己未1829",
+          "target": "邹伯奇",
+          "relation": "活动于",
+          "evidence": "道光九年己未1829州一岁张维屏始编刊刻",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "咸丰已未春三月",
+          "target": "邹伯奇",
+          "relation": "活动于",
+          "evidence": "咸丰已未春三月告竣",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "太平天国",
+          "target": "广西桂平金田村",
+          "relation": "发生于",
+          "evidence": "洪秀全起义于广西桂平金田村",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0270": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "王申续志咸丰二年载其遗书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0271": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation": "著有",
+          "evidence": "并初绘对制数斥图形。《数尺对记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation": "活动于",
+          "evidence": "咸丰二年六月三日",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation": "活动于",
+          "evidence": "咸丰三年一月初",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0272": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "招健升",
+          "relation": "同族",
+          "evidence": "夏天伯奇外祖招健升",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "张维屏",
+          "target": "松心诗集",
+          "relation": "著有",
+          "evidence": "《松心诗集》卷四",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0273": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "天球仪",
+          "relation": "著有",
+          "evidence": "制作了 一 架 天 球 仪",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "天球仪",
+          "target": "广州市博物馆",
+          "relation": "位于",
+          "evidence": "现 他 于广州 市 博物 馆",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "获峰冈",
+          "relation": "活动于",
+          "evidence": "平时 伯 奇 经常在故居 屋外 或 登上获 峰 冈用象限 仪观测 天 象",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0274": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲纪念馆",
+          "relation": "关联人物",
+          "evidence": "现藏于南海泌冲伯奇纪念馆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "松溪草堂",
+          "target": "邹伯奇",
+          "relation": "同类",
+          "evidence": "松溪草堂为邹伯奇的书斋名",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0275": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "《南海县志》记载了邹伯奇的相关事迹",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "邹伯奇曾在此学习的地方",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "神安司弯冲村",
+          "relation": "活动于",
+          "evidence": "爱国诗人张维屏和金锡龄到南海县神安司弯冲村走避夷人炮火，邹伯奇热情帮助接待他们",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0276": {
+      "relations": []
+    },
+    "chunk_0277": {
+      "relations": []
+    },
+    "chunk_0278": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "水楼",
+          "relation": "活动于",
+          "evidence": "避于横沙村之水楼",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "高桥",
+          "relation": "创建修建",
+          "evidence": "主持修建刻水高桥",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《夏氏算学》",
+          "relation": "著有",
+          "evidence": "撰4夏氏算学四种序",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0279": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "避居泌冲受伯奇相迎相助",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "仅在说冲住了十天",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "陈珊北行游宦前作诗《成午北行别诸子》和《追哭招水涌诗句'泌涌十日住扶父返乡里等句》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "四月十四已陈珊于佛山解缆北行到潮南郴州正元旅售",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0280": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation": "著有",
+          "evidence": "称赞兄所制对数尺极精微简便",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《学计一得》序",
+          "relation": "著有",
+          "evidence": "撰《学计一得序》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《横沙崇雅楼序》",
+          "relation": "著有",
+          "evidence": "《横沙崇雅楼序》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《墨子书》",
+          "relation": "记载于",
+          "evidence": "墨子书有西洋算术",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0281": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "横沙",
+          "relation": "活动于",
+          "evidence": "经党来往横沙与泌冲、沙贝间",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "经党来往横沙与泌冲、沙贝间",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "书香屋",
+          "target": "邹伯奇",
+          "relation": "属于时期",
+          "evidence": "以书香屋为刻草书室名开始校刻学计一得",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学计一得",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "以书香屋为刻草书室名开始校刻学计一得",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0282": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学计一得",
+          "relation": "著有",
+          "evidence": "参与校刻《学计一得》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "宝庆府志地图说",
+          "relation": "著有",
+          "evidence": "在《宝庆府志地图说》的手稿《按语》中",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "光绪九年十月",
+          "relation": "属于时期",
+          "evidence": "学海堂于光绪九年十月废前虚位待之",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "清水濠里",
+          "relation": "活动于",
+          "evidence": "张维屏卒于广州清水濠里",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0283": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道乡集",
+          "relation": "著有",
+          "evidence": "后附 邹 浴 年谱从 此 邹伯 奇 了却了 廿 二 年 寻找k 道 乡集》心愿 开始对 《 道 乡 集》和 邹 洗 年谱 进行实事 求 是 探讨",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "长寿寺",
+          "relation": "活动于",
+          "evidence": "六 月 廿四日  伯 奇与陈 渡、 谭葡 陈 良 玉  陈 起 荣 等集广 州西关长 寿 寺  研 究 商讨 重 校补刻 《 皇 清 经 解》之 事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "道乡祠",
+          "relation": "关联人物",
+          "evidence": "着 手 编排 校刊 4 道 乡集》 全 集 四 十 卷  仍 在任 学 海 堂 学长在 山堂中倡 建 呢 祠",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0284": {
+      "relations": [
+        {
+          "source": "恩光",
+          "target": "阮元",
+          "relation": "同族",
+          "evidence": "江苏阮元之子孙喷恩光鞠著传寄函来",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0285": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《白芙堂算书十七种》",
+          "relation": "著有",
+          "evidence": "邹伯奇所著数学著作《白芙堂算书十七种》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "咸丰",
+          "target": "《丁取忠传》",
+          "relation": "记载于",
+          "evidence": "《丁取忠传》和得林编修吴嘉善子登江浙才子夏弯翔柴笔李普兰于起亦频繁来往",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "林编修",
+          "target": "《丁取忠传》",
+          "relation": "记载于",
+          "evidence": "《丁取忠传》和得林编修吴嘉善子登江浙才子夏弯翔柴笔李普兰于起亦频繁来往",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "吴嘉善",
+          "target": "《丁取忠传》",
+          "relation": "记载于",
+          "evidence": "《丁取忠传》和得林编修吴嘉善子登江浙才子夏弯翔柴笔李普兰于起亦频繁来往",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "夏弯翔",
+          "target": "《丁取忠传》",
+          "relation": "记载于",
+          "evidence": "《丁取忠传》和得林编修吴嘉善子登江浙才子夏弯翔柴笔李普兰于起亦频繁来往",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "王成",
+          "target": "同治",
+          "relation": "属于时期",
+          "evidence": "同治元年 王成",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0286": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》庚成续修",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《家谱》",
+          "relation": "记载于",
+          "evidence": "顺德伍藻用列为伯奇所测绘刻制的《道南恒星图》和《赤北道恒星图》题字",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《道南恒星图》",
+          "target": "伯奇纪念馆",
+          "relation": "承载文化",
+          "evidence": "伯奇纪念馆内",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《赤北道恒星图》",
+          "target": "伯奇纪念馆",
+          "relation": "承载文化",
+          "evidence": "伯奇纪念馆内",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "北京同文馆",
+          "relation": "活动于",
+          "evidence": "北京同文馆成立",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0287": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "创建修建",
+          "evidence": "在学海堂以局秀山房改成阮太傅祠",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "此年冬学海堂重修落成",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "阮太傅祠",
+          "relation": "创建修建",
+          "evidence": "在学海堂以局秀山房改成阮太傅祠",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "陈瑛",
+          "relation": "关联人物",
+          "evidence": "陈瑛《送郭中承序》",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0288": {
+      "relations": []
+    },
+    "chunk_0289": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "明伦堂",
+          "relation": "活动于",
+          "evidence": "伯奇在广州学署明伦堂和赵齐时等绘测广东地图",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《广东图》",
+          "relation": "著有",
+          "evidence": "有《广东图》士卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《广东图说》",
+          "relation": "著有",
+          "evidence": "《广东图说》九十大卷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治四年乙丑",
+          "relation": "属于时期",
+          "evidence": "同治四年乙丑1865",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0290": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "邹伯奇尤天才特绝，贯通中西极深研几",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "著有",
+          "evidence": "欲聘伯奇到上海江南机器厂传教数学及校订所翻译的外籍科技书教授生徒",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "同治五年",
+          "relation": "始建于",
+          "evidence": "同治五年次吉1866四十八岁间四月曾湘乡国获久深景慕伯奇的人品和才学",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "南海学海堂",
+          "relation": "位于",
+          "evidence": "学海堂为清代南海地区的著名书院",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0291": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "上海制造局",
+          "relation": "活动于",
+          "evidence": "曾湘乡邀请之意向诚恳求贤心切",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "巡抚郭公信都序",
+          "relation": "著有",
+          "evidence": "陈澧并作《巡抚郭公信都序》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "送郭中丞序",
+          "relation": "著有",
+          "evidence": "陈澧并作《送郭中丞序》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "送刘学使序",
+          "relation": "著有",
+          "evidence": "五月亦同时来函请师门伯奇到上海",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "巡抚郭公信都序",
+          "relation": "记载于",
+          "evidence": "陈澧并作《巡抚郭公信都序》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0292": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治",
+          "relation": "属于时期",
+          "evidence": "同治五年、同治六年、同治十年",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海知县郑梦玉",
+          "relation": "活动于",
+          "evidence": "南海知县郑梦玉给邹伯奇信",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "孔继藩",
+          "relation": "关联人物",
+          "evidence": "南海孔继藩、邹仲庸等在陈渡邹伯奇举荐下",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《学海堂志》",
+          "relation": "著有",
+          "evidence": "《学海堂志》亦有记载邹伯奇上京同馆文任职",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《广东地图》",
+          "relation": "著有",
+          "evidence": "绘成《广东地图》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县地图",
+          "relation": "著有",
+          "evidence": "绘制《南海县地图》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《学海堂志》",
+          "target": "邹伯奇",
+          "relation": "记载于",
+          "evidence": "《学海堂志》亦有记载",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0293": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海学宫",
+          "relation": "活动于",
+          "evidence": "伯奇尝在南海学宫谈艺",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》壬申续志有说明。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0294": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "自照址真",
+          "relation": "著有",
+          "evidence": "文中提及邹伯奇创作的五言诗作品《自照址真》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "小照自述",
+          "relation": "著有",
+          "evidence": "文中提及邹伯奇创作的另一首五言诗作品《小照自述》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县事郑梦玉",
+          "relation": "关联人物",
+          "evidence": "九月十信日 伯奇给南海县事郑梦玉信原文",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0295": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广州城北极高度图",
+          "relation": "著有",
+          "evidence": "据广州城北极高度图画图视之",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广州城北极高度图",
+          "target": "同治七年",
+          "relation": "承载文化",
+          "evidence": "同治七年邹特夫为刘黎村作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0296": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡祖祠",
+          "relation": "活动于",
+          "evidence": "为泌冲乡祖祠扎题木刻机联创业",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡祖祠",
+          "relation": "活动于",
+          "evidence": "原对挂在弯冲邹氏祖祠合爱堂内",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0297": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海邹氏永放堂刊本《道乡集》",
+          "relation": "著有",
+          "evidence": "邹伯奇生前主持编排重刊刻的南海邹氏永放堂刊本《道乡集》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "同治十年辛末《南海县图志说》二卷 邹",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海县图志说",
+          "relation": "著有",
+          "evidence": "同治十年辛末《南海县图志说》二卷 邹",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0298": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "桑园围图说",
+          "relation": "著有",
+          "evidence": "邹伯奇特夫简谱为主要的参考资料",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "南海县志",
+          "target": "同治十年",
+          "relation": "记载于",
+          "evidence": "《南海县志》 十月 李 征 需 后 序 问世 四同治十年辛末",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0299": {
+      "relations": []
+    },
+    "chunk_0300": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "《南海县志》一存广州市博物馆",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "西樵山",
+          "target": "桑园围",
+          "relation": "位于",
+          "evidence": "西樵山全图碑刻藏南海博物馆",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "西樵山",
+          "relation": "活动于",
+          "evidence": "邹伯奇在广东完成摄影术",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0301": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县图志说",
+          "relation": "著有",
+          "evidence": "《南海县图志说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "丁樵山全图碑",
+          "target": "南海县图志说",
+          "relation": "记载于",
+          "evidence": "《南海县图志说》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0302": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县图志说",
+          "relation": "著有",
+          "evidence": "《南海县图志说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "西樵山全图碑",
+          "relation": "著有",
+          "evidence": "《西樵山全图碑》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广东图说",
+          "relation": "著有",
+          "evidence": "《广东图说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "乘方捷术",
+          "relation": "著有",
+          "evidence": "《乘方捷术》三卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "订正何报之算迪",
+          "relation": "著有",
+          "evidence": "《订正何报之算迪》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "弧天算术辨",
+          "relation": "著有",
+          "evidence": "《弧天算术辨》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "十尺步考",
+          "relation": "著有",
+          "evidence": "《十尺步考》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "道乡集踊",
+          "relation": "关联人物",
+          "evidence": "《道乡集踊》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "读段注说文扎记",
+          "relation": "著有",
+          "evidence": "《读段注说文扎记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0303": {
+      "relations": []
+    },
+    "chunk_0304": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广东南海",
+          "relation": "出生于",
+          "evidence": "广东南海人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广东南海",
+          "relation": "属于时期",
+          "evidence": "清代数学家、发明家",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0305": {
+      "relations": []
+    },
+    "chunk_0306": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "征君",
+          "relation": "关联人物",
+          "evidence": "与征君少相善",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "华严楼阁弹指",
+          "relation": "著有",
+          "evidence": "如华严楼阁弹指即见实抉算理之窗",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "征君",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "余于于是益服征君所虐之远",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0307": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "先征君",
+          "relation": "关联人物",
+          "evidence": "先征君高弟子 也 官于江苏",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "丁先生",
+          "relation": "关联人物",
+          "evidence": "复 加 校正 而 陈 兰甫先生 为 之 编 定焉",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "陈兰甫先生",
+          "relation": "关联人物",
+          "evidence": "复 加 校正 而 陈 兰甫先生 为 之 编 定焉",
+          "confidence": 0.7,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《赤道南北恒星图》",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "其《 赤 道 南北恒星 图》 则 先 征 君 在时  EM A RR 云甫诸先生 所 刊",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《测量备考》",
+          "relation": "著有",
+          "evidence": "复 有 未 定之 书《 测量备 要 》 二 册",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《玉篇类言》",
+          "relation": "著有",
+          "evidence": "复 有 未 定之 书《 玉 篇 类 言3 五贡《 考 异 》 一 册",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《考异》",
+          "relation": "著有",
+          "evidence": "复 有 未 定之 书《 玉 篇 类 言3 五贡《 考 异 》 一 册",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0308": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《党计一得》",
+          "relation": "著有",
+          "evidence": "伯 奇 只得 一 子 名叫 达 泉 从 其 识记 中 可 知伯 奇 逝世 之 后 海内 学 子 闻 其名十 分 仲 幕纷纷 捐资 刻 其 书",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0309": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《计学一得》",
+          "relation": "著有",
+          "evidence": "邹伯奇完成《计学一得》全书稿",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《计学一得》",
+          "relation": "活动于",
+          "evidence": "道光二十四年十二月完成全书稿，当时伯奇为26岁",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《计学一得》",
+          "target": "道光二十四年十二月",
+          "relation": "记载于",
+          "evidence": "道光二十四年十二月完成全书稿",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0310": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《梦溪笔谈》",
+          "relation": "著有",
+          "evidence": "按 伯 奇 从 北宋 沈 恬 《 梦 溪 笔谈》 中 有  阳 料照 物迫之 则 正  渐 远 虽 无 所见 过 此 则 倒 中 间 有 碍",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0311": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "此卷《格术补》为伯奇对光学研究的一大贡献",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《数尺对记》",
+          "relation": "著有",
+          "evidence": "《数尺对记》一卷 AB 对 数尺者",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0312": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《四术详解以明其理》",
+          "relation": "著有",
+          "evidence": "著此三卷与《4对数200尺》一卷同是算书的精著",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《乘方捷术》",
+          "relation": "著有",
+          "evidence": "先兄既发诸公半名相幕捐资刻其遗书。仲良复取其修中手跷质之陈兰甫先生写为一卷题日4邹征君存稿",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《格术补》",
+          "relation": "著有",
+          "evidence": "先兄既发诸公半名相幕捐资刻其遗书。仲良复取其修中手跷质之陈兰甫先生写为一卷题日4邹征君存稿",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0313": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "三统术说",
+          "relation": "著有",
+          "evidence": "学术著述之重计有《三统术说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "求重心说",
+          "relation": "著有",
+          "evidence": "读《求重心说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "会典偶纪",
+          "relation": "著有",
+          "evidence": "读《会典偶纪》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "五星摄影之器记",
+          "relation": "著有",
+          "evidence": "读《五星摄影之器记》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "漏箭简法",
+          "relation": "著有",
+          "evidence": "读《漏箭简法》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影之器记",
+          "relation": "著有",
+          "evidence": "其有云'岁先在乙未是客有以塔倒献影颖者取《梦溪笔谈》读而极思之于是加以研究反复实践制成摄影之器'",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广城太阴",
+          "relation": "活动于",
+          "evidence": "按《存稿》共十七篇对数学力学光学天文文学均有论述而《说文》竟之学亦有论及其中《摄影之器记》与上述格术补为同对之作其有云'岁先在乙未是客有以塔倒献影颖者取《梦溪笔谈》读而极思之于是加以研究反复实践制成摄影之器'",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "道光二十三年",
+          "relation": "属于时期",
+          "evidence": "其两篇著述当成于道光二十四年甲辰1844年前后",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "塔倒献影颖者",
+          "target": "摄影之器记",
+          "relation": "记载于",
+          "evidence": "岁先在乙未是客有以塔倒献影颖者取《梦溪笔谈》读而极思之于是加以研究反复实践制成摄影之器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "摄影之器记",
+          "target": "塔倒献影颖者",
+          "relation": "承载文化",
+          "evidence": "岁先在乙未是客有以塔倒献影颖者取《梦溪笔谈》读而极思之于是加以研究反复实践制成摄影之器",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0314": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道乡集",
+          "relation": "著有",
+          "evidence": "谓其先祖邹忠公消有《道乡集》40卷",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "琉璃厂",
+          "relation": "活动于",
+          "evidence": "经两年才在京城琉璃厂购得",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "金学廉",
+          "relation": "关联人物",
+          "evidence": "其友金学廉北上伯奇请其代购",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "道乡集",
+          "target": "咸丰本",
+          "relation": "承载文化",
+          "evidence": "谓其先祖邹忠公消有《道乡集》40卷咸丰本已",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "道乡集",
+          "target": "咸丰本",
+          "relation": "属于时期",
+          "evidence": "谓其先祖邹忠公消有《道乡集》40卷咸丰本已",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0315": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道光二十四年",
+          "relation": "属于时期",
+          "evidence": "于 是 年此 册 为 全 国 各 省 州县的地 图 总 图 一幅",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "冯瑞光",
+          "relation": "关联人物",
+          "evidence": "其 中 山川河流 均 在 图 上 标 出 在 当时 是 最 先进 的 绘制地图 法 。 全 图 之后有 伯 奇 的学生冯 瑞光 于 同治 性 亥 四 月八 日 的 趴语",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "汉熔光",
+          "relation": "关联人物",
+          "evidence": "汉 熔 光 为瑞光 之 兄  他 在 同治 四 成 二 月 亦有一股",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "冯瑞光",
+          "target": "同治四年二月",
+          "relation": "活动于",
+          "evidence": "汉 熔 光 为瑞光 之 兄  他 在 同治 四 成 二 月 亦有一股",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "汉熔光",
+          "target": "同治十一年",
+          "relation": "活动于",
+          "evidence": "按 熔 光 此 路 则 是 刊行《 邹 征 君 遗 书》 收 入4 皇与全 图 》 时 所 识 。 《赤道 南北恒星 图二幅。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0316": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "松溪划堂",
+          "relation": "活动于",
+          "evidence": "邹伯奇居住和工作的场所，具体位置不详",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《赤道南北恒星图》",
+          "relation": "著有",
+          "evidence": "《赤道南北恒星图二幅。按达泉之踊为伯奇在世时所刻",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "顺德伍藻",
+          "target": "说神伯麻纪念室",
+          "relation": "关联人物",
+          "evidence": "顺德俩学藻的跨云南邹特夫海先生已捐献给说神伯麻纪念室",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《赤道南北恒星图》",
+          "target": "松溪划堂",
+          "relation": "承载文化",
+          "evidence": "图之界线依浑盖通宪法定南北方二图经纬俱五度一格",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0317": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "松溪草堂",
+          "relation": "活动于",
+          "evidence": "伯奇精于此二图亦可证明。《分征君遗书》则是上述所录",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation": "著有",
+          "evidence": "《测量备要》二是上述所录然则从达泉的跨可知当时尚有未定之书计有《测量备要》二册",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《玉篇类音》",
+          "relation": "著有",
+          "evidence": "《玉篇类音》五册",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《考异》",
+          "relation": "著有",
+          "evidence": "《考异》一册",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县图志说》",
+          "relation": "著有",
+          "evidence": "曾编有《南海县图志说》一卷",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0318": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道光",
+          "relation": "属于时期",
+          "evidence": "研究科学 发明创造之时正是道光始未 咸同之交",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0319": {
+      "relations": []
+    },
+    "chunk_0320": {
+      "relations": []
+    },
+    "chunk_0321": {
+      "relations": []
+    },
+    "chunk_0322": {
+      "relations": []
+    },
+    "chunk_0323": {
+      "relations": []
+    },
+    "chunk_0324": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "邹伯奇字一跟最早见于同治十一年王申《南海县志》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0325": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治五年",
+          "relation": "属于时期",
+          "evidence": "邹伯奇在同治五年和同治七年前后两次奉肯特召",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治七年",
+          "relation": "属于时期",
+          "evidence": "邹伯奇在同治五年和同治七年前后两次奉肯特召",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "郭素轩",
+          "relation": "关联人物",
+          "evidence": "皆因爱广东巡抚郭素轩和曾国藩湘乡之举荐",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "曾国藩",
+          "relation": "关联人物",
+          "evidence": "皆因爱广东巡抚郭素轩和曾国藩湘乡之举荐",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《文选 孔融荐祢衡表》",
+          "relation": "著有",
+          "evidence": "虽因以病告和在辞家养母为由不就但伯奇受荐可称为荐《文选孔融荐祢衡表》云使衡立朝",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "水月山云",
+          "relation": "关联人物",
+          "evidence": "水月山云嘻求吾实者邹伯奇以乐道清贫乐观处世与世无争的恩想生活自认是生活在下层的黎民百姓",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "著有",
+          "evidence": "自同治六年起修志到同治十一年壬电正式付印出版前后经过六年这里包括伯奇主繁绘测",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0326": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《南海县图》",
+          "relation": "创建修建",
+          "evidence": "正式出版前后经过六年，包括乌伯奇主繁绘测的《南海县图》已在同治十年全部完成并刊行",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "著有",
+          "evidence": "邹伯奇和谭莹为主要编纂者，邹伯奇实在当之无愧",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "李征",
+          "relation": "关联人物",
+          "evidence": "李征撰写的《后序》中提到邹伯奇的传记",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "谭莹",
+          "target": "《南海县志》",
+          "relation": "著有",
+          "evidence": "邹伯奇和谭莹为主要编纂者",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0327": {
+      "relations": []
+    },
+    "chunk_0328": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "清嘉庆士四年",
+          "relation": "出生于",
+          "evidence": "邹伯奇生于清嘉庆士四年1809六月十五日",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治八年",
+          "relation": "活动于",
+          "evidence": "同治八年为亦只电字特夫",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治十一年",
+          "relation": "活动于",
+          "evidence": "同治十年，1872年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "光绪十二年丙戌",
+          "relation": "活动于",
+          "evidence": "光绪十二年，1886年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "民国十七年",
+          "relation": "活动于",
+          "evidence": "民国十七年，1928年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0329": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "清嘉庆廿三年",
+          "relation": "出生于",
+          "evidence": "有说邹伯奇生于清嘉庆廿三年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0330": {
+      "relations": []
+    },
+    "chunk_0331": {
+      "relations": []
+    },
+    "chunk_0332": {
+      "relations": []
+    },
+    "chunk_0333": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "成半七年补任学海堂学长",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0334": {
+      "relations": [
+        {
+          "source": "学海堂",
+          "target": "阮元",
+          "relation": "创建修建",
+          "evidence": "两广总督阮元为课全省举贡生监经解词赋创建于越秀山",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广雅书院",
+          "target": "张之洞",
+          "relation": "创建修建",
+          "evidence": "广雅书院创始人奏建以训迪两粤人士也",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广雅书院",
+          "target": "张之洞",
+          "relation": "传承于",
+          "evidence": "张之洞创办广雅书院",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0335": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广雅书院",
+          "relation": "活动于",
+          "evidence": "邹伯奇曾聘为广雅书院教习",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广雅书院",
+          "target": "张之洞",
+          "relation": "创建修建",
+          "evidence": "广雅书院是由两广总督张之洞始建于光绪十四年1888",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广雅书院",
+          "target": "学海堂",
+          "relation": "同类",
+          "evidence": "广雅书院的前身并非学海堂",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0336": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "广雅书院",
+          "relation": "活动于",
+          "evidence": "其后来被崇礼岭学祠之故，而日后引发出其曾在广雅书院任教之庆传",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广雅书院",
+          "relation": "著有",
+          "evidence": "其后来被崇礼岭学祠之故，而日后引发出其曾在广雅书院任教之庆传",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "广雅书院",
+          "target": "岭学祠",
+          "relation": "承载文化",
+          "evidence": "崇礼于广雅书院岭学祠借以激发学生和启发后人奋发向上",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "岭学祠",
+          "relation": "关联人物",
+          "evidence": "崇礼于广雅书院岭学祠借以激发学生和启发后人奋发向上",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0337": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《宋史》",
+          "relation": "记载于",
+          "evidence": "《宋史》有传",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《道乡集》",
+          "relation": "著有",
+          "evidence": "著有《道乡集》四十卷",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《奏议集》",
+          "relation": "著有",
+          "evidence": "著有《奏议集》十卷",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海邹氏",
+          "relation": "同族",
+          "evidence": "陈澧扎《南海邹氏重刻道乡集序》",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海邹氏",
+          "relation": "关联人物",
+          "evidence": "陈澧扎《南海邹氏重刻道乡集序》",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0338": {
+      "relations": [
+        {
+          "source": "邹浩",
+          "target": "邹氏",
+          "relation": "同族",
+          "evidence": "邹氏家族成员，邹伯奇的父亲",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹永庭堂",
+          "target": "邹氏",
+          "relation": "关联人物",
+          "evidence": "南海邹氏永庭堂重刊行",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "雄州",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "《南海县志》亦有记述",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "乌元承",
+          "target": "邹氏",
+          "relation": "同族",
+          "evidence": "邹相次子，邹氏始祖南宋时为扬州郡判",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "刻冲",
+          "target": "万善里",
+          "relation": "属于时期",
+          "evidence": "举家从雄州沙水村泛舟南迁到南海刻冲万善里开基",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "伯奇",
+          "target": "邹氏",
+          "relation": "同族",
+          "evidence": "伯奇为戌房之后",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0339": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "横沙乡",
+          "relation": "出生于",
+          "evidence": "妻权南海横沙乡广府学生招健升次女",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "《南海县志》有传伯奇在学计一得自序中云",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《南海县志》",
+          "relation": "著有",
+          "evidence": "《南海县志》有传伯奇在学计一得自序中云",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0340": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "道光",
+          "relation": "出生于",
+          "evidence": "道光三年惨未七月十二日生",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "活动于",
+          "evidence": "同治间受聘广州学海堂教习数学专课",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "数理精详",
+          "relation": "著有",
+          "evidence": "后又和和孔继踪等合作重校4《数理精详》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "拾闪园",
+          "relation": "关联人物",
+          "evidence": "拾闪园为其刻书室名",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治",
+          "relation": "属于时期",
+          "evidence": "同治十年在学海堂重校刊刻",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "光绪",
+          "relation": "属于时期",
+          "evidence": "光绪九年吴未进南海生员",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "南海生员",
+          "relation": "关联人物",
+          "evidence": "光绪九年吴未进南海生员",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "吴未",
+          "relation": "同族",
+          "evidence": "为继室梁氏所生",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "吴未",
+          "relation": "关联人物",
+          "evidence": "有子四十四。号香浦 革南场堡横海沙村人",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0341": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "南海",
+          "relation": "属于时期",
+          "evidence": "伯奇 外祖父生清 乾隆州三 年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《自怡堂草》",
+          "relation": "著有",
+          "evidence": "晚订诗集年《 自 怡 堂 草》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《自怡堂诗草续集》",
+          "relation": "著有",
+          "evidence": "《 自 怡堂诗 草 续集 》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《海县志》",
+          "relation": "记载于",
+          "evidence": "南《 海县志 》 同 治 于 申续志 有 传",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "招培中",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "其子招 培 中 北海  即伯 奇 田 父",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0342": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《周天图说》",
+          "relation": "著有",
+          "evidence": "从张维性题《周天图说》诗说起到这两首诗是清代爱国诗人张维性题《周天图说》诗说",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0343": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂",
+          "relation": "同族",
+          "evidence": "学海堂老学长",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "张维屏",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "避居广州城西南海谈冲乡",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "周天图说",
+          "target": "邹伯奇",
+          "relation": "著有",
+          "evidence": "所著周天图二首放",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "草堂集",
+          "target": "张维屏",
+          "relation": "著有",
+          "evidence": "原载草堂集卷五",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0344": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《周天网说》",
+          "relation": "承载文化",
+          "evidence": "所 绘制 的《 周 天 网说》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浑球仪",
+          "relation": "承载文化",
+          "evidence": "所 制造 的 浑 球仪 亦即 天 球 仪",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "张维屏",
+          "target": "道光九年",
+          "relation": "活动于",
+          "evidence": "道光 九 年 《1829 七月和 道十光八 年1838 三月先后 两 次补 学 海堂学 长",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "张维屏",
+          "target": "道光十一年",
+          "relation": "活动于",
+          "evidence": "道光 十一 年 1831年，清道光年间",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0345": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "周天图说",
+          "relation": "著有",
+          "evidence": "邹伯奇所著天文著作《周天图说》",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "周天图说",
+          "target": "周天",
+          "relation": "承载文化",
+          "evidence": "此周天以赤道分周天恒星为南北二图",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "牛部",
+          "target": "周天图说",
+          "relation": "记载于",
+          "evidence": "牛部、织女、河鼓、天鸡等及三垣廿八宿星也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "织女",
+          "target": "周天图说",
+          "relation": "记载于",
+          "evidence": "牛部、织女、河鼓、天鸡等及三垣廿八宿星也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "河鼓",
+          "target": "周天图说",
+          "relation": "记载于",
+          "evidence": "牛部、织女、河鼓、天鸡等及三垣廿八宿星也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "三垣",
+          "target": "周天图说",
+          "relation": "记载于",
+          "evidence": "牛部、织女、河鼓、天鸡等及三垣廿八宿星也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "廿八宿",
+          "target": "周天图说",
+          "relation": "记载于",
+          "evidence": "牛部、织女、河鼓、天鸡等及三垣廿八宿星也",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0346": {
+      "relations": []
+    },
+    "chunk_0347": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "学海堂集",
+          "relation": "著有",
+          "evidence": "邹伯奇上述所著《艺载考》五篇论文就是张维屏选进《学海堂集》内的。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "学海堂集",
+          "relation": "承载文化",
+          "evidence": "《学海堂集》是清代阮元等人选编的经史算学书籍",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "学海堂集",
+          "relation": "位于",
+          "evidence": "后增多算学，选诸生优课卷秀刻印初集",
+          "confidence": 0.75,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "学海堂",
+          "target": "学海堂集",
+          "relation": "始建于",
+          "evidence": "以两广总督建学海堂于广州越秀山",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0348": {
+      "relations": []
+    },
+    "chunk_0349": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡",
+          "relation": "活动于",
+          "evidence": "邹伯奇当时正为张维屏老学长又有新作问世",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "松心文钞",
+          "target": "张维屏",
+          "relation": "著有",
+          "evidence": "张维屏在南海泌冲乡枕流书屋自我辑成《松心文钞》十卷",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "松心文钞",
+          "target": "邹伯奇",
+          "relation": "记载于",
+          "evidence": "此首诗必是他在清代是独无仅有刊刻在书上",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "张维屏",
+          "target": "泌冲乡",
+          "relation": "活动于",
+          "evidence": "张维屏在南海泌冲乡枕流书屋自我辑成《松心文钞》十卷",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0350": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "同治元年",
+          "relation": "承载文化",
+          "evidence": "有周天图说 即邹伯奇观测天象后所绘的赤制道南北恒图于星同治元年1壬8成6冬2至后四日",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《松心文钞》",
+          "relation": "著有",
+          "evidence": "诗以祝贺张维屏辑成《松心文钞》十卷结束",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《松心文钞》",
+          "relation": "关联人物",
+          "evidence": "诗以祝贺张维屏辑成《松心文钞》十卷结束",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0351": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《分征君遗书》",
+          "relation": "著有",
+          "evidence": "后在出版《分征君遗书》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《邹征君遗书》",
+          "relation": "著有",
+          "evidence": "后在出版《邹征君遗书》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "伯奇纪念馆",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "伯奇纪念馆：纪念邹伯奇的纪念馆",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《赤道南北恒星图》",
+          "target": "邹伯奇",
+          "relation": "承载文化",
+          "evidence": "其赤道南北恒星图则先征君在时",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0352": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "周天图",
+          "relation": "著有",
+          "evidence": "夜观天象所总结而绘制的《周天图说》亦即赤道南北恒星图",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "赤道南北恒星图",
+          "relation": "著有",
+          "evidence": "夜观天象所总结而绘制的《周天图说》亦即赤道南北恒星图",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "周天图",
+          "target": "赤道南北恒星图",
+          "relation": "同族",
+          "evidence": "周天图亦即赤道南北恒星图",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0353": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "伯奇公园",
+          "relation": "关联人物",
+          "evidence": "伯奇公园内的伯奇纪念室",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "伯奇纪念室",
+          "relation": "关联人物",
+          "evidence": "伯奇公园内的伯奇纪念室",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "浔冈洲地图",
+          "relation": "著有",
+          "evidence": "《浔冈洲地图》是清代著名科学家邹伯奇指导弟子罗照沧景隆等人绘制的",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "浔冈洲地图",
+          "target": "南海县志",
+          "relation": "记载于",
+          "evidence": "《南海县志》云汝冈古汉寻狭之地在县西二十九里",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0354": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "漏网洲地图",
+          "relation": "著有",
+          "evidence": "邹伯奇等人绘制的《漏网洲地图》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "钟村",
+          "relation": "活动于",
+          "evidence": "邹伯奇对故乡怀有深厚的情谊和严谨务实的科学态度",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "漏网洲地图",
+          "target": "冈洲",
+          "relation": "位于",
+          "evidence": "冈洲地图石刻于此",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0355": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "冈州地图",
+          "relation": "著有",
+          "evidence": "其一是附刊刻于张维屏《松心十录》一《草堂集》卷五的《南山先生寓居村中枉蜀见过并示大集率成二律奉报》五律诗两首",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "松心十录",
+          "relation": "著有",
+          "evidence": "其一是附刊刻于张维屏《松心十录》一《草堂集》卷五的《南山先生寓居村中枉蜀见过并示大集率成二律奉报》五律诗两首",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "冈州地图",
+          "relation": "活动于",
+          "evidence": "邹伯奇一生精于研究天文历算及声音文字度数之源尤擅测绘和制器",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0356": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "《小照自述》",
+          "relation": "著有",
+          "evidence": "今仅录《小照自述》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《自照遗真》",
+          "relation": "著有",
+          "evidence": "今仅录《小照自述》 赞 及 诗 《 自 照 遗真》",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《指南尺铭。并序》",
+          "relation": "著有",
+          "evidence": "邹伯奇还有《指南尺铭。 并 序》 是 其 测绘地 图 的 原则 方法和 行动指南",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《指南尺铭。并序》",
+          "target": "道光庚子",
+          "relation": "记载于",
+          "evidence": "道光 庚 子1840 邹伯奇作 指南 尺",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0357": {
+      "relations": [
+        {
+          "source": "商高",
+          "target": "《周髀经》",
+          "relation": "属于时期",
+          "evidence": "《周髀经》为我国数学 最 古 之 书。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0358": {
+      "relations": [
+        {
+          "source": "梅文易",
+          "target": "《古今历法通考》",
+          "relation": "著有",
+          "evidence": "所著《古今历法通考》为我国古代历学史专著",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "梅文易",
+          "target": "《中西算学盘例》",
+          "relation": "著有",
+          "evidence": "《中西算学盘例》总结了当时世界数学研究成果",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "梅文易",
+          "target": "《几何补编》",
+          "relation": "著有",
+          "evidence": "《几何补编》《历志歼言》等十八种天文历法数学的著作都很有创建",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "梅文易",
+          "target": "《历志歼言》",
+          "relation": "著有",
+          "evidence": "《几何补编》《历志歼言》等十八种天文历法数学的著作都很有创建",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "梅文易",
+          "target": "《纠谬历算书记》",
+          "relation": "著有",
+          "evidence": "晚年所有《纠谬历算书记》对其著作一一做了说明",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0359": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "伯奇公园",
+          "relation": "关联人物",
+          "evidence": "伯奇像坐落在他的家乡伯奇公园内",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "伯奇公园",
+          "relation": "活动于",
+          "evidence": "清明时节我怀着景仰的心情又一次到伯奇公园拜刘",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇故居",
+          "target": "伯奇公园",
+          "relation": "位于",
+          "evidence": "伯奇像坐落在他的家乡伯奇公园内",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "伯奇公园",
+          "relation": "同族",
+          "evidence": "邹伯奇眷恋乡土之情，亦了家乡人民怀念之情",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0360": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "伯奇铜像",
+          "relation": "创建修建",
+          "evidence": "由詹行宪教授精心雕塑",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹家华",
+          "target": "伯奇铜像",
+          "relation": "关联人物",
+          "evidence": "全国人大副委员长邹家华题写",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0361": {
+      "relations": []
+    },
+    "chunk_0362": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "伯奇铜像",
+          "relation": "创建修建",
+          "evidence": "一尊铜像纪念邹伯奇",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0363": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "五层楼",
+          "relation": "承载文化",
+          "evidence": "多年 来 均 收 藏并展览 于俗称 五层楼 的越秀 山 广州博物馆内",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "五层楼",
+          "target": "越秀山",
+          "relation": "位于",
+          "evidence": "俗称 五层楼 的越秀 山 广州博物馆内",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0364": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "出生于",
+          "evidence": "近代著名科学家邹伯奇逝世之后他的著作和科技仪器100多年来到经战争和天灾的磨难有惧于他的后人悉心保护留才传到能今天供研究邹伯奇学术和近代历史的专家和学者提供参考和借鉴其中邹熏才和邹重道两先生起到重要作用",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹熏才",
+          "target": "泌冲",
+          "relation": "关联人物",
+          "evidence": "邹熏才和邹重道两先生起到重要作用",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹重道",
+          "target": "泌冲",
+          "relation": "关联人物",
+          "evidence": "邹熏才和邹重道两先生起到重要作用",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0365": {
+      "relations": [
+        {
+          "source": "邹庆麟",
+          "target": "祖居",
+          "relation": "关联人物",
+          "evidence": "作为长房居住在祖居之中",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0366": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "邹备才采用曾祖父伯奇公的测量法不足一个月便将泌冲所属的农田全部测量完毕",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "同治十二年",
+          "relation": "著有",
+          "evidence": "在同治十二年1874年陈澧等学者闻名相幕捐资刻其遗书邹伯奇的著作才得以流传海内",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "陈澧",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "在同治十二年1874年陈澧等学者闻名相幕捐资刻其遗书邹伯奇的著作才得以流传海内",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0367": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "长期居住在祖居",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "出生于",
+          "evidence": "邹备才作为伯奇公的长房子孙",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇故居",
+          "target": "泌冲",
+          "relation": "位于",
+          "evidence": "长期居住在祖居",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "关联人物",
+          "evidence": "邹备才作为伯奇公的长房子孙",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0368": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "活动于",
+          "evidence": "1962年67月间中国摄影家协会广东分会梁恒心等人先后数次到泌冲邹伯奇故居访问邹备才",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲",
+          "relation": "同族",
+          "evidence": "邹伯奇故居位于泌冲",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇故居",
+          "target": "泌冲",
+          "relation": "位于",
+          "evidence": "邹伯奇故居位于泌冲",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "《南海县志》",
+          "target": "邹伯奇",
+          "relation": "记载于",
+          "evidence": "《南海县志》：记载了邹伯奇事迹的地方志书籍",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0369": {
+      "relations": []
+    },
+    "chunk_0370": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "邹孟才",
+          "relation": "同族",
+          "evidence": "邹孟才是邹伯奇的亲属，协助研究邹伯奇事迹",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹孟才",
+          "target": "邹伯奇",
+          "relation": "关联人物",
+          "evidence": "邹孟才是邹伯奇的亲属，协助研究邹伯奇事迹",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0371": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "伯奇公园",
+          "relation": "关联人物",
+          "evidence": "家乡小冲近几年兴建了伯奇公园",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "伯奇纪念室",
+          "relation": "关联人物",
+          "evidence": "向伯奇纪念室捐献了邹伯奇的著作、望远镜、临缩尺和《赤道南北恒星图》竺文物",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹备才",
+          "target": "邹伯奇",
+          "relation": "同族",
+          "evidence": "邹备才、邹备炸、邹信廉、邹信息等家人向伯奇纪念室捐献了邹伯奇的著作",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0372": {
+      "relations": []
+    },
+    "chunk_0373": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡",
+          "relation": "出生于",
+          "evidence": "南海县泌冲乡乡民纯理才等将历史文物献给政府",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡",
+          "relation": "活动于",
+          "evidence": "南海县泌冲乡乡民邹和孟才、邹备道最近把他的先人邹伯奇遗留的一批有价值的历史文物献给政府",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "浑天仪",
+          "target": "遗像",
+          "relation": "承载文化",
+          "evidence": "上述的这些仪器都是邹伯奇生前研究试验所制造的遗像据说是他用自己的摄影方法所制成",
+          "confidence": 0.8,
+          "source_file": "南海文史资料_邹伯奇"
+        },
+        {
+          "source": "南海泌冲乡地图石板",
+          "target": "泌冲乡",
+          "relation": "属于时期",
+          "evidence": "邹氏所测绘的南海泌冲乡地图石板与其他图板",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0374": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "试验所",
+          "relation": "关联人物",
+          "evidence": "试验所 制造 的遗像据说 是 邹 氏 自己 用 摄影 方法所 制 成",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_邹伯奇"
+        }
+      ]
+    },
+    "chunk_0375": {
+      "relations": []
+    },
+    "chunk_0376": {
+      "relations": []
+    },
+    "chunk_0377": {
+      "relations": []
+    },
+    "chunk_0378": {
+      "relations": []
+    },
+    "chunk_0379": {
+      "relations": []
+    }
+  }
+}

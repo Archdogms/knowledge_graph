@@ -1,0 +1,2259 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "元大德南海志残本",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "广州为岭南一都会，户口视他郡为最。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德南海志残本",
+          "target": "建安",
+          "relation": "属于时期",
+          "evidence": "大抵建安、东晋永嘉之际至唐，中州人士避地入广者众，由是风俗革变，人民繁庶。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德南海志残本",
+          "target": "东晋永嘉",
+          "relation": "属于时期",
+          "evidence": "大抵建安、东晋永嘉之际至唐，中州人士避地入广者众，由是风俗革变，人民繁庶。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德南海志残本",
+          "target": "元二十七年",
+          "relation": "属于时期",
+          "evidence": "至元二十七年，朝廷籍江南户口，方见定数。",
+          "confidence": 1.0,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德南海志残本",
+          "target": "隋书卷三一地理志",
+          "relation": "记载于",
+          "evidence": "据隋书卷三一地理志，南海郡户三万七千四百八十二，与广州府志同，疑原书漏七千。",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "东莞县",
+          "target": "横洲",
+          "relation": "盛产",
+          "evidence": "东莞县东名横洲，共十处，出产珠颗",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "东莞县",
+          "target": "茶园",
+          "relation": "盛产",
+          "evidence": "东莞县地名茶园，人盛种之，客旅多贩焉",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "干明寺",
+          "target": "光孝",
+          "relation": "关联人物",
+          "evidence": "即今光孝",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "茉莉花",
+          "target": "素馨花",
+          "relation": "同类",
+          "evidence": "较诸素馨，其香尤旎。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "苏轼",
+          "target": "蒲涧寺",
+          "relation": "记载于",
+          "evidence": "清王文诰辑注苏轼诗集广州蒲涧寺：不用山僧导我前，自寻云外出山泉。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "苏轼",
+          "target": "蒲涧山",
+          "relation": "活动于",
+          "evidence": "东坡诗云：如今独有花含笑，笑道秦皇欲学仙。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "蒲涧寺",
+          "target": "蒲涧山",
+          "relation": "位于",
+          "evidence": "清王文诰辑注苏轼诗集广州蒲涧寺：不用山僧导我前，自寻云外出山泉。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "三藏法师",
+          "target": "月华寺",
+          "relation": "关联人物",
+          "evidence": "相传三藏法师在西域携至月华寺种植蒟酱",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "唐羌",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "时唐羌上书言状，和帝罢之",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "唐羌",
+          "target": "月华寺",
+          "relation": "关联人物",
+          "evidence": "旧传三藏法师在西域携至月华寺种植蒟酱",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "唐羌",
+          "target": "月华寺",
+          "relation": "活动于",
+          "evidence": "乃上书陈状",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "唐羌",
+          "target": "交趾七郡",
+          "relation": "活动于",
+          "evidence": "唐羌字伯游，辟公府，补临武长。县接交州",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "交趾七郡",
+          "target": "增城",
+          "relation": "盛产",
+          "evidence": "今佳品多出增城",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "御果园",
+          "target": "荔枝湾",
+          "relation": "位于",
+          "evidence": "南海县地名荔枝湾，创置御果园",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "御果园",
+          "target": "莲塘",
+          "relation": "位于",
+          "evidence": "番禺县城东厢，地名莲塘，南海县地名荔枝湾，创置御果园",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "里木",
+          "target": "西瓜",
+          "relation": "记载于",
+          "evidence": "按五代史云：胡峤为萧翰掌书记，随翰入契丹。得契丹破回",
+          "confidence": 0.7,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "文选",
+          "target": "吴都赋",
+          "relation": "记载于",
+          "evidence": "按文选吴都赋注云：平仲、君迁二木，广州有之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "暨鱼",
+          "target": "南海王庙",
+          "relation": "承载文化",
+          "evidence": "时至南海王庙前而退，人谓之来朝。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "社稷坛",
+          "target": "兰湖",
+          "relation": "位于",
+          "evidence": "旧社稷坛在兰湖之上",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "岳镇海渎",
+          "target": "社稷坛",
+          "relation": "承载文化",
+          "evidence": "岳镇海渎、名山大川、风师、雨师、雷师当祀之日，须以本处正官斋洁行事",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "皇佑二年",
+          "target": "州之东南",
+          "relation": "位于",
+          "evidence": "皇佑二年，经略田公瑜，徙于州之东南而充广之",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "熙宁元年",
+          "target": "国庆寺之东",
+          "relation": "位于",
+          "evidence": "熙宁元年，龙图张公田，增东城，徙于国庆寺之东",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "谏议程公师孟",
+          "target": "待制蒋公之奇",
+          "relation": "关联人物",
+          "evidence": "谏议程公师孟、待制蒋公之奇，继成之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "城东南隅",
+          "target": "大江",
+          "relation": "位于",
+          "evidence": "面大江，枕番山",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "城东南隅",
+          "target": "番山",
+          "relation": "位于",
+          "evidence": "面大江，枕番山",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "讲堂",
+          "target": "忠恕堂",
+          "relation": "关联人物",
+          "evidence": "前辟讲堂，后忠恕堂，续改忠恕为本源",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "忠恕堂",
+          "target": "本源",
+          "relation": "关联人物",
+          "evidence": "前辟讲堂，后忠恕堂，续改忠恕为本源",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "周公自强",
+          "target": "亭番山",
+          "relation": "记载于",
+          "evidence": "淳熙三年，集撰周公自强，创亭番山",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "亭番山",
+          "target": "六斋",
+          "relation": "关联人物",
+          "evidence": "淳熙三年，集撰周公自强，创亭番山",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "六斋",
+          "target": "大成殿",
+          "relation": "关联人物",
+          "evidence": "重建六斋。四年，运使赵澣，仿泮水制，濠其前",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "大成殿",
+          "target": "教授庐陵陈学礼",
+          "relation": "创建修建",
+          "evidence": "监司朵儿只暨宪使卜公天璋，从新改创，教授庐陵陈学礼董其役",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "云章阁",
+          "target": "翰林学士草卢吴先生",
+          "relation": "著有",
+          "evidence": "翰林学士草卢吴先生撰记，今刻石立于阁之西",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "朱元荐",
+          "target": "景行堂",
+          "relation": "创建修建",
+          "evidence": "景行堂一座三间，教授朱元荐建",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "朱元荐",
+          "target": "本源堂",
+          "relation": "创建修建",
+          "evidence": "本源堂一座三间，教授朱元荐建",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "朱元荐",
+          "target": "护学祠",
+          "relation": "创建修建",
+          "evidence": "护学祠一间，大德二年，教授朱元荐建",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "诸葛珏",
+          "target": "南海县学",
+          "relation": "创建修建",
+          "evidence": "佑元年，知县诸葛珏始相地县东南五里，前睨大江，后脉云峯，山水明秀，与乡大夫李正言昴英谋建学。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "李正言昴英",
+          "target": "南海县学",
+          "relation": "创建修建",
+          "evidence": "佑元年，知县诸葛珏始相地县东南五里，前睨大江，后脉云峯，山水明秀，与乡大夫李正言昴英谋建学。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "方经略大琮",
+          "target": "南海县学",
+          "relation": "创建修建",
+          "evidence": "方经略大琮又临流筑亭，扁浴沂，为士子游息之所。仍拨田益其廪。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "李肖龙",
+          "target": "关内县尉司右",
+          "relation": "创建修建",
+          "evidence": "邑人李肖龙，相攸关内县尉司右之空地，鼎建焉",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "杨长孺",
+          "target": "嘉定十年",
+          "relation": "创建修建",
+          "evidence": "嘉定十年，经略杨长孺始制，岁久朽弊",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "赵汝暨",
+          "target": "淳佑十一年",
+          "relation": "创建修建",
+          "evidence": "淳佑十一年，经略赵汝暨，自献官至执事，弁冕衣服，咸一新之",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "赵崇言由",
+          "target": "赵必王象",
+          "relation": "同族",
+          "evidence": "赵崇言由之子",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "林都运安宅",
+          "target": "刘清虚洞",
+          "relation": "创建修建",
+          "evidence": "即伪刘清虚洞建东西二院",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "西院",
+          "target": "刘清虚洞",
+          "relation": "位于",
+          "evidence": "即伪刘清虚洞建东西二院，西以贡乡曲之英",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "东院",
+          "target": "刘清虚洞",
+          "relation": "位于",
+          "evidence": "即伪刘清虚洞建东西二院，东以宾类试之士",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": []
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "郡圃",
+          "target": "元符二年",
+          "relation": "承载文化",
+          "evidence": "淳佑壬寅，经略方宝学大琮政余，始命刬治芜秽，旧者新之，堙没者出之。西建元老壮猷之堂，后为小合，环植翠竹，扁日报平安。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation": "位于",
+          "evidence": "云泉仙馆位于西樵山上",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": []
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "陈大震",
+          "target": "大德南海志",
+          "relation": "著有",
+          "evidence": "遂命里耆旧陈大震、路教授吕桂孙，求旧志增修之",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陆公",
+          "target": "大德南海志",
+          "relation": "承载文化",
+          "evidence": "廉访使江阴义斋陆公，以儒被选，远有光华，原隰咨诹，索图经于故府，无有。遂命里耆旧陈大震、路教授吕桂孙，求旧志增修之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陆公",
+          "target": "大德南海志",
+          "relation": "活动于",
+          "evidence": "廉访使江阴义斋陆公",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "陈大震",
+          "target": "番禺",
+          "relation": "出生于",
+          "evidence": "陈大震，字希声，番禺人",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "雷州西湖",
+          "relation": "活动于",
+          "evidence": "虑西湖久或湮废，乃大筑堤岸，建平湖书院",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "平湖书院",
+          "relation": "创建修建",
+          "evidence": "虑西湖久或湮废，乃大筑堤岸，建平湖书院",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "平湖书院",
+          "target": "雷州西湖",
+          "relation": "位于",
+          "evidence": "虑西湖久或湮废，乃大筑堤岸，建平湖书院",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "黄佐",
+          "target": "元大德残本南海志",
+          "relation": "记载于",
+          "evidence": "用陈氏家集、雷州志参修。 （黄佐广州人物传卷十）",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "曹元忠",
+          "target": "元大德残本南海志",
+          "relation": "著有",
+          "evidence": "元大德残本南海志跋 (清)曹元忠",
+          "confidence": 1.0,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陆垕",
+          "target": "元大德残本南海志",
+          "relation": "记载于",
+          "evidence": "陈大震、吕桂孙即见本志学校及进士题名。陆义斋当即陆垕，元史附臧梦解传，江阴县",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "朱光熙",
+          "target": "元大德残本南海志",
+          "relation": "记载于",
+          "evidence": "又，其艺文志书目云：元南海志二十卷，陈大震撰，今无。可见是志在明季久已亡佚，故朱光熙以今无着之，今又阅三百年矣。虽视原书祇存四分之一，究系断种秘本，乌可以残阙少之耶？",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "陈大震",
+          "target": "南海志",
+          "relation": "著有",
+          "evidence": "陈大震、吕桂孙即见本志学校及进士题名",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "吕桂孙",
+          "target": "南海志",
+          "relation": "著有",
+          "evidence": "陈大震、吕桂孙即见本志学校及进士题名",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陆垕",
+          "target": "广州路总管府",
+          "relation": "属于时期",
+          "evidence": "元世祖攻克广州，立广州路总管府",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "潘宗周",
+          "target": "南海志",
+          "relation": "著有",
+          "evidence": "南海志残本二册 （清）潘宗周 撰人不详",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "陈垣",
+          "target": "潘氏宝礼堂",
+          "relation": "关联人物",
+          "evidence": "陈垣 潘氏宝礼堂藏南海志残本",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元陈大震、吕桂孙纂修",
+          "target": "大德刻本",
+          "relation": "承载文化",
+          "evidence": "大德刻本。有人提出疑问：一、谓陈大震书名南海县志，此书名南海志，无县字",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元陈大震、吕桂孙纂修",
+          "target": "潘氏宝礼堂",
+          "relation": "承载文化",
+          "evidence": "陈垣 潘氏宝礼堂藏南海志残本，二册",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "廉访使陆公（垕）",
+          "relation": "活动于",
+          "evidence": "廉访使、道儒学提举、路教授，皆县级以上之官，则此志不限于南海一县，而为一路之志可知",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "潘氏宝礼堂",
+          "relation": "关联人物",
+          "evidence": "陈垣 潘氏宝礼堂藏南海志残本，二册",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元陈大震、吕桂孙纂修",
+          "target": "阮通志",
+          "relation": "记载于",
+          "evidence": "阮通志一九一艺文略，有陈大震南海志序",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "道儒学提举",
+          "relation": "同族",
+          "evidence": "入元，官广东道儒学提举，见残本志卷九",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元陈大震、吕桂孙纂修",
+          "target": "陈大震南海志序",
+          "relation": "著有",
+          "evidence": "阮通志一九一艺文略，有陈大震南海志序",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "廉访使陆公（垕）",
+          "target": "元陈大震、吕桂孙纂修",
+          "relation": "承载文化",
+          "evidence": "廉访使、道儒学提举、路教授，皆县级以上之官，则此志不限于南海一县，而为一路之志可知",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": []
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "元大德间",
+          "target": "潘氏宝礼堂",
+          "relation": "记载于",
+          "evidence": "潘氏宝礼堂旧藏南海志，实系大德八年番禺陈大震与路教授吕桂孙所修",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德间",
+          "target": "陈大震南海县志",
+          "relation": "记载于",
+          "evidence": "潘氏宝礼堂旧藏南海志，实系大德八年番禺陈大震与路教授吕桂孙所修",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "李昴英",
+          "target": "文溪集",
+          "relation": "著有",
+          "evidence": "李昴英文溪集有重修南海志序，乃宋淳佑七年四月所作",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "元大德间",
+          "target": "陈大震南海县志",
+          "relation": "属于时期",
+          "evidence": "潘氏宝礼堂旧藏南海志，实系大德八年番禺陈大震与路教授吕桂孙所修",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张菊生先生",
+          "target": "潘氏宝礼堂",
+          "relation": "关联人物",
+          "evidence": "张先生过目，故云。慎重之处。菊花校雠精密，当以所录为准",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "潘录",
+          "target": "大德本南海志",
+          "relation": "著有",
+          "evidence": "潘录、黄纪及图书目录所举，实是一书。南海志为一路之志，县字为后人所加，书成于大德八年",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "黄纪",
+          "target": "大德本南海志",
+          "relation": "著有",
+          "evidence": "潘录、黄纪及图书目录所举，实是一书。南海志为一路之志，县字为后人所加，书成于大德八年",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "光绪三十年",
+          "target": "大德本南海志",
+          "relation": "承载文化",
+          "evidence": "曹于光绪三十年（一九四）在武昌得之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "大德本南海志",
+          "relation": "创建修建",
+          "evidence": "志首有元大德甲辰长至日陈大震旧序，略谓廉访使义斋陆公，命里耆旧陈大震、教授吕桂孙，增修嘉定、淳佑二志。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "陆垕",
+          "target": "元史",
+          "relation": "记载于",
+          "evidence": "内阁大库旧藏后归京师图书馆（北京图书馆前身），崇祯志计必同移。北京图书馆一九五九年善本书目有大德南海志二十卷，存五，卷六至十、潘捐之著录，但无崇祯南海志也。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "《南海志》",
+          "relation": "著有",
+          "evidence": "《南海志》二十卷，陈大震撰，今无。",
+          "confidence": 1.0,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "嘉定二年",
+          "target": "《南海志》",
+          "relation": "记载于",
+          "evidence": "陈岘知广州军事，此志成于此时。",
+          "confidence": 1.0,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "淳佑七年",
+          "target": "《南海志》",
+          "relation": "记载于",
+          "evidence": "李昴英《文溪集》中提到方大琮编纂南海志。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "《宋史》",
+          "relation": "记载于",
+          "evidence": "嘉定二年（一二九）知广州军事，此志当成于是时。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": []
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "《宋东莞遗民录》",
+          "target": "思。文溪遗稿",
+          "relation": "记载于",
+          "evidence": "思。文溪遗稿伤沦落，此事还当付与谁。见《宋东莞遗民录》卷下",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《永乐大典》",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "现存的《永乐大典》残卷中，引《南海志》共有九十九条",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "卢挚",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "如云：涿郡卢挚代祀南海",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "赵谦",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "元赵谦，赵州人",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "吕恕",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "元吕恕，字仁卿。至元十八年，任广东道宣慰副使",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "陈岘《南海志》",
+          "relation": "关联人物",
+          "evidence": "陈大震《南海志序》称，他修《南海志》时，陈岘、方大琮两种《南海志》已经首尾残缺。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈大震",
+          "target": "方大琮《南海志》",
+          "relation": "关联人物",
+          "evidence": "陈大震《南海志序》称，他修《南海志》时，陈岘、方大琮两种《南海志》已经首尾残缺。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈岘《南海志》",
+          "target": "大德《南海志》",
+          "relation": "属于时期",
+          "evidence": "陈岘《南海志》早大德《南海志》九十余年",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "方大琮《南海志》",
+          "target": "大德《南海志》",
+          "relation": "属于时期",
+          "evidence": "方大琮《南海志》早大德《南海志》五十余年",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "十三条《南海志》",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "十三条《南海志》之文，大概是大德《南海志》的佚文吧",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "波罗蜜树",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "大德《南海志》：波罗蜜：樛枝大叶，实生于干，其大如瓠，蜜煎最宜。南海庙东西各一株，每岁九、十月熟，取供诸台，它莫敢取。",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "波罗蜜树",
+          "target": "大德《南海志》",
+          "relation": "属于时期",
+          "evidence": "大德《南海志》：波罗蜜：樛枝大叶，实生于干，其大如瓠，蜜煎最宜。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "大德《南海志》",
+          "target": "南海庙",
+          "relation": "记载于",
+          "evidence": "南海庙东西各一株，每岁九、十月熟，取供诸台，它莫敢取。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "桃竹",
+          "target": "大德《南海志》",
+          "relation": "记载于",
+          "evidence": "《大典》卷一四五三六树字韵《波罗蜜树》条引《南海志》，与大德《南海志》残本卷七《物产》中波罗蜜条文字大异。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "《大德南海志》",
+          "target": "《广州府南海志》",
+          "relation": "记载于",
+          "evidence": "标《广州府南海志》或《广州南海志》的十四条，当为大德《南海志》佚文",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《南海县志》",
+          "relation": "记载于",
+          "evidence": "标《南海县志》，而文有云：（达岸禅师）新州新兴人。分明不是南海县事，可知标《南海县志》或《南海县南海志》，为《南海志》之误",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《大典》",
+          "relation": "记载于",
+          "evidence": "《大典》卷八七八二僧字韵《杂录诸僧四达岸禅师》条，标《南海县志》",
+          "confidence": 0.75,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《东莞南海县志》",
+          "relation": "记载于",
+          "evidence": "《大典》卷二二六七湖字韵《鳄湖》条标《东莞南海县志》，更加不伦不类",
+          "confidence": 0.7,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《南海县志》",
+          "relation": "属于时期",
+          "evidence": "道光《南海县志》卷二十五《艺文略》一，就将陈岘、方大琮、陈大震三人的《南海志》俱误加一县字",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《广州府南海志》",
+          "relation": "属于时期",
+          "evidence": "标《广州府南海志》或《广州南海志》的十四条，当为大德《南海志》佚文",
+          "confidence": 0.75,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "《大德南海志》",
+          "target": "《万历广东通志》",
+          "relation": "记载于",
+          "evidence": "至于嘉靖《广东通志》、万历《广东通志》，也引有《",
+          "confidence": 0.65,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": []
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "菊坡",
+          "relation": "创建修建",
+          "evidence": "筑室所居之西偏，扁菊坡",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "端州",
+          "relation": "活动于",
+          "evidence": "见于施行者，维杨倅高惟月据宋史卷四百六崔与之传为高惟肖。锓梓曰崔公岭海便民榜",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "康有为",
+          "target": "广州",
+          "relation": "活动于",
+          "evidence": "召兵四集，贼一战不支，聚于苦竹岭，穷蹙乞降，公命分隶降卒于诸军",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "崔与之",
+          "target": "朱崖",
+          "relation": "位于",
+          "evidence": "朱崖之人又编次其罢行扰民之政，曰崔公海上澄清录",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "崔与之",
+          "target": "崔公岭海便民榜",
+          "relation": "承载文化",
+          "evidence": "初，公持节广右，见于施行者，维杨倅高惟月据宋史卷四百六崔与之传为高惟肖。锓梓曰崔公岭海便民榜",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "崔与之",
+          "target": "崔公海上澄清录",
+          "relation": "承载文化",
+          "evidence": "朱崖之人又编次其罢行扰民之政，曰崔公海上澄清录",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "康有为",
+          "target": "仙游阁",
+          "relation": "活动于",
+          "evidence": "在蜀时，人绘公像于仙游阁，与张忠定咏、赵清献抃并祠，号为三贤",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "康有为",
+          "target": "二献",
+          "relation": "关联人物",
+          "evidence": "淳佑甲辰，广帅方大琮祠公与张文献九龄于学，号为二献。咸淳癸酉，经略刘应龙又祠公于西城之高桂坊，今县学即其地也",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "方大琮",
+          "target": "西城之高桂坊",
+          "relation": "位于",
+          "evidence": "经略刘应龙又祠公于西城之高桂坊",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "刘应龙",
+          "target": "西城之高桂坊",
+          "relation": "承载文化",
+          "evidence": "经略刘应龙又祠公于西城之高桂坊",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "汤举",
+          "target": "袁二",
+          "relation": "关联人物",
+          "evidence": "有乡民汤姓者，富于财，为仇人汤举诬告在县。其亲雒公辅常以他事告县令王夔于宪司，因而有憾，令教汤举供职雒公辅束缚其仆袁二下水身死",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "雒公辅",
+          "target": "袁二",
+          "relation": "关联人物",
+          "evidence": "其亲雒公辅常以他事告县令王夔于宪司，因而有憾，令教汤举供职雒公辅束缚其仆袁二下水身死",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "玉液池",
+          "target": "上塘村",
+          "relation": "盛产",
+          "evidence": "故上塘村、下塘村之名犹存",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "玉液池",
+          "target": "下塘村",
+          "relation": "盛产",
+          "evidence": "故上塘村、下塘村之名犹存",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "黄公度",
+          "target": "素馨",
+          "relation": "著有",
+          "evidence": "黄公度咏素馨诗 黄公度诗：不入东风桃李群，结根远在瘴江。",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "按察使脱欢公",
+          "target": "大道寺",
+          "relation": "创建修建",
+          "evidence": "因赡师像，俨如梦中所见，乃创西莲庵以奉焉。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "西莲庵",
+          "target": "大道寺",
+          "relation": "关联人物",
+          "evidence": "乃创西莲庵以奉焉。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": [
+        {
+          "source": "任嚣",
+          "target": "秦二世",
+          "relation": "属于时期",
+          "evidence": "任嚣病且死于秦二世年间",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "任嚣",
+          "target": "赵佗",
+          "relation": "创建修建",
+          "evidence": "任嚣召龙川令赵佗使行尉事",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "任嚣",
+          "target": "番禺",
+          "relation": "位于",
+          "evidence": "番禺负山险阻",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "赵佗",
+          "target": "南越王",
+          "relation": "活动于",
+          "evidence": "赵佗并桂林、象郡，自立为南粤王",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "赵佗",
+          "target": "秦二世",
+          "relation": "属于时期",
+          "evidence": "赵佗立于秦二世年间",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南越五主传第一卷",
+          "target": "南越王",
+          "relation": "记载于",
+          "evidence": "南越五主传第一卷先主传云：秦二世二年，五星会东井",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "高帝元年",
+          "target": "汉安元年",
+          "relation": "属于时期",
+          "evidence": "汉安元年有误。南越五主传第一卷先主传云：秦二世二年，五星会东井",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南越王",
+          "target": "陆贾",
+          "relation": "关联人物",
+          "evidence": "汉遣陆贾再使粤，因封之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "胡广",
+          "target": "交州牧",
+          "relation": "记载于",
+          "evidence": "志注，师古曰：胡广记云：汉既定南越之地，置交州牧，亦治苍梧",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "交州牧",
+          "target": "番禺",
+          "relation": "位于",
+          "evidence": "后徙治番禺",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "黄有",
+          "target": "士燮",
+          "relation": "同族",
+          "evidence": "燮表其弟壹领合浦太守，黄有领九真太守",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": []
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "徐直谅",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "宋经略使兼知广州徐直谅得驿报",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "梁雄飞",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "淮将梁雄飞谪居于此",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "曾士倬",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "所遣者广人曾士倬，时南此处永乐大典书眉批语云：时南句恐有讹，南恐为官之误。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "唐渊",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "直谅遣水军统领唐渊往韶州逆之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "吕元帅师夔",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "江西吕元帅师夔遣黄世雄与雄飞偕来，并称招讨使",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "李性道",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "遣郡人李性道权提刑，领摧锋军将黄俊、陈寔，水军将谢贤等拒之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "黄俊",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "惟黄俊迎敌，遂败，俊奔回，直谅乃乘舶舟遁去",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陈寔",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "陈寔、谢贤、唐渊等各授以官",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "谢贤",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "陈寔、谢贤、唐渊等各授以官",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "黄俊",
+          "target": "广州府",
+          "relation": "活动于",
+          "evidence": "俊不受，诸将遂杀之于摧锋军寨佛殿下",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "南海",
+          "target": "番禺",
+          "relation": "属于时期",
+          "evidence": "隋开皇十年，以熙安、怀化入番禺",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "增城",
+          "relation": "关联人物",
+          "evidence": "增城、四会、化蒙",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "四会",
+          "relation": "关联人物",
+          "evidence": "增城、四会、化蒙",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "化蒙",
+          "relation": "关联人物",
+          "evidence": "增城、四会、化蒙",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "曲江",
+          "relation": "关联人物",
+          "evidence": "曲江、始兴、翁源、乐昌隶广州",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "始兴",
+          "relation": "关联人物",
+          "evidence": "曲江、始兴、翁源、乐昌隶广州",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "翁源",
+          "relation": "关联人物",
+          "evidence": "曲江、始兴、翁源、乐昌隶广州",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "乐昌",
+          "relation": "关联人物",
+          "evidence": "曲江、始兴、翁源、乐昌隶广州",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "浛光",
+          "relation": "关联人物",
+          "evidence": "浛光 来属",
+          "confidence": 0.75,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "清远",
+          "relation": "关联人物",
+          "evidence": "浛光、清远",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "怀集",
+          "relation": "关联人物",
+          "evidence": "浛光、清远、怀集",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "义宁",
+          "relation": "关联人物",
+          "evidence": "以义宁入新会",
+          "confidence": 0.75,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "新会",
+          "relation": "关联人物",
+          "evidence": "以义宁入新会",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南海",
+          "target": "香山",
+          "relation": "记载于",
+          "evidence": "绍兴二十二年，始分四县地，置香山",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": [
+        {
+          "source": "永乐大典",
+          "target": "南海志",
+          "relation": "记载于",
+          "evidence": "永乐大典卷一一九六，广字韵，广州府二，引南海志",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "南斗十二度至须女七度",
+          "target": "星纪",
+          "relation": "属于时期",
+          "evidence": "自南斗十二度至须女七度为星纪",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "吴越",
+          "target": "扬州",
+          "relation": "属于时期",
+          "evidence": "吴越之分野，属扬州",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "韶、广、康、封、藤、罗、雷州",
+          "target": "星纪",
+          "relation": "属于时期",
+          "evidence": "自韶、广、康、封、藤、罗、雷州，南及珠崖，自北以东为星纪",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "秦开南越新道",
+          "target": "大庾岭",
+          "relation": "关联人物",
+          "evidence": "一、塞上岭，今南康郡大庾岭是也",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "秦开南越新道",
+          "target": "桂阳郡服岭",
+          "relation": "关联人物",
+          "evidence": "二、骑田岭，今桂阳郡服岭是也",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "秦开南越新道",
+          "target": "都庞岭",
+          "relation": "关联人物",
+          "evidence": "三、都庞岭，今道州江华县永明岭是也",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "秦开南越新道",
+          "target": "白芒岭",
+          "relation": "关联人物",
+          "evidence": "四、洭渚岭，今江华界白芒岭是也",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "秦开南越新道",
+          "target": "始安郡北零陵临源岭",
+          "relation": "关联人物",
+          "evidence": "五、越岭，今始安郡北零陵临源岭是也",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "张九龄",
+          "target": "大庾岭",
+          "relation": "创建修建",
+          "evidence": "开元四载，俾左拾遗张九龄，相其山谷之宜，革其坂险之故，役匪逾时，则已坦坦而方九轨",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "韶州",
+          "relation": "活动于",
+          "evidence": "自循阳下龙川，自潮阳历海丰者，皆由惠州为东路；其自连州下湟水，则为西伯路。舟行陆走，咸至州而辐凑焉。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "封州",
+          "relation": "活动于",
+          "evidence": "自循阳下龙川，自潮阳历海丰者，皆由惠州为东路；其自连州下湟水，则为西伯路。舟行陆走，咸至州而辐凑焉。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "惠州",
+          "relation": "活动于",
+          "evidence": "自循阳下龙川，自潮阳历海丰者，皆由惠州为东路；其自连州下湟水，则为西伯路。舟行陆走，咸至州而辐凑焉。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "清远县",
+          "relation": "活动于",
+          "evidence": "自循阳下龙川，自潮阳历海丰者，皆由惠州为东路；其自连州下湟水，则为西伯路。舟行陆走，咸至州而辐凑焉。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "番禺县",
+          "relation": "活动于",
+          "evidence": "东至番禺县东城二里",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "新会县",
+          "relation": "活动于",
+          "evidence": "南至新会县界地名古劳里一百五十二里",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "四会县",
+          "relation": "活动于",
+          "evidence": "西至四会、高要二县界地名矶磄村一百二十五里",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "张九龄",
+          "target": "高要县",
+          "relation": "活动于",
+          "evidence": "西至四会、高要二县界地名矶磄村一百二十五里",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": [
+        {
+          "source": "石门",
+          "target": "越井",
+          "relation": "关联人物",
+          "evidence": "昔有坠酒杯于越井者，后于石门得之",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "石门",
+          "target": "越井",
+          "relation": "活动于",
+          "evidence": "陈江总诗云：石门通越井",
+          "confidence": 0.75,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "石门",
+          "target": "越井",
+          "relation": "记载于",
+          "evidence": "舆地纪胜卷八九江总别南海宾化侯：石关通越井，蒲涧迩灵洲",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "鲍姑井",
+          "target": "景泰寺",
+          "relation": "关联人物",
+          "evidence": "图志不指言其地，纪云景泰寺、碧虚观多有题，未知孰是。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "鲍姑井",
+          "target": "碧虚观",
+          "relation": "关联人物",
+          "evidence": "图志不指言其地，纪云景泰寺、碧虚观多有题，未知孰是。",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "醒心亭",
+          "target": "广济亭",
+          "relation": "同类",
+          "evidence": "旧有亭名醒心，绍熙三年，权县许伯凤更创，改名广济。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": [
+        {
+          "source": "何仙姑",
+          "target": "春冈",
+          "relation": "活动于",
+          "evidence": "所居地曰春冈",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0113": {
+      "relations": [
+        {
+          "source": "钱吉老",
+          "target": "峡山广庆寺飞来殿",
+          "relation": "活动于",
+          "evidence": "从者斧松以照夜",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "正俊禅师",
+          "target": "延祚寺",
+          "relation": "创建修建",
+          "evidence": "梁武帝末，有二神人化为游方士来寺，叩正俊禅师曰：峡山据清远上流，建一道",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "释奠之礼",
+          "target": "学宫",
+          "relation": "发生于",
+          "evidence": "陟降延戺，顾瞻学宫，多历年所",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "两庑",
+          "target": "学宫",
+          "relation": "位于",
+          "evidence": "堂庑庳狭，隅奥侧陋，师生所庐，曾莫攸处",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "讲堂",
+          "target": "学宫",
+          "relation": "位于",
+          "evidence": "堂庑庳狭，隅奥侧陋，师生所庐，曾莫攸处",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "议道之堂",
+          "target": "学宫",
+          "relation": "位于",
+          "evidence": "堂庑庳狭，隅奥侧陋，师生所庐，曾莫攸处",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "夫子之殿",
+          "target": "学宫",
+          "relation": "位于",
+          "evidence": "还顾夫子之殿，益卑圮不称",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": []
+    },
+    "chunk_0117": {
+      "relations": [
+        {
+          "source": "张九龄",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "张九龄、姜公辅之俦出焉",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "陆贾",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "汉之名臣如陆贾、严助、终军之徒，皆尝奉使而谕意焉",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "严助",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "汉之名臣如陆贾、严助、终军之徒，皆尝奉使而谕意焉",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "尉佗",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "彼椎结之尉佗方以蛮夷大长老夫自处",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "刘氏陟",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "逮唐季之乱，刘氏陟、玢、晟、，四世窃据，亦五十余年",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "刘玢",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "逮唐季之乱，刘氏陟、玢、晟、，四世窃据，亦五十余年",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "刘晟",
+          "target": "番禺",
+          "relation": "活动于",
+          "evidence": "逮唐季之乱，刘氏陟、玢、晟、，四世窃据，亦五十余年",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "隆栋",
+          "target": "泮水",
+          "relation": "同类",
+          "evidence": "诸侯之学，是谓泮水。",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "鲁侯",
+          "target": "泮水",
+          "relation": "关联人物",
+          "evidence": "诗人所颂，鲁侯戾止。",
+          "confidence": 0.85,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "隆栋",
+          "target": "泮水",
+          "relation": "承载文化",
+          "evidence": "肇新两序，翼如翚飞。载辟祠庭，奂其轮而。",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": []
+    },
+    "chunk_0121": {
+      "relations": []
+    },
+    "chunk_0122": {
+      "relations": []
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "万钧之重",
+          "target": "九仞之山",
+          "relation": "同类",
+          "evidence": "万钧之重，可以并力举也；九仞之山，可以累土成也",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": [
+        {
+          "source": "谭文初",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "谭文初前通判此州",
+          "confidence": 0.9,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "广平程公",
+          "target": "南海",
+          "relation": "活动于",
+          "evidence": "广平程公以光禄卿、直昭文馆、知州事，兼经略安抚巿舶劝农等使",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0125": {
+      "relations": [
+        {
+          "source": "注辇国酋长",
+          "target": "巿舶",
+          "relation": "关联人物",
+          "evidence": "以是注辇国酋长来新天庆道馆",
+          "confidence": 0.95,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "子产",
+          "target": "圭田",
+          "relation": "承载文化",
+          "evidence": "夫圣贤之道，虽充足于己，而油然乐于胸中，必恃食以生。始公以圭田之收，继生员之给",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "南海霍公",
+          "target": "龙山",
+          "relation": "记载于",
+          "evidence": "初，皇佑间，新会龙山之水，色变而为紫者旬日",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": []
+    },
+    "chunk_0129": {
+      "relations": [
+        {
+          "source": "刘镇",
+          "target": "随如先生",
+          "relation": "同族",
+          "evidence": "自号随如，学者称为随如先生",
+          "confidence": 1.0,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0130": {
+      "relations": []
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "八贤堂",
+          "target": "运甓斋",
+          "relation": "同类",
+          "evidence": "八贤堂……一二六 十贤堂……一二六 运甓斋",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "绿净丹井",
+          "relation": "同类",
+          "evidence": "月井……一四七 绿净丹井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "越井",
+          "relation": "同类",
+          "evidence": "月井……一四七 越井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "星泉井",
+          "relation": "同类",
+          "evidence": "月井……一四七 星泉井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "珊湖井",
+          "relation": "同类",
+          "evidence": "月井……一四八 珊湖井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "双井",
+          "relation": "同类",
+          "evidence": "月井……一四八 双井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "孙公井",
+          "relation": "同类",
+          "evidence": "月井……一四八 孙公井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "安期炼丹井",
+          "relation": "同类",
+          "evidence": "月井……一四八 安期炼丹井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "鲍姑井",
+          "relation": "同类",
+          "evidence": "月井……一四八 鲍姑井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "泉子井",
+          "relation": "同类",
+          "evidence": "月井……一四八 泉子井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "云母井",
+          "relation": "同类",
+          "evidence": "月井……一四九 云母井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "瓦窑井",
+          "relation": "同类",
+          "evidence": "月井……一四九 瓦窑井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        },
+        {
+          "source": "月井",
+          "target": "谭家井",
+          "relation": "同类",
+          "evidence": "月井……一四九 谭家井",
+          "confidence": 0.8,
+          "source_file": "大德南海志_维基文库"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": []
+    }
+  }
+}

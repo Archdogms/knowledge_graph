@@ -1,0 +1,3253 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "佛山祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "佛山祖庙的宗教文化、佛山祖庙的古建筑艺术等",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "佛山",
+          "relation": "承载文化",
+          "evidence": "佛山祖庙装饰艺术承载着佛山人的民俗信仰",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙位于此地",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "佛山祖庙会体现了佛山人的才智和岭南文化的特色",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山儿女才智与岭南文化",
+          "relation": "记载于",
+          "evidence": "佛山祖庙会体现了佛山人的才智和岭南文化的特色",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山儿女才智与岭南文化",
+          "relation": "承载文化",
+          "evidence": "佛山祖庙会体现了佛山人的才智和岭南文化的特色",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝铜像",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "有国内最大的明代北帝铜像",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙会",
+          "target": "三月三北帝诞",
+          "relation": "发生于",
+          "evidence": "三月三北帝诞就举行佛山祖庙会",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "1962年",
+          "relation": "属于时期",
+          "evidence": "1962年被划定为广东省重点文物保护单位",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "1996年",
+          "relation": "属于时期",
+          "evidence": "1996年被国务院定为全国重点文物保护单位",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "北宋元丰年间1078一1085",
+          "relation": "始建于",
+          "evidence": "始建成于北宋元丰年间1078一1085",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙位于佛山市南海区",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "真武大帝",
+          "relation": "承载文化",
+          "evidence": "真武神成为皇权的保护神各地北帝庙也格外受到朝廷的重视",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "万福台",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙是古建筑结构和技术艺术的代表",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应牌坊",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙是古建筑结构和技术艺术的代表",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "锦香池",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙是古建筑结构和技术艺术的代表",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙是古建筑结构和技术艺术的代表",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "钟鼓楼",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙是古建筑结构和技术艺术的代表",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "万福台、灵应牌坊、锦香池、庆真楼均在中轴线上对称分布",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应牌坊",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "万福台、灵应牌坊、锦香池、庆真楼均在中轴线上对称分布",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "锦香池",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "万福台、灵应牌坊、锦香池、庆真楼均在中轴线上对称分布",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "万福台、灵应牌坊、锦香池、庆真楼均在中轴线上对称分布",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "钟鼓楼",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "钟鼓楼则对称位于中轴线两侧",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "嘉会堂",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "明代的嘉会堂、清代的大魁堂都在历史上起过重要作用的店议机构",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "真武玄天上帝",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "在佛山这个多水之乡水是百姓生活中的重中之中",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "在佛山这个多水之乡水是百姓生活中的重中之中",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武玄天上帝",
+          "target": "北帝",
+          "relation": "同族",
+          "evidence": "道教中的北方水神，又称玄武大帝",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "真武玄天上帝",
+          "relation": "同族",
+          "evidence": "道教中的北方水神，又称玄武大帝",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "在佛山这个多水之乡水是百姓生活中的重中之中",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武玄天上帝",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "在佛山这个多水之乡水是百姓生活中的重中之中",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "真武大帝",
+          "target": "昌祖庙",
+          "relation": "承载文化",
+          "evidence": "其像被发不冠服帝服而建玄",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "昌祖庙",
+          "target": "佛山镇",
+          "relation": "位于",
+          "evidence": "南海佛山镇之祠为大",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "昌祖庙",
+          "target": "佛山镇",
+          "relation": "属于时期",
+          "evidence": "明代正统年间佛山镇人抗御黄萧养成功",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "昌祖庙",
+          "target": "正统年间",
+          "relation": "始建于",
+          "evidence": "明代正统年间佛山镇人抗御黄萧养成功",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山镇",
+          "target": "净乐国",
+          "relation": "关联人物",
+          "evidence": "传说玄武由星宿变为动物神龟、蛇灵物又进而人神化",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "真武",
+          "target": "祖庙紫虚宫",
+          "relation": "承载文化",
+          "evidence": "北帝的钢像已端坐了五百五十多 年了",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武",
+          "target": "祖庙紫虚宫",
+          "relation": "活动于",
+          "evidence": "北帝的钢像已端坐了五百五十多 年了",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙紫虚宫",
+          "target": "龟蛇",
+          "relation": "位于",
+          "evidence": "一龟一蛇蠕结左右",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "乾隆《佛山忠义乡志》",
+          "target": "灵应祠",
+          "relation": "记载于",
+          "evidence": "乾隆《佛山忠义乡志》云 神天神为 Re MELARB SABRI AMER BHUHAKREH BTMAL",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "灵应祠",
+          "relation": "承载文化",
+          "evidence": "灵应祠字样。神案旁的金木雕架座承放着北帝的令旗和玉笨",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "锦香池",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "锦香池位于祖庙三门的前面",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "清雍正年间",
+          "target": "带石栏雕石池",
+          "relation": "始建于",
+          "evidence": "清雍正年间改为长201米2、宽12米20的带石栏雕石池",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "道北教帝",
+          "target": "北帝文身坐神像",
+          "relation": "承载文化",
+          "evidence": "中间是北帝文身坐神像",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "道北教帝",
+          "target": "北帝武神",
+          "relation": "承载文化",
+          "evidence": "左边是北帝武神",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝武神",
+          "target": "北帝文身坐神像",
+          "relation": "同类",
+          "evidence": "右边则是佛教观音像同样受到人们的顶礼膜拜",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "观音像",
+          "target": "千手千眼观音",
+          "relation": "承载文化",
+          "evidence": "千手千眼观音、杨柳观音、白衣观音、送子观音、提人篮观音等表明了观音寄着托人们的众多愿望",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "观音像",
+          "target": "杨柳观音",
+          "relation": "承载文化",
+          "evidence": "千手千眼观音、杨柳观音、白衣观音、送子观音、提人篮观音等表明了观音寄着托人们的众多愿望",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "观音像",
+          "target": "白衣观音",
+          "relation": "承载文化",
+          "evidence": "千手千眼观音、杨柳观音、白衣观音、送子观音、提人篮观音等表明了观音寄着托人们的众多愿望",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "观音像",
+          "target": "送子观音",
+          "relation": "承载文化",
+          "evidence": "千手千眼观音、杨柳观音、白衣观音、送子观音、提人篮观音等表明了观音寄着托人们的众多愿望",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "观音像",
+          "target": "提人篮观音",
+          "relation": "承载文化",
+          "evidence": "千手千眼观音、杨柳观音、白衣观音、送子观音、提人篮观音等表明了观音寄着托人们的众多愿望",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "明嘉靖二十六年",
+          "target": "观音像",
+          "relation": "属于时期",
+          "evidence": "祖庙的观音像塑于明嘉靖二十六年1547 BA 11",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "佛山古寺庙铁塔",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "现立于祖庙外院园林内",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山古寺庙铁塔",
+          "target": "阿育王",
+          "relation": "承载文化",
+          "evidence": "阿育王式塔是阿育王建造的佛舍利塔",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "阿育王",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "阿育王式塔现立于祖庙外院园林内",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "孔庙",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "祖庙中包括孔庙",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "孔庙",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "孔庙始建于清朝宣统三年",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "孔庙",
+          "target": "佛山",
+          "relation": "创建修建",
+          "evidence": "清末民初由佛山黄棣华等士绅集资兴建",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "孔庙",
+          "target": "宣统三年",
+          "relation": "始建于",
+          "evidence": "孔庙始建于清朝宣统三年",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山正",
+          "relation": "位于",
+          "evidence": "祖庙佛山正是位于珠江三角洲腹地",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "北帝",
+          "relation": "承载文化",
+          "evidence": "祖庙北帝是佛山地方保护神",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山正",
+          "relation": "活动于",
+          "evidence": "正初一月到十五行祖庙拜北帝被视为最重要的节日祭礼活动",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "宋元丰年间",
+          "relation": "始建于",
+          "evidence": "祖庙始建于宋元丰年间",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "明乐永年间",
+          "relation": "属于时期",
+          "evidence": "至明乐永年间成为佛山供奉北帝的公庙",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "北帝巡游",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "北帝巡游是融合了宗教性、世俗性、娱乐性、群众性的宗教礼仪活动",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "烧KR BORAT",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "北帝巡游、烧KR BORAT、传统武术和文艺表演是融合了宗教性、世俗性、娱乐性、群众性的宗教礼仪活动",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "粤剧",
+          "target": "佛山粤剧博物馆",
+          "relation": "承载文化",
+          "evidence": "佛山市政府成立了粤剧博物馆",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝诞",
+          "target": "咏春拳",
+          "relation": "发生于",
+          "evidence": "北帝诞活动中要表演咏春拳等南派武术",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝诞",
+          "target": "洪拳",
+          "relation": "发生于",
+          "evidence": "北帝诞活动中要表演咏春拳等南派武术",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙里随处可见石刻的狮子",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山醒狮",
+          "target": "佛山",
+          "relation": "盛产",
+          "evidence": "佛山醒狮和醒狮时舞动的狮头别具一格",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山醒狮",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙里随处可见石刻的狮子",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山狮头",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙里随处可见石刻的狮子",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "佛山狮头",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "佛山狮头的典型风格造型",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "采青",
+          "target": "醒狮",
+          "relation": "记载于",
+          "evidence": "传统套路的采青是佛山醒狮的独有特色",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "高桩狮",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "高桩狮、高杆狮比较普遍",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "高杆狮",
+          "target": "醒狮",
+          "relation": "承载文化",
+          "evidence": "高桩狮、高杆狮比较普遍",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "十番音乐",
+          "target": "八音锣鼓柜",
+          "relation": "同类",
+          "evidence": "佛山的八音锣鼓柜、十番被誉为",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "八音锣鼓柜",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "在祖庙门前燃放大爆竹以享神",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "十番",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "在祖庙门前燃放大爆竹以享神",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山烧大爆",
+          "target": "北帝诞",
+          "relation": "发生于",
+          "evidence": "佛山的烧大爆在每年的北帝诞辰日举行",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山烧大爆",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "在祖庙门前燃放大爆竹以享神",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山烧大爆",
+          "target": "真武庙",
+          "relation": "关联人物",
+          "evidence": "真武庙岁",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "北帝诞",
+          "relation": "发生于",
+          "evidence": "北帝诞辰日举行",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "真武庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "佛山有真武庙",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武庙",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "佛山有真武庙岁三月上已举镇数十万人竞为栈会",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "大爆",
+          "target": "佛山",
+          "relation": "盛产",
+          "evidence": "佛山烧大爆",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "抢爆首",
+          "target": "佛山",
+          "relation": "传承于",
+          "evidence": "抢爆首的习俗",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武庙",
+          "target": "大爆",
+          "relation": "承载文化",
+          "evidence": "又多为大爆以享神",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "真武庙",
+          "target": "抢爆首",
+          "relation": "承载文化",
+          "evidence": "大爆燃放后铁圈飞出人们和争相抢之",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "争抢炮场",
+          "target": "炮队",
+          "relation": "承载文化",
+          "evidence": "抢炮者一般都有炮队组织或以宗族为一队",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "争抢炮场",
+          "relation": "活动于",
+          "evidence": "争抢炮场是佛山祖庙的传统民俗活动",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "春秋论祭",
+          "target": "祖庙",
+          "relation": "发生于",
+          "evidence": "春秋论祭祖庙始于明景泰初年",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "明景泰四年",
+          "relation": "属于时期",
+          "evidence": "春秋论祭始于明景泰初年",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "应恩",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "应恩同再造者也。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "明景泰时",
+          "relation": "始建于",
+          "evidence": "祖庙在明景泰时被列人祀典",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乾隆《佛山忠义乡志》",
+          "target": "金鱼塘陈祠",
+          "relation": "记载于",
+          "evidence": "据乾隆《佛山忠义乡志》卷六载",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "二月十五日",
+          "target": "北帝",
+          "relation": "活动于",
+          "evidence": "二月是北帝坐祠堂之时",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "八月十五日",
+          "target": "北帝",
+          "relation": "活动于",
+          "evidence": "祖庙的秋季论祭之日是八月十五日",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "陈启贤",
+          "target": "佛山忠义乡志",
+          "relation": "记载于",
+          "evidence": "道光《佛山忠义乡志》卷六记载岁每十一月二十四尝正社学举行乡饮礼",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乡饮",
+          "target": "佛山忠义乡志",
+          "relation": "记载于",
+          "evidence": "道光《佛山忠义乡志》里都有记载且比较详细",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "道光",
+          "target": "佛山忠义乡志",
+          "relation": "属于时期",
+          "evidence": "道光《佛山忠义乡志》卷六记载",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乡饮",
+          "target": "佛山忠义乡志",
+          "relation": "记载于",
+          "evidence": "道光《佛山忠义乡志》里都有记载且比较详细",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山忠义乡志",
+          "target": "乡饮",
+          "relation": "承载文化",
+          "evidence": "道光《佛山忠义乡志》里都有记载且比较详细",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "乡饮酒礼",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙与现代婚俗仪式",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "结婚的仪式里少不了到祖庙拜北帝这一环节",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "北帝历代被佛山人视为大父母、佛山的守护神于是祖庙就是祈求吉祥如意的对象",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "筷子路",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "佛山人迎亲行走路线都要遵循习俗走那些寓意吉祥的街起如永安路、筷子路、升平路、锦华路等但不论走哪条路线祖庙都是必经之地",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "升平路",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "佛山人迎亲行走路线都要遵循习俗走那些寓意吉祥的街起如永安路、筷子路、升平路、锦华路等但不论走哪条路线祖庙都是必经之地",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "锦华路",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "佛山人迎亲行走路线都要遵循习俗走那些寓意吉祥的街起如永安路、筷子路、升平路、锦华路等但不论走哪条路线祖庙都是必经之地",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "万福台",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "灵应牌坊",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "锦香池",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "钟鼓楼",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池、钟鼓楼等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "三门",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池、钟鼓楼、三门等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "前典",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池、钟鼓楼、三门、前典等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "正区",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池、钟鼓楼、三门、前典、正区等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "庆真楼",
+          "relation": "属于时期",
+          "evidence": "祖庙的主要建筑包括万福台、灵应牌坊、锦香池、钟鼓楼、三门、前典、正区、庆真楼等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "祖庙牌坊",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "祖庙牌坊被设为祖庙的大门",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙牌坊",
+          "target": "祖庙",
+          "relation": "始建于",
+          "evidence": "建于明代天启六年1626",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "灵应牌坊",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "灵应牌坊走进以古建筑为主的祖庙内院",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应牌坊",
+          "target": "祖庙",
+          "relation": "始建于",
+          "evidence": "灵应牌坊建造于明朝景泰二年1451",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "景泰皇帝",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "明景泰帝于景泰二年1451将佛山赐名忠义乡祖庙被封为灵应祠",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "钟楼",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "钟楼、鼓楼与祖庙的其他建筑物相比要小巧精致得多",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "三门",
+          "target": "明朝景泰初年",
+          "relation": "始建于",
+          "evidence": "三门建筑据考证是在明朝景泰初年1450所建",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "明正德八年",
+          "relation": "创建修建",
+          "evidence": "筑建于明正德八年1513因礼镇压黄萧养起义成功而受到萌廷救封忠义宫而得名",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "明宣德四年",
+          "relation": "始建于",
+          "evidence": "属于祖庙的主建筑体建于明宣德四年1429",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "明朝",
+          "target": "正殿",
+          "relation": "始建于",
+          "evidence": "正殿之问的天井处都是用香亭作为过湾的空间。这些香亭应建于明朝",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "清代光绪年间",
+          "target": "天井",
+          "relation": "承载文化",
+          "evidence": "廊顶各有陶塑人物瓦当一条是清代光绪年间所建",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "正殿",
+          "target": "天井",
+          "relation": "位于",
+          "evidence": "香亭正是正殿之间的天井处",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "天井",
+          "target": "正殿",
+          "relation": "位于",
+          "evidence": "香亭正是正殿之间的天井处",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "正殿",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "正殿屋顶高度与屋身高度比为21，屋坡曲线按宋代法式建造",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "正殿",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "正殿三面围墙南面敞开，面宽进深各三间柱子",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "斗拱",
+          "target": "正殿",
+          "relation": "承载文化",
+          "evidence": "红色的斗拱",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "庆真楼",
+          "relation": "位于",
+          "evidence": "庆真楼在祖庙中轴线建筑群中兴建",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "建于清嘉庆元年（1796年）",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "万福台",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "万福台建于清顺治十五年（1658）",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "万福台是祖庙建筑群里具有岭南特色的地方",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "粤剧",
+          "relation": "承载文化",
+          "evidence": "万福台具有佛山特色的古戏台，对佛山百姓有着巨大的吸引力",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "康四",
+          "relation": "关联人物",
+          "evidence": "于康四二十三年",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "康四十二年",
+          "target": "万福台",
+          "relation": "始建于",
+          "evidence": "万福台于康熙四十二年改名为万福台",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "粤剧",
+          "relation": "承载文化",
+          "evidence": "它是佛山作为粤剧发祥地的有力见证",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "万福台",
+          "target": "粤剧",
+          "relation": "承载文化",
+          "evidence": "万福台又有审戏台的作用。戏台前有一片观戏的开阔空地",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "大力士武士",
+          "target": "孔圣殿",
+          "relation": "承载文化",
+          "evidence": "孔圣殿石柱上的雕刻图案，表现古代武艺。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "洋人侵略者",
+          "target": "孔圣殿",
+          "relation": "承载文化",
+          "evidence": "孔圣殿石柱上的雕刻图案，反映清末民初的历史事件。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "七副对联",
+          "target": "孔圣殿",
+          "relation": "记载于",
+          "evidence": "七副对联均为宣统三年修庙时当地乡绅名士所书是研究孔庙与当时地方尊孔活动及思想的珍贵史料。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "孔子石刻像",
+          "target": "孔圣殿",
+          "relation": "承载文化",
+          "evidence": "孔子石刻像是建庙时按山东曲阜孔庙石刻像拓本重刻。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "夏怡和店",
+          "target": "筷子庙堂碑",
+          "relation": "关联人物",
+          "evidence": "像前的铂雕石供案由佛山镇兴宁街夏怡和店于清光绪二十三年1897造。",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "筷子庙堂碑",
+          "target": "孔圣殿",
+          "relation": "位于",
+          "evidence": "殿内东西两壁戏有《筷子庙堂碑》刻石是按照唐代著名书法家广世南所书碑记。",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "筷子庙堂碑",
+          "target": "壁戏",
+          "relation": "记载于",
+          "evidence": "上有仿方纲的考证人画像和简介相当于小型的佛山名人谱",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山名人谱",
+          "target": "壁戏",
+          "relation": "承载文化",
+          "evidence": "上有仿方纲的考证人画像和简介相当于小型的佛山名人谱",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "张镇孙",
+          "target": "状元",
+          "relation": "关联人物",
+          "evidence": "南汉乾享二年918 HMA MRR SE 1271 张镇孙",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "陈启沅",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "一直直到近代民族工业创始人陈启沅",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山",
+          "target": "张镇孙",
+          "relation": "活动于",
+          "evidence": "南汉乾享二年918 HMA MRR SE 1271 张镇孙",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山",
+          "target": "伦文叙",
+          "relation": "活动于",
+          "evidence": "明代弘治十二年1499 伦文叙",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山",
+          "target": "黄士俊",
+          "relation": "活动于",
+          "evidence": "明代万历三十五年1607 黄士俊",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "梁祠",
+          "target": "佛山祖庙",
+          "relation": "位于",
+          "evidence": "原位于佛山市东下路仙涌街大塘前群马梁祠内，后由佛山市政府博物馆搬迁重建于祖庙大院之内",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "梁祠",
+          "target": "梁灶",
+          "relation": "承载文化",
+          "evidence": "该牌坊立于梁祠是因梁氏家族的后裔、礼部主事梁灶在明正德十六年1521得皇帝朱厚照旨意升授承德郎为炫耀这一升赏而不惜重金修建的",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "梁祠",
+          "target": "佛山祖庙",
+          "relation": "始建于",
+          "evidence": "原位于佛山市东下路仙涌街大塘前群马梁祠内，后由佛山市政府博物馆搬迁重建于祖庙大院之内",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "古洛芝兰牌坊",
+          "target": "佛山祖庙",
+          "relation": "承载文化",
+          "evidence": "古洛芝兰牌坊位于孔庙院内，全石结构、四柱三楼的牌坊。牌坊明间",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "石湾陶塑",
+          "relation": "承载文化",
+          "evidence": "祖庙内最主要的、最有名、最具特色的传统建筑装饰艺术品算是两塑三雕了。两塑是陶塑、灰塑以历史故事为题材。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "石湾",
+          "relation": "位于",
+          "evidence": "石湾陶塑艺术佛山的石湾陶业久负盛名于明清达到鼎盛时期因此佛山又称为南国陶都。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石湾陶塑",
+          "target": "石湾",
+          "relation": "承载文化",
+          "evidence": "石湾陶塑艺术佛山的石湾陶业久负盛名于明清达到鼎盛时期因此佛山又称为南国陶都。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石湾",
+          "target": "石湾陶业",
+          "relation": "盛产",
+          "evidence": "石湾陶塑艺术佛山的石湾陶业久负盛名于明清达到鼎盛时期因此佛山又称为南国陶都。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "石湾工艺",
+          "target": "美陶湾",
+          "relation": "关联人物",
+          "evidence": "美陶湾是佛山的一个著名陶艺制作区域",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山石湾陶塑",
+          "target": "石湾工艺",
+          "relation": "承载文化",
+          "evidence": "佛山石湾陶塑是石湾工艺的一种表现形式",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山石湾陶塑",
+          "target": "石湾瓦",
+          "relation": "同类",
+          "evidence": "佛山石湾陶塑和石湾瓦都是石湾陶瓷艺术的表现",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石湾瓦",
+          "target": "美陶湾",
+          "relation": "关联人物",
+          "evidence": "石湾瓦是美陶湾的代表性作品",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "般烧",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙让各庙宇上的陶塑瓦脊多达六条，总长度近百米，像个颇具规模的大舞台有着特殊演出效果。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "陈家祠",
+          "target": "祖庙",
+          "relation": "关联人物",
+          "evidence": "广州著名 的 陈 家 祠 磺宇上 的 瓦 脊 与祖庙 瓦养同",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "宝珠",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "宝珠在祖庙正中",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "鳌鱼造型",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "鳌鱼造型在祖庙前殿东西两侧",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "庆真楼是祖庙内的重要建筑",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "光绪二十二年",
+          "relation": "始建于",
+          "evidence": "庆真楼的瓦脊也是双面的，为光绪二十二年建造",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "石湾文如壁",
+          "target": "庆真楼",
+          "relation": "承载文化",
+          "evidence": "石湾文如壁所造置于庆真楼前的天井",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "牛郎织女",
+          "target": "庆真楼",
+          "relation": "承载文化",
+          "evidence": "牛郎织女的故事讲述于庆真楼院落",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "穆桂英挂帅",
+          "target": "庆真楼",
+          "relation": "承载文化",
+          "evidence": "穆桂英挂帅的故事讲述于庆真楼院落",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "天官赐福",
+          "target": "庆真楼",
+          "relation": "承载文化",
+          "evidence": "天官赐福的故事讲述于庆真楼院落",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "牛郎织女",
+          "target": "石湾文如壁",
+          "relation": "著有",
+          "evidence": "石湾文如壁所造牛郎织女故事",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "穆桂英",
+          "target": "石湾文如壁",
+          "relation": "著有",
+          "evidence": "石湾文如壁所造穆桂英挂帅故事",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "天官赐福",
+          "target": "石湾文如壁",
+          "relation": "著有",
+          "evidence": "石湾文如壁所造天官赐福故事",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "屏障",
+          "relation": "位于",
+          "evidence": "现位立于祖庙正门内如屏障",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "屏障",
+          "target": "双戏龙珠",
+          "relation": "承载文化",
+          "evidence": "其画面双戏龙珠是表现龙的神采的传统题材",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "双戏龙珠",
+          "target": "祖庙",
+          "relation": "记载于",
+          "evidence": "双龙戏珠或称夺珠表现出龙的丰富奇美的神韵和艺术张力",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "黄古珍",
+          "target": "祖庙",
+          "relation": "关联人物",
+          "evidence": "西侧的陶塑日神是于光绪二十二年1899重修祖庙时由石湾陶塑名家黄古珍造",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "黄古珍",
+          "target": "石湾陶塑",
+          "relation": "承载文化",
+          "evidence": "由石湾陶塑名家黄古珍造",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "黄古珍",
+          "target": "石湾陶塑",
+          "relation": "活动于",
+          "evidence": "黄古珍是清代道光至光绪年间人",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "黄古珍",
+          "target": "石湾陶塑",
+          "relation": "著有",
+          "evidence": "此陶塑是他晚年难得一见的人物作品",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石湾陶塑",
+          "target": "灰塑",
+          "relation": "同类",
+          "evidence": "与陶塑相比灰塑要",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "灰塑",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙的正典与偏典的屋顶上都有灰塑的屋脊装饰",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灰塑",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "祖庙的正典与偏典的屋顶上都有灰塑的屋脊装饰",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": []
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "唐明皇",
+          "target": "祖庙端肃门",
+          "relation": "承载文化",
+          "evidence": "祖庙端肃门上的灰塑作品正是表现这段创作奇遇。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙端肃门",
+          "target": "灰塑",
+          "relation": "承载文化",
+          "evidence": "祖庙端肃门上的灰塑作品正是表现这段创作奇遇。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "布根泉",
+          "target": "灰塑",
+          "relation": "传承于",
+          "evidence": "1942年由佛山著名灰塑世家艺人布根泉制作作为多层立体",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "布根泉",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "1942年佛山著名灰塑世家艺人布根泉制作",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "布根泉",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "1942年祖庙修缮时佛山著名灰塑世家艺人布根泉制作",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灰塑",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙修缮时佛山著名灰塑世家艺人布根泉制作",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "桃园三结义",
+          "target": "祖庙",
+          "relation": "记载于",
+          "evidence": "桃园三结义故事是祖庙门上的灰塑",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "石雕艺术",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙的石雕多采用花岗岩具有耐腐蚀的特点",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石雕艺术",
+          "target": "红砂岩石雕神案",
+          "relation": "承载文化",
+          "evidence": "红砂岩石雕神案是现存年代最早的神案之一",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石雕艺术",
+          "target": "双龙壁",
+          "relation": "承载文化",
+          "evidence": "石雕梁坊在祖庙的双龙壁附近有一对石雕梁坊",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "红砂岩石雕神案",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "红砂岩石雕神案摆放着一座红砂岩石雕神案",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "双龙壁",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "双龙壁在祖庙内的一对石雕梁坊附近",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "高浮雕",
+          "target": "云龙柱",
+          "relation": "承载文化",
+          "evidence": "云龙柱为高浮雕作品",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "云龙柱",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "云龙柱是祖庙的石雕作品",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "麒麟石照壁",
+          "target": "影壁",
+          "relation": "属于时期",
+          "evidence": "位于孔庙院内的麒麟石照壁是石质浮雕，高26米2，宽22米7，厚13厘米。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "麒麟石照壁",
+          "target": "忠义乡",
+          "relation": "承载文化",
+          "evidence": "民国《佛山忠义乡志》载忠义第一麟一大数尺古朴清雅奕奕有神甚似汉代雕刻。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "麒麟石照壁",
+          "target": "麒麟",
+          "relation": "承载文化",
+          "evidence": "其浮雕一麒麟。雕刻部分高165米宽205米。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "麒麟社",
+          "target": "忠义乡",
+          "relation": "关联人物",
+          "evidence": "镇人故称为麒麟社。",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "麒麟社",
+          "target": "麒麟",
+          "relation": "承载文化",
+          "evidence": "麒麟是民间传说中的吉祥动物形象。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "麒麟社",
+          "target": "清代至民国年间",
+          "relation": "承载文化",
+          "evidence": "麒麟社为清代至民国年间产物",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "石雕狮子",
+          "target": "火山岩石质",
+          "relation": "属于时期",
+          "evidence": "石雕狮子材质为火山岩石质",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "砖雕艺术",
+          "target": "清代至民国年间",
+          "relation": "承载文化",
+          "evidence": "砖雕流行于清代至民国年间",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "砖雕艺术",
+          "target": "清代至民国年间",
+          "relation": "传承于",
+          "evidence": "砖雕艺术在清代至民国年间盛行",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "砖雕",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "砖雕作品装饰在三门东西两侧围墙上",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "砖雕",
+          "target": "三门东西侧围墙",
+          "relation": "位于",
+          "evidence": "装饰在三门东西两侧围墙上",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "光绪二十二年",
+          "relation": "始建于",
+          "evidence": "光绪二十二年造",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": []
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "木雕艺术",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "祖庙木雕有着岭南兼容、多元和开放的特点",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "木雕艺术",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "木雕艺术在祖庙的建筑装饰上",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "万福台木雕",
+          "target": "仙界",
+          "relation": "承载文化",
+          "evidence": "仙界手 里 拿 着代表 福 禄 寿的灵芝 、 元 宝 等 宝物准 备 赐 予 人间 百 姓。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "伏虎罗汉",
+          "relation": "承载文化",
+          "evidence": "祖庙的伏虎罗汉木雕形象",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "光绪二十五年",
+          "relation": "始建于",
+          "evidence": "此花社是光绪二十二五年1899",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "金漆木雕花社",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "在三门榴下的金漆木雕花社长达317米",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "金漆木雕花社",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "此花社是光绪二十二五年1899本镇",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "狄青",
+          "target": "摘星楼",
+          "relation": "关联人物",
+          "evidence": "狄青斩王天化中勇猛善战而英俊的狄青",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "摘星楼",
+          "target": "狄青",
+          "relation": "关联人物",
+          "evidence": "摘星楼以身殉国的情节。这位老臣被塑造得十分到位",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "庆真楼",
+          "target": "金漆木雕门",
+          "relation": "承载文化",
+          "evidence": "庆真楼上独具特色的金漆木雕门展示了精湛的木雕技艺",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "庆真楼",
+          "target": "木雕花罩",
+          "relation": "承载文化",
+          "evidence": "庆真楼的大厅装饰有木雕红功花罩和录竹花罩",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "正门石柱对联",
+          "relation": "承载文化",
+          "evidence": "祖庙的机联与殿堂、牌坊、戏台等也紧密相连。现存木质对联只有九对石柱对联只有十二对共二十一对。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "正门石柱对联",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙正门的对联，现存木质对联九对，石柱对联十二对",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0080": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "旗带水",
+          "relation": "位于",
+          "evidence": "过去祖庙门前有河河水蚁晓如带故名旗带水",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "李待问",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "李待问奉康申甲子岁孙锡瑞重修。乾隆己亥秋元孙获棠重修成丰辛亥冬昆孙 恒 夫 洪 夫 重修 光绪已",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "李待问",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "李待问奉康申甲子岁孙锡瑞重修。乾隆己亥秋元孙获棠重修成丰辛亥冬昆孙 恒 夫 洪 夫 重修 光绪已",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0081": {
+      "relations": [
+        {
+          "source": "一洞天",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "一洞天道教指神仙居处为洞府。这里的一洞天指祖庙",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "吴文柱",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "大清乾隆廿四年已卯秋九月谷且贡生吴文柱等瞻孙廷柱廷枢廷森廷槐人敬奉",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "吴元柱",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "咸丰元年辛亥十一月吉且四房裔孙等重修光绪己亥冬月吴元柱毅孙发昌等重修",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乾隆廿四年",
+          "target": "祖庙",
+          "relation": "始建于",
+          "evidence": "大清乾隆廿四年已卯秋九月谷旦高天生敬奉",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "咸丰元年岁次辛亥仲冬下浣",
+          "target": "祖庙",
+          "relation": "创建修建",
+          "evidence": "咸丰元年岁次辛亥仲冬下浣五世孙高品良等重修",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "坎德",
+          "target": "离明",
+          "relation": "同类",
+          "evidence": "坎德坎八卦中的水卦。坎德指司水神北帝之功德。离明离八卦中的火卦。离明即火的光明",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "景泰二年",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "这是在前殿的明景泰帝所赐牌蕊国朝祀典下的的一副对联是景泰二年1451代宗皇帝所赐",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "祖庙的园林院落",
+          "relation": "位于",
+          "evidence": "祖庙的园林院落是几何形式与蛇行线条的有机拼接",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙的园林院落",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "祖庙的园林院落是几何形式与蛇行线条的有机拼接",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "醒狮台",
+          "relation": "同类",
+          "evidence": "祖庙的园林院落是几何形式与蛇行线条的有机拼接，而柔性线条则更具人们天性",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "砖雕牌坊",
+          "relation": "同类",
+          "evidence": "祖庙的园林院落是几何形式与蛇行线条的有机拼接，而柔性线条则更具人们天性",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "回廊长亭",
+          "relation": "位于",
+          "evidence": "回廊长亭、蚁蚂蚁小径等流畅的线条感让人获得感官乃至心理上的享受。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "蚁蚂蚁小径",
+          "relation": "位于",
+          "evidence": "回廊长亭、蚁蚂蚁小径等流畅的线条感让人获得感官乃至心理上的享受。",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "青石桌",
+          "relation": "承载文化",
+          "evidence": "万福台前还有古色古香的木制八仙桌和木椅都是由质地密实而厚重的上等木制料成。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "木制八仙桌",
+          "relation": "承载文化",
+          "evidence": "万福台前还有古色古香的木制八仙桌和木椅都是由质地密实而厚重的上等木制料成。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "万福台",
+          "target": "木椅",
+          "relation": "承载文化",
+          "evidence": "万福台前还有古色古香的木制八仙桌和木椅都是由质地密实而厚重的上等木制料成。",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "高大树木",
+          "relation": "位于",
+          "evidence": "园林随着祖庙发展建设其实也是人们观念、心灵的投射。",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "佛山石榜",
+          "target": "佛山",
+          "relation": "盛产",
+          "evidence": "佛山石榜是佛山得名的见证",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山忠义乡志",
+          "target": "佛山",
+          "relation": "记载于",
+          "evidence": "佛山的名称已有1367年的历史。从此时佛山人杰地灵生活富庶成为一块风水宝地。民国《佛山忠义乡志》载佛山",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山石榜",
+          "target": "季华乡",
+          "relation": "属于时期",
+          "evidence": "佛山原名季华乡",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "季华乡",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "佛山原名季华乡",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "东晋隆安二年",
+          "target": "佛山石榜",
+          "relation": "承载文化",
+          "evidence": "东晋隆安二年398西域僧人达毗耶舍来佛山塔坡岗搭茅屋讲经到唐代贞观二年628当地人BR SBR BP PHRASE 3 HITHTHKEER RBRE LY ARYD BAB PE尊小铜佛像于是建庙供奉并立了这一石榜",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "唐代贞观二年",
+          "target": "佛山石榜",
+          "relation": "承载文化",
+          "evidence": "东晋隆安二年398西域僧人达毗耶舍来佛山塔坡岗搭茅屋讲经到唐代贞观二年628当地人BR SBR BP PHRASE 3 HITHTHKEER RBRE LY ARYD BAB PE尊小铜佛像于是建庙供奉并立了这一石榜",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "佛山",
+          "target": "季华乡",
+          "relation": "属于时期",
+          "evidence": "佛山向名季华乡不知名始自何时",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "塔坡寺",
+          "target": "唐贞观二年",
+          "relation": "始建于",
+          "evidence": "至唐贞观二年居人匈塔坡岗夜轰有光因掘地得铜佛三奉于经堂即塔坡寺",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝铜像",
+          "target": "北帝",
+          "relation": "承载文化",
+          "evidence": "北帝铜像是祖庙主要供奉的神全称为北方真武玄天大帝",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝铜像",
+          "target": "佛山",
+          "relation": "盛产",
+          "evidence": "因此有这73样出色的作品",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝铜像",
+          "target": "明清代",
+          "relation": "属于时期",
+          "evidence": "在明清时期被誉为中国的四大名镇之一的佛山铸造业与陶瓷业、纺织业、中成药业并列为佛山的四大支柱产业。因此有这73样出色的作品",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "灵应祠",
+          "target": "佛山忠义乡志",
+          "relation": "记载于",
+          "evidence": "《佛山忠义乡志》载灵应祠正殿取九五之意，明正统年间唐受封号",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应祠",
+          "target": "佛山忠义乡志",
+          "relation": "记载于",
+          "evidence": "《佛山忠义乡志》载灵应祠原日铜圣像三尊，这尊铜圣像是其中之一",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山镇",
+          "relation": "位于",
+          "evidence": "北帝诞时北帝要到佛山镇各个祠堂巡游",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "北帝诞",
+          "target": "佛山镇",
+          "relation": "发生于",
+          "evidence": "北帝诞时北帝要到佛山镇各个祠堂巡游",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "嘉靖",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "此镜始于嘉靖庚子修于乾隆",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乾隆",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "此镜始于嘉靖庚子修于乾隆",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0092": {
+      "relations": [
+        {
+          "source": "灵应祠",
+          "target": "省城仁兴造",
+          "relation": "承载文化",
+          "evidence": "上述仪仗有省城仁兴造和省城天平街秆成店造两种",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应祠",
+          "target": "省城天平街秆成店",
+          "relation": "承载文化",
+          "evidence": "上述仪仗有省城仁兴造和省城天平街秆成店造两种",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "马伯良",
+          "target": "灵应祠",
+          "relation": "创建修建",
+          "evidence": "马伯良同时聘请了两家店铺为灵应祠铸造兵器仪杖",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "万明炉",
+          "target": "正殿香亭",
+          "relation": "位于",
+          "evidence": "陈列于正殿香亭中",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "灵应祠",
+          "target": "万明炉",
+          "relation": "记载于",
+          "evidence": "炉身正面中间有灵应祠三个铭文大字",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "前式漆金木雕神案",
+          "target": "祖庙",
+          "relation": "属于时期",
+          "evidence": "前式漆金木雕神案是祖庙的主要木器",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "前式漆金木雕神案",
+          "target": "正殿神案",
+          "relation": "同类",
+          "evidence": "规格大小与正殿神案相同",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "前式漆金木雕神案",
+          "target": "佛山镇",
+          "relation": "位于",
+          "evidence": "前式漆金木雕神案是佛山镇承龙街黄广华造银行如意堂送",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "李元霸",
+          "target": "祖庙",
+          "relation": "关联人物",
+          "evidence": "祖庙正殿神案上刻画了李元霸",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "李元霸",
+          "target": "佛山镇",
+          "relation": "活动于",
+          "evidence": "李元霸是唐开国皇帝李渊的小儿子，这里塑造的李元霸是个脸如冠玉的美少年",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": [
+        {
+          "source": "佛山木雕",
+          "target": "大明江山",
+          "relation": "承载文化",
+          "evidence": "大明江山四个字上暗含着反清复明的思想",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "金套殿",
+          "target": "佛山志",
+          "relation": "记载于",
+          "evidence": "《佛山志》中记载1958年维修神案时在金套殿小芒果下面发现了大明江山四个字",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0099": {
+      "relations": [
+        {
+          "source": "三狮戏球",
+          "target": "双面杭木大座屏风",
+          "relation": "承载文化",
+          "evidence": "屏风中间的圆形图案为三狮戏球",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": [
+        {
+          "source": "麒麟",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "两只黑色的麒麟立于祖庙进门的不远",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "飞贼",
+          "target": "祖庙",
+          "relation": "关联人物",
+          "evidence": "于是商人就出重金请飞贼偷祖庙三门上的这颗宝珠",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": [
+        {
+          "source": "刘归",
+          "target": "祖庙",
+          "relation": "关联人物",
+          "evidence": "很入以前祖庙附近的村里住着一个名叫刘归的大财主",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "刘归",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "很入以前祖庙附近的村里住着一个名叫刘归的大财主",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": [
+        {
+          "source": "石奈",
+          "target": "药王庙",
+          "relation": "创建修建",
+          "evidence": "便有人来请手艺高明的师傅。师傅知道要在规定的时间内完成两件这样的雕塑是、艰巨的任务",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0108": {
+      "relations": [
+        {
+          "source": "双龙柱",
+          "target": "佛山祖庙",
+          "relation": "创建修建",
+          "evidence": "师傅和徒弟共同完成双龙柱",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0109": {
+      "relations": [
+        {
+          "source": "师傅",
+          "target": "双云龙柱",
+          "relation": "关联人物",
+          "evidence": "师傅喷出鲜血倒地，双云龙柱上双龙凝望着庙对面的荒山树中两座新坟",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "双云龙柱",
+          "target": "参天古木",
+          "relation": "关联人物",
+          "evidence": "经过香亭这里有一棵沿亭顶而上的参天古木",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": [
+        {
+          "source": "刘善发",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "到摸青龙时祖庙青龙洞旁已经挤满了人",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "刘顺",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "到摸青龙时祖庙青龙洞旁已经挤满了人",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "青龙洞",
+          "target": "祖庙",
+          "relation": "位于",
+          "evidence": "青龙洞口桔着香烟摆着红烛",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0112": {
+      "relations": []
+    },
+    "chunk_0113": {
+      "relations": [
+        {
+          "source": "祖庙神台",
+          "target": "平英团抗英",
+          "relation": "记载于",
+          "evidence": "这上面雕刻着一幅精美的平英团抗英图",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "赵师人",
+          "target": "祖庙神台",
+          "relation": "创建修建",
+          "evidence": "祖庙要添置一张神台。承接刻制神台的是远近闻名的由刻艺人赵师人",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "赵师人",
+          "target": "醒狮",
+          "relation": "关联人物",
+          "evidence": "赵师人仿有個大儿子参加了平英团在抗击英国侵略者时",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "忠义乡",
+          "relation": "属于时期",
+          "evidence": "佛山被皇帝封为忠义乡供奉北帝的祖庙",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "灵应祠",
+          "relation": "承载文化",
+          "evidence": "祖庙被封为灵应祠",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "忠义社坛",
+          "target": "忠义乡",
+          "relation": "承载文化",
+          "evidence": "建一座忠义社坛以作纪念",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "忠义社坛",
+          "target": "忠义乡",
+          "relation": "传承于",
+          "evidence": "佛山被皇帝封为忠义乡供奉北帝的祖庙",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0116": {
+      "relations": [
+        {
+          "source": "麒麟",
+          "target": "忠义第一社坛",
+          "relation": "承载文化",
+          "evidence": "忠义第一社坛建有石刻照壁",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0117": {
+      "relations": [
+        {
+          "source": "火麒麟",
+          "target": "忠义第一社坛",
+          "relation": "位于",
+          "evidence": "石照壁上的火麒麟",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "忠义第一社坛",
+          "target": "火麒麟",
+          "relation": "承载文化",
+          "evidence": "忠义第一社坛称为麒麟社",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙门前对联",
+          "target": "李待问",
+          "relation": "著有",
+          "evidence": "李待问奉的对联下联竟是一补鞋匠所对",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0118": {
+      "relations": [
+        {
+          "source": "补鞋能",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "补鞋能在祖庙门口偷偷地做些小买卖",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0119": {
+      "relations": []
+    },
+    "chunk_0120": {
+      "relations": [
+        {
+          "source": "补鞋能",
+          "target": "澜石镇河宕村",
+          "relation": "关联人物",
+          "evidence": "澜石镇河宕村发PRAVIRHE TAREE AEAA AEE SA TAT",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0121": {
+      "relations": [
+        {
+          "source": "佛山",
+          "target": "秦汉",
+          "relation": "属于时期",
+          "evidence": "秦汉年间佛山已是初具规模的农渔村落",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0122": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙（建筑遗迹）：佛山传统百姓庙宇，供奉祖先神灵",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "岭南",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "明代岭南进入了经济社会发展阶段这段时期也是佛山的快速发展时期",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "佛山是粤剧的发祥地 建有琼花会馆",
+          "confidence": 0.95,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "乾隆重盛时期",
+          "target": "祖庙",
+          "relation": "承载文化",
+          "evidence": "乾隆年间划分二十八铺人口达十多万户",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0123": {
+      "relations": [
+        {
+          "source": "南风古灶龙窗",
+          "target": "塔坡",
+          "relation": "活动于",
+          "evidence": "颇 爱 塔 坡 留 胜地卖花翁 对 卖 茶 Bo",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0124": {
+      "relations": [
+        {
+          "source": "佛山人",
+          "target": "祖庙",
+          "relation": "活动于",
+          "evidence": "祖庙从没有停止过建设、扩大、完善",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山人",
+          "target": "北帝",
+          "relation": "同族",
+          "evidence": "佛山人更多地称之为北帝",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山人",
+          "relation": "承载文化",
+          "evidence": "佛山庙宇众多宗教学型与民居型的古建筑比比皆是",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山人",
+          "relation": "属于时期",
+          "evidence": "祖庙从没有停止过建设、扩大、完善",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0125": {
+      "relations": [
+        {
+          "source": "佛山祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙与佛旅山游业 没到祖庙等于没来佛山",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "国家级非物质文化遗产",
+          "relation": "承载文化",
+          "evidence": "祖庙的古建筑群堪称是岭南古建筑的典范",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "佛山祖庙庙会",
+          "relation": "承载文化",
+          "evidence": "祖庙的古建筑群堪称是岭南古建筑的典范",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙庙会",
+          "target": "国家级非物质文化遗产",
+          "relation": "记载于",
+          "evidence": "祖庙庙会等项目入选国家级非物质文化遗产名录",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "佛山祖庙庙会",
+          "relation": "同类",
+          "evidence": "还有重大 的 祖 庙 祭礼活动 MeTaHA SARE 即佛山 祖 庙 庙 会 等",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "佛山祖庙庙会",
+          "relation": "传承于",
+          "evidence": "祖庙庙会等项目入选国家级非物质文化遗产名录",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0126": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "特别是改革开放以来位于珠江三角洲腹地的佛山",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "祖庙作为岭南文化和佛山名胜",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "祖庙更是人气兴旺。首先是民间信和仰的增强。",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0127": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "属于时期",
+          "evidence": "祖庙仍然是现代佛山的重要标志",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "位于",
+          "evidence": "祖庙仍然是现代佛山的重要标志",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "祖庙",
+          "target": "佛山",
+          "relation": "活动于",
+          "evidence": "祖庙依然是新时代的旅游胜地，吸引着大量的中外游客",
+          "confidence": 0.9,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0128": {
+      "relations": [
+        {
+          "source": "程建军",
+          "target": "佛山祖庙",
+          "relation": "著有",
+          "evidence": "程建军编著的《水三悄江祖庙》",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "肖海明",
+          "target": "佛山祖庙",
+          "relation": "著有",
+          "evidence": "肖海明著的《中与象枢征》",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "刘兆江",
+          "target": "佛山祖庙",
+          "relation": "著有",
+          "evidence": "刘兆江著的《广灰州塑》",
+          "confidence": 1.0,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "道光版《佛山忠义乡志》",
+          "target": "佛山祖庙",
+          "relation": "记载于",
+          "evidence": "道光版《佛山忠义乡志》",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0129": {
+      "relations": []
+    },
+    "chunk_0130": {
+      "relations": [
+        {
+          "source": "孙中山",
+          "target": "龙母祖庙",
+          "relation": "活动于",
+          "evidence": "龙母祖庙与龙母传说",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "梁启超",
+          "target": "龙母祖庙",
+          "relation": "活动于",
+          "evidence": "龙母祖庙与龙母传说",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "佛山秋色艺术",
+          "target": "龙母祖庙",
+          "relation": "承载文化",
+          "evidence": "龙母祖庙与龙母传说",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0131": {
+      "relations": [
+        {
+          "source": "曾牧野",
+          "target": "南海神庙",
+          "relation": "活动于",
+          "evidence": "话 说岭南 曾 牧 野",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "丘陶亮",
+          "target": "潮剧",
+          "relation": "关联人物",
+          "evidence": "潮 剧 陈历明 丘 陶 亮",
+          "confidence": 0.75,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0132": {
+      "relations": [
+        {
+          "source": "朱光",
+          "target": "九江",
+          "relation": "活动于",
+          "evidence": "九江 RAB 2005 4412",
+          "confidence": 0.8,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "黄花岗",
+          "target": "广州越秀古书院",
+          "relation": "承载文化",
+          "evidence": "黄花岗 卢洁峰 2006 年 1 月 1300",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "韩文公祠",
+          "target": "韩山书院",
+          "relation": "同类",
+          "evidence": "韩文公祠 与 韩山书院 RH 2006 年 3 月 1000",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        },
+        {
+          "source": "吴路人",
+          "target": "薛觉先",
+          "relation": "关联人物",
+          "evidence": "小说名家 吴路人 任百强 2006 年 4月 1000",
+          "confidence": 0.7,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0133": {
+      "relations": [
+        {
+          "source": "英石",
+          "target": "潮汕建筑石雕艺术",
+          "relation": "承载文化",
+          "evidence": "潮汕建筑 石雕 艺术",
+          "confidence": 0.85,
+          "source_file": "岭南文化知识书系_佛山祖庙"
+        }
+      ]
+    },
+    "chunk_0134": {
+      "relations": []
+    },
+    "chunk_0135": {
+      "relations": []
+    },
+    "chunk_0136": {
+      "relations": []
+    },
+    "chunk_0137": {
+      "relations": []
+    },
+    "chunk_0138": {
+      "relations": []
+    },
+    "chunk_0139": {
+      "relations": []
+    },
+    "chunk_0140": {
+      "relations": []
+    },
+    "chunk_0141": {
+      "relations": []
+    },
+    "chunk_0142": {
+      "relations": []
+    },
+    "chunk_0143": {
+      "relations": []
+    },
+    "chunk_0144": {
+      "relations": []
+    },
+    "chunk_0145": {
+      "relations": []
+    }
+  }
+}
