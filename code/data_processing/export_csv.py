@@ -15,23 +15,30 @@ OUT = os.path.join(_BASE_DIR, "output", "tables")
 
 
 def export_reviews():
-    """导出评论数据为CSV"""
-    with open(os.path.join(BASE, "reviews", "nanhai_reviews_real.json"), "r", encoding="utf-8") as f:
+    """导出评论数据为CSV（高德/携程爬虫结果，部分仅为评分无正文）"""
+    path_json = os.path.join(BASE, "reviews", "nanhai_reviews_real.json")
+    if not os.path.exists(path_json):
+        print("nanhai_reviews_real.json 不存在，跳过")
+        return
+    with open(path_json, "r", encoding="utf-8") as f:
         data = json.load(f)
-
-    rows = data["reviews"]
+    rows = data.get("reviews", [])
     path = os.path.join(BASE, "reviews", "nanhai_reviews_real.csv")
     fields = ["spot_name", "rating", "review_text", "review_date", "source", "sentiment"]
     with open(path, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
-    print(f"评论CSV: {path} ({len(rows)}条)")
+    print(f"评论CSV(高德/携程): {path} ({len(rows)}条)")
 
 
 def export_review_summary():
     """导出评论汇总为CSV"""
-    with open(os.path.join(BASE, "reviews", "review_summary_real.json"), "r", encoding="utf-8") as f:
+    path_json = os.path.join(BASE, "reviews", "review_summary_real.json")
+    if not os.path.exists(path_json):
+        print("评论汇总JSON不存在，跳过")
+        return
+    with open(path_json, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     path = os.path.join(BASE, "reviews", "review_summary_real.csv")
@@ -41,27 +48,133 @@ def export_review_summary():
         w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         for row in data:
-            row["sources"] = ";".join(row.get("sources", []))
+            row["sources"] = ";".join(row.get("sources", []) if isinstance(row.get("sources"), list) else [])
             w.writerow(row)
     print(f"评论汇总CSV: {path} ({len(data)}条)")
 
 
+def export_reviews_detail():
+    """导出具体评论文本（来自辅助数据 携程/去哪儿/马蜂窝 xlsx 解析结果）"""
+    path_json = os.path.join(BASE, "reviews", "merged_reviews_supp.json")
+    if not os.path.exists(path_json):
+        print("辅助数据评论 merged_reviews_supp.json 不存在，跳过评论明细表")
+        return
+    with open(path_json, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    rows = data.get("reviews", [])
+    path = os.path.join(OUT, "reviews_detail.csv")
+    os.makedirs(OUT, exist_ok=True)
+    fields = ["platform", "spot_name", "user", "text", "time", "source_note"]
+    with open(path, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        for r in rows:
+            w.writerow({k: (r.get(k) or "") for k in fields})
+    print(f"评论明细表(具体评论): {path} ({len(rows)}条)")
+
+
+def build_and_export_review_summary_merged():
+    """合并 高德/携程(review_summary_real) 与 辅助数据(携程/去哪儿/马蜂窝 merged_reviews_supp)，导出统一汇总表"""
+    from collections import defaultdict
+    merged = {}
+    path_real = os.path.join(BASE, "reviews", "review_summary_real.json")
+    if os.path.exists(path_real):
+        with open(path_real, "r", encoding="utf-8") as f:
+            for r in json.load(f):
+                name = (r.get("name") or "").strip()
+                if not name:
+                    continue
+                merged[name] = {
+                    "name": name,
+                    "total_count": r.get("total_count", 0),
+                    "text_review_count": r.get("text_review_count", 0),
+                    "avg_rating": r.get("avg_rating"),
+                    "positive_count": r.get("positive_count"),
+                    "neutral_count": r.get("neutral_count"),
+                    "negative_count": r.get("negative_count"),
+                    "positive_rate": r.get("positive_rate"),
+                    "sources": list(r.get("sources") or []) if isinstance(r.get("sources"), list) else [str(r.get("sources", ""))],
+                }
+    path_supp = os.path.join(BASE, "reviews", "merged_reviews_supp.json")
+    if os.path.exists(path_supp):
+        with open(path_supp, "r", encoding="utf-8") as f:
+            supp = json.load(f)
+        by_spot = defaultdict(list)
+        for r in supp.get("reviews", []):
+            spot = (r.get("spot_name") or "").strip()
+            if spot:
+                by_spot[spot].append(r.get("platform", ""))
+        for spot, platforms in by_spot.items():
+            sources_set = set(merged[spot].get("sources", [])) if spot in merged else set()
+            for p in platforms:
+                if p:
+                    sources_set.add(p)
+            count_supp = len(by_spot[spot])
+            if spot in merged:
+                merged[spot]["total_count"] = merged[spot].get("total_count", 0) + count_supp
+                merged[spot]["text_review_count"] = merged[spot].get("text_review_count", 0) + count_supp
+                merged[spot]["sources"] = list(sources_set)
+            else:
+                merged[spot] = {
+                    "name": spot,
+                    "total_count": count_supp,
+                    "text_review_count": count_supp,
+                    "avg_rating": None,
+                    "positive_count": None,
+                    "neutral_count": None,
+                    "negative_count": None,
+                    "positive_rate": None,
+                    "sources": list(sources_set),
+                }
+    out_path = os.path.join(BASE, "reviews", "review_summary_merged.json")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(list(merged.values()), f, ensure_ascii=False, indent=2)
+    path_csv = os.path.join(OUT, "review_summary_merged.csv")
+    os.makedirs(OUT, exist_ok=True)
+    fields = ["name", "total_count", "text_review_count", "avg_rating",
+              "positive_count", "neutral_count", "negative_count", "positive_rate", "sources"]
+    with open(path_csv, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        for row in merged.values():
+            row["sources"] = ";".join(row.get("sources", []))
+            w.writerow(row)
+    print(f"评论汇总(合并多平台): {path_csv} ({len(merged)}个景点，含高德/携程/去哪儿/马蜂窝)")
+
+
 def export_poi():
-    """导出清洗后POI为CSV"""
+    """导出清洗后POI为CSV（同时写 data/poi 与 output/tables，便于论文引用）"""
     with open(os.path.join(BASE, "database", "poi_cleaned.json"), "r", encoding="utf-8") as f:
         data = json.load(f)
 
     rows = data["pois"]
-    path = os.path.join(BASE, "poi", "nanhai_poi_real.csv")
     fields = ["id", "name", "category", "original_type", "address", "town",
-              "lng", "lat", "rating", "has_nonheritage", "nonheritage_match", "query_type"]
-    with open(path, "w", encoding="utf-8-sig", newline="") as f:
+              "lng", "lat", "rating", "source", "has_nonheritage", "has_cultural_anchor",
+              "nonheritage_match", "cultural_anchors", "query_type"]
+
+    def row_to_csv(r):
+        out = dict(r)
+        out["nonheritage_match"] = ";".join(r.get("nonheritage_match") or [])
+        out["cultural_anchors"] = ";".join(r.get("cultural_anchors") or [])
+        return out
+
+    path_poi = os.path.join(BASE, "poi", "nanhai_poi_real.csv")
+    os.makedirs(os.path.dirname(path_poi), exist_ok=True)
+    with open(path_poi, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         for row in rows:
-            row["nonheritage_match"] = ";".join(row.get("nonheritage_match", []))
-            w.writerow(row)
-    print(f"POI CSV: {path} ({len(rows)}条)")
+            w.writerow(row_to_csv(row))
+    print(f"POI CSV: {path_poi} ({len(rows)}条)")
+
+    path_table = os.path.join(OUT, "poi_cleaned.csv")
+    os.makedirs(OUT, exist_ok=True)
+    with open(path_table, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        for row in rows:
+            w.writerow(row_to_csv(row))
+    print(f"POI 表格(最终): {path_table} ({len(rows)}条)")
 
 
 def export_entities():
@@ -177,6 +290,8 @@ if __name__ == "__main__":
     export_reviews()
     export_review_summary()
     export_poi()
+    export_reviews_detail()
+    build_and_export_review_summary_merged()
     export_entities()
     export_experience()
     export_coupling()
