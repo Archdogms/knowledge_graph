@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-一键构建 Neo4j 图数据库：清库 → 导节点 → 导边 → 加类型标签 → 设颜色属性。
+一键构建 Neo4j 图数据库：清库 → 导节点 → 加类型标签 → 导边 → 移除通用标签，让 Neo4j Browser 自动按类型分色。
 """
 
 import os
@@ -18,15 +18,27 @@ DATABASE = "culturegraph"
 
 TYPE_COLORS = {
     "人物": "#4A90D9",
+    "宗族姓氏": "#9013FE",
+    "地名空间": "#7ED787",
     "地名": "#7ED787",
+    "文物建筑": "#F5A623",
+    "文物遗址": "#FF8C42",
     "建筑遗迹": "#F5A623",
+    "典籍文献": "#BD10E0",
     "典籍作品": "#BD10E0",
+    "非遗项目": "#D0021B",
     "非遗技艺": "#D0021B",
+    "民俗礼仪": "#FF5C8A",
     "朝代年号": "#50E3C2",
     "历史事件": "#B8E986",
     "物产饮食": "#F8E71C",
-    "宗族姓氏": "#9013FE",
+    "其他": "#A5ABB6",
 }
+
+
+def normalize_type(raw_type):
+    typ = (raw_type or "").strip()
+    return typ if typ in TYPE_COLORS else "其他"
 
 
 def main():
@@ -57,13 +69,13 @@ def main():
     driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
 
     # ═══ 1. 清库 ═══
-    print("\n[1/5] 清空数据库...")
+    print("\n[1/6] 清空数据库...")
     with driver.session(database=DATABASE) as s:
         s.run("MATCH (n) DETACH DELETE n")
     print("  已清空。")
 
     # ═══ 2. 创建约束 ═══
-    print("[2/5] 创建唯一约束...")
+    print("[2/6] 创建唯一约束...")
     with driver.session(database=DATABASE) as s:
         try:
             s.run("CREATE CONSTRAINT entity_name IF NOT EXISTS FOR (n:Entity) REQUIRE n.name IS UNIQUE")
@@ -72,7 +84,7 @@ def main():
             print(f"  约束创建跳过: {e}")
 
     # ═══ 3. 导入节点（批量） ═══
-    print("[3/5] 导入节点...")
+    print("[3/6] 导入节点...")
     batch_size = 500
     total_nodes = 0
     with driver.session(database=DATABASE) as s:
@@ -80,14 +92,15 @@ def main():
             batch = entities[i : i + batch_size]
             params = []
             for e in batch:
+                entity_type = normalize_type(e.get("type"))
                 params.append({
                     "name": (e.get("name") or "").strip(),
-                    "type": (e.get("type") or "").strip(),
+                    "type": entity_type,
                     "description": (e.get("description") or "").strip(),
                     "confidence": float(e.get("confidence", 0)),
                     "mentions": int(e.get("mentions", 0)),
                     "is_anchor": bool(e.get("is_anchor", False)),
-                    "color": TYPE_COLORS.get((e.get("type") or "").strip(), "#A5ABB6"),
+                    "color": TYPE_COLORS[entity_type],
                 })
             s.run(
                 """
@@ -107,7 +120,7 @@ def main():
     print(f"  节点导入完成: {total_nodes} 个。")
 
     # ═══ 4. 给节点加类型标签（人物、地名 等）═══
-    print("[4/5] 给节点添加类型标签（用于颜色区分）...")
+    print("[4/6] 给节点添加类型标签（用于颜色区分）...")
     with driver.session(database=DATABASE) as s:
         for typ in TYPE_COLORS:
             result = s.run(
@@ -119,7 +132,7 @@ def main():
     print("  类型标签添加完成。")
 
     # ═══ 5. 导入关系（批量） ═══
-    print("[5/5] 导入关系...")
+    print("[5/6] 导入关系...")
     total_edges = 0
     skipped = 0
     with driver.session(database=DATABASE) as s:
@@ -156,12 +169,18 @@ def main():
                 print(f"  关系: {total_edges} 条（跳过 {skipped}）")
     print(f"  关系导入完成: {total_edges} 条，跳过 {skipped} 条。")
 
+    # ═══ 6. 移除通用 Entity 标签，让 Browser 按类型自动分色 ═══
+    print("[6/6] 移除通用 Entity 标签...")
+    with driver.session(database=DATABASE) as s:
+        removed = s.run("MATCH (n:Entity) REMOVE n:Entity RETURN count(n) AS cnt").single()["cnt"]
+    print(f"  已处理 {removed} 个节点。")
+
     # ═══ 最终统计 ═══
     print("\n═══ 验证 ═══")
     with driver.session(database=DATABASE) as s:
-        node_count = s.run("MATCH (n:Entity) RETURN count(n) AS c").single()["c"]
+        node_count = s.run("MATCH (n) RETURN count(n) AS c").single()["c"]
         edge_count = s.run("MATCH ()-[r:REL]->() RETURN count(r) AS c").single()["c"]
-        type_dist = s.run("MATCH (n:Entity) RETURN n.type AS t, count(n) AS c ORDER BY c DESC").data()
+        type_dist = s.run("MATCH (n) RETURN n.type AS t, count(n) AS c ORDER BY c DESC").data()
         rel_dist = s.run("MATCH ()-[r:REL]->() RETURN r.rel_type AS t, count(r) AS c ORDER BY c DESC").data()
 
     print(f"节点总数: {node_count}")
@@ -177,7 +196,7 @@ def main():
     driver.close()
     print("\n构建完成！")
     print("在 Neo4j 客户端中查看图：")
-    print("  MATCH (n:Entity)-[r:REL]->(m) RETURN n,r,m LIMIT 300")
+    print("  MATCH (n)-[r:REL]->(m) RETURN n,r,m LIMIT 300")
 
 
 if __name__ == "__main__":
