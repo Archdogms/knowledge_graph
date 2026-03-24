@@ -201,7 +201,23 @@ def main():
 
       if (typeof vis !== "undefined" && relationsSample.length) {
         try {
-          var typeColor = { "人物": "#4A90D9", "地名": "#7ED787", "建筑遗迹": "#F5A623", "典籍作品": "#BD10E0", "非遗技艺": "#D0021B", "朝代年号": "#50E3C2", "历史事件": "#B8E986", "物产饮食": "#F8E71C", "宗族姓氏": "#9013FE" };
+          var typeColor = {
+            "人物": "#4A90D9",
+            "宗族姓氏": "#9013FE",
+            "地名空间": "#7ED787",
+            "地名": "#7ED787",
+            "文物建筑": "#F5A623",
+            "文物遗址": "#FF8C42",
+            "建筑遗迹": "#F5A623",
+            "典籍文献": "#BD10E0",
+            "典籍作品": "#BD10E0",
+            "非遗项目": "#D0021B",
+            "非遗技艺": "#D0021B",
+            "民俗礼仪": "#FF5C8A",
+            "朝代年号": "#50E3C2",
+            "历史事件": "#B8E986",
+            "物产饮食": "#F8E71C"
+          };
           var nameSet = {};
           relationsSample.forEach(function(r) { nameSet[r.source] = 1; nameSet[r.target] = 1; });
           var nameList = Object.keys(nameSet);
