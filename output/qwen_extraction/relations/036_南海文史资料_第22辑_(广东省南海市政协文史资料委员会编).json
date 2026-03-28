@@ -1,0 +1,5094 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "南海文史资料",
+          "target": "龙舟竞渡",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "目录 南海龙斩波劈浪，勇往直前",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "康有为",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "关于康有为先生的一组史料",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "万木草堂",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "万木草堂的团结友爱的师生关系",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "孔子改制考",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "康有为著《孔子改制考》的方法",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "梁启超",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "试论康有为梁启超的文风",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "康广仁",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "康广仁被捕遇难之经过",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "李卓峰",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "关于李卓峰先生生平的一组材料",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "官山",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "官山今昔",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "新加坡南顺会馆",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "历史悠久的新加坡南顺会馆",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "星洲西樵同乡互助会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "李右泉",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "乐善好施的李右泉先生",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有为著《孔子改制考》的方法",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "讲学于",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂的团结友爱的师生关系",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "龙舟竞渡",
+          "target": "珠江",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "龙舟鼓响，珠江沸腾……南海人划龙舟竞渡",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "中洲锣",
+          "target": "九江",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江的中洲锣，杉船太",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "杉船太",
+          "target": "九江",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江的中洲锣，杉船太",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "白鬓龙",
+          "target": "盐步",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "盐步的白鬓龙",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "龙母诞",
+          "target": "黄岐",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "黄岐的龙母诞赛龙",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "山顶划龙船",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵山顶划龙船",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "五人龙公开邀请赛",
+          "target": "南庄",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南庄堤田举办的五人龙公开邀请赛",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "五人龙埠际赛",
+          "target": "西樵镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵镇举办的五人龙埠际赛",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "端午龙舟表演",
+          "target": "桂城",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "桂城叠溶的端午龙舟表演",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "山顶赛龙舟",
+          "target": "西樵山",
+          "relation_text": "举办于",
+          "relation_group": "空间关联",
+          "evidence": "在南粤名山西樵山顶天湖上，还举行了搁置百年之久的山顶赛龙舟",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "天湖",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在南粤名山西樵山顶天湖上，还举行了搁置百年之久的山顶赛龙舟盛会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "区太杰",
+          "target": "天湖",
+          "relation_text": "作词赞美",
+          "relation_group": "人物关联",
+          "evidence": "南海诗人区太杰有词赞日：锣鼓冬冬，锦旗映翠，游龙戏弄天湖水",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙钦龙",
+          "target": "南海龙舟选拔赛",
+          "relation_text": "支持举办",
+          "relation_group": "人物关联",
+          "evidence": "在副县长孙钦龙、体委主任卢灿荣的支持下，南海龙舟选拔赛在秀丽的西樵山麓举行",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "卢灿荣",
+          "target": "南海龙舟选拔赛",
+          "relation_text": "支持举办",
+          "relation_group": "人物关联",
+          "evidence": "在副县长孙钦龙、体委主任卢灿荣的支持下，南海龙舟选拔赛在秀丽的西樵山麓举行",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟选拔赛",
+          "target": "西樵山",
+          "relation_text": "举办于",
+          "relation_group": "空间关联",
+          "evidence": "南海龙舟选拔赛在秀丽的西樵山麓举行",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "九江龙舟队",
+          "target": "南海龙舟选拔赛",
+          "relation_text": "夺得冠军",
+          "relation_group": "社群组织",
+          "evidence": "九江的两支龙舟队夺得大赛的冠军和季军",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "西樵龙舟队",
+          "target": "南海龙舟选拔赛",
+          "relation_text": "获得亚军",
+          "relation_group": "社群组织",
+          "evidence": "西樵队获得亚军",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "广东省首届丰收杯",
+          "relation_text": "勇夺亚军",
+          "relation_group": "社群组织",
+          "evidence": "年轻的南海龙舟队首次出征，角逐广东省首届丰收杯……勇夺亚军",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "国际龙舟邀请赛",
+          "relation_text": "夺得冠军",
+          "relation_group": "社群组织",
+          "evidence": "参加国际龙舟邀请赛……终于力压群雄，扬威濠江，夺得冠军奖杯",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "濠江",
+          "relation_text": "扬威于",
+          "relation_group": "空间关联",
+          "evidence": "终于力压群雄，扬威濠江，夺得冠军奖杯",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "南海龙舟",
+          "target": "屈原杯舟龙赛",
+          "relation_text": "夺得锦标",
+          "relation_group": "社群组织",
+          "evidence": "南海龙舟队先后夺得六百米、一干米两个赛项的锦标",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟",
+          "target": "澳门国际龙舟邀请赛",
+          "relation_text": "勇夺四连冠",
+          "relation_group": "社群组织",
+          "evidence": "曾勇夺澳门国际龙舟邀请赛四连冠",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟",
+          "target": "庐山 3 杯国际邀请赛",
+          "relation_text": "获得冠军",
+          "relation_group": "社群组织",
+          "evidence": "庐山 3 杯国际邀请赛冠军",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟",
+          "target": "澳大利亚国际龙舟赛",
+          "relation_text": "获得季军",
+          "relation_group": "社群组织",
+          "evidence": "澳大利亚国际龙舟赛季军",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟",
+          "target": "北京九龙杯国际龙舟赛",
+          "relation_text": "荣获冠军",
+          "relation_group": "社群组织",
+          "evidence": "参加北京九龙杯国际龙舟赛，又荣获六百米，八百米赛程的两项冠军",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "林浩坤",
+          "target": "南海龙舟",
+          "relation_text": "决策参赛",
+          "relation_group": "人物关联",
+          "evidence": "市长林浩坤亲自作出南海龙舟队参加国际、国内赛事的决策",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李景溜",
+          "target": "南海龙舟",
+          "relation_text": "率队参赛",
+          "relation_group": "人物关联",
+          "evidence": "市委书记李景溜...并亲自率领队伍赴江西省九江市参加全国赛和国际赛",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙钦龙",
+          "target": "南海龙舟",
+          "relation_text": "担任团长",
+          "relation_group": "人物关联",
+          "evidence": "副市（县）长孙钦龙...先后担任南海龙舟代表团团长",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张义联",
+          "target": "南海龙舟",
+          "relation_text": "担任团长",
+          "relation_group": "人物关联",
+          "evidence": "副市（县）长...张义联先后担任南海龙舟代表团团长",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张义联",
+          "target": "南海龙舟",
+          "relation_text": "联络筹备",
+          "relation_group": "人物关联",
+          "evidence": "张义联和海外联谊会会长卢耀显多次到港联络乡亲，作好参赛的准备事项",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "卢耀显",
+          "target": "南海龙舟",
+          "relation_text": "联络筹备",
+          "relation_group": "人物关联",
+          "evidence": "张义联和海外联谊会会长卢耀显多次到港联络乡亲，作好参赛的准备事项",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "关亨时",
+          "target": "南海龙舟",
+          "relation_text": "组建接待",
+          "relation_group": "人物关联",
+          "evidence": "以旅港南海商会理事长关亨时先生...为首的南海乡亲，成立了南海龙舟队莅港参赛旅港乡亲接待委员会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "郭铭均",
+          "target": "南海龙舟",
+          "relation_text": "组建接待",
+          "relation_group": "人物关联",
+          "evidence": "旅港夏教同乡会会长郭铭均先生...为首的南海乡亲，成立了南海龙舟队莅港参赛旅港乡亲接待委员会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "潘以和",
+          "target": "南海龙舟",
+          "relation_text": "组建接待",
+          "relation_group": "人物关联",
+          "evidence": "香港佛山工商联会长潘以和先生...为首的南海乡亲，成立了南海龙舟队莅港参赛旅港乡亲接待委员会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李毓宏",
+          "target": "南海龙舟",
+          "relation_text": "组建接待",
+          "relation_group": "人物关联",
+          "evidence": "香港体育界知名人士李毓宏先生为首的南海乡亲，成立了南海龙舟队莅港参赛旅港乡亲接待委员会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李景溜",
+          "target": "九江镇",
+          "relation_text": "率队赴",
+          "relation_group": "人物关联",
+          "evidence": "亲自率领队伍赴江西省九江市参加全国赛和国际赛",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "关润雄",
+          "target": "南海龙舟队",
+          "relation_text": "执教",
+          "relation_group": "人物关联",
+          "evidence": "教练员关润雄身先士卒，大胆创新",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙钦龙",
+          "target": "南海龙舟队",
+          "relation_text": "担任领队",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队领队及核心队员",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "莫崇超",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "卢灿荣",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "董日初",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈应炽",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张义联",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "单学忠",
+          "target": "南海龙舟队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "南海市男子龙舟队队员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "第四届澳门国际收杯龙舟赛",
+          "relation_text": "参赛",
+          "relation_group": "社群组织",
+          "evidence": "1984 年 9 月 16 日在广东顺德举行的国际性龙舟竞赛活动，南海龙舟队参赛",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "澳门市政杯公开收杯龙舟赛",
+          "relation_text": "参赛",
+          "relation_group": "社群组织",
+          "evidence": "1985 年在澳门举行的公开龙舟赛事，南海龙舟队获得名次",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "第五届澳门国际杯龙舟赛",
+          "relation_text": "参赛",
+          "relation_group": "社群组织",
+          "evidence": "1985 年 7 月在湖北举行的国际龙舟赛事",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海龙舟队",
+          "target": "第六届澳门国际龙舟赛",
+          "relation_text": "参赛",
+          "relation_group": "社群组织",
+          "evidence": "1986 年至 1987 年间在澳门举行的国际龙舟赛事",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《南海龙》",
+          "target": "南海龙舟队",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "记录南海龙舟历史与精神的文集资料",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《南海市龙舟逐浪集》",
+          "target": "南海龙舟队",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "收录南海市龙舟队比赛情况及相关资料的文集",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "关润雄",
+          "target": "龙舟邀请赛",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "关润雄...团长丨领队教练...澳门混合杯龙舟...国际龙舟邀请赛",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "卢灿荣",
+          "target": "龙舟邀请赛",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "卢灿荣...领队教练...全国屈原...国际龙舟邀请赛",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙钦龙",
+          "target": "龙舟邀请赛",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "孙钦龙...1980 年代龙舟竞赛活动...全国屈原",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张义联",
+          "target": "龙舟邀请赛",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "张义联...龙舟队成员或教练...活跃于多项龙舟邀请赛",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李洁平",
+          "target": "官山地区",
+          "relation_text": "记述",
+          "relation_group": "文献记载",
+          "evidence": "李洁平同志的文章则比较系统地阐述了...抗战初期南海官山地区的女学生运动",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李洁平",
+          "target": "南海县",
+          "relation_text": "记述",
+          "relation_group": "文献记载",
+          "evidence": "李洁平...阐述了在抗日战争期间的南海妇运史...南海县境内",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "七七芦沟桥事变",
+          "target": "南海县",
+          "relation_text": "引发活动于",
+          "relation_group": "时序归属",
+          "evidence": "七七芦沟桥事变后，女共产党员...先后在南海县境内...开展抗日救亡活动",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "显纲村",
+          "target": "松岗镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "1937 年 8 月，松岗镇显纲村小学聘来一位女教师黎曼欢",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "锋社话剧团",
+          "target": "显纲村",
+          "relation_text": "受邀演出",
+          "relation_group": "社群组织",
+          "evidence": "还邀请了广州有名的锋社话剧团到显纲演出",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山",
+          "target": "西樵",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "迁到西樵官山和简村、吉水等地上课",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "简村",
+          "target": "西樵",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "迁到西樵官山和简村、吉水等地上课",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "吉水",
+          "target": "西樵",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "迁到西樵官山和简村、吉水等地上课",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "救亡呼声社官山分社",
+          "target": "官山",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "同年十一月成立了救亡呼声社官山分社",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "郭沫若",
+          "target": "云瀛书院",
+          "relation_text": "演讲于",
+          "relation_group": "社群组织",
+          "evidence": "郭沫若应救亡呼声社宫山分社的邀请，到官山云瀛书院作题为《抗日必胜》的演讲",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "云瀛书院",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "到官山云瀛书院作题为《抗日必胜》的演讲",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "麦瑞芳",
+          "target": "官山青年合作社",
+          "relation_text": "创办于",
+          "relation_group": "人物关联",
+          "evidence": "广州进步女青年麦瑞芳、黄惠芹……在宫山圩办起一间官山青年合作社",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄惠芹",
+          "target": "官山青年合作社",
+          "relation_text": "创办于",
+          "relation_group": "人物关联",
+          "evidence": "广州进步女青年麦瑞芳、黄惠芹……在宫山圩办起一间官山青年合作社",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山青年合作社",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在宫山圩办起一间官山青年合作社",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁桃生",
+          "target": "简村",
+          "relation_text": "活动于",
+          "relation_group": "人物关联",
+          "evidence": "一些女骨干如梁桃生……分别在官山、简村发动和组织丝厂的女工",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张妙灵",
+          "target": "简村",
+          "relation_text": "活动于",
+          "relation_group": "人物关联",
+          "evidence": "一些女骨干如……张妙灵……分别在官山、简村发动和组织丝厂的女工",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "壮丁抗日自卫队",
+          "target": "官山圩",
+          "relation_text": "组建于",
+          "relation_group": "社群组织",
+          "evidence": "官山商民在抗先官山独立第一支队的配合下，组织了壮丁抗日自卫队",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "云瀛书院",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当地爱国人士及商会资助活动经费，在云瀛书院搭起舞台……官山圩的群众差不多每到周末",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "罗钊",
+          "target": "惠民医社",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "1941 年底由高柱天介绍罗钊与黄伯衮见面，随即挂起了惠民医社的招牌正式开业",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "高柱天",
+          "target": "惠民医社",
+          "relation_text": "介绍开设",
+          "relation_group": "营建创造",
+          "evidence": "由高柱天介绍罗钊与黄伯衮见面，随即挂起了惠民医社的招牌正式开业",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "中共西江特委",
+          "target": "惠民医社",
+          "relation_text": "设于",
+          "relation_group": "空间关联",
+          "evidence": "主要任务是掩护中共西江特委机关...巧妙地掩蔽着西江特委机关",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "龙世雄",
+          "target": "惠民医社",
+          "relation_text": "同住于",
+          "relation_group": "空间关联",
+          "evidence": "她和丈夫龙世雄（西江特委委员）...同住在医社",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯夫妇",
+          "target": "惠民医社",
+          "relation_text": "同住于",
+          "relation_group": "空间关联",
+          "evidence": "加上特委书记冯夫妇（认作龙世雄的舅父母）同住在医社",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "惠民医社",
+          "target": "小榄圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "初期在官窑小榄地区开设惠民医社",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "福昌茶居",
+          "target": "小榄圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时派往小榄圩开设福昌茶居作掩护",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "高柱天",
+          "target": "伪述安乡公所",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "打入伪述安乡公所任财务",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "高柱天",
+          "target": "福昌茶居",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "当时派往小榄圩开设福昌茶居作掩护的党员高柱天",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "惠民医社",
+          "target": "南三大队",
+          "relation_text": "负责医疗",
+          "relation_group": "社群组织",
+          "evidence": "后来负责南三大队的医疗站工作",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "戊戌维新运动",
+          "relation_text": "领导",
+          "relation_group": "人物关联",
+          "evidence": "是戊戌维新运动的主要领导人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "讲学于",
+          "relation_group": "人物关联",
+          "evidence": "《万木草堂的团结友爱的师生关系》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《康有为著《孔子改制考》的方法》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "延香老屋诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成《延香老屋诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "汗漫舫诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《汗漫舫诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "明夷阁诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《明夷阁诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "大庇阁诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《大庇阁诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "须弥雪亭诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《须弥雪亭诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "逍遥游斋诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《逍遥游斋诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "寥天室诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《寥天室诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "避岛诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《避岛诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "漪涟诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《漪涟诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "南兰堂诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《南兰堂诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "憩园诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《憩园诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "纳东海事诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《纳东海事诗集》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "美深院诗集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他生平的诗作分别辑成……《美深院",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南三日报",
+          "target": "南海日报",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "两县合并后仍称南海县，报纸名称恢复为《南海日报》",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《寥天室诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《避岛诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《漪涟诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《南兰堂诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《憩园诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《纳东海事诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《美深院诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《游存庐诗集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《寥天室诗集》、《避岛诗集》、《漪涟诗集》、 《南兰堂诗集》、《憩园诗集》、《纳东海事诗集》、《美深院 诗集》、《游存庐诗集》等共 15 集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "诗界革命",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "康有为与梁启超，黄遵宪、谭 嗣同、夏曾佑等人，在诗坛上掀起了诗界革命运动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "诗界革命",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "康有为与梁启超，黄遵宪、谭 嗣同、夏曾佑等人，在诗坛上掀起了诗界革命运动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄遵宪",
+          "target": "诗界革命",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "康有为与梁启超，黄遵宪、谭 嗣同、夏曾佑等人，在诗坛上掀起了诗界革命运动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "谭嗣同",
+          "target": "诗界革命",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "康有为与梁启超，黄遵宪、谭 嗣同、夏曾佑等人，在诗坛上掀起了诗界革命运动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "夏曾佑",
+          "target": "诗界革命",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "康有为与梁启超，黄遵宪、谭 嗣同、夏曾佑等人，在诗坛上掀起了诗界革命运动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "梁启超对其诗作给予很高的评价：南海先生不以诗名，然其诗固有非寻常作家所能及者",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "宣统元年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "1909 年（宣统元年），戊戌维新失败后，康有为漫游埃及……写了《与薇园论诗兼寄任公，孺博，曼宣》三首",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "黄遵宪",
+          "target": "诗界革命",
+          "relation_text": "推动",
+          "relation_group": "人物关联",
+          "evidence": "诗界革命的中坚人物黄遵宪",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "诗界革命",
+          "relation_text": "推动",
+          "relation_group": "人物关联",
+          "evidence": "晚清时期由黄遵宪、康有为等人推动的诗歌改良运动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄遵宪",
+          "target": "日本杂事诗",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "写成一卷《日本杂事诗》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "日本杂事诗",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "康有为立即给这本书作序",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄遵宪",
+          "target": "人境庐诗草",
+          "relation_text": "出版",
+          "relation_group": "人物关联",
+          "evidence": "黄遵宪又出版了《人境庐诗草》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "人境庐诗草",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "康有为又再次为诗集作序",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "人境庐诗草",
+          "relation_text": "赞称",
+          "relation_group": "人物关联",
+          "evidence": "梁启超赞称能熔铸新理想以入旧风格",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄遵宪",
+          "target": "戊戌维新变法",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "黄遵宪参与其中",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "清代学术概论",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "梁启超在《清代学术概论》中，总结清代的诗作情况时说",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "苦蚊行",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "先看看康有为在戊戌政变失败前的诗作：苦蚊行",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "诗界革命运动",
+          "relation_text": "指导",
+          "relation_group": "人物关联",
+          "evidence": "康有为不但在理论！指导了诗界革命运动",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "宣南",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "未能送达光绪帝之后，他居住于北京宣武门南边",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪帝",
+          "relation_text": "上书",
+          "relation_group": "人物关联",
+          "evidence": "康有为第一次上书，提出变成法、通下情、慎左右三条变法纲领，为顽固派所阻，未能送达光绪帝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "清代学术概论",
+          "target": "黄遵宪",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "直至末叶，始有金和、黄遵宪、康有为，元气淋漓，卓然称大家",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "清代学术概论",
+          "target": "康有为",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "直至末叶，始有金和、黄遵宪、康有为，元气淋漓，卓然称大家",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "苦蚊行",
+          "target": "百日维新",
+          "relation_text": "作于之前",
+          "relation_group": "时序归属",
+          "evidence": "先看看康有为在戊戌政变失败前的诗作：苦蚊行...1889 年夏",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "百日维新",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "百日维新以前的诗作斗争性比较顽强，而百日维新失败后的诗作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation_text": "隐居于",
+          "relation_group": "空间关联",
+          "evidence": "当时康有为正隐居西樵山",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "西江",
+          "relation_text": "沿游",
+          "relation_group": "空间关联",
+          "evidence": "在梧州沿西江而下，游览了三水县城",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁星海",
+          "target": "李鸿章",
+          "relation_text": "弹劾",
+          "relation_group": "人物关联",
+          "evidence": "因上疏弹劾李鸿章丧权卖国而被免官",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "梁星海",
+          "relation_text": "赠诗勉励",
+          "relation_group": "人物关联",
+          "evidence": "并写诗给梁，表示自己对国事的关心……并勉励梁星海不要丧失斗志",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "慈禧太后",
+          "target": "光绪皇帝",
+          "relation_text": "镇压致害",
+          "relation_group": "人物关联",
+          "evidence": "痛恨慈禧太后失德，镇压维新运动，使光绪皇帝受害",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "胶州湾",
+          "relation_text": "作诗叹",
+          "relation_group": "人物关联",
+          "evidence": "康有为回忆起前一年为德国强占胶州湾事件……山河残破成何事",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "诗界革命",
+          "relation_text": "领导",
+          "relation_group": "人物关联",
+          "evidence": "康有为在清末颜废的诗风中，他异军突起，领导了诗界革命运动",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "康有为积极开办学堂，进行讲学，以宣传维新变法思想",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪帝",
+          "relation_text": "推动变法",
+          "relation_group": "人物关联",
+          "evidence": "康有为回忆起前一年为德国强占胶州湾事件，一再上书，促使光绪帝实行变法",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "梁启超说：先生以为欲任天下之事，开中国之新世界，莫函于教育",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "杨漪川",
+          "target": "刚毅",
+          "relation_text": "被监斩",
+          "relation_group": "人物关联",
+          "evidence": "六君子殉难时的监斩官刚毅至杨漪川原籍闻喜县",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "胶州湾事件",
+          "target": "公车上书",
+          "relation_text": "引发",
+          "relation_group": "时序归属",
+          "evidence": "康有为回忆起前一年为德国强占胶州湾事件，一再上书",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "康有为",
+          "relation_text": "培养人才",
+          "relation_group": "社群组织",
+          "evidence": "康有为积极开办学堂...培养维新变法人才",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云衢书屋",
+          "relation_text": "居住并教学",
+          "relation_group": "人物关联",
+          "evidence": "1890 年春，康有为与家人一起，迁往广州，住在布政司前惠爱街的云衢书屋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "长兴学舍",
+          "relation_text": "设立",
+          "relation_group": "人物关联",
+          "evidence": "1891 年，他在广州租赁长兴里邱氏书屋，开始设立学堂，讲学授徒。这就是长兴学舍",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "邝氏祠",
+          "relation_text": "移讲堂于",
+          "relation_group": "人物关联",
+          "evidence": "因为来学的人不断增加，他于 1892 年移讲堂于广州卫边街邝氏祠",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "仰高祠",
+          "relation_text": "迁草堂于",
+          "relation_group": "人物关联",
+          "evidence": "1893 年冬迁草堂于府学宫仰高祠",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "题匾命名",
+          "relation_group": "人物关联",
+          "evidence": "在堂上安装一个匾额，上面题着万木草堂四个大字",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张伯桢",
+          "target": "万木草堂",
+          "relation_text": "记述规模",
+          "relation_group": "人物关联",
+          "evidence": "据他的学生张伯桢说：各省学子，于里负笈，闻风相从，前后达三千人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "梁启超说：先生不徒有教育家之精神而已，又备教育家之资格",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "维新变法",
+          "relation_text": "宣传思想",
+          "relation_group": "人物关联",
+          "evidence": "进行讲学，以宣传维新变法思想、理论，培养维新变法人 才",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "康有为创办并讲学之地",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "梁启超记述当时的情景说……先生为之批评焉",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陆乃翔",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "万木草堂的学生陆乃翔回忆当时的情况说……雨先生乃折衷之",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "札记簿",
+          "relation_text": "规定设置",
+          "relation_group": "人物关联",
+          "evidence": "他规定每个学生都设置一个札记簿（又叫做功课簿）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "蓄德录",
+          "relation_text": "设置",
+          "relation_group": "社群组织",
+          "evidence": "万木草堂设置一本《蓄德录》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "清代",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "康有为办学及万木草堂教学活动所处的历史时期",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂创办者，康有为讲学之地",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "蓄德录",
+          "relation_text": "要求撰写",
+          "relation_group": "人物关联",
+          "evidence": "康有为要求学生撰写的读书札记《蓄德录》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张伯祯",
+          "target": "万木草堂",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂学生张伯祯",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陆乃翔",
+          "target": "万木草堂",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂的学生陆乃翔",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "万木草堂",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂杰出学生梁启超",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "张伯祯",
+          "relation_text": "教导",
+          "relation_group": "传承延续",
+          "evidence": "康有为对学生的关心和爱护...他的学生张伯祯说",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "陆乃翔",
+          "relation_text": "教导",
+          "relation_group": "传承延续",
+          "evidence": "弟子之从学也...万木草堂的学生陆乃翔",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "梁启超",
+          "relation_text": "教导",
+          "relation_group": "传承延续",
+          "evidence": "吾济初侍先生于长兴也...梁启超回忆",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂创办者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐勤",
+          "target": "万木草堂",
+          "relation_text": "求学于",
+          "relation_group": "人物关联",
+          "evidence": "万木草堂学生",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "万木草堂",
+          "relation_text": "求学于",
+          "relation_group": "人物关联",
+          "evidence": "在万木草堂读书",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐勤",
+          "target": "万木草堂",
+          "relation_text": "捐资迁移",
+          "relation_group": "营建创造",
+          "evidence": "捐资帮助万木草堂刻书和迁移",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有为著《孔子改制考》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "南海先生七十寿言",
+          "relation_text": "撰作",
+          "relation_group": "人物关联",
+          "evidence": "梁启超为康有为七十寿辰所作的文章",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "云衢书屋",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "康有为携带家人迁往广州，居于布政司前惠爱街的云衢书屋",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "云衢书屋",
+          "relation_text": "迁居于",
+          "relation_group": "空间关联",
+          "evidence": "1890 年春，康有为携带家人迁往广州，居于布政司前惠爱街的云衢书屋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "云衢书屋",
+          "target": "康式鹏",
+          "relation_text": "原属于",
+          "relation_group": "从属分类",
+          "evidence": "此为他的曾祖父康式鹏（字云衢）的老屋",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈千秋",
+          "target": "康有为",
+          "relation_text": "拜为师",
+          "relation_group": "传承延续",
+          "evidence": "同年，陈千秋，梁启超先后前来拜康有为为师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "拜为师",
+          "relation_group": "传承延续",
+          "evidence": "同年，陈千秋，梁启超先后前来拜康有为为师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "1891 年康有为在广州创办万本草堂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《孔子改制考》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他从 1891 年开始，著《孔子改制考》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "光绪十七年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "1891 年康有为在广州创办万本草堂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《孔子改制考》",
+          "target": "光绪十七年",
+          "relation_text": "始撰于",
+          "relation_group": "时序归属",
+          "evidence": "他从 1891 年开始，著《孔子改制考》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "主修",
+          "relation_group": "人物关联",
+          "evidence": "康有为首先为《孔子改制考》一书制定主旨，提出这本书的纲要",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈千秋",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "曹泰",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "韩文举",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁朝杰",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "林奎",
+          "target": "孔子改制考",
+          "relation_text": "协助编筹",
+          "relation_group": "人物关联",
+          "evidence": "挑选一些高才生陈于秋、梁启超、曹泰、韩文举、梁朝杰、林奎等协助编筹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "讲学于",
+          "relation_group": "人物关联",
+          "evidence": "他发动万木草堂的学生搜集这些历史资料",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔子改制考",
+          "target": "清代",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "终于写成《孔子改制考》，在 1898 年初在上海刊行",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "康有为可以节省不少时间，而且使学生对他的著作有更全面、更深入的理解",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "谭嗣同",
+          "target": "康有为",
+          "relation_text": "盛赞",
+          "relation_group": "人物关联",
+          "evidence": "谭嗣同说：南海先生传孔门不传之正学，阐五洲大同之公理",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张之洞",
+          "target": "劝学篇",
+          "relation_text": "撰写",
+          "relation_group": "营建创造",
+          "evidence": "洋务派官僚张之洞专门写了《劝学篇》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "苏舆",
+          "target": "翼教丛编",
+          "relation_text": "编辑",
+          "relation_group": "营建创造",
+          "evidence": "顽固派苏舆编辑《翼教丛编》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈宝箴",
+          "target": "孔子改制考",
+          "relation_text": "指责",
+          "relation_group": "人物关联",
+          "evidence": "湖南巡抚陈宝上折，指责康有为撰写《孔子改制考》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙家鼎",
+          "target": "孔子改制考",
+          "relation_text": "攻击",
+          "relation_group": "人物关联",
+          "evidence": "协办人学士管学大臣孙家鼎上折攻击康有为作《孔子改制考》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有为的《孔子改制考》对于当时处在顽固保守的封建专制统治下的知识分子产生了很大的震动",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "领导",
+          "relation_group": "人物关联",
+          "evidence": "它是康有为领导变法维新运动的理论根据",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔子改制考",
+          "target": "戊戌变法",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "《孔子改制考》对宣传维新思想、开展变法维新运动曾起了重要作用",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔子改制考",
+          "target": "清代",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "《孔子改制考》刊行不久，即遭到清政府下令毁版",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "孔子改制考",
+          "relation_text": "重刊",
+          "relation_group": "营建创造",
+          "evidence": "1920 年，又以万木草堂名义在北京重刊",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "中华书局",
+          "target": "孔子改制考",
+          "relation_text": "出版",
+          "relation_group": "营建创造",
+          "evidence": "中华书局在 1958 年 9 月重新出版《孔子改制考》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "戊戌政变",
+          "relation_text": "领导",
+          "relation_group": "人物关联",
+          "evidence": "是众所周知的六十年前戊戌政变的领导者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔子改制考",
+          "target": "戊戌政变",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "对于了解戊戌政变前后学术界的变动情况...本书有重要的参改价值",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈千秋",
+          "target": "新学伪经考",
+          "relation_text": "协助编写",
+          "relation_group": "营建创造",
+          "evidence": "陈千秋协助康有为编写《新学伪经考》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "新学伪经考",
+          "relation_text": "校勘",
+          "relation_group": "营建创造",
+          "evidence": "梁启超担任校勘工作",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "新学伪经考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他与陈干秋、梁启超和一些学生合作，编写《新学伪经考》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "苏舆",
+          "target": "翼教丛编",
+          "relation_text": "编纂",
+          "relation_group": "人物关联",
+          "evidence": "苏舆编纂的文集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation_text": "师事",
+          "relation_group": "传承延续",
+          "evidence": "他青年时代曾师事著名学者朱次琦",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《四书》",
+          "relation_text": "熟读",
+          "relation_group": "人物关联",
+          "evidence": "从小就接受严格的封建正统教育，熟读《四书》、《五经》等儒家典籍",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《五经》",
+          "relation_text": "熟读",
+          "relation_group": "人物关联",
+          "evidence": "从小就接受严格的封建正统教育，熟读《四书》、《五经》等儒家典籍",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《广艺舟双辑序》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "这类型的文章，可以《广艺舟双辑序》，《礼运注序》等为代表",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《礼运注序》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "这类型的文章，可以《广艺舟双辑序》，《礼运注序》等为代表",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "桐城派",
+          "relation_text": "诵习",
+          "relation_group": "人物关联",
+          "evidence": "梁启超少年时曾诵习桐城派的古文",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《清代学术概论》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "梁启超：《清代学术概论》，原共学社史学丛书",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《饮冰室文集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "但在《饮冰室文集》中，这类矜炼的古文没有留下来",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《上清帝第五书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如《上清帝第五书》中有力地指出……书中关切国家命运",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《强学会序》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "又如在《强学会序》中，一开头就说：俄北瞰，英西淡",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "光绪帝",
+          "target": "康有为",
+          "relation_text": "阅读上书",
+          "relation_group": "人物关联",
+          "evidence": "据说光绪帝读到康有为所上的书时，感动得垂涕湿纸",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "参与领导",
+          "relation_group": "人物关联",
+          "evidence": "他在戊戌变法运动期间所上清帝的七封书和一些奏议为代表作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《上清帝第二书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如著名的《上清帝第二书》，洋洋万余言，一气呵成",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《辛亥腊游箱根与梁任甫书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如《辛亥腊游箱根与梁任甫书》中，描写日本冬季的山川景色",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《上清帝第二书》",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "梁启超赞扬它说：读之者多为之下泪，故热血荡，民气渐伸",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "王安石",
+          "target": "康有为",
+          "relation_text": "影响",
+          "relation_group": "人物关联",
+          "evidence": "我们在其中可看到王安石上神宗皇帝万言书等优秀古文的影响",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "吴均",
+          "target": "《与朱元思书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "格调与吴均《与朱元思书》及王维《山中与裴秀才迪书》颇为相近",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "王维",
+          "target": "《山中与裴秀才迪书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "格调与吴均《与朱元思书》及王维《山中与裴秀才迪书》颇为相近",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《辛亥腊游箱根与梁任甫书》",
+          "target": "富士",
+          "relation_text": "描写",
+          "relation_group": "文献记载",
+          "evidence": "旦过静岗，遥望富士，瞻之在前，群玉峰头，白银宫阙",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《辛亥腊游箱根与梁任甫书》",
+          "target": "箱根",
+          "relation_text": "描写",
+          "relation_group": "文献记载",
+          "evidence": "午到国府津，遂见箱根，群峰耸碧，松岭夹绿，压映海波",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《辛亥腊游箱根与梁任甫书》",
+          "target": "静岗",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "旦过静岗，遥望富士",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《辛亥腊游箱根与梁任甫书》",
+          "target": "国府津",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "午到国府津，遂见箱根",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "广艺舟双楫",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如《广艺舟双序》：一滴之水，容四大海",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "庄子",
+          "relation_text": "征引",
+          "relation_group": "人物关联",
+          "evidence": "文中屡次征引《庄子》、《列子》典故",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "列子",
+          "relation_text": "征引",
+          "relation_group": "人物关联",
+          "evidence": "文中屡次征引《庄子》、《列子》典故",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "公羊学",
+          "relation_text": "受教于",
+          "relation_group": "人物关联",
+          "evidence": "康有为在哲学思想上无疑是受到嘉道以来的公羊学风的影响",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "梁启超与康有为不同...康有为弟子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄海章",
+          "target": "康有为",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "黄海章先生认为，康有为平生最大的成就，实在散文方面",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李白",
+          "target": "庄子",
+          "relation_text": "称赞",
+          "relation_group": "人物关联",
+          "evidence": "李白称赞庄子为文吐峥蝶之高论",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "同他参与的戊戌变法一样，走的是上层路线",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "梁启超",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "可借的是，梁启超缺乏他的老师康有为那深厚的传统学养",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "变法通议",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "我们先看看梁启超在维新运动时期的著作《变法通议》，这是梁氏早期的代表作",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "新民丛报",
+          "relation_text": "主笔",
+          "relation_group": "人物关联",
+          "evidence": "一九二年《新民丛报》在日本出版，梁氏主笔政",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "清代学术概论",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他在《清代学术概论》中说：至是自解放，务为平易畅达",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "六烈士",
+          "relation_text": "作传",
+          "relation_group": "人物关联",
+          "evidence": "他为戊戌政变中殉难的六烈士所作的传记，是谨严的传统文字",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "李鸿章传",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "写成了《李鸿章传》和《南海先生传》等既真实又形象的历史传记文章",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "南海先生传",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "写成了《李鸿章传》和《南海先生传》等既真实又形象的历史传记文章",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "清议报一百册祝辞",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "梁氏在《清议报一百册祝辞》中指出",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "少年中国说",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如《少年中国说》、《呵旁观者文》等，开文章之新体",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "呵旁观者文",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "如《少年中国说》、《呵旁观者文》等，开文章之新体",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "刚毅",
+          "target": "谭嗣同",
+          "relation_text": "监斩",
+          "relation_group": "人物关联",
+          "evidence": "时军机大臣刚毅监斩，君呼刚前目：吾有一言",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "伯夷列传",
+          "relation_text": "赞赏",
+          "relation_group": "人物关联",
+          "evidence": "欣赏《史记》中《伯夷列传》、《屈原列传》等生动活泼的文字",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "屈原列传",
+          "relation_text": "赞赏",
+          "relation_group": "人物关联",
+          "evidence": "欣赏《史记》中《伯夷列传》、《屈原列传》等生动活泼的文字",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "谭嗣同",
+          "target": "戊戌变法",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "殉难的六烈士所作的传记...各国变法，无不从流血而成...卒不去，敌及于难",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "新文体",
+          "relation_text": "独创",
+          "relation_group": "人物关联",
+          "evidence": "它是一位文章妙手独创的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "鲁迅",
+          "target": "摩罗诗力说",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "有人认为 鲁迅《摩罗诗力说》等是新文体式文章",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "清末",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "康有为不愧是清末的古文大家",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "新文体",
+          "target": "五四时期",
+          "relation_text": "相符于",
+          "relation_group": "文化表征",
+          "evidence": "是和五四时期反对文言文，提倡白话文的主张相符的",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "孔学",
+          "relation_text": "冒孔子之名",
+          "relation_group": "人物关联",
+          "evidence": "指责他数十年来冒孔子之名，而将孔学丧失干净",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁漱溟",
+          "target": "康有为",
+          "relation_text": "痛诉",
+          "relation_group": "人物关联",
+          "evidence": "遭受甘做高家庄猪语能（观秋白语）的梁漱溟氏的痛诉",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁漱溟",
+          "target": "《东西文化及其哲学》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "《东西文化及其哲学》第四章批评康有为",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "戊戌变法",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "他所参与的戊成变法一样，是不成功的",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《清代学术概论》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "梁启超《清代学术概论》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《戊戌政变记》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "梁启超《戊戌政变记》附录《改革起源》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "《饮冰室文集》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "梁启超《饮冰室文集原序》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "五帝三王之教",
+          "relation_text": "论述",
+          "relation_group": "人物关联",
+          "evidence": "他说：中国五帝三王之教...顺人性而教之也",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "诗书礼乐之学",
+          "relation_text": "论述",
+          "relation_group": "人物关联",
+          "evidence": "他说：...诗书礼乐之学...顺人性而教之也",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "神巫祝之俗",
+          "relation_text": "论述",
+          "relation_group": "人物关联",
+          "evidence": "他说：...神巫祝之俗，盖天理之自然",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《康有为政论集》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "（《康有为政论集》12 页）并说，非独中国然也。围绕这段话...康氏认为",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《内外篇·仁智篇》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "人惟有智，能造作饮食、宫室、衣服...皆智来也。（《内外篇·仁智篇》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《内外篇·爱恶篇》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "爱恶指人对外物刺激作出的喜欢或不喜欢的本能反应...（见《内外篇·爱恶篇》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《长兴学记》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "为人，亦为我也，所谓仁至义尽。（《长兴学记》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《康有为政论集》",
+          "target": "《内外篇·仁智篇》",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "文中引用的康有为著作...包含关于人欲、礼乐及社会伦理的论述...（《内外篇·仁智篇》）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《康有为政论集》",
+          "target": "《内外篇·爱恶篇》",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "文中引用的康有为著作...（见《内外篇·爱恶篇》）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《康有为政论集》",
+          "target": "《长兴学记》",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "文中引用的康有为著作...提及仁至义尽的观点...（《长兴学记》）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "康有为政论集",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "（《康有为政论集》12 页）康有为由此证明西方文化也有其伦理规范",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁漱溟",
+          "target": "东、西文化及其哲学",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "东方文化派的代表梁漱激氏认为，文化是一个民族生活的种种方面，生活义是意欲，（《东、西文化及其哲学》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔教",
+          "target": "佛教",
+          "relation_text": "区别于",
+          "relation_group": "文化表征",
+          "evidence": "孔教之伦学民俗，天理自然者也...佛教去伦绝欲，人学之极致者也",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "昆仑山",
+          "relation_text": "认为发源于",
+          "relation_group": "人物关联",
+          "evidence": "他认为有一个地顶的昆仑山，流出了四条大河，冲积成 四大平原。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康荫海先生口说",
+          "target": "昆仑山",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "（《康荫海先生口说》中山大学出版社 1985 年版 1 页...）他认为有一个地顶的昆仑山，流出了四条大河",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为遗稿",
+          "target": "戊戌变法",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "文中提及《康有为遗稿一一戊戌变法前后》，指代该历史事件",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "三纲",
+          "relation_text": "提出",
+          "relation_group": "人物关联",
+          "evidence": "中国因为君权日尊，所以先立三纲，君尊臣卑，男尊女卑。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为政论集",
+          "target": "康有为",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "凡各国文化富厚兵力之所及，皆视铁路之所以通达以为衡。（《康有为政论集》355 页）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "三纲",
+          "target": "君尊臣卑",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "所以先立三纲，君尊臣卑，男尊女卑。",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "三纲",
+          "target": "男尊女卑",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "所以先立三纲，君尊臣卑，男尊女卑。",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "康氏",
+          "target": "实理公法全书",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他宣称，他的《实理公法全书》就是以有益于人道与否为标准选择、评价地球上诸教所有制度。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁漱滨",
+          "target": "东、西文化及其哲学",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "胡适说：生活只是生物对环境的适应……（《读梁漱溟先生的《东、西文化及其哲学）》）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "胡适",
+          "target": "东、西文化及其哲学",
+          "relation_text": "评述",
+          "relation_group": "人物关联",
+          "evidence": "胡适说：生活只是生物对环境的适应……（《读梁漱溟先生的《东、西文化及其哲学）》）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "中体西用",
+          "relation_text": "终结",
+          "relation_group": "人物关联",
+          "evidence": "康氏开创了近、现代中国资产阶级的文化哲学……同时，也标志着中体西用派历史的结束",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "实理公法全书",
+          "target": "戊戌变法",
+          "relation_text": "载于",
+          "relation_group": "文献记载",
+          "evidence": "他把这一价值观念列为《实理公法全书》的第一条公法：人有自主之权（《戊戌变法前后》47 页）。",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "口说",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他指出这种功利主义的特点：重生不重死，西人亦近扬朱。（《口说》48 页）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "康有为政论集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "我国向者误于抑末之说……（《康有为政论集》357 页）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "戌戌变法前后",
+          "target": "康氏",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "康氏对功利主义也持肯定态度。他说：泰西之教，所谓尊贤而尚功……（《戌戌变法前后》217 页）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "口说",
+          "target": "宋明理学",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "指责宋明理学空言义理，迁物太过，压抑人欲，违背人道。（《口说》65 页）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "培根",
+          "target": "明永乐",
+          "relation_text": "创为新义于",
+          "relation_group": "时序归属",
+          "evidence": "英人培根当明永乐时创为新义，以为聪明凿而愈出",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "《康有为政论集》",
+          "target": "康有为",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "《康有为政论集》50 页）他看到，为了获得富 贵，即功利，即人欲的满足",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《戊戌变法前后》",
+          "target": "康有为",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "人类之生，其性善辩，其性善思，惟其智也。（《戊戌变法前后》53 页）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《实理公法全书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《实理公法全书》采用了理性主义典型的论证方法一一格老 秀斯创始的几何演证程序",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "《口说》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "仁字已该孔子学问。（《口说》79 页）康氏以他的人道主义观点理解孔子之仁",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "格老秀斯",
+          "target": "《实理公法全书》",
+          "relation_text": "影响",
+          "relation_group": "人物关联",
+          "evidence": "《实理公法全书》采用了理性主义典型的论证方法一一格老 秀斯创始的几何演证程序",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "孔学",
+          "relation_text": "推崇",
+          "relation_group": "人物关联",
+          "evidence": "在评价中国文化时，他又对孔学推崇备至",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔子",
+          "target": "孔学",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "他认为孔学的核心是仁：仁字已该孔子学问",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "康氏",
+          "target": "孔子",
+          "relation_text": "评述",
+          "relation_group": "人物关联",
+          "evidence": "康氏以他的人道主义观点理解孔子之仁",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "《口说》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "（《口说》79 页）康氏以他的人道主义观点理解孔子之仁",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "《春秋董氏学》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "康氏认为，仁有大小之分，存在着进化的问题。（《春秋蕙氏学，春秋旨第一》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "《孟子微》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "1902 年，康氏在《孟予微》山明确将三世与三种不同的仁对应起来",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《孟子微》",
+          "target": "1902 年",
+          "relation_text": "撰于",
+          "relation_group": "时序归属",
+          "evidence": "1902 年，康氏在《孟予微》山明确将三世与三种不同的仁对应起来",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《康南海先生遗著汇刊》",
+          "target": "康氏",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "（《康南海先生遗著汇刊》五，111 页）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "墨子",
+          "relation_text": "评述",
+          "relation_group": "人物关联",
+          "evidence": "关于盘家，他说：墨子学孔子道。",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "老子",
+          "relation_text": "评述",
+          "relation_group": "人物关联",
+          "evidence": "关于道家，他说：老子之清虚 58 柔退，出于孔子。",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "墨子",
+          "target": "孔子",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "墨子学孔子道。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "老子",
+          "target": "孔子",
+          "relation_text": "源于",
+          "relation_group": "传承延续",
+          "evidence": "老子之清虚 58 柔退，出于孔子。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "东方文化派",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "康氏不仅在这一方面是东方文化派的祖先，更重要的是，他对孔学的立场，也是东方文化派的基本立场",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "东方文化派",
+          "target": "康有为",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "可见，康氏对佛教和宋明理学的形而下持批判态度...这一态度为东方文化派所继承",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯友兰",
+          "target": "宋明理学",
+          "relation_text": "推崇",
+          "relation_group": "人物关联",
+          "evidence": "如冯友兰对宋明理学的形而上十分推崇，竭力以逻辑分析的方法对宋明理学的形而上命题作出论证",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "宋明理学",
+          "relation_text": "批评",
+          "relation_group": "人物关联",
+          "evidence": "康氏以同样理由批评宋明理学：宋儒理最深，然深之至，则入于佛，绝欲则远人",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "康氏",
+          "target": "宋学",
+          "relation_text": "论述",
+          "relation_group": "人物关联",
+          "evidence": "康氏还说：仆以为必有宋学义理之休，而讲西学政艺之用",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "三纲五常",
+          "relation_text": "否定",
+          "relation_group": "人物关联",
+          "evidence": "康氏对宋学的形而下持否定态度，也就否定了三纲五常这些具体的伦理规范",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《内外篇·人我篇》",
+          "target": "三纲五常",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "臣妇之道，抑之极矣，此恐非理之至也。（《内外篇·人我篇》）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康氏",
+          "target": "孔学",
+          "relation_text": "西化解读",
+          "relation_group": "人物关联",
+          "evidence": "康氏评价、美化孔学所据准则的人道实质是资产阶级人性论和人道主义原则，这在根本上已将孔学西化",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁漱溟",
+          "target": "康氏",
+          "relation_text": "责骂",
+          "relation_group": "人物关联",
+          "evidence": "梁漱溟责骂他几十年冒孔子之名确实没有委屈他",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "公车上书",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "1895 年《马关条约》签订时，康有为联合赴京会试的一千多名举人，发起了有名的公车上书",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "保国会",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "1894 年 4 月，在北京发起保国、保教、保种为宗旨的保国会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "大同书",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "康有为的体育思想和主张主要集中反映在...乌托邦式的著作《大同书》中",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "上清帝第一书",
+          "relation_text": "上书",
+          "relation_group": "人物关联",
+          "evidence": "他激于爱国热忱，毅然上书光绪皇帝（即《上清帝第一书》）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪皇帝",
+          "relation_text": "上书",
+          "relation_text_alt": "向...上书",
+          "relation_group": "人物关联",
+          "evidence": "在 1888 至 1898 年间，他先后七次上书光绪皇帝",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "促使光绪接受其主张，在 1898 年 6 月 11 日正式宣布变法维新...在维新变法运动中，康有为进一步提出了改良政治的四策",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "岭南文史",
+          "target": "康有为",
+          "relation_text": "刊载",
+          "relation_group": "文献记载",
+          "evidence": "（原载《岭南文史》11 一 12 期）61 康有为的体育思想及其影响",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "维新变法运动",
+          "relation_text": "提出四策于",
+          "relation_group": "人物关联",
+          "evidence": "在 维新变法运动中，康有为进一步提出了改良政治的四策：富 国、养民、教士、练兵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "德国",
+          "relation_text": "赞赏练兵法",
+          "relation_group": "人物关联",
+          "evidence": "在练兵 中，他赞赏德国（普鲁士）的练兵方法",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "戊戌变法",
+          "target": "康有为",
+          "relation_text": "传播思想后",
+          "relation_group": "时序归属",
+          "evidence": "康有 为的这种单纯的体育救国思想...戊戌变法之后，有志之士，乃汇集同志",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "甲午战争",
+          "relation_text": "反思于战后",
+          "relation_group": "人物关联",
+          "evidence": "在甲午战争后，康有为就深刻地认识到中国衰弱的一个主要 683 原因是教育不良",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "1891 年，康有为为了培养维新人才和创立变法的理论基础，在广州长兴里……创立了一所新型学堂万木草堂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁启超",
+          "target": "万木草堂",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "据当时的学生梁启超说：其为教也德育居十之七，智育为十之三，体育亦特重焉",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "万木草堂",
+          "target": "兵式体操",
+          "relation_text": "注重",
+          "relation_group": "社群组织",
+          "evidence": "万木草堂注重体育，除了游戏之外，又特别注重兵式体操",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "明治维新",
+          "target": "甲午战争",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "由于日本明治维新卓有成效，在 1895 年的甲午战争中，小日本打败了清帝国",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "推动",
+          "relation_group": "人物关联",
+          "evidence": "1898 年由康有为等人推动的政治改良运动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐锡麟",
+          "target": "大通师范学堂体育专修科",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "大通师范学堂体育专修科（1905 年）就是由留日学生徐锡麟陶成章创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陶成章",
+          "target": "大通师范学堂体育专修科",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "大通师范学堂体育专修科（1905 年）就是由留日学生徐锡麟陶成章创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐一冰",
+          "target": "中国体操学校",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "中国体操学校（1907 一 1927）是由留日学生徐一冰，徐傅霖和王季鲁创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐傅霖",
+          "target": "中国体操学校",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "中国体操学校（1907 一 1927）是由留日学生徐一冰，徐傅霖和王季鲁创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "王季鲁",
+          "target": "中国体操学校",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "中国体操学校（1907 一 1927）是由留日学生徐一冰，徐傅霖和王季鲁创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "谢逸桥",
+          "target": "松口体育会",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "广东省第一间体育师范学校松口体育会（1907 年）也是由留日学生谢逸桥等创办的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "大同书",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他率先在《大同书》的去形界保独立中，大力呼吁男女平等",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "缠足",
+          "relation_text": "废除",
+          "relation_group": "人物关联",
+          "evidence": "早在 1883 年，他就决心废除它，先从自己的大女儿开始不襄足",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张元善",
+          "target": "戊戌时期",
+          "relation_text": "活跃于",
+          "relation_group": "人物关联",
+          "evidence": "自称是戊戌闻人的张元善首先在上海办起了中国第一所女子堂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "南海",
+          "relation_text": "活动于",
+          "relation_group": "人物关联",
+          "evidence": "康有为还串连了一批志同道合的人，先后在南海",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "七树堂",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "戊戌变法时，康有为就住在我现在住的这个院子。因为院子内栽有七棵树，当时称做七树堂。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "七树堂",
+          "target": "南海馆",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "康有为就住在我现在住的这个院子。因为院子内栽有七棵树，当时称做七树堂...老一辈人说，康广仁戌戌年来京时，也住在南海馆",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康广仁",
+          "target": "南海馆",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "老一辈人说，康广仁戌戌年来京时，也住在南海馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "关胜勋",
+          "target": "南海馆",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "我今年七十五岁，出生在南海馆。",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《康南海自编年谱》",
+          "target": "康有为",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有为，《康南海自编年谱》第 116 页。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "康广仁",
+          "target": "西鹤年堂药铺",
+          "relation_text": "就义于附近",
+          "relation_group": "人物关联",
+          "evidence": "在康广仁被押赴菜市口刑场的那天，粤东乡亲纷纷捐钱给西鹤年堂药铺……因为这个药铺地处菜市口",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "严嵩",
+          "target": "西鹤年堂药铺",
+          "relation_text": "题写招牌",
+          "relation_group": "营建创造",
+          "evidence": "它的招牌是明代大奸相严嵩题的字",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "迷魂酒",
+          "target": "西鹤年堂药铺",
+          "relation_text": "售卖于",
+          "relation_group": "空间关联",
+          "evidence": "送钱给这个药店，可以买到三针一杯酒。这杯酒叫做迷魂酒",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "九江",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "李卓峰先生讳宜登粤之九江",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "穗城学校",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "先生虑华侨智识缺，设穗城学校，培植后进",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "冯夏威",
+          "relation_text": "追悼",
+          "relation_group": "人物关联",
+          "evidence": "旋因冯夏威殉义，特开会追悼，唤醒同胞御侮",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": []
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "李卓峰",
+          "target": "九江镇",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "李卓峰，是南海县九江镇人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "水月宫",
+          "relation_text": "殉职于",
+          "relation_group": "人物关联",
+          "evidence": "狙击于乡中水月宫前，不幸殉职",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰墓道",
+          "target": "忠良山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "呈请广东省政府奉灵枢归葬于九江忠良山之巅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰墓碑",
+          "target": "忠良山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "奉灵枢归葬于九江忠良山之巅，筑碑建亭",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孙中山",
+          "target": "李卓峰旌义状",
+          "relation_text": "颁发",
+          "relation_group": "人物关联",
+          "evidence": "获孙大总统优等旌义状",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "辛亥革命",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "策动光复大业时，李先生随同左右...辛亥革命元勋",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "粤汉铁路",
+          "relation_text": "查办",
+          "relation_group": "人物关联",
+          "evidence": "奉命查办粤汉铁路，不强御，积弊尽察",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "胡汉民",
+          "relation_text": "共事",
+          "relation_group": "人物关联",
+          "evidence": "孙中山先生偕胡汉民、胡毅生兄弟莅越...李先生随同左右",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "胡毅生",
+          "relation_text": "共事",
+          "relation_group": "人物关联",
+          "evidence": "孙中山先生偕胡汉民、胡毅生兄弟莅越...李先生随同左右",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰旌义状",
+          "target": "中华民国十五年",
+          "relation_text": "颁于",
+          "relation_group": "时序归属",
+          "evidence": "古应芬连声海 钟荣光黄隆生 中华民国十五年六月",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰",
+          "target": "中华民国十五年",
+          "relation_text": "殉职于",
+          "relation_group": "时序归属",
+          "evidence": "一九二六年春...不幸殉职...中华民国十五年六月",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "水月宫",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "途次九江北方水月宫附近",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "忠良山",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "归葬于九江忠良山之巅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "李卓峰",
+          "target": "忠良山",
+          "relation_text": "归葬于",
+          "relation_group": "空间关联",
+          "evidence": "呈请广东省政府奉灵枢归葬于九江忠良山之巅",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李卓峰墓",
+          "target": "忠良山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "奉灵枢归葬于九江忠良山之巅，筑碑建亭及牌坊",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "胡汉民",
+          "target": "李卓峰墓",
+          "relation_text": "题字",
+          "relation_group": "营建创造",
+          "evidence": "碑身原镌有李卓峰先生安息七字，为胡汉民先生隶书题字",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "简文会",
+          "target": "南汉",
+          "relation_text": "中状元于",
+          "relation_group": "时序归属",
+          "evidence": "南汉干亨元年（公元 917 年）的简文会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "张镇孙",
+          "target": "南宋",
+          "relation_text": "中状元于",
+          "relation_group": "时序归属",
+          "evidence": "南宋咸淳七年（1271 年）的张镇孙",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "伦文叙",
+          "target": "明代",
+          "relation_text": "中状元于",
+          "relation_group": "时序归属",
+          "evidence": "明弘治十二年（1499 年）的伦文叙",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "清代",
+          "relation_text": "中状元于",
+          "relation_group": "时序归属",
+          "evidence": "清嘉庆四年（1799 年）的武状元姚大宁",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "李待问",
+          "target": "明代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "李待问于明万历二十二年（1604 年）进土，一直至崇祯初（1628 年）才累官为户部尚书",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "郭尚宾",
+          "target": "明代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "郭尚宾，明崇祯七年（1634 年）进士，累官至兵部尚书",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈子壮",
+          "target": "明代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "陈子壮于明万历四十七年（1619 年）进士...明末清兵入关...继续抗清，结果兵败被捕而牺牲",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "清代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "戴鸿慈，于清光绪二年（1876 年）进士，累官至法部尚书",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "戴鸿慈",
+          "target": "光绪二年",
+          "relation_text": "中进士于",
+          "relation_group": "时序归属",
+          "evidence": "戴鸿慈，于清光绪二年（1876 年）进士",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌维新变法运动",
+          "relation_text": "领导",
+          "relation_group": "人物关联",
+          "evidence": "戊戌维新变法运动的领袖康有为",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "《大清一统志》",
+          "target": "广州府",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据康熙，乾隆年问所综的《大清一统志》记载，当时金省分设十府，即：上六府、下四府。上六府为：广州府",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "广州府",
+          "target": "明代",
+          "relation_text": "存在于",
+          "relation_group": "时序归属",
+          "evidence": "按广东建省初期（明为广东布政使司...上六府为：广州府",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "广州府",
+          "target": "清代",
+          "relation_text": "存在于",
+          "relation_group": "时序归属",
+          "evidence": "清改为广东省...上六府为：广州府",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "官山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "官山，座落于南粤名山西樵山之北麓",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山",
+          "target": "西樵镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "是南海市西樵镇政府所在地",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山",
+          "target": "万历年间",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "自明朝万历年间建圩以来",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆织丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1872 年，陈启沅在家乡简村创办继昌隆织丝厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "继昌隆织丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅在家乡简村创办继昌隆织丝厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "茶行街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "官山建圩初期，只有靠山边的茶行街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "高街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "先后兴建了 6 条主要街道，由西至东的有高街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "新安街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "先后兴建了 6 条主要街道，由西至东的有...新安街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "海边街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "先后兴建了 6 条主要街道，由西至东的有...海边街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "福元街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "由南至北的有福元街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "太平街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "由南至北的有...太平街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "连元街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "由南至北的有...连元街",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山",
+          "target": "明代",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "自明朝万历年间建圩以来",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "官山圩",
+          "target": "丹灶",
+          "relation_text": "集散",
+          "relation_group": "空间关联",
+          "evidence": "成为附近的丹灶、罗行、水藤、吉利、沙头等地工农产品的集散地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山圩",
+          "target": "罗行",
+          "relation_text": "集散",
+          "relation_group": "空间关联",
+          "evidence": "成为附近的丹灶、罗行、水藤、吉利、沙头等地工农产品的集散地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山圩",
+          "target": "水藤",
+          "relation_text": "集散",
+          "relation_group": "空间关联",
+          "evidence": "成为附近的丹灶、罗行、水藤、吉利、沙头等地工农产品的集散地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山圩",
+          "target": "吉利",
+          "relation_text": "集散",
+          "relation_group": "空间关联",
+          "evidence": "成为附近的丹灶、罗行、水藤、吉利、沙头等地工农产品的集散地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "官山圩",
+          "target": "沙头",
+          "relation_text": "集散",
+          "relation_group": "空间关联",
+          "evidence": "成为附近的丹灶、罗行、水藤、吉利、沙头等地工农产品的集散地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "樵北大闸",
+          "target": "桑园围",
+          "relation_text": "连接",
+          "relation_group": "空间关联",
+          "evidence": "修筑了樵北大闸，使桑园围、大栅围连续起来",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "樵北大闸",
+          "target": "大栅围",
+          "relation_text": "连接",
+          "relation_group": "空间关联",
+          "evidence": "修筑了樵北大闸，使桑园围、大栅围连续起来",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "西樵酒家",
+          "target": "佛樵公路",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "由现西樵风景区的西门至西樵酒家",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南海丝厂",
+          "target": "南海丝织厂",
+          "relation_text": "连接",
+          "relation_group": "空间关联",
+          "evidence": "由南海丝厂至南海丝织厂",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "陈领",
+          "target": "南顺陈宅",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "顺德沙滘人陈领（字世贤谥云佳）为首，集合南顺两邑旅新加坡人士洽商...联合成立了南顺陈宅",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南顺陈宅",
+          "target": "南顺会馆",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "这是南顾会馆的前身，以后改为南顺公司。到 1889 年 8 月 30 日正式注册为南顺会馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "梁敏修",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为梁敏修",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "杨星堂",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……杨星堂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈进福",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……陈进福",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李星南",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……李星南",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "邱雁宾",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……邱雁宾",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陆寅杰",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……陆寅杰",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "邓仲航",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……邓仲航",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈伯川",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……陈伯川",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈竹朋",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……陈竹朋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈赞朋",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……陈赞朋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "刘以田",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……刘以田",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "简英甫",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……简英甫",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "马勤甫",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……马勤甫",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "钟泽泉",
+          "target": "南顺会馆",
+          "relation_text": "主事重建",
+          "relation_group": "营建创造",
+          "evidence": "第一次重建是在 1911 年开始的……重建的发起人及主其事者为……钟泽泉",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "广福成号",
+          "target": "南顺会馆",
+          "relation_text": "负责重建事务",
+          "relation_group": "营建创造",
+          "evidence": "重建时负责财政管理和建筑事务的，是广福成号及祥兴号两商店",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "祥兴号",
+          "target": "南顺会馆",
+          "relation_text": "负责重建事务",
+          "relation_group": "营建创造",
+          "evidence": "重建时负责财政管理和建筑事务的，是广福成号及祥兴号两商店",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南顺会馆",
+          "target": "1911 年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "第一次重建是在 1911 年开始的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "南顺会馆",
+          "target": "1951 年",
+          "relation_text": "重建于",
+          "relation_group": "时序归属",
+          "evidence": "第二次重建是在 1951 年发起的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "梁元浩",
+          "target": "南顺会馆",
+          "relation_text": "主持重建",
+          "relation_group": "营建创造",
+          "evidence": "主席团由梁元浩任主席",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "彭慰农",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有彭慰农",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "罗喜生",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...罗喜生",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈炎林",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...陈炎林",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈作民",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...陈作民",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "潘霖端",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...潘霖端",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "崔信廷",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...崔信廷",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "邱锦钊",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...邱锦钊",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "赵少康",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...赵少康",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄耀富",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...黄耀富",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "关英士",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "成员有...关英士",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "许桂荣",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出许桂荣...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "黄信满",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...黄信满...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈作新",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...陈作新...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何赐多",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...何赐多...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "廖鸿生",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...廖鸿生...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李志成",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...李志成...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "钟景西",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...钟景西...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯荣",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...冯荣...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何景焯",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...何景焯...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "区伯鹏",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...区伯鹏...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李乐明",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...李乐明...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何国襟",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...何国襟...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈景南",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...陈景南...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "潘允珠",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...潘允珠...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁朝栋",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...梁朝栋...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何凤羽",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...何凤羽...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "刘六英",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...刘六英...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "罗国霖",
+          "target": "南顺会馆",
+          "relation_text": "参与重建",
+          "relation_group": "营建创造",
+          "evidence": "推选出...罗国霖...等 30 人为筹委委员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁元浩",
+          "target": "南顺会馆",
+          "relation_text": "捐资修建",
+          "relation_group": "营建创造",
+          "evidence": "复由梁元浩、罗喜生、潘霖端各借 1000 元以应支付",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "罗喜生",
+          "target": "南顺会馆",
+          "relation_text": "捐资修建",
+          "relation_group": "营建创造",
+          "evidence": "复由梁元浩、罗喜生、潘霖端各借 1000 元以应支付",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "潘霖端",
+          "target": "南顺会馆",
+          "relation_text": "捐资修建",
+          "relation_group": "营建创造",
+          "evidence": "复由梁元浩、罗喜生、潘霖端各借 1000 元以应支付",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "星洲西樵同乡互助会",
+          "target": "西樵",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "这个会是旅居新加坡、马来西亚两地的西樵人士日益众多的产物",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "郑和",
+          "target": "西樵",
+          "relation_text": "南渡起点",
+          "relation_group": "人物关联",
+          "evidence": "溯自三保太监郑和南渡，西樵同胞开始移居新、马两地",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "赵少康",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "发起创立",
+          "relation_group": "人物关联",
+          "evidence": "1947 年 5 月中旬由赵少康、赵正荣、傅启棠、谭佳志、徐隆成等五人发起，组织星洲西樵同乡互助会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "赵正荣",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "发起创立",
+          "relation_group": "人物关联",
+          "evidence": "1947 年 5 月中旬由赵少康、赵正荣、傅启棠、谭佳志、徐隆成等五人发起，组织星洲西樵同乡互助会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "傅启棠",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "发起创立",
+          "relation_group": "人物关联",
+          "evidence": "1947 年 5 月中旬由赵少康、赵正荣、傅启棠、谭佳志、徐隆成等五人发起，组织星洲西樵同乡互助会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "谭佳志",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "发起创立",
+          "relation_group": "人物关联",
+          "evidence": "1947 年 5 月中旬由赵少康、赵正荣、傅启棠、谭佳志、徐隆成等五人发起，组织星洲西樵同乡互助会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "徐隆成",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "发起创立",
+          "relation_group": "人物关联",
+          "evidence": "1947 年 5 月中旬由赵少康、赵正荣、傅启棠、谭佳志、徐隆成等五人发起，组织星洲西樵同乡互助会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何润好",
+          "target": "万佛堂",
+          "relation_text": "借出供用",
+          "relation_group": "社群组织",
+          "evidence": "会员何润好概然将万佛堂的空余地方，借给互助会作为办事处",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "赵少康",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "筹建会所",
+          "relation_group": "营建创造",
+          "evidence": "赵少康、区云珠、廖鸿生，陈新南等发动购置会所",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "区云珠",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "筹建会所",
+          "relation_group": "营建创造",
+          "evidence": "赵少康、区云珠、廖鸿生，陈新南等发动购置会所",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "廖鸿生",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "筹建会所",
+          "relation_group": "营建创造",
+          "evidence": "赵少康、区云珠、廖鸿生，陈新南等发动购置会所",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "陈新南",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "筹建会所",
+          "relation_group": "营建创造",
+          "evidence": "赵少康、区云珠、廖鸿生，陈新南等发动购置会所",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "花县会馆",
+          "target": "星洲西樵同乡互助会",
+          "relation_text": "借址办公",
+          "relation_group": "社群组织",
+          "evidence": "在拆建期间蒙花县会馆董事会借给会馆为临时办事处达一年之久",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "西樵同乡互助会",
+          "target": "雪兰南海会馆",
+          "relation_text": "参加",
+          "relation_group": "社群组织",
+          "evidence": "派代表团赴马来联邦参加雪兰南海会馆开幕典礼",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "西樵同乡互助会",
+          "target": "雪兰裁南海西樵福荫堂",
+          "relation_text": "参加",
+          "relation_group": "社群组织",
+          "evidence": "与雪兰裁南海西樵福荫堂钻禧大典",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "西樵同乡互助会",
+          "target": "广惠肇方便留医院",
+          "relation_text": "参加",
+          "relation_group": "社群组织",
+          "evidence": "参加广惠肇方便留医院建楼游艺大会演出",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何润好",
+          "target": "西樵同乡互助会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁银屏",
+          "target": "西樵同乡互助会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "苏令仪",
+          "target": "西樵同乡互助会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "何润好",
+          "target": "西樵同乡互助会",
+          "relation_text": "任职于",
+          "relation_group": "社群组织",
+          "evidence": "妇女成员尽了很大力量，出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光辉事绩",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "梁银屏",
+          "target": "西樵同乡互助会",
+          "relation_text": "任职于",
+          "relation_group": "社群组织",
+          "evidence": "妇女成员尽了很大力量，出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光辉事绩",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "苏令仪",
+          "target": "西樵同乡互助会",
+          "relation_text": "任职于",
+          "relation_group": "社群组织",
+          "evidence": "妇女成员尽了很大力量，出现了何润好、梁银屏、苏令仪等上层人物。为西樵同乡互助会写下一页光辉事绩",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔昭皋",
+          "target": "李右泉",
+          "relation_text": "著述关于",
+          "relation_group": "人物关联",
+          "evidence": "103 乐善好施的李右泉先生 孔昭皋...纪贤达之硕德，以成兹文",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "教表村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "先生姓李名棋（1871 一 1940），右泉乃其表字，广东省南海县教表村人",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "长洲发电厂",
+          "relation_text": "投资兴建",
+          "relation_group": "营建创造",
+          "evidence": "如长洲发电厂、长洲轮船、南海盐步制纸厂、南洋制革厂、永丰源锡庄以及银号数间，均李氏所投资",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "长洲轮船",
+          "relation_text": "投资兴建",
+          "relation_group": "营建创造",
+          "evidence": "如长洲发电厂、长洲轮船、南海盐步制纸厂、南洋制革厂、永丰源锡庄以及银号数间，均李氏所投资",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "南海盐步制纸厂",
+          "relation_text": "投资兴建",
+          "relation_group": "营建创造",
+          "evidence": "如长洲发电厂、长洲轮船、南海盐步制纸厂、南洋制革厂、永丰源锡庄以及银号数间，均李氏所投资",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "南洋制革厂",
+          "relation_text": "投资兴建",
+          "relation_group": "营建创造",
+          "evidence": "如长洲发电厂、长洲轮船、南海盐步制纸厂、南洋制革厂、永丰源锡庄以及银号数间，均李氏所投资",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "永丰源锡庄",
+          "relation_text": "投资兴建",
+          "relation_group": "营建创造",
+          "evidence": "如长洲发电厂、长洲轮船、南海盐步制纸厂、南洋制革厂、永丰源锡庄以及银号数间，均李氏所投资",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "保良局",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "李右泉曾任香港两大慈善机构总理...一为收容孤儿之保良局",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "东华三院",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "李右泉曾任香港两大慈善机构总理...一为赠医施药、拥有三大医院十余所中小学之东华三院",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "九老会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "先生又与何东、周寿臣、冯平山等香江客豪组九老会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "何东",
+          "target": "九老会",
+          "relation_text": "加入",
+          "relation_group": "社群组织",
+          "evidence": "先生又与何东、周寿臣、冯平山等香江客豪组九老会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "周寿臣",
+          "target": "九老会",
+          "relation_text": "加入",
+          "relation_group": "社群组织",
+          "evidence": "先生又与何东、周寿臣、冯平山等香江客豪组九老会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯平山",
+          "target": "九老会",
+          "relation_text": "加入",
+          "relation_group": "社群组织",
+          "evidence": "先生又与何东、周寿臣、冯平山等香江客豪组九老会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "逊涉台",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "水退，即建逊涉台于村北，台高数丈，足容全村居民",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "恒心当药店",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "设恒心当药店，贫病村民，免费发药",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "安胎十三太保",
+          "relation_text": "赠送",
+          "relation_group": "人物关联",
+          "evidence": "孕妇赠送安胎十三太保",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "李右泉",
+          "target": "恒心当药店",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "设恒心当药店，贫病村民，免费发药",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "安胎十三太保",
+          "relation_text": "赠送",
+          "relation_group": "人物关联",
+          "evidence": "孕妇赠送安胎十三太保",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "李氏宗祠",
+          "relation_text": "捐建",
+          "relation_group": "营建创造",
+          "evidence": "先生捐银毫一百万元以为众倡...阅数年祠宇落成",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "吴道",
+          "target": "李右泉",
+          "relation_text": "撰铭",
+          "relation_group": "人物关联",
+          "evidence": "请吴道太史撰铭，以彰盛德",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "右泉小学",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "乃决心创办小学...即以先生表字作校名，是为右泉小学",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "右泉小学",
+          "target": "李氏宗祠",
+          "relation_text": "设于",
+          "relation_group": "空间关联",
+          "evidence": "此小学之课室、礼堂，均设宗祠内",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "广州南海中学",
+          "target": "清光绪三十三年",
+          "relation_text": "创办于",
+          "relation_group": "时序归属",
+          "evidence": "此校创办于清光绪三十三年",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "江孔殷",
+          "target": "广州南海中学",
+          "relation_text": "募集经费",
+          "relation_group": "人物关联",
+          "evidence": "邑绅江孔殷太史与校长朱世畴联诀赴港...分头募集经费",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "朱世畴",
+          "target": "广州南海中学",
+          "relation_text": "募集经费",
+          "relation_group": "人物关联",
+          "evidence": "邑绅江孔殷太史与校长朱世畴联诀赴港...分头募集经费",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "广州南海中学",
+          "relation_text": "参与创办",
+          "relation_group": "人物关联",
+          "evidence": "与本邑旅港殷商李右泉...分头募集经费",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯香泉",
+          "target": "广州南海中学",
+          "relation_text": "募集经费",
+          "relation_group": "人物关联",
+          "evidence": "与本邑旅港殷商...冯香泉、傅翼鹏诸先生，分头募集经费",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "傅翼鹏",
+          "target": "广州南海中学",
+          "relation_text": "募集经费",
+          "relation_group": "人物关联",
+          "evidence": "与本邑旅港殷商...傅翼鹏诸先生，分头募集经费",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李宝祥",
+          "target": "广州南海中学",
+          "relation_text": "倡议停办",
+          "relation_group": "人物关联",
+          "evidence": "一九二二年，南海县长李宝祥...突倡停办广州南海中学之议",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "广州南海中学",
+          "target": "一九二二年",
+          "relation_text": "面临停办",
+          "relation_group": "时序归属",
+          "evidence": "一九二二年，南海县长李宝祥...突倡停办广州南海中学之议",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "旅港南海商会",
+          "target": "广州南海中学",
+          "relation_text": "力保",
+          "relation_group": "社群组织",
+          "evidence": "旅港南海商会奋起力争...力主保留中学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "旅港南海商会",
+          "target": "南海中学校董会",
+          "relation_text": "成立",
+          "relation_group": "社群组织",
+          "evidence": "南海商会乃勇挑重担，成立南海中学校董会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": [
+        {
+          "source": "李右泉",
+          "target": "南海中学校董会",
+          "relation_text": "曾任主席",
+          "relation_group": "人物关联",
+          "evidence": "校董会设正副主席，李右泉、冯香泉曾任此职",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "冯香泉",
+          "target": "南海中学校董会",
+          "relation_text": "曾任职务",
+          "relation_group": "人物关联",
+          "evidence": "校董会设正副主席，李右泉、冯香泉曾任此职",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "李右泉",
+          "target": "右泉堂",
+          "relation_text": "捐建纪念",
+          "relation_group": "营建创造",
+          "evidence": "赖李右泉...慨捐巨物...建...图书馆。为纪念李右泉先生，图书馆命名为右泉堂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        },
+        {
+          "source": "孔村",
+          "target": "和顺镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "作者是南海市和顺镇孔村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第22辑_(广东省南海市政协文史资料委员会编)"
+        }
+      ]
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    }
+  }
+}

@@ -1,0 +1,3883 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [
+        {
+          "name": "南海文史资料",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "广东省南海市政协文史资料委员会编辑出版的文史资料丛书，文中提及第二十三辑为石景宜先生传",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "广东省南海市下辖镇，文中记载为石景宜先生的故乡",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "上九路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "广州市的一条街道，文中提及石景宜先生曾在此摆书摊创业",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "忠诚书店",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生在广州市上九路创业时期经营的书店名称",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国荣书店",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生在香港发展过程中创办的书店之一",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书店",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生创办的知名书店，体现其艰苦创业精神",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣图书公司",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生事业发展壮大后成立的公司实体",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局有限公司",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生创立的图书企业，文中列为其创业历程的重要阶段",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "官山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "西樵镇旧称或核心区域，文中提及石景宜先生曾避难于此",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文中章节标题提及的地名，关联石景宜先生早期生活轨迹",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "3e652518"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "ecf4245c"
+    },
+    "chunk_0002": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "位于南海县境内，岭南旅游胜地，方圆四十里，有七十二峰、三十六洞等景观，素有泉山之誉",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "白云洞",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "建于明嘉靖年间的明代建筑，位于西樵山上，原为学者何白云结庐读书处",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "何白云",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "明代学者，曾在西樵山白云洞结庐读书",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "明代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及西樵山从该朝代起颇负盛名，白云洞亦建于该朝代的嘉靖年间",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "明嘉靖年间",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "白云洞具体的建造时间",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "位于广东珠江三角洲腹地，土地肥美，物产丰饶，文中描述其地理与人文环境",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "ad585651"
+    },
+    "chunk_0003": {
+      "entities": [
+        {
+          "name": "白云洞",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "建于明嘉靖年间，原为学者何白云结庐读书处，现更名为樵园",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "玉楼书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "明朝开设的书院，建在山腰间，画栋雕梁，如今已改称云泉仙馆",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "云泉仙馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "由明朝玉楼书院改称而成的建筑，位于西樵山",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "邯郸别邸",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "明代遗迹，内含守真阁、听泉楼、高士阁等楼宇",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "守真阁",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于邯郸别邸内的楼宇之一，依山而建",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "听泉楼",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于邯郸别邸内的楼宇之一，别具情趣",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "高士阁",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于邯郸别邸内的楼宇之一，错落有致",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石燕岩",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "西樵山天然奇景，洞内清泉怪石，终年积水",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "我国近代改良派领袖、维新运动领导人，1858 年诞生于南海县良河乡苏村",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "詹天佑",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "我国科学技术界先驱、杰出铁路工程师，出生于南海，领导修建京张铁路",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "吴既人",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代小说史中占有重要地位的批判主义小说家，南海县人",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《二十年目睹之怪现状》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "吴既人的代表作，暴露封建社会统治集团腐朽昏庸和官场卑鄙",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪乡",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "西樵山下的小溪旁村落，旧名儒村，被视为读书人聚居之地",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "拥有白云洞、石燕岩等天然奇景和众多古迹的名山",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "明代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中提及的白云洞、玉楼书院、邯郸别邸的建设时期",
+          "confidence": 0.85,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "明嘉靖",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "白云洞建设的具体年号时期",
+          "confidence": 0.86,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "8b37c372"
+    },
+    "chunk_0004": {
+      "entities": [
+        {
+          "name": "儒村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "旧指读书人聚居之地，二十世纪初哺育了石景宜的古村落",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪乡",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "石景宜出生地，拥有石家大宅的历史乡镇区域",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于儒溪乡，门楼刻有武威大道，曾为富户石国璋居所的高大宅院",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B5 石刻碑记类",
+          "official_label": "不可移动文物",
+          "official_type": "石窟寺及石刻",
+          "description": "石家大宅门楼上刻着的四个正楷大字，为清朝武官遗迹，历经百年依然显赫",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "二十世纪初出生于儒溪乡，以散播书香为己任的书海奇人",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石国璋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜祖父，考取秀才并曾任太学生，后弃官从商成为佛山丝绸富户",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "巨泉",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石国璋侄孙，因骄纵顽劣导致石家家道中落的历史人物",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "当时广东的丝织工业中心，石国璋在此做起丝绸生意并发家",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国子监",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "京都最高学府，石国璋曾在此当过太学生",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "清朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "石国璋曾祖父担任武官及石家大宅兴建所处的历史朝代",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "cc347a43"
+    },
+    "chunk_0005": {
+      "entities": [
+        {
+          "name": "石国璋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的南海历史人物，极珍重名声，曾替人还债后返回祖居",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "石家大宅傍近的历史道路，文中提到其匾额巍然如故及门楼",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪河",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "流经石家后院附近的河流，河畔野花散发馨香",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石国璋第十四子石岳云的妻子，石景宜的生母",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石国璋第十四子，石景宜之父",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，石岳云第六子，1916 年农历闰二月二十一日寅时出生",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "石氏家族居住的宅邸，位于武威大道旁，见证家族兴衰",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "865da35d"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "4688a0d7"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "8c67830c"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "6d3024dd"
+    },
+    "chunk_0009": {
+      "entities": [],
+      "chunk_text_hash": "b46c00cd"
+    },
+    "chunk_0010": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本核心人物，南海籍人士，文中记述其逃难经历及对老家石家大宅的眷恋",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "麻行街 43 号",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "石景宜度过童年和少年时代的故居，位于广州，是其家族曾居住的小房屋",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县官山区",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "石景宜一家逃难途中抵达的集镇，是离儒溪乡最近的地点",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪乡",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "石景宜的老家所在地，文中提及为离官山区最近的乡村",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "石景宜老家所在的街道，文中描述其门楼及周围荒凉景象",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家大宅",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "石景宜家族的祖居，文中提及他离开时年幼，后部分房屋被抵押",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "bedc16ad"
+    },
+    "chunk_0011": {
+      "entities": [],
+      "chunk_text_hash": "1244a2b1"
+    },
+    "chunk_0012": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "石余氏临终前遗憾无法再回到的名山，位于南海区，是其故乡的重要地理标志",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "石余氏故乡的具体村落，与其家族记忆紧密相连，文中提及她遗憾不能回到此地",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "菩萨",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A4 信俗礼仪类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "石余氏在战乱与病痛中祈求保佑全家平安的民间信仰对象，反映地方信俗传统",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b964f68d"
+    },
+    "chunk_0013": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "文中提及石余氏遗憾无法回到的地点，南海区标志性名山",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "文中与西樵山并列提及的地点，推测为南海区内具体古村落",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石余氏",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "石景宜之母，石家族群代表人物，文中描述其贤慧慈祥、独力维系大家庭",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石岳云",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石余氏丈夫，文中记述其在日军占领香港后生活困顿、病倒的历史人物",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "日军占领香港",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及导致石家生活萧条、困难加剧的重大历史事件",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "50da4c79"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "728d1d82"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "b2b59b1d"
+    },
+    "chunk_0016": {
+      "entities": [],
+      "chunk_text_hash": "b18084f3"
+    },
+    "chunk_0017": {
+      "entities": [],
+      "chunk_text_hash": "82617403"
+    },
+    "chunk_0018": {
+      "entities": [],
+      "chunk_text_hash": "8b5c7d3c"
+    },
+    "chunk_0019": {
+      "entities": [
+        {
+          "name": "忠诚书店",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "1947 年石景宜在广州市文德北路 202 号租下开设的书店，专门收购销售旧书和碑帖",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "文德北路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "广州市中心著名的文化街，聚集众多旧书店、古玩店及中山图书馆",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中山图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "位于文德北路内藏书丰富的图书馆，是该文化街的重要地标",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南国诗社",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "",
+          "official_type": "",
+          "description": "明代存在于文德北路故址的诗社组织",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "古籍",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "文德北路旧书店中由老行尊鉴别的古代书籍文献",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，从事旧书收购与销售，创办忠诚书店的文化商人",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梅县",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "石景宜早期前往粤东地区收购旧书的目的地之一",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汕头",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "石景宜早期前往粤东地区收购旧书的目的地之一",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c69fee70"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "60880e6c"
+    },
+    "chunk_0021": {
+      "entities": [
+        {
+          "name": "新青年",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "大革命时期发行的进步刊物，文中提及被当作包豆豉的废纸发现半页",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "创造",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "具有历史价值的革命史料刊物，被石景宜从废纸堆中整理出来",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "语丝",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "具有历史价值的革命史料刊物，被石景宜从废纸堆中整理出来",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "响导",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "具有历史价值的革命史料刊物，被石景宜从废纸堆中整理出来",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "忠诚书店",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史建筑",
+          "description": "广州一家三层结构的旧书店，以史籍丰富和书价便宜闻名，是学者寻找革命史料的重要场所",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "大革命时期",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "指 1926 年到 1927 年共产党在广东东江一带发行进步刊物的历史阶段",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "041f38f8"
+    },
+    "chunk_0022": {
+      "entities": [
+        {
+          "name": "郭沫若",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "著名学者，五十年代初期曾光临石景宜书店，对书店给予赞誉",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "容庚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中山大学著名的甲骨文教授，当时广州书店的常客",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "商承祚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中山大学著名的甲骨文教授，当时广州书店的常客",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杜定友",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中山图书馆馆长，当时广州书店的常客",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "传记主人公，图书业行家，曾任广州市书籍文具公会委员",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中山大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "容庚、商承祚等著名知识分子任职的学术机构",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中山图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "杜定友任馆长的公共阅读与文化场所",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州市书籍文具公会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "解放初期石景宜被推为委员的行业组织",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "五十年代初期",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "郭沫若光临书店及石景宜经营书店的历史时间段",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "1956 年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "各私营书店合并为合作商店的具体年份",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "甲骨文",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "容庚、商承祚研究的学术领域及相关考证著作的主题",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "45a5a043"
+    },
+    "chunk_0023": {
+      "entities": [],
+      "chunk_text_hash": "526f736c"
+    },
+    "chunk_0024": {
+      "entities": [],
+      "chunk_text_hash": "c59316bb"
+    },
+    "chunk_0025": {
+      "entities": [],
+      "chunk_text_hash": "096a63f0"
+    },
+    "chunk_0026": {
+      "entities": [],
+      "chunk_text_hash": "9c3ce57e"
+    },
+    "chunk_0027": {
+      "entities": [],
+      "chunk_text_hash": "f87af789"
+    },
+    "chunk_0028": {
+      "entities": [],
+      "chunk_text_hash": "5ef50653"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "bd14489a"
+    },
+    "chunk_0030": {
+      "entities": [],
+      "chunk_text_hash": "4a9320d2"
+    },
+    "chunk_0031": {
+      "entities": [],
+      "chunk_text_hash": "5525328f"
+    },
+    "chunk_0032": {
+      "entities": [],
+      "chunk_text_hash": "76902849"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "b73c8775"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "9e73771b"
+    },
+    "chunk_0035": {
+      "entities": [],
+      "chunk_text_hash": "4753b579"
+    },
+    "chunk_0036": {
+      "entities": [],
+      "chunk_text_hash": "316682cc"
+    },
+    "chunk_0037": {
+      "entities": [],
+      "chunk_text_hash": "a46b1118"
+    },
+    "chunk_0038": {
+      "entities": [],
+      "chunk_text_hash": "48b0acf4"
+    },
+    "chunk_0039": {
+      "entities": [],
+      "chunk_text_hash": "2cfd62e3"
+    },
+    "chunk_0040": {
+      "entities": [],
+      "chunk_text_hash": "dd18171f"
+    },
+    "chunk_0041": {
+      "entities": [],
+      "chunk_text_hash": "bae9fda6"
+    },
+    "chunk_0042": {
+      "entities": [],
+      "chunk_text_hash": "a3e588e5"
+    },
+    "chunk_0043": {
+      "entities": [],
+      "chunk_text_hash": "cd88d5a0"
+    },
+    "chunk_0044": {
+      "entities": [],
+      "chunk_text_hash": "bc0030f7"
+    },
+    "chunk_0045": {
+      "entities": [],
+      "chunk_text_hash": "03d726b9"
+    },
+    "chunk_0046": {
+      "entities": [],
+      "chunk_text_hash": "85de7bcd"
+    },
+    "chunk_0047": {
+      "entities": [],
+      "chunk_text_hash": "12e52454"
+    },
+    "chunk_0048": {
+      "entities": [],
+      "chunk_text_hash": "946b868b"
+    },
+    "chunk_0049": {
+      "entities": [],
+      "chunk_text_hash": "0b718de8"
+    },
+    "chunk_0050": {
+      "entities": [],
+      "chunk_text_hash": "3376a335"
+    },
+    "chunk_0051": {
+      "entities": [],
+      "chunk_text_hash": "1f0f076a"
+    },
+    "chunk_0052": {
+      "entities": [],
+      "chunk_text_hash": "89bf8c2a"
+    },
+    "chunk_0053": {
+      "entities": [],
+      "chunk_text_hash": "3498d9d4"
+    },
+    "chunk_0054": {
+      "entities": [],
+      "chunk_text_hash": "f5a6a4c9"
+    },
+    "chunk_0055": {
+      "entities": [],
+      "chunk_text_hash": "4dff5266"
+    },
+    "chunk_0056": {
+      "entities": [],
+      "chunk_text_hash": "4e6287a2"
+    },
+    "chunk_0057": {
+      "entities": [
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "我国革命伟大的先行者，文中提及纪念其诞辰 120 周年活动及相关研究",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为故居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于南海的康有为居住旧址，文中提到石景宜先生曾参观此地",
+          "confidence": 0.97,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海康有为故居陈列馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "展示康有为生平事迹的场馆，接收了台湾出版的研究书籍",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代著名政治家、思想家，文中提及对其历史进行深入研究",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代著名思想家，与康有为并称康梁，文中提及对其后人情况的调查",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东康梁研究会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "致力于康有为、梁启超研究的学术团体，石景宜曾任名誉会长",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄故居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "文中提及石景宜先生瞻仰的宋庆龄居住旧址",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史建筑",
+          "description": "石景宜先生昔日创业并身居第一线的书局，承载其创业精神",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "全国政协六届四次会议",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1986 年在北京举行的会议，石景宜先生首次与会并提出相关提案",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "全国政协六届五次会议",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1987 年举行的会议，会上提出了继续举办台湾图书展销会的提案",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "83e83197"
+    },
+    "chunk_0058": {
+      "entities": [
+        {
+          "name": "白云观",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "道教正观，唐朝天长观旧址，金明昌三年重建，北京规模最大的道教庙宇",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "洞天福地",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B5 石刻碑记类",
+          "official_label": "不可移动文物",
+          "official_type": "石窟寺及石刻",
+          "description": "白云观前大牌楼上的匾额题字，清朝乾隆皇御笔",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "太极宫",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "白云观内的主要殿宇之一",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "长春宫",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "白云观内的主要殿宇之一",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "灵官殿",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "白云观内的主要殿宇之一",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "玉皇堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "白云观内的主要殿宇之一",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒仙殿",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "白云观内的主要殿宇之一",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "灯会",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A3 民俗节庆类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "白云观每年举行的盛大传统民俗活动，以花灯展示为主",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄故居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于后海北沿 46 号，宋庆龄生前居住处，逝世后辟为纪念馆",
+          "confidence": 0.99,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，著名爱国人士，曾提出举办台湾图书展销会提案",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "冰蕾",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "邀请石景宜参观北京名胜古迹的人物",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "乾隆皇",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清朝皇帝，曾御笔题写白云观前牌楼“洞天福地”",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中华人民共和国名誉主席，中国近现代史上杰出人物",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代民主革命先驱，文中提及与宋庆龄并为革命奔走",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "金明昌三年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "白云观重建的具体历史年份",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "清朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "乾隆皇所属的朝代，白云观牌楼题字时期",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "唐朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "白云观前身天长观存在的历史时期",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "abcef1d6"
+    },
+    "chunk_0059": {
+      "entities": [],
+      "chunk_text_hash": "6af32d79"
+    },
+    "chunk_0060": {
+      "entities": [],
+      "chunk_text_hash": "e1eede40"
+    },
+    "chunk_0061": {
+      "entities": [
+        {
+          "name": "宋庆龄故居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于北京和上海的宋庆龄生前寓所，1982 年正式开放，辟为生平事迹展览厅",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋氏墓地",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "宋庆龄亲自安排安葬李燕娥的家族墓地",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "宋庆龄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "伟大爱国主义、民主主义、国际主义、共产主义战士，文中提及的革命领袖",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李燕娥",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "陪伴宋庆龄五十三年的忠诚卫士，坚强高尚的女性",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，热心支持国内高校图书馆建设的爱国人士",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中山大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "广东高等学校之一，石景宜先生关注其图书馆建设",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "暨南大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "广东高等学校之一，接受石景宜先生支持的学府",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "华南理工大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "广东高等学校之一，石景宜先生关注其图书馆发展",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "华南农业大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "广东高等学校之一，列入石景宜先生支持的高校名单",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "7d2cf9c8"
+    },
+    "chunk_0062": {
+      "entities": [],
+      "chunk_text_hash": "17c6661f"
+    },
+    "chunk_0063": {
+      "entities": [],
+      "chunk_text_hash": "4ddbff25"
+    },
+    "chunk_0064": {
+      "entities": [],
+      "chunk_text_hash": "ff44f66c"
+    },
+    "chunk_0065": {
+      "entities": [],
+      "chunk_text_hash": "d874541c"
+    },
+    "chunk_0066": {
+      "entities": [],
+      "chunk_text_hash": "655ba143"
+    },
+    "chunk_0067": {
+      "entities": [],
+      "chunk_text_hash": "1e29c7fc"
+    },
+    "chunk_0068": {
+      "entities": [],
+      "chunk_text_hash": "994f2e4f"
+    },
+    "chunk_0069": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "石景宜出生地，文中描述为风景如画、绿水青山之地",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍爱国人士，以向大陆赠书及策划海峡两岸书画交流闻名",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "61037ec8"
+    },
+    "chunk_0070": {
+      "entities": [
+        {
+          "name": "中国画",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "文中提及的世界艺术之林中最具中国民族形式和风格的艺术品之一，石景宜先生致力推动其两岸交流",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "书法",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "与中国画并列，被视为炎黄子孙引以为自豪的瑰宝，是此次文化交流的核心内容",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "书画艺术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "指代台湾与大陆同属一文化渊源但曾长期分隔的艺术形式，包含 333 幅精品作品",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "《中国当代书画选》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "由石景宜先生斥巨资将展出作品联璧成集，台湾艺术图书公司制作、香港汉荣书局出版的精美画集",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾艺术图书公司",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "负责制作《中国当代书画选》画集的机构，参与文化遗产的传播与保存",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "香港汉荣书局",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "负责出版《中国当代书画选》画局的机构，石景宜先生创办，致力于文化传播",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，耗费巨资搜集两岸及海外华人书画作品，筹办巡回展览并出版画集的文化先驱",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台北",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "《中国当代书画展》巡回展出的城市之一，位于台湾",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "北京",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "《中国当代书画展》巡回展出的城市之一，祖国首都",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "《中国当代书画展》巡回展出的城市之一，广东省会",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "《中国当代书画展》巡回展出的城市之一，南海区所属地级市",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "1d725be0"
+    },
+    "chunk_0071": {
+      "entities": [],
+      "chunk_text_hash": "acf8b681"
+    },
+    "chunk_0072": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍爱国人士，致力于弘扬中国书画艺术，搜集千余件书画作品并举办展览",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石汉基",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜长子，汉荣书局总经理，协助父亲推动文化沟通事业",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "何恭上",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "台北艺术图书公司总经理，负责联络台湾地区书画界参与《中国当代书画展》",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黄君璧",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "原籍广东南海的著名书画家，艺术大师，获中华文艺奖及台湾文艺特别贡献奖",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "欧豪年",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李奇茂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "胡克敏",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "吴平",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周澄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李义弘",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台静农",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "傅夫",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "楚戈",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "赵松泉",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "响应《中国当代书画展》的著名书画家之一",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石汉基任总经理的机构，参与弘扬祖国文化和沟通两岸书画交流",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台北艺术图书公司",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "何恭上任总经理的机构，负责联络台湾书画家参展",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国当代书画展",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "石景宜构想并举办的海内外大型书画展览，汇集一千五百多位画家作品",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国画研究会",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化活动",
+          "description": "黄君璧曾参与切磋技艺的艺术团体",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中华文艺奖",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E3 碑记题咏类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "黄君璧曾获得的第一届奖项，表彰其在文艺领域的贡献",
+          "confidence": 0.79,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾文艺特别贡献奖",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E3 碑记题咏类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "黄君璧获得的荣誉奖项，肯定其对台湾文艺的特殊贡献",
+          "confidence": 0.78,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "b12a6d84"
+    },
+    "chunk_0073": {
+      "entities": [],
+      "chunk_text_hash": "ff3f960e"
+    },
+    "chunk_0074": {
+      "entities": [
+        {
+          "name": "台静农",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "行书书法家，其作品饮誉东南亚",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李超哉",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "行书书法家，其作品饮誉东南亚",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "彭鸿",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "篆书书法家",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黄伯平",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "以雄浑笔力写下隶书作品的书法家",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "赵少昂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "居住在香港的岭南派著名画家，代表作《蝉》",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杨善深",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "居住在香港的岭南派著名画家，代表作《秋》",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "关山月",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "岭南派在广东的名家，参与创作《四君子图》",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "黎雄才",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "岭南派在广东的名家，参与创作《四君子图》",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "周干秋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "旅美著名中国画家，曾获纽约中华文化协会文化艺术奖",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁粲樱",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "画家周干秋夫人，共同寄送书画作品参展",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "姚迪雄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "澳大利亚知名华人青年画家，代表作《百袋鼠图》",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈建坡",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "新加坡有名的华人画家",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "曾纪策",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "新加坡华人画家，受邀为画展提供佳作",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "许梦丰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "新加坡华人画家，曾获新加坡国庆美展优秀奖",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "被海峡两岸文化界称赞为慷慨、急公仗义的先生，本次传主",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "353ee620"
+    },
+    "chunk_0075": {
+      "entities": [],
+      "chunk_text_hash": "775e2279"
+    },
+    "chunk_0076": {
+      "entities": [],
+      "chunk_text_hash": "f10963c5"
+    },
+    "chunk_0077": {
+      "entities": [
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中主角，致力于两岸文化交流，集资买书赠国家并征集书画的爱国人士",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "姚基",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜在北京结识的朋友，陪同其游览并协助征集画作",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "冰蕾",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "姚基家属，被邀请协助石景宜先生拜访画家征集作品",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "董寿平",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国画研究会名誉会长，擅长画松竹梅，人称其所画竹为寿平竹",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "寿平竹",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "董寿平所画的竹子，具有独特艺术风格，被誉为寿平竹",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "友谊宾馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生在北京下榻的地点，作为此次征集活动的出发地",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国画研究会",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "董寿平担任名誉会长的艺术机构，代表中国传统绘画研究领域",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "c472c30c"
+    },
+    "chunk_0078": {
+      "entities": [
+        {
+          "name": "寿平竹",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "董老所画竹的特定称谓，体现传统国画技法与风格",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "墨竹图",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "董老连夜绘制并托人转交石景宜先生的书画作品",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "张大干",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "胡爽庵的恩师，著名画家，文中提及对其怀念",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "孙云生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "张大千的入室弟子，胡爽庵的师兄，被征集作品的画家",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "荣宝斋",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "专卖书画名作的场所，胡爽庵《虎》在此标价三万元",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈奇峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东南海人，老画家，石景宜同乡，准备回故乡举办画展",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "朝鲜面馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "",
+          "official_type": "",
+          "description": "位于芳草地北巷附近，三人午餐之处",
+          "confidence": 0.75,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "芳草地北巷",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "老画家陈奇峰居住地，三人前往拜访之处",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "6c209eff"
+    },
+    "chunk_0079": {
+      "entities": [],
+      "chunk_text_hash": "74a6f379"
+    },
+    "chunk_0080": {
+      "entities": [],
+      "chunk_text_hash": "1753cd81"
+    },
+    "chunk_0081": {
+      "entities": [],
+      "chunk_text_hash": "00428715"
+    },
+    "chunk_0082": {
+      "entities": [],
+      "chunk_text_hash": "16edb97a"
+    },
+    "chunk_0083": {
+      "entities": [],
+      "chunk_text_hash": "219812a5"
+    },
+    "chunk_0084": {
+      "entities": [],
+      "chunk_text_hash": "159738f5"
+    },
+    "chunk_0085": {
+      "entities": [],
+      "chunk_text_hash": "685946c6"
+    },
+    "chunk_0086": {
+      "entities": [],
+      "chunk_text_hash": "c9497b44"
+    },
+    "chunk_0087": {
+      "entities": [],
+      "chunk_text_hash": "91a25222"
+    },
+    "chunk_0088": {
+      "entities": [],
+      "chunk_text_hash": "ca335ea4"
+    },
+    "chunk_0089": {
+      "entities": [],
+      "chunk_text_hash": "6a1bad9d"
+    },
+    "chunk_0090": {
+      "entities": [],
+      "chunk_text_hash": "e5eef077"
+    },
+    "chunk_0091": {
+      "entities": [],
+      "chunk_text_hash": "14f9b6ae"
+    },
+    "chunk_0092": {
+      "entities": [],
+      "chunk_text_hash": "cb4f5d47"
+    },
+    "chunk_0093": {
+      "entities": [
+        {
+          "name": "南海县志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "清同治 11 年及宣统二年刊刻的珍贵地方志资料，石景宜先生曾捐赠给家乡",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东文征",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "石景宜先生捐赠给南海县修志工作的古籍之一",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州府志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "与南海历史有关联的地方志资料，由石景宜先生捐赠",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "番禺县志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "与南海历史有关联的地方志资料，由石景宜先生捐赠",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "顺德县志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "与南海历史有关联的地方志资料，由石景宜先生捐赠",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的南海县代表性历史名人，石景宜建议收集其材料",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "爱国人士，向南海县捐赠大量古籍并担任地方志编委会顾问",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "刘紫英",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜夫人，提醒其向家乡赠书并陪同出席仪式",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "杨应彬",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东省政协副主席，即席赋诗赞誉石景宜先生",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石汉基",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜长子，陪同父亲出席赠书及受聘仪式",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县地方志编纂委员会",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "负责编纂县志的机构，聘请石景宜为顾问并举办赠书仪式",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东广播电视大学南海分校",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1987 年举行石景宜先生赠书暨受聘仪式的场所",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "4a08d1a4"
+    },
+    "chunk_0094": {
+      "entities": [
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海名人，文中提及需收集其材料，并获赠其遗著",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为纪念馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "家乡刚落成的纪念康有为的建筑，石景宜先生曾向其赠送图书资料",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "沙湾飘色",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统舞蹈",
+          "description": "番禺文化之乡饮誉海内外的传统民俗表演艺术",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "英东体育馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "文中提及落成的体育建筑，石景宜先生参加剪彩仪式",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "九比大桥",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中提及落成的桥梁建筑，属于地方基础设施遗产",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "美丽华大酒店",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "文中提及落成的酒店建筑，具有时代特征",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东省九十七种县志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "石景宜先生捐赠的珍贵地方志文献，填补广东志书空白",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾省志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "石景宜先生捐赠的 48 册台湾出版地方志",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "新修方志丛刊",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "石景宜先生捐赠的 725 册方志丛书",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "举行建校四十周年纪念活动并新建图书馆的教育机构",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "秦朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的行政区划历史背景，南海与番禺原属一家",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "0d8ad5ab"
+    },
+    "chunk_0095": {
+      "entities": [
+        {
+          "name": "南海中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "石景宜先生捐赠书籍并提供书架陈设参考意见的学校",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "戊戌维新",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的 90 周年纪念的历史变革事件",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代杰出思想家，文中提及其诞辰 130 周年及维新变法事迹",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代杰出思想家，与康有为共同倡导社会改革",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "戊戌变法研究国际学术讨论会举办地，位于南海县",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "戊戌变法研究国际学术讨论会",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E5 口述史与地方记忆材料",
+          "official_label": "非物质文化遗产",
+          "official_type": "民间文学",
+          "description": "200 多位海内外学者聚集举行的学术会议，纪念戊戌维新",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广东康梁研究会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "石景宜先生担任名誉会长的学术研究团体",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "光绪帝",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末皇帝，文中提及康梁推动其进行维新变法",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵三湖书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "石景宜先生赠送两千六百多册图书的古书院",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "二十四史",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "石景宜先生向西樵三湖书院赠送的古典历史书籍",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国当代书画选",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "出版前由石景宜先生在南海县组织书画作品的选集",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "张义联",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "时任南海县副县长，陪同石景宜先生参观书画室",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "a84fcb56"
+    },
+    "chunk_0096": {
+      "entities": [],
+      "chunk_text_hash": "eb7f14b3"
+    },
+    "chunk_0097": {
+      "entities": [
+        {
+          "name": "醒狮",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统舞蹈",
+          "description": "开幕式上作精彩表演的传统民间舞蹈，象征如意吉祥",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "唢呐队",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统音乐",
+          "description": "由十多名民间艺人组成，在开幕式奏起家乡乐曲的演奏团体",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "七彩麒麟",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统舞蹈",
+          "description": "由少年引路在广场奔跑跳跃的瑞兽表演道具，象征吉祥如意",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "巨龙",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统舞蹈",
+          "description": "在开幕式乐声中不断腾空翻滚的舞龙表演",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "石景宜先生清明节拜祭双亲的山川地点",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市艺术中心",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "举办《中国当代书画展》开幕式及座谈会的场所",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市中医院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "创建于 1956 年，石景宜先生在此治疗手腕伤势的医疗机构",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "冯德瑜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山市中医院历任院长之一，学识渊博的名医",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "李广海",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山市中医院历任院长之一，医术高超的名医",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈渭良",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山市中医院历任院长之一，骨伤科名医",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "叶雄干",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "为《中国当代书画展》在佛山展出赋诗志庆的乡人",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "清明节",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A3 民俗节庆类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "石景宜先生与家人前往西樵山拜祭双亲的传统节日",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "7677a9d2"
+    },
+    "chunk_0098": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "文中提及石景宜先生前往拜祭双亲及游览的胜地，位于南海区的重要自然与文化空间",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市迎宾馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生在佛山视察期间居住的场所，曾用于接待高级首长",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山市中医院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "文中提及医生准备出版《中医学概论》并获石景宜资助的医疗机构",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中医学概论",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "佛山市中医院医生准备出版的医学著作，获石景宜先生资金援助",
+          "confidence": 0.75,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "中国当代书画展",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "在佛山展出，促进石景宜与各界人士交流的艺术展览活动",
+          "confidence": 0.78,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山海外联谊会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "石景宜先生通过该组织向佛山多地图书馆及学校赠书的联络机构",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的公共文化机构之一",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的教育机构",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受赠书并举行新馆落成及赠书仪式的核心文化机构",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海广播电视大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的教育机构",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县教育局",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的教育行政机构",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "高明县图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的周边县区图书馆",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "顺德县图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的周边县区图书馆",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "三水县图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的周边县区图书馆",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石湾区图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书的图书馆单位",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生参观并获赠书籍的学校",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "石景宜先生曾向其赠书的乡村聚落",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "佛山艺术中心",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "举行赠书仪式及石景宜塑像揭幕仪式的文化活动场所",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜先生赠书仪式",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E5 口述史与地方记忆材料",
+          "official_label": "非物质文化遗产",
+          "official_type": "民间文学",
+          "description": "1990 年 12 月 18 日在佛山艺术中心举行的纪念性活动仪式",
+          "confidence": 0.79,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海丹青书画展",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "在南海县图书馆新馆落成之际开幕的书画展览",
+          "confidence": 0.81,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜塑像",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "在佛山艺术中心举行揭幕仪式的石景宜先生纪念雕像",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "1990 年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及石景宜先生集中赠书及举行多项仪式的具体年份",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "44bcc51c"
+    },
+    "chunk_0099": {
+      "entities": [
+        {
+          "name": "西樵胜地",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "石景宜先生游览的家乡名胜，位于南海区西樵镇",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生参观的家乡教育机构",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "戊戌变法研究国际学术讨论会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1988 年深秋石景宜先生参加的学术会议，关联戊戌变法历史事件",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "张义联",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "时任南海县副县长，陪同石景宜回乡并介绍西樵大桥建设情况",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈永锵",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广州画院院长，陪同石景宜回乡的文化界人士",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "陈奇峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国美术馆副研究馆员，陪同石景宜回乡的文化界人士",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "石景宜先生故乡所在的行政镇，儒溪村所在地",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒溪村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "石景宜先生的老家，文中提及解放前叫儒村，存有石家老屋",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家老屋",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "石景宜先生的祖居，位于儒溪村，计划修缮的历史建筑",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵大桥",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "南海县发展总公司集资建造的全广东第一座应用拉杆式设计的千米混凝土大桥",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "儒村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "儒溪村解放前的旧称",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石家旧居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "指代石景宜祖居，入口处有镌刻武威大道的石牌坊",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "武威大道",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B5 石刻碑记类",
+          "official_label": "不可移动文物",
+          "official_type": "石窟寺及石刻",
+          "description": "镌刻在石家旧居进口处石牌坊横匾上的四个字",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，著名爱国人士，计划修葺祖居并修建花园",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "d6e7c168"
+    },
+    "chunk_0100": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "石景宜先生 1987 年造访之地，有人赠联提及“西樵风骨”，为南海著名自然景观",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "西樵镇人民政府",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "曾计划修葺石景宜祖居并设立纪念性图书室的行政机构，代表西樵镇",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "南海县图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生认为应集中力量建设的地方图书馆，接受其赠书并设有陈列室",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "海峡两岸的石景宜赠书陈列室",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "为发挥赠书作用，在暨南大学、广州图书馆等单位设置的永久性展览空间",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "暨南大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "石景宜先生任董事并捐赠大批书籍的最高学府，设有赠书陈列室",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "广州图书馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "接受石景宜先生赠书较多并设置永久性赠书陈列室的单位之一",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立历史博物馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "台湾接受石景宜先生赠书并设置永久性赠书陈列室的机构",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "国立艺术专科学校",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "台湾接受石景宜先生赠书并设置永久性赠书陈列室的学校",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "韶关大学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "内地接受石景宜先生赠书并设置永久性赠书陈列室的单位之一",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "汉荣书局",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "石景宜先生创办的书局，对联中提及“汉荣书局东亚新姿”，代表其文化贡献",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "梁灵光",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "时任广东省省长兼暨南大学校长，与石景宜共同为图书馆落成典礼剪彩",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "敦煌宝藏",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "暨南大学陈列室收藏的罕见资料，共 150 册，搜集散失世界各地的敦煌国宝资料",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "台湾省通志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "暨南大学陈列室收藏的地方志文献，共 10 卷 48 册，记录台湾历史",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "name": "石景宜",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "本文传主，著名爱国人士，向内地及台湾捐赠四十多万册书籍，支持文化教育",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ],
+      "chunk_text_hash": "a08bf34e"
+    },
+    "chunk_0101": {
+      "entities": [],
+      "chunk_text_hash": "ddc1db2f"
+    },
+    "chunk_0102": {
+      "entities": [],
+      "chunk_text_hash": "09b39298"
+    },
+    "chunk_0103": {
+      "entities": [],
+      "chunk_text_hash": "33bbbaff"
+    },
+    "chunk_0104": {
+      "entities": [],
+      "chunk_text_hash": "d0504576"
+    },
+    "chunk_0105": {
+      "entities": [],
+      "chunk_text_hash": "b4925bc2"
+    },
+    "chunk_0106": {
+      "entities": [],
+      "chunk_text_hash": "c52f9f4a"
+    },
+    "chunk_0107": {
+      "entities": [],
+      "chunk_text_hash": "0090be3c"
+    },
+    "chunk_0108": {
+      "entities": [],
+      "chunk_text_hash": "c2711ad3"
+    },
+    "chunk_0109": {
+      "entities": [],
+      "chunk_text_hash": "3cfd0f91"
+    },
+    "chunk_0110": {
+      "entities": [],
+      "chunk_text_hash": "919faafc"
+    }
+  }
+}

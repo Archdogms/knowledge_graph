@@ -1,0 +1,1836 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "西樵山",
+          "target": "南海县",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "境内有一座遐迩闻名的西樵山",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "山上迄今还留有几处古色古香的明代建筑……白云洞",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "白云洞",
+          "target": "明嘉靖年间",
+          "relation_text": "建于",
+          "relation_group": "时序归属",
+          "evidence": "白云洞建于明嘉靖年间",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "何白云",
+          "target": "白云洞",
+          "relation_text": "结庐读书于",
+          "relation_group": "人物关联",
+          "evidence": "是当年学者何白云结庐读书处",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "西樵山",
+          "target": "明代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "从明代起就颇负盛名",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "白云洞",
+          "target": "明嘉靖",
+          "relation_text": "建于",
+          "relation_group": "时序归属",
+          "evidence": "白云洞建于明嘉靖年间",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "白云洞",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "和苍松翠柏中的白云洞...西樵山的天然奇景更蔚为壮观",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "玉楼书院",
+          "target": "明代",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "明朝开设的玉楼书院建在山腰间",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "玉楼书院",
+          "target": "云泉仙馆",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "如今已改称云泉仙馆",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "邯郸别邸",
+          "target": "明代",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "邯郸别邸也是明代遗迹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "守真阁",
+          "target": "邯郸别邸",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "内有守真阁、听泉楼、高士阁等楼宇",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "听泉楼",
+          "target": "邯郸别邸",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "内有守真阁、听泉楼、高士阁等楼宇",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "高士阁",
+          "target": "邯郸别邸",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "内有守真阁、听泉楼、高士阁等楼宇",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石燕岩",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵山的天然奇景...石燕岩高大宽",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "康有为",
+          "target": "儒溪乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "康有为...诞生于南海县良河乡苏村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "詹天佑",
+          "target": "儒溪乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑...也出生于南海",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "吴既人",
+          "target": "儒溪乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "吴既人...也是南海县人",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "吴既人",
+          "target": "《二十年目睹之怪现状》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他的代表作《二十年目睹之怪现状》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "儒溪乡",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵山下有一条小溪...这就是儒溪乡",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "儒村",
+          "target": "石景宜",
+          "relation_text": "哺育了",
+          "relation_group": "人物关联",
+          "evidence": "二十世纪初，儒村就哺育了以散播书香为己任的书海奇人石景宜",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "儒溪乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "石景宜出生在儒溪乡的石家大宅里",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家大宅",
+          "target": "儒溪乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "石家大宅在儒溪乡的远近是颇有名望的",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家大宅",
+          "target": "武威大道",
+          "relation_text": "刻有",
+          "relation_group": "营建创造",
+          "evidence": "高大的门楼上，刻着武威大道四个正楷大字",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石国璋",
+          "target": "石家大宅",
+          "relation_text": "曾居",
+          "relation_group": "人物关联",
+          "evidence": "大宅昔日的主人绝非一般的平民百姓...石国璋曾考取了秀才",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石国璋",
+          "target": "国子监",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "到京都最高学府国子监当过太学生",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石国璋",
+          "target": "佛山",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "到当时广东的丝织工业中心佛山做起丝绸生意来",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "巨泉",
+          "target": "石国璋",
+          "relation_text": "拖累",
+          "relation_group": "人物关联",
+          "evidence": "巨泉非但毫无悔改之意，反而变本加厉，盗用石国璋的名义东挪西借",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "武威大道",
+          "target": "清朝",
+          "relation_text": "遗存于",
+          "relation_group": "时序归属",
+          "evidence": "武威大道就是他留下的遗迹...石景宜的曾祖父当过清朝的武官",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "石国璋",
+          "target": "石家大宅",
+          "relation_text": "返回居住于",
+          "relation_group": "人物关联",
+          "evidence": "只好停业返回祖居，守着家里的薄产度日……石家大宅里每增添一口人丁",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家大宅",
+          "target": "武威大道",
+          "relation_text": "坐落于旁",
+          "relation_group": "空间关联",
+          "evidence": "石家大宅里，傍近武威大道的两间小屋透出浑黄的烛光",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家大宅",
+          "target": "儒溪河",
+          "relation_text": "邻近流经",
+          "relation_group": "空间关联",
+          "evidence": "石家后院的翠竹婆娑起舞……儒溪河畔的野花散发着馨香",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石余氏",
+          "target": "石岳云",
+          "relation_text": "嫁予",
+          "relation_group": "人物关联",
+          "evidence": "这位妇女是石国璋的儿媳石余氏，石国璋第十四子石岳云的妻子",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石余氏",
+          "target": "石景宜",
+          "relation_text": "生育",
+          "relation_group": "人物关联",
+          "evidence": "新降生的婴儿就是石岳云的第六个孩子石景宜……这位妇女是石国璋的儿媳石余氏",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石岳云",
+          "target": "石景宜",
+          "relation_text": "生育",
+          "relation_group": "人物关联",
+          "evidence": "新降生的婴儿就是石岳云的第六个孩子石景宜",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "石岳云",
+          "relation_text": "是之子",
+          "relation_group": "从属分类",
+          "evidence": "新降生的婴儿就是石岳云的第六个孩子石景宜",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石岳云",
+          "target": "石国璋",
+          "relation_text": "是之子",
+          "relation_group": "从属分类",
+          "evidence": "石国璋第十四子石岳云",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "麻行街 43 号",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "在麻行街 43 号，他度过了无忧无虑的童年和少年时代。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "石家大宅",
+          "relation_text": "离开自",
+          "relation_group": "人物关联",
+          "evidence": "当年他离开石家大宅时，还在母亲的怀里娇嗔撒泼",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "南海县官山区",
+          "target": "儒溪乡",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "南海县官山区，这是离儒溪乡最近的一个集镇。",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家大宅",
+          "target": "武威大道",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他跨进武威大道的门楼...这里的一部分房屋已被十八叔抵押给别人",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "石余氏",
+          "target": "西樵山",
+          "relation_text": "遗憾未归",
+          "relation_group": "人物关联",
+          "evidence": "她遗憾再不能回到西樵山、儒村……客死异乡，令她抱恨终生。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石余氏",
+          "target": "儒村",
+          "relation_text": "遗憾未归",
+          "relation_group": "人物关联",
+          "evidence": "她遗憾再不能回到西樵山、儒村……客死异乡，令她抱恨终生。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石岳云",
+          "target": "石余氏",
+          "relation_text": "配偶为",
+          "relation_group": "人物关联",
+          "evidence": "石余氏是一位极其贤慧慈祥的妇女，丈夫长期在香港谋生",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "日军占领香港",
+          "target": "石岳云",
+          "relation_text": "致困于",
+          "relation_group": "人物关联",
+          "evidence": "1941 年 12 月 25 日，日军占领香港，市面更加萧条……日子过得越来越困难。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "忠诚书店",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1947 年，他经过再三勘酌，终于租下了文德北路 202 号的半间店面，开了一间小书店……便取名为忠诚书店",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "忠诚书店",
+          "target": "文德北路",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "租下了文德北路 202 号的半间店面，开了一间小书店",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "中山图书馆",
+          "target": "文德北路",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "文德北路是广州市中心一条很有名气的文化街……有藏书丰富的中山图书馆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "南国诗社",
+          "target": "文德北路",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "这里有明代南国诗社的故址",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "梅县",
+          "relation_text": "前往",
+          "relation_group": "人物关联",
+          "evidence": "石景宜经常天不亮就起床，披星戴月，乘班车赶往粤东的梅县、汕头等地",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "汕头",
+          "relation_text": "前往",
+          "relation_group": "人物关联",
+          "evidence": "石景宜经常天不亮就起床，披星戴月，乘班车赶往粤东的梅县、汕头等地",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "大革命时期",
+          "target": "新青年",
+          "relation_text": "发行于",
+          "relation_group": "时序归属",
+          "evidence": "在 1926 年到 1927 年的大革命时期，共产党在广东东江一带发行了很多进步刊物",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "郭沫若",
+          "target": "石景宜",
+          "relation_text": "光临",
+          "relation_group": "人物关联",
+          "evidence": "郭沫若的光临，更为书店平添了一段佳话",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "容庚",
+          "target": "中山大学",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "当时中山大学著名的甲骨文教授容庚",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "商承祚",
+          "target": "中山大学",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "当时中山大学著名的甲骨文教授...商承祚",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "杜定友",
+          "target": "中山图书馆",
+          "relation_text": "任馆长",
+          "relation_group": "人物关联",
+          "evidence": "中山图书馆馆长杜定友",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "广州市书籍文具公会",
+          "relation_text": "任委员",
+          "relation_group": "人物关联",
+          "evidence": "解放初期，石景宜被推为广州市书籍文具公会委员",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "容庚",
+          "target": "甲骨文",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "中山大学著名的甲骨文教授容庚",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "商承祚",
+          "target": "甲骨文",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "中山大学著名的甲骨文教授...商承祚",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": []
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": []
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "白云观",
+          "target": "唐朝",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "是唐朝天长观旧址",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "白云观",
+          "target": "金明昌三年",
+          "relation_text": "重建于",
+          "relation_group": "时序归属",
+          "evidence": "金明昌三年重建",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "乾隆皇",
+          "target": "洞天福地",
+          "relation_text": "题写",
+          "relation_group": "营建创造",
+          "evidence": "上书洞天福地，是清朝乾隆皇御笔",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "太极宫",
+          "target": "白云观",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他们参观了太极宫、长春宫、灵官殿、玉皇堂、儒仙殿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "长春宫",
+          "target": "白云观",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他们参观了太极宫、长春宫、灵官殿、玉皇堂、儒仙殿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "灵官殿",
+          "target": "白云观",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他们参观了太极宫、长春宫、灵官殿、玉皇堂、儒仙殿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "玉皇堂",
+          "target": "白云观",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他们参观了太极宫、长春宫、灵官殿、玉皇堂、儒仙殿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "儒仙殿",
+          "target": "白云观",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他们参观了太极宫、长春宫、灵官殿、玉皇堂、儒仙殿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "白云观",
+          "target": "灯会",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "白云观每年都举行盛大灯会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "宋庆龄故居",
+          "target": "宋庆龄",
+          "relation_text": "曾居住",
+          "relation_group": "人物关联",
+          "evidence": "这是宋庆龄生前居住的地方",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "冰蕾",
+          "target": "石景宜",
+          "relation_text": "邀请",
+          "relation_group": "人物关联",
+          "evidence": "石景宜先生应冰蕾之邀，参观北京的名胜古迹",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": []
+    },
+    "chunk_0060": {
+      "relations": []
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "李燕娥",
+          "target": "宋庆龄",
+          "relation_text": "陪伴",
+          "relation_group": "人物关联",
+          "evidence": "来到宋庆龄身边，整整陪伴了她五十三年",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "宋庆龄",
+          "target": "李燕娥",
+          "relation_text": "安葬于",
+          "relation_group": "人物关联",
+          "evidence": "宋庆龄亲自安排，把李燕娥安葬在宋氏墓地",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "李燕娥",
+          "target": "宋氏墓地",
+          "relation_text": "安葬于",
+          "relation_group": "空间关联",
+          "evidence": "把李燕娥安葬在宋氏墓地",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "宋庆龄",
+          "target": "宋庆龄故居",
+          "relation_text": "寓所辟为",
+          "relation_group": "营建创造",
+          "evidence": "她在北京，上海的两处寓所均已辟为宋庆龄故居",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "宋庆龄故居",
+          "relation_text": "参观",
+          "relation_group": "人物关联",
+          "evidence": "石景宜先生依依不舍地离开宋庆龄故居",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "中山大学",
+          "relation_text": "关注",
+          "relation_group": "人物关联",
+          "evidence": "他对国内高等学校，尤其是广东高等学校的图书馆建设十分关注，先后向中山大学",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "暨南大学",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "先后向中山大学、暨南大学、华南理工大学、华南农业大学",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "华南理工大学",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "先后向中山大学、暨南大学、华南理工大学、华南农业大学",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "华南农业大学",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "先后向中山大学、暨南大学、华南理工大学、华南农业大学",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": []
+    },
+    "chunk_0063": {
+      "relations": []
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": []
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "西樵山",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "石景宜出生于风景如画的西樵山麓",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "中国画",
+          "relation_text": "致力推动",
+          "relation_group": "人物关联",
+          "evidence": "他一向认为，中国画和书法是世界艺术之林中最具中国民族形式和风格的艺术品之一种",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "书法",
+          "relation_text": "致力推动",
+          "relation_group": "人物关联",
+          "evidence": "他一向认为，中国画和书法是世界艺术之林中最具中国民族形式和风格的艺术品之一种",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "书画艺术",
+          "relation_text": "搜集",
+          "relation_group": "人物关联",
+          "evidence": "当务之急是要继续搜集一批祖国内地、台湾及海外华人的书画作品",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "《中国当代书画选》",
+          "relation_text": "斥资编撰",
+          "relation_group": "人物关联",
+          "evidence": "石景宜先生还斥巨资把展出的所有书画作品联璧成精美的画集，命名为《中国当代书画选》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "台湾艺术图书公司",
+          "target": "《中国当代书画选》",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "由台湾艺术图书公司制作，香港汉荣书局有限公司出版",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "香港汉荣书局",
+          "target": "《中国当代书画选》",
+          "relation_text": "出版",
+          "relation_group": "营建创造",
+          "evidence": "由台湾艺术图书公司制作，香港汉荣书局有限公司出版",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "《中国当代书画选》",
+          "target": "书画艺术",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "把展出的所有书画作品联璧成精美的画集，命名为《中国当代书画选》",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "书画艺术",
+          "target": "台北",
+          "relation_text": "巡展于",
+          "relation_group": "空间关联",
+          "evidence": "先后在台北、北京、广州、佛山等地巡回展出",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "书画艺术",
+          "target": "北京",
+          "relation_text": "巡展于",
+          "relation_group": "空间关联",
+          "evidence": "先后在台北、北京、广州、佛山等地巡回展出",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "书画艺术",
+          "target": "广州",
+          "relation_text": "巡展于",
+          "relation_group": "空间关联",
+          "evidence": "先后在台北、北京、广州、佛山等地巡回展出",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "书画艺术",
+          "target": "佛山",
+          "relation_text": "巡展于",
+          "relation_group": "空间关联",
+          "evidence": "先后在台北、北京、广州、佛山等地巡回展出",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "石汉基",
+          "target": "石景宜",
+          "relation_text": "是长子",
+          "relation_group": "传承延续",
+          "evidence": "他还将计划将他年富力强的长子、汉荣书局总经理石汉基先生推到弘扬祖国文化",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石汉基",
+          "target": "汉荣书局",
+          "relation_text": "任总经理",
+          "relation_group": "人物关联",
+          "evidence": "汉荣书局总经理石汉基先生",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "何恭上",
+          "target": "台北艺术图书公司",
+          "relation_text": "任总经理",
+          "relation_group": "人物关联",
+          "evidence": "负责联络台湾地区书画界的是台北艺术图书公司总经理何恭上先生",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "何恭上",
+          "target": "中国当代书画展",
+          "relation_text": "负责联络",
+          "relation_group": "社群组织",
+          "evidence": "负责联络台湾地区书画界的是台北艺术图书公司总经理何恭上先生",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "黄君璧",
+          "target": "国画研究会",
+          "relation_text": "参与切磋",
+          "relation_group": "社群组织",
+          "evidence": "他十分怀念（国画研究会）与好友切磋技艺的情景",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "黄君璧",
+          "target": "中华文艺奖",
+          "relation_text": "获第一届",
+          "relation_group": "人物关联",
+          "evidence": "曾获第一届中华文艺奖和台湾文艺特别贡献奖",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "黄君璧",
+          "target": "台湾文艺特别贡献奖",
+          "relation_text": "获得",
+          "relation_group": "人物关联",
+          "evidence": "曾获第一届中华文艺奖和台湾文艺特别贡献奖",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "黄君璧",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家黄君璧...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "欧豪年",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...欧豪年...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "李奇茂",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...李奇茂...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "胡克敏",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...胡克敏...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "吴平",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...吴平...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "周澄",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...周澄...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "李义弘",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...李义弘...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "台静农",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...台静农...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "傅夫",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...傅夫...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "楚戈",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...楚戈...等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "赵松泉",
+          "target": "中国当代书画展",
+          "relation_text": "送画参展",
+          "relation_group": "社群组织",
+          "evidence": "著名书画家...赵松泉等都送上了佳作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": []
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "周干秋",
+          "target": "梁粲樱",
+          "relation_text": "配偶为",
+          "relation_group": "人物关联",
+          "evidence": "他与夫人梁粲樱从大洋彼岸寄来了《黄山秀色》和《卡特兰》两幅作品",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "陈建坡",
+          "target": "曾纪策",
+          "relation_text": "转告给",
+          "relation_group": "人物关联",
+          "evidence": "新加坡有名的华人画家陈建坡不仅自己为画展作画，还把这喜人的信息转告当地华人画家曾纪策",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "陈建坡",
+          "target": "许梦丰",
+          "relation_text": "转告给",
+          "relation_group": "人物关联",
+          "evidence": "还把这喜人的信息转告当地华人画家曾纪策、许梦丰",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "姚基",
+          "relation_text": "结识于",
+          "relation_group": "人物关联",
+          "evidence": "石景宜先生在北京结识的朋友姚基",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "姚基",
+          "target": "冰蕾",
+          "relation_text": "家属为",
+          "relation_group": "从属分类",
+          "evidence": "姚基和冰蕾预先已商量好...原来，姚基把石景宜先生带回家来了...为什么……·冰蕾大惑不解地问",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "董寿平",
+          "target": "中国画研究会",
+          "relation_text": "任名誉会长于",
+          "relation_group": "人物关联",
+          "evidence": "中国画研究会名誉会长董寿平",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "董寿平",
+          "target": "寿平竹",
+          "relation_text": "创绘",
+          "relation_group": "营建创造",
+          "evidence": "董老一向擅长画松、竹、梅，人称其所画的竹为寿平竹",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "友谊宾馆",
+          "relation_text": "下榻于",
+          "relation_group": "空间关联",
+          "evidence": "动身前往石先生下榻的友谊宾馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "陈奇峰",
+          "target": "芳草地北巷",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "坐公共汽车来到芳草地北巷的老画家陈奇峰处",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": []
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": []
+    },
+    "chunk_0093": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "南海县志",
+          "relation_text": "捐赠",
+          "relation_group": "营建创造",
+          "evidence": "立即捐赠了一批包括《广东文征》在内的古籍和工具书 92 种 204 册，其中有清同治 11 年刊刻和宣统二年刊刻的《南海县志》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "广东文征",
+          "relation_text": "捐赠",
+          "relation_group": "营建创造",
+          "evidence": "立即捐赠了一批包括《广东文征》在内的古籍和工具书 92 种 204 册",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "广州府志",
+          "relation_text": "捐赠",
+          "relation_group": "营建创造",
+          "evidence": "捐赠了...与南海历史有关联的《广州府志》、《番禺县志》、《顺德县志》等一批珍贵的地方志资料",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "番禺县志",
+          "relation_text": "捐赠",
+          "relation_group": "营建创造",
+          "evidence": "捐赠了...与南海历史有关联的《广州府志》、《番禺县志》、《顺德县志》等一批珍贵的地方志资料",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "顺德县志",
+          "relation_text": "捐赠",
+          "relation_group": "营建创造",
+          "evidence": "捐赠了...与南海历史有关联的《广州府志》、《番禺县志》、《顺德县志》等一批珍贵的地方志资料",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "南海县地方志编纂委员会",
+          "relation_text": "受聘于",
+          "relation_group": "人物关联",
+          "evidence": "他受聘担任了南海县地方志编纂委员会顾问",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "刘紫英",
+          "target": "石景宜",
+          "relation_text": "提醒",
+          "relation_group": "人物关联",
+          "evidence": "太太刘紫英提醒他：你向那么多地方赠书，为什么不照顾一下自己的家乡呢",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "杨应彬",
+          "target": "石景宜",
+          "relation_text": "赋诗赠",
+          "relation_group": "人物关联",
+          "evidence": "广东省政协副主席杨应彬即席赋诗相赠",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石汉基",
+          "target": "石景宜",
+          "relation_text": "陪同",
+          "relation_group": "人物关联",
+          "evidence": "石景宜先生偕夫人刘紫英、长子石汉基出席了这次盛会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "康有为",
+          "relation_text": "建议收集",
+          "relation_group": "人物关联",
+          "evidence": "应该把南海其他名人的材料也收集起来...何止一个康有为",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "南海县地方志编纂委员会",
+          "target": "石景宜",
+          "relation_text": "聘请",
+          "relation_group": "社群组织",
+          "evidence": "县地方志编纂委员会聘请我当顾问",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": [
+        {
+          "source": "戊戌变法研究国际学术讨论会",
+          "target": "西樵山",
+          "relation_text": "举办于",
+          "relation_group": "社群组织",
+          "evidence": "200 多位海内外学者聚集于南海县西樵山下；举行戊戌变法研究国际学术讨论会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "戊戌变法研究国际学术讨论会",
+          "target": "戊戌维新",
+          "relation_text": "纪念",
+          "relation_group": "社群组织",
+          "evidence": "在戊戌维新 90 周年...之际，200 多位海内外学者聚集...举行戊戌变法研究国际学术讨论会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪帝",
+          "relation_text": "推动变法",
+          "relation_group": "人物关联",
+          "evidence": "倡导社会改革，推动光绪帝进行维新变法",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "梁启超",
+          "target": "光绪帝",
+          "relation_text": "推动变法",
+          "relation_group": "人物关联",
+          "evidence": "倡导社会改革，推动光绪帝进行维新变法",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": [
+        {
+          "source": "醒狮",
+          "target": "佛山市艺术中心",
+          "relation_text": "表演于",
+          "relation_group": "空间关联",
+          "evidence": "在开幕式上，醒狮队作了精彩的表演",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "唢呐队",
+          "target": "佛山市艺术中心",
+          "relation_text": "演奏于",
+          "relation_group": "空间关联",
+          "evidence": "由十多名民间艺人组成的唢呐队奏起了家乡乐曲",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "七彩麒麟",
+          "target": "佛山市艺术中心",
+          "relation_text": "展演于",
+          "relation_group": "空间关联",
+          "evidence": "一对象征如意吉祥的七彩麒麟...在广场上奔跑、跳跃",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "巨龙",
+          "target": "佛山市艺术中心",
+          "relation_text": "舞动于",
+          "relation_group": "空间关联",
+          "evidence": "一条巨龙不断腾空、翻滚",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "冯德瑜",
+          "target": "佛山市中医院",
+          "relation_text": "曾任院长",
+          "relation_group": "人物关联",
+          "evidence": "历任院长冯德瑜、李广海、陈渭良都是学识渊博、医术高超的名医",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "李广海",
+          "target": "佛山市中医院",
+          "relation_text": "曾任院长",
+          "relation_group": "人物关联",
+          "evidence": "历任院长冯德瑜、李广海、陈渭良都是学识渊博、医术高超的名医",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "陈渭良",
+          "target": "佛山市中医院",
+          "relation_text": "曾任院长",
+          "relation_group": "人物关联",
+          "evidence": "历任院长冯德瑜、李广海、陈渭良都是学识渊博、医术高超的名医",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0098": {
+      "relations": [
+        {
+          "source": "石景宜先生赠书仪式",
+          "target": "佛山艺术中心",
+          "relation_text": "举办于",
+          "relation_group": "社群组织",
+          "evidence": "1990 年 12 月 18 日，佛山市的佛山艺术中心……隆重举行《石景宜先生赠书仪式》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜塑像",
+          "target": "佛山艺术中心",
+          "relation_text": "揭幕于",
+          "relation_group": "空间关联",
+          "evidence": "佛山艺术中心还举行了石景宜塑像揭幕仪式",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "南海丹青书画展",
+          "target": "南海县图书馆",
+          "relation_text": "开幕于",
+          "relation_group": "空间关联",
+          "evidence": "南海县图书馆分别隆重举行……《南海县图书馆新馆落成赠书暨南海丹青书画展》开幕仪式",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜先生赠书仪式",
+          "target": "1990 年",
+          "relation_text": "举行于",
+          "relation_group": "时序归属",
+          "evidence": "1990 年 12 月 18 日，佛山市的佛山艺术中心……隆重举行《石景宜先生赠书仪式》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜塑像",
+          "target": "1990 年",
+          "relation_text": "揭幕于",
+          "relation_group": "时序归属",
+          "evidence": "1990 年 12 月 18 日……佛山艺术中心还举行了石景宜塑像揭幕仪式",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0099": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "儒溪村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "石景宜推测，自己就是在正房那个房间出世的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石家老屋",
+          "target": "儒溪村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "回到了西樵镇儒溪村石家老屋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "儒溪村",
+          "target": "西樵镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "回到了西樵镇儒溪村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "儒村",
+          "target": "儒溪村",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "这里解放前叫儒村",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "武威大道",
+          "target": "石家旧居",
+          "relation_text": "镌刻于",
+          "relation_group": "空间关联",
+          "evidence": "石家旧居的进口处，有一个宽约三米的石牌坊，横匾上虽然镌刻着武威大道四个字",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0100": {
+      "relations": [
+        {
+          "source": "石景宜",
+          "target": "汉荣书局",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1984 年 10 月，暨南大学举行新图书馆落成典礼暨香港汉荣书局石景宜先生赠书展览开幕式",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "西樵镇人民政府",
+          "target": "石景宜",
+          "relation_text": "计划修葺祖居",
+          "relation_group": "营建创造",
+          "evidence": "西樵镇人民政府曾打算把石景宜的祖居加以修茸，设立一个纪念性的图书室",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "南海县图书馆",
+          "relation_text": "主张集中建设",
+          "relation_group": "人物关联",
+          "evidence": "不如把力量集中在县图书馆和中学图书馆为好",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "暨南大学",
+          "relation_text": "任董事",
+          "relation_group": "人物关联",
+          "evidence": "1983 年，石景宜先生被聘为暨南大学董事",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "暨南大学",
+          "relation_text": "捐赠书籍",
+          "relation_group": "人物关联",
+          "evidence": "并向该校捐赠了大批书籍",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "梁灵光",
+          "target": "暨南大学",
+          "relation_text": "任校长",
+          "relation_group": "人物关联",
+          "evidence": "广东省省长兼暨南大学校长梁灵光",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "梁灵光",
+          "target": "暨南大学",
+          "relation_text": "主持剪彩",
+          "relation_group": "社群组织",
+          "evidence": "广东省省长兼暨南大学校长梁灵光和石景宜先生为这个典礼剪彩",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "石景宜",
+          "target": "暨南大学",
+          "relation_text": "主持剪彩",
+          "relation_group": "社群组织",
+          "evidence": "梁灵光和石景宜先生为这个典礼剪彩",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "暨南大学",
+          "target": "敦煌宝藏",
+          "relation_text": "收藏",
+          "relation_group": "文献记载",
+          "evidence": "陈列室内的书籍内容广泛...如一套 150 册的《敦煌宝藏》",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "暨南大学",
+          "target": "台湾省通志",
+          "relation_text": "收藏",
+          "relation_group": "文献记载",
+          "evidence": "又如《台湾省通志》10 卷共 48 册",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "广州图书馆",
+          "target": "海峡两岸的石景宜赠书陈列室",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "广州图书馆...都相继设置了永久性的石景宜先生赠书陈列室",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "国立历史博物馆",
+          "target": "海峡两岸的石景宜赠书陈列室",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "台湾的国立历史博物馆...都相继设置了永久性的石景宜先生赠书陈列室",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "国立艺术专科学校",
+          "target": "海峡两岸的石景宜赠书陈列室",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "国立艺术专科学校都相继设置了永久性的石景宜先生赠书陈列室",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "韶关大学",
+          "target": "海峡两岸的石景宜赠书陈列室",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "韶关大学...都相继设置了永久性的石景宜先生赠书陈列室",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        },
+        {
+          "source": "南海县图书馆",
+          "target": "海峡两岸的石景宜赠书陈列室",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "南海县图书馆...都相继设置了永久性的石景宜先生赠书陈列室",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第23辑_石景宜先生传"
+        }
+      ]
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": []
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": []
+    },
+    "chunk_0110": {
+      "relations": []
+    }
+  }
+}

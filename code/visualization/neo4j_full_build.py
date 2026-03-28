@@ -1,44 +1,69 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-一键构建 Neo4j 图数据库：清库 → 导节点 → 加类型标签 → 导边 → 移除通用标签，让 Neo4j Browser 自动按类型分色。
+Neo4j 南海知识图谱一键构建
+读取 qwen_extraction 的 merged_entities / merged_relations → 按 AI小类 分标签分色 → 关系按 relation_group 分类型
 """
 
 import os
 import json
 import sys
+import time
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-LLM_DIR = os.path.join(BASE_DIR, "..", "..", "output", "llm_extraction")
+EXTRACTION_DIR = os.path.join(BASE_DIR, "..", "..", "output", "qwen_extraction")
 
 URI = "bolt://127.0.0.1:7687"
 USER = "neo4j"
 PASSWORD = "ms781125"
-DATABASE = "culturegraph"
+DATABASE = "nanhaiknowledgegraph"
 
-TYPE_COLORS = {
-    "人物": "#4A90D9",
-    "宗族姓氏": "#9013FE",
-    "地名空间": "#7ED787",
-    "地名": "#7ED787",
-    "文物建筑": "#F5A623",
-    "文物遗址": "#FF8C42",
-    "建筑遗迹": "#F5A623",
-    "典籍文献": "#BD10E0",
-    "典籍作品": "#BD10E0",
-    "非遗项目": "#D0021B",
-    "非遗技艺": "#D0021B",
-    "民俗礼仪": "#FF5C8A",
-    "朝代年号": "#50E3C2",
-    "历史事件": "#B8E986",
-    "物产饮食": "#F8E71C",
-    "其他": "#A5ABB6",
+BATCH_SIZE = 500
+
+# ────────────────────────── AI小类颜色表 (31 种) ──────────────────────────
+AI_TYPE_COLORS = {
+    "A1 表演艺术类非遗":           "#E74C3C",
+    "A2 传统技艺类非遗":           "#E67E22",
+    "A3 民俗节庆类非遗":           "#F39C12",
+    "A4 信俗礼仪类非遗":           "#D35400",
+    "A5 传统体育游艺类非遗":       "#C0392B",
+    "A6 饮食酿造类非遗及文化物产": "#F1C40F",
+    "B1 古建筑类":                 "#D4A76A",
+    "B2 宗教建筑类":               "#B8860B",
+    "B3 纪念性建筑与名人故居类":   "#CD853F",
+    "B4 古遗址与生产遗存类":       "#8B6914",
+    "B5 石刻碑记类":               "#A0522D",
+    "B6 古村落与聚落遗产类":       "#DEB887",
+    "C1 历史文化人物":             "#3498DB",
+    "C2 非遗传承人及技艺人物":     "#2980B9",
+    "C3 文物营建与守护人物":       "#2471A3",
+    "C4 宗族姓氏与地方社群":       "#5DADE2",
+    "D1 山川水系空间":             "#27AE60",
+    "D2 镇街圩市空间":             "#2ECC71",
+    "D3 历史街区与传统片区":       "#1ABC9C",
+    "D4 传承场所与活动场地":       "#16A085",
+    "E1 地方志类":                 "#8E44AD",
+    "E2 族谱家乘类":               "#9B59B6",
+    "E3 碑记题咏类":               "#7D3C98",
+    "E4 文集著述类":               "#A569BD",
+    "E5 口述史与地方记忆材料":     "#BB8FCE",
+    "F1 朝代年号类":               "#5499C7",
+    "F2 历史事件类":               "#48C9B0",
+    "F3 发展阶段类":               "#76D7C4",
 }
 
+DEFAULT_COLOR = "#A5ABB6"
 
-def normalize_type(raw_type):
-    typ = (raw_type or "").strip()
-    return typ if typ in TYPE_COLORS else "其他"
+# AI小类代号 → 全称 映射 (自动从 AI_TYPE_COLORS 生成)
+CODE_TO_FULL = {}
+for _full_name in AI_TYPE_COLORS:
+    _code = _full_name.split()[0]
+    CODE_TO_FULL[_code] = _full_name
+
+
+def ai_type_to_label(ai_type: str) -> str:
+    """'A1 表演艺术类非遗' → 'A1'"""
+    return ai_type.split()[0] if ai_type else "OTHER"
 
 
 def main():
@@ -48,13 +73,15 @@ def main():
         print("请先安装: pip install neo4j")
         sys.exit(1)
 
-    entities_path = os.path.join(LLM_DIR, "merged_entities.json")
-    relations_path = os.path.join(LLM_DIR, "merged_relations.json")
+    entities_path = os.path.join(EXTRACTION_DIR, "merged_entities.json")
+    relations_path = os.path.join(EXTRACTION_DIR, "merged_relations.json")
     for p in [entities_path, relations_path]:
         if not os.path.exists(p):
             print(f"缺少文件: {p}")
             sys.exit(1)
 
+    print("加载数据...")
+    t0 = time.time()
     with open(entities_path, "r", encoding="utf-8") as f:
         ent_data = json.load(f)
     entities = ent_data.get("entities", [])
@@ -62,141 +89,191 @@ def main():
     with open(relations_path, "r", encoding="utf-8") as f:
         rel_data = json.load(f)
     relations = rel_data.get("relations", [])
-
-    print(f"实体: {len(entities)} 条 | 关系: {len(relations)} 条")
-    print(f"连接: {URI}  数据库: {DATABASE}  用户: {USER}")
+    print(f"  实体: {len(entities)} | 关系: {len(relations)} | 耗时: {time.time()-t0:.1f}s")
 
     driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
+    print(f"连接: {URI}  数据库: {DATABASE}\n")
 
     # ═══ 1. 清库 ═══
-    print("\n[1/6] 清空数据库...")
+    print("[1/7] 清空数据库...")
     with driver.session(database=DATABASE) as s:
         s.run("MATCH (n) DETACH DELETE n")
-    print("  已清空。")
+    print("  done.\n")
 
-    # ═══ 2. 创建约束 ═══
-    print("[2/6] 创建唯一约束...")
+    # ═══ 2. 约束 + 索引 ═══
+    print("[2/7] 创建约束和索引...")
     with driver.session(database=DATABASE) as s:
-        try:
-            s.run("CREATE CONSTRAINT entity_name IF NOT EXISTS FOR (n:Entity) REQUIRE n.name IS UNIQUE")
-            print("  约束已创建。")
-        except Exception as e:
-            print(f"  约束创建跳过: {e}")
+        for stmt in [
+            "CREATE CONSTRAINT entity_name IF NOT EXISTS FOR (n:Entity) REQUIRE n.name IS UNIQUE",
+            "CREATE INDEX idx_ai_type IF NOT EXISTS FOR (n:Entity) ON (n.ai_type)",
+            "CREATE INDEX idx_ai_label IF NOT EXISTS FOR (n:Entity) ON (n.ai_label)",
+            "CREATE INDEX idx_official_label IF NOT EXISTS FOR (n:Entity) ON (n.official_label)",
+        ]:
+            try:
+                s.run(stmt)
+            except Exception as e:
+                print(f"  跳过: {e}")
+    print("  done.\n")
 
-    # ═══ 3. 导入节点（批量） ═══
-    print("[3/6] 导入节点...")
-    batch_size = 500
+    # ═══ 3. 导入节点 (带 Entity 公共标签) ═══
+    print("[3/7] 导入节点...")
     total_nodes = 0
     with driver.session(database=DATABASE) as s:
-        for i in range(0, len(entities), batch_size):
-            batch = entities[i : i + batch_size]
+        for i in range(0, len(entities), BATCH_SIZE):
+            batch = entities[i : i + BATCH_SIZE]
             params = []
             for e in batch:
-                entity_type = normalize_type(e.get("type"))
+                ai_type = (e.get("ai_grade_type") or "").strip()
                 params.append({
-                    "name": (e.get("name") or "").strip(),
-                    "type": entity_type,
-                    "description": (e.get("description") or "").strip(),
-                    "confidence": float(e.get("confidence", 0)),
-                    "mentions": int(e.get("mentions", 0)),
-                    "is_anchor": bool(e.get("is_anchor", False)),
-                    "color": TYPE_COLORS[entity_type],
+                    "name":           (e.get("name") or "").strip(),
+                    "ai_label":       (e.get("ai_grade_label") or "").strip(),
+                    "ai_type":        ai_type,
+                    "ai_type_code":   ai_type_to_label(ai_type),
+                    "ai_layer":       (e.get("ai_layer") or "").strip(),
+                    "official_label": (e.get("official_label") or "").strip(),
+                    "official_type":  (e.get("official_type") or "").strip(),
+                    "description":    (e.get("description") or "").strip(),
+                    "confidence":     float(e.get("confidence", 0)),
+                    "mentions":       int(e.get("mentions", 0)),
+                    "source_count":   int(e.get("source_count", 0)),
+                    "is_anchor":      bool(e.get("is_anchor", False)),
+                    "color":          AI_TYPE_COLORS.get(ai_type, DEFAULT_COLOR),
                 })
-            s.run(
-                """
+            s.run("""
                 UNWIND $batch AS row
                 MERGE (n:Entity {name: row.name})
-                SET n.type = row.type,
-                    n.description = row.description,
-                    n.confidence = row.confidence,
-                    n.mentions = row.mentions,
-                    n.is_anchor = row.is_anchor,
-                    n.color = row.color
-                """,
-                batch=params,
-            )
+                SET n.ai_label       = row.ai_label,
+                    n.ai_type        = row.ai_type,
+                    n.ai_type_code   = row.ai_type_code,
+                    n.ai_layer       = row.ai_layer,
+                    n.official_label = row.official_label,
+                    n.official_type  = row.official_type,
+                    n.description    = row.description,
+                    n.confidence     = row.confidence,
+                    n.mentions       = row.mentions,
+                    n.source_count   = row.source_count,
+                    n.is_anchor      = row.is_anchor,
+                    n.color          = row.color
+            """, batch=params)
             total_nodes += len(batch)
-            print(f"  节点: {total_nodes}/{len(entities)}")
-    print(f"  节点导入完成: {total_nodes} 个。")
+            if (i // BATCH_SIZE + 1) % 4 == 0 or i + BATCH_SIZE >= len(entities):
+                print(f"  节点: {total_nodes}/{len(entities)}")
+    print(f"  done: {total_nodes}\n")
 
-    # ═══ 4. 给节点加类型标签（人物、地名 等）═══
-    print("[4/6] 给节点添加类型标签（用于颜色区分）...")
+    # ═══ 4. 给节点添加 AI小类代号标签 (A1, B1, ..., F3) ═══
+    print("[4/7] 添加AI小类标签 (用于 Browser 颜色区分)...")
     with driver.session(database=DATABASE) as s:
-        for typ in TYPE_COLORS:
+        for ai_type, color in AI_TYPE_COLORS.items():
+            code = ai_type_to_label(ai_type)
             result = s.run(
-                f'MATCH (n:Entity) WHERE n.type = $t SET n:`{typ}` RETURN count(n) AS cnt',
-                t=typ,
+                f"MATCH (n:Entity) WHERE n.ai_type = $t SET n:`{code}` RETURN count(n) AS cnt",
+                t=ai_type,
             )
             cnt = result.single()["cnt"]
-            print(f"  {typ}: {cnt} 个节点")
-    print("  类型标签添加完成。")
+            if cnt > 0:
+                print(f"  :{code}  {color}  {ai_type}: {cnt}")
+    print("  done.\n")
 
-    # ═══ 5. 导入关系（批量） ═══
-    print("[5/6] 导入关系...")
+    # ═══ 5. 导入关系 (按 relation_group 分类型) ═══
+    print("[5/7] 导入关系...")
+    groups = {}
+    for r in relations:
+        g = (r.get("relation_group") or "RELATED").strip()
+        groups.setdefault(g, []).append(r)
+
     total_edges = 0
-    skipped = 0
-    with driver.session(database=DATABASE) as s:
-        for i in range(0, len(relations), batch_size):
-            batch = relations[i : i + batch_size]
-            params = []
-            for r in batch:
-                params.append({
-                    "src": (r.get("source") or "").strip(),
-                    "tgt": (r.get("target") or "").strip(),
-                    "rel_type": (r.get("relation") or "").strip(),
-                    "confidence": float(r.get("confidence", 0.8)),
-                    "evidence": (r.get("evidence") or "")[:100],
-                    "source_file": (r.get("source_file") or ""),
-                })
-            result = s.run(
-                """
-                UNWIND $batch AS row
-                MATCH (a:Entity {name: row.src})
-                MATCH (b:Entity {name: row.tgt})
-                CREATE (a)-[r:REL]->(b)
-                SET r.rel_type = row.rel_type,
-                    r.confidence = row.confidence,
-                    r.evidence = row.evidence,
-                    r.source_file = row.source_file
-                RETURN count(r) AS cnt
-                """,
-                batch=params,
-            )
-            cnt = result.single()["cnt"]
-            total_edges += cnt
-            skipped += len(batch) - cnt
-            if (i // batch_size + 1) % 4 == 0 or i + batch_size >= len(relations):
-                print(f"  关系: {total_edges} 条（跳过 {skipped}）")
-    print(f"  关系导入完成: {total_edges} 条，跳过 {skipped} 条。")
+    total_skipped = 0
+    for group_name, rels in sorted(groups.items(), key=lambda x: -len(x[1])):
+        safe_type = group_name.replace("`", "")
+        group_edges = 0
+        with driver.session(database=DATABASE) as s:
+            for i in range(0, len(rels), BATCH_SIZE):
+                batch = rels[i : i + BATCH_SIZE]
+                params = [{
+                    "src":           (r.get("source") or "").strip(),
+                    "tgt":           (r.get("target") or "").strip(),
+                    "relation_text": (r.get("relation_text") or "").strip(),
+                    "confidence":    float(r.get("confidence", 0.8)),
+                    "evidence":      (r.get("evidence") or "")[:300],
+                    "source_file":   (r.get("source_file") or ""),
+                } for r in batch]
+                result = s.run(f"""
+                    UNWIND $batch AS row
+                    MATCH (a:Entity {{name: row.src}})
+                    MATCH (b:Entity {{name: row.tgt}})
+                    CREATE (a)-[r:`{safe_type}`]->(b)
+                    SET r.relation_text = row.relation_text,
+                        r.confidence    = row.confidence,
+                        r.evidence      = row.evidence,
+                        r.source_file   = row.source_file
+                    RETURN count(r) AS cnt
+                """, batch=params)
+                cnt = result.single()["cnt"]
+                group_edges += cnt
+                total_skipped += len(batch) - cnt
+        total_edges += group_edges
+        print(f"  [{group_name}]: {group_edges} 条")
+    print(f"  done: {total_edges} 条 (跳过 {total_skipped} 条，因端点不存在)\n")
 
-    # ═══ 6. 移除通用 Entity 标签，让 Browser 按类型自动分色 ═══
-    print("[6/6] 移除通用 Entity 标签...")
+    # ═══ 6. 移除 Entity 公共标签 → Browser 按 A1/B1/... 自动分色 ═══
+    print("[6/7] 移除 Entity 标签 → Browser 按AI小类自动分色...")
     with driver.session(database=DATABASE) as s:
-        removed = s.run("MATCH (n:Entity) REMOVE n:Entity RETURN count(n) AS cnt").single()["cnt"]
-    print(f"  已处理 {removed} 个节点。")
+        cnt = s.run("MATCH (n:Entity) REMOVE n:Entity RETURN count(n) AS c").single()["c"]
+    print(f"  处理 {cnt} 个节点\n")
 
-    # ═══ 最终统计 ═══
-    print("\n═══ 验证 ═══")
+    # ═══ 7. 最终验证 ═══
+    print("[7/7] 验证统计")
+    print("═" * 55)
     with driver.session(database=DATABASE) as s:
-        node_count = s.run("MATCH (n) RETURN count(n) AS c").single()["c"]
-        edge_count = s.run("MATCH ()-[r:REL]->() RETURN count(r) AS c").single()["c"]
-        type_dist = s.run("MATCH (n) RETURN n.type AS t, count(n) AS c ORDER BY c DESC").data()
-        rel_dist = s.run("MATCH ()-[r:REL]->() RETURN r.rel_type AS t, count(r) AS c ORDER BY c DESC").data()
+        nc = s.run("MATCH (n) RETURN count(n) AS c").single()["c"]
+        ec = s.run("MATCH ()-[r]->() RETURN count(r) AS c").single()["c"]
 
-    print(f"节点总数: {node_count}")
-    print(f"关系总数: {edge_count}")
-    print("\n实体类型分布:")
+        type_dist = s.run("""
+            MATCH (n)
+            RETURN n.ai_type AS ai_type, n.color AS color, count(n) AS cnt
+            ORDER BY cnt DESC
+        """).data()
+
+        rel_dist = s.run("""
+            MATCH ()-[r]->()
+            RETURN type(r) AS rel_group, count(r) AS cnt
+            ORDER BY cnt DESC
+        """).data()
+
+    print(f"  节点: {nc}  |  关系: {ec}")
+    print(f"\n  AI小类分布:")
     for row in type_dist:
-        color = TYPE_COLORS.get(row["t"], "")
-        print(f"  {row['t']}: {row['c']} 个  {color}")
-    print("\n关系类型分布:")
+        bar = "█" * max(1, row["cnt"] // 100)
+        print(f"    {row['color'] or '       '}  {row['ai_type']}: {row['cnt']}  {bar}")
+    print(f"\n  关系分组分布:")
     for row in rel_dist:
-        print(f"  {row['t']}: {row['c']} 条")
+        print(f"    {row['rel_group']}: {row['cnt']}")
 
+    elapsed = time.time() - t0
     driver.close()
-    print("\n构建完成！")
-    print("在 Neo4j 客户端中查看图：")
-    print("  MATCH (n)-[r:REL]->(m) RETURN n,r,m LIMIT 300")
+
+    print(f"\n{'═' * 55}")
+    print(f"构建完成！耗时 {elapsed:.1f}s")
+    print(f"\n在 Neo4j Browser 中查看:")
+    print(f"  MATCH (n)-[r]->(m) RETURN n, r, m LIMIT 300")
+    print(f"\n按AI小类查看:")
+    print(f"  MATCH (n:A1)-[r]->(m) RETURN n, r, m LIMIT 100")
+    print(f"  MATCH (n:C1)-[r]->(m) RETURN n, r, m LIMIT 100")
+    print(f"\n按关系分组查看:")
+    print(f"  MATCH (n)-[r:人物关联]->(m) RETURN n, r, m LIMIT 100")
+    print(f"  MATCH (n)-[r:空间关联]->(m) RETURN n, r, m LIMIT 100")
+
+    # ═══ 生成 GRASS 样式文件 (可导入 Browser) ═══
+    grass_path = os.path.join(EXTRACTION_DIR, "neo4j_style.grass")
+    grass_lines = ["node {\n  diameter: 40px;\n  font-size: 12px;\n  caption: '{name}';\n}\n"]
+    for ai_type, color in AI_TYPE_COLORS.items():
+        code = ai_type_to_label(ai_type)
+        grass_lines.append(f"node.{code} {{\n  color: {color};\n  border-color: {color};\n  caption: '{{name}}';\n}}\n")
+    grass_lines.append("relationship {\n  font-size: 10px;\n  caption: '{relation_text}';\n}\n")
+    with open(grass_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(grass_lines))
+    print(f"\nGRASS 样式文件已生成: {grass_path}")
+    print("  在 Browser 中: 点击左上角齿轮 → 拖入该文件 即可应用自定义颜色\n")
 
 
 if __name__ == "__main__":

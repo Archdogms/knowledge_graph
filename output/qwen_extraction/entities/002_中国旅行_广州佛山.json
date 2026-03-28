@@ -1,0 +1,173 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [],
+      "chunk_text_hash": "5adbe5e0"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "b4a0a8da"
+    },
+    "chunk_0002": {
+      "entities": [],
+      "chunk_text_hash": "1acd55d6"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "7bc31b9d"
+    },
+    "chunk_0004": {
+      "entities": [],
+      "chunk_text_hash": "92c272d5"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "c6869087"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "c827ecb0"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "0ac6635a"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "bb9ba621"
+    },
+    "chunk_0009": {
+      "entities": [],
+      "chunk_text_hash": "7bb90314"
+    },
+    "chunk_0010": {
+      "entities": [],
+      "chunk_text_hash": "5c338cc0"
+    },
+    "chunk_0011": {
+      "entities": [],
+      "chunk_text_hash": "f68ed96f"
+    },
+    "chunk_0012": {
+      "entities": [],
+      "chunk_text_hash": "9c944569"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "499ae1c6"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "6779ceca"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "9a1d7242"
+    },
+    "chunk_0016": {
+      "entities": [],
+      "chunk_text_hash": "f18dd55d"
+    },
+    "chunk_0017": {
+      "entities": [],
+      "chunk_text_hash": "310335d1"
+    },
+    "chunk_0018": {
+      "entities": [
+        {
+          "name": "佛山民间艺术研究社",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "文中提及该机构工人制作新式彩灯，是佛山民间工艺的研究与生产场所",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "石湾美术陶瓷厂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "建于一九五二年，生产人物、鸟兽、器皿、盆景等四类艺术品的陶瓷生产遗存",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "佛山祖庙",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "拥有八百九十年历史，建筑装饰有石饰、陶塑、木雕、砖雕，现为佛山市博物馆所在地",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "陶塑",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "佛山民间工艺之一，用于装饰佛山祖庙及石湾美术陶瓷厂的产品",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "木雕",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "佛山民间工艺之一，见于佛山祖庙建筑装饰",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "砖雕",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "佛山民间工艺之一，见于佛山祖庙建筑装饰",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "name": "彩灯",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "佛山民间艺术研究社工人制作的新式彩灯，属传统工艺美术范畴",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ],
+      "chunk_text_hash": "80f9e3b8"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "9dcc7329"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "86e10223"
+    }
+  }
+}

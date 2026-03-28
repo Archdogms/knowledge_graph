@@ -1,0 +1,4705 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [
+        {
+          "name": "郑官应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "爱国华侨，著有《盛世危言》，文本提及的南海相关历史人物",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "简氏兄弟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "爱国华侨，文本中提及的南海籍或相关著名人物",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李广海",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "骨伤科名家，佛山及南海地区著名的中医武术家",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "岭南代表性传统戏剧，文本称佛山为粤剧故乡",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈显达",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "粤剧表演艺术家，文中提及的表演艺术相关人物",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "何汝文",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中提及的表演艺术相关人物，绰号神眼",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "基督教循道公会",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "在佛山有沿革历史的宗教组织及相关建筑遗存",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "华英中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "前身为市一中，具有历史价值的近代教育机构建筑",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张楼村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "拥有村史记载的传统古村落",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "循道医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "前身是市一人民医院，具有历史价值的近代医疗建筑",
+          "confidence": 0.86,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "伟大的爱国主义者和民主革命先驱，文本重点介绍其童年及青少年时期事迹",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "香山县",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "孙中山故乡，1925 年后改为中山县的历史行政区划",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "翠亨村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "孙中山出生地及童年活动地，著名的历史古村落",
+          "confidence": 0.97,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "孙达成",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山之父，贫苦农民，曾做过裁缝和鞋匠",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "8e875f63"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "b8d8c3a5"
+    },
+    "chunk_0002": {
+      "entities": [],
+      "chunk_text_hash": "12c34831"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "f83d0ae3"
+    },
+    "chunk_0004": {
+      "entities": [],
+      "chunk_text_hash": "34dda767"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "09ade3cd"
+    },
+    "chunk_0006": {
+      "entities": [
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的近代革命先驱，曾在翠亨村故居草拟《上李鸿章书》，后创立兴中会与中国同盟会",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陆皓东",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的革命烈士，孙中山的同学与亲密战友，就义前痛斥清政府",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "翠亨村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "孙中山的家乡，文中提到其在此居住并草拟变法上书",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李鸿章",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末直隶总督兼北洋通商大臣，孙中山曾向其上书主张变法",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "上李鸿章书",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "孙中山于 1894 年在故居草拟的八千言政论文章，主张富国强兵与变法",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "兴中会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山于 1894 年冬在檀香山创立的革命组织",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "中国同盟会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山在日本建立的革命组织，旨在联合各地革命同志",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "辛亥武昌起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提到的最后一次武装起义，推翻清朝建立民国",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "西医书院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "孙中山毕业并获得医科硕士学位的教育机构",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提到的被辛亥革命推翻的封建王朝",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "民国",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "辛亥革命胜利后建立的政权",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "83627295"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "c7fb066a"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "db335b36"
+    },
+    "chunk_0009": {
+      "entities": [
+        {
+          "name": "孔子",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中被称为封建圣人，康有为早年受其思想影响",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海先生，文本核心人物，记载其六岁至十九岁的求学与成长经历",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "简凤仪",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "番禺学者，康有为六岁时跟随其读四书五经的启蒙老师",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康赞修",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为祖父，曾在广州学宫考弟祠教学，后赴连州任上遇水灾死难",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈寿生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "康有为于 1870 年秋回广州后跟随学习八股文的老师",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "杨仁山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "康有为于 1872 年回乡后跟随学习的老师",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "朱次琦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "号朱九江，康有为曾受学于其门下，理学政学基础多得益于他",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张云珠",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为十九岁时的夫人",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "考弟祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于广州学宫内，康赞修曾在此教学，康有为前往就读的场所",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "澹如楼",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "康有为于 1873 至 1875 年间自学并阅读《海国图志》等书的地点",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "三湖书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于西樵山白云洞，康有为于 1879 年正月在此求学探索经世之道",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "康有为求学及游历之地，拥有三湖书院等文化遗迹",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "九江",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "朱次琦（朱九江）讲学之地，康有为曾在此受学",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "海国图志",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为在澹如楼自学时阅读的图书，助其了解国际形势",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "公车上书",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "虽文本未直接展开描述，但提及康有为及戊戌变法背景，隐含相关历史事件关联",
+          "confidence": 0.75,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "18d2c220"
+    },
+    "chunk_0010": {
+      "entities": [
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "康有为曾在此游历、居住及在折云洞潜心读书的自然与文化空间",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代资产阶级改革思想家，光绪八年曾居乡研读学术并创立不缠足会",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪八年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元 1882 年，康有为二十五岁赴京应顺天乡试不第的年份",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "不缠足会",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A4 信俗礼仪类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "康有为次年创立，旨在改革妇女缠足陋习的社会改良组织及相关习俗",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光如楼",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "1884 至 1887 年间康有为居乡读书、形成改革思想体系的场所",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "折云洞",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "位于西樵山，康有为潜心读书、深刻思索并形成资产阶级改革思想体系的地点",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "中法战争",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "激发康有为变法图强思想的历史背景事件，清政府战后向法国屈服",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张之洞",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "两广总督，康有为曾通过张延秋向其建议开局译西书以效法西方政治",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "顺天乡试",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "光绪八年康有为前往北京参加但未考中的科举考试事件",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "adb85cf9"
+    },
+    "chunk_0011": {
+      "entities": [
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍近代思想家，文中提及其中举、会试及上书光绪帝等事迹",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "公车上书",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1895 年康有为联合各省举人上书清政府拒和变法的历史事件",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "万木草堂",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1891 年康有为在广州开设的学舍，用于授徒传播维新思想",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "马关条约",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "甲午战争后签订的不平等条约，文中提及为公车上书的背景",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "万国公报",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "维新派创办的报刊，后改为《中外纪闻》，用于宣传变法",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "中外纪闻",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "由《万国公报》改名而来的维新派刊物",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "新知报",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "维新运动期间组织强学会发行的报纸",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "强学会",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "康有为等人组织的维新派政治团体及活动场所",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪十九年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元 1893 年，文中记载康有为再次应乡试中举的时间",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为的学生，文中提及与其一同进京会试（原文误作梁局超）",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "d37702ca"
+    },
+    "chunk_0012": {
+      "entities": [],
+      "chunk_text_hash": "68312034"
+    },
+    "chunk_0013": {
+      "entities": [
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "维新变法领袖，南海籍历史名人，文中提及被逮捕、流亡及归国经历",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "维新党人，与康有为一同逃离北京的历史人物",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "谭嗣同",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "维新党人，候补知府、军机章京，在北京菜市口牺牲的戊戌六君子之一",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康广仁",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为之弟，戊戌六君子之一，在北京壮烈牺牲",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "戊戌六君子",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "史称，指谭嗣同、康广仁等六位在北京菜市口牺牲的维新党人",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "百日维新",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "历史上对 1898 年 6 月至 9 月维新变法阶段的称呼，历时 103 天",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪帝",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清朝皇帝，文中提及幽禁于瀛台并下达新政诏书",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "革命家，文中提及康有为发表理论反对其革命主张",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "紫禁城",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中提及康有为在此出谋划策及光绪帝被幽禁的地点",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "菜市口",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "北京街头，戊戌六君子壮烈牺牲的历史地点",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本隐含的历史朝代背景，涉及光绪年间及维新变法",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "民国",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及一九一三年为民国二年，康有为归国的时间背景",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "fa5cc083"
+    },
+    "chunk_0014": {
+      "entities": [
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代著名政治家、思想家，文中记载其奔丧、移居上海、拥护张勋复辟及逝世等生平事迹",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广仁",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为之弟，文中提及与其母灵柩一同在北京安葬",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "宣统",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "清朝末代皇帝溥仪的年号，文中指代十二岁的清仪被捧为皇帝",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张勋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期军阀，文中记载康有为赴北京拥护其扶持宣统复辟",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清仪",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "即清朝末代废帝溥仪，文中记载康有为向其祝寿及呈送谢恩折",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张园",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史建筑",
+          "description": "位于天津的历史园林，文中记载康有为曾在此向清仪祝寿",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "万木草堂",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "康有为讲学之所，文中提及《万木草堂书目录》及其著作",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "孔子改制考",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为的重要学术著作，经部之一，主张托古改制",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "新学伪经考",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为代表作之一，质疑古文经的真实性",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "春秋董氏学",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为研究春秋公羊学的著作，原文误作'春董秋氏学'",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "春秋笔削微言大义考",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为关于春秋大义的学术著作",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康同璧",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为之女，文中作为现任上海市文史馆馆员回忆父亲死因",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "封建复辟",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中指康有为支持张勋拥立宣统恢复清朝统治的历史事件",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "9914a73a"
+    },
+    "chunk_0015": {
+      "entities": [
+        {
+          "name": "孔子改制考",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为所著重要维新变法理论著作，文本中列出的六十四种子部同大攻之一",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "新学伪经考",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为抨击封建正统思想的学术著作，文本中提及的维新派核心文献",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "戊戌奏稿",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为在戊戌变法期间向光绪皇帝呈递的奏折汇编",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "物质救国论",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "康有为阐述实业救国思想的政治经济论著",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "长兴学记",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "记录康有为在长兴里万木草堂讲学内容与教育思想的著作",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代资产阶级改良主义领袖，南海籍历史名人，文本中提及其接受教育、主张变法及晚年思想转变",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代思想家、政治家，康有为弟子，文本中提及举办其诞辰 110 周年纪念会",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪皇帝",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清朝第十一位皇帝，文本中提及康有为数次上书请求其改革政治",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "戊戌维新",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1898 年发生的资产阶级改良运动，文本中提及举办该运动八十五周年学术讨论会",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "维新变法",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "康有为等人发起的政治改革运动，文本描述其为顺应社会发展趋势的重要环节",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康有为故居",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "康有为出生及居住过的地方，文本中学者曾前往参观的历史遗迹",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "南海",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "学术讨论会召开地之一，康有为故乡，具有深厚文史底蕴的区域",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "398b853e"
+    },
+    "chunk_0016": {
+      "entities": [
+        {
+          "name": "黎涌村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "文中提及的古村落，曾叫租水村，出过简文会和伦文叙两位状元",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "简文会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南汉时期状元，累官尚右书孙，黎涌村历史名人",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "伦文叙",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "黎涌村出的另一位状元，与简文会并称该村两状元",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈元",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "黎涌村遗老，为人耿直，曾题诗一首",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "南汉",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "残唐五代十国之一，公元 907-960 年，建都广州，拥有岭南之地",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "干享元年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元 917 年刘岩改号之年，当年开科取士",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "魁岗",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文中提及的地名，与黎涌村相关区域",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "整头并",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "黎涌村中的一口方形水井",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "6524384f"
+    },
+    "chunk_0017": {
+      "entities": [],
+      "chunk_text_hash": "042b5ede"
+    },
+    "chunk_0018": {
+      "entities": [],
+      "chunk_text_hash": "3d29e559"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "acf65941"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "69b599d8"
+    },
+    "chunk_0021": {
+      "entities": [],
+      "chunk_text_hash": "b297478f"
+    },
+    "chunk_0022": {
+      "entities": [],
+      "chunk_text_hash": "c4d3de0d"
+    },
+    "chunk_0023": {
+      "entities": [
+        {
+          "name": "郑官应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代最早提出君主立宪与议院政治的思想家，南海籍维新改良思想家",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "维新派代表人物，与郑官应同为近代重要思想家",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "维新派代表人物，文中误作'滩启超'，实指梁启超",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "袁世凯",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末民初政治人物，文中提及郑官应反对其控制轮电二局",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "盛世危言",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "郑官应的代表作，阐述其维新改良及君主立宪思想的著作",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "十九世纪七十年代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "郑官应提出立法、司法行政三权并重思想的历史时期",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "db5fe460"
+    },
+    "chunk_0024": {
+      "entities": [],
+      "chunk_text_hash": "5ed3302e"
+    },
+    "chunk_0025": {
+      "entities": [
+        {
+          "name": "盛世危言",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "郑官应所著政治改良论著，一八九三年定名出版，主张设立议院与发展工商业",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "救时揭要",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "盛世危言早期版本，于一八六二年同治元年刊行",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "易言",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "盛世危言前身，一八七一年增订成上下本，一八八八年刊行阐述君主立宪思想",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "郑官应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清思想家，较早提出在中国实行君主立宪政治改革，著有盛世危言",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代民主革命先行者，早期曾阅读盛世危言等富强治国之书",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "毛泽东",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "少年时代常通宵达旦阅读盛世危言等书籍",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "历史研究",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "刊登有《论郑官应》文章的学术期刊，一九八二年第一期",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "同治元年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元一八六二年，救时揭要刊行之年份",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪十九年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元一八九三年，盛世危言定名出版之年份",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "中日甲午战争",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "盛世危言出版前的著名历史事件，该书被视为战前政治改良论著",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "be8ed12f"
+    },
+    "chunk_0026": {
+      "entities": [],
+      "chunk_text_hash": "92cb221e"
+    },
+    "chunk_0027": {
+      "entities": [
+        {
+          "name": "郑官应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清实业家、改良主义者，别号杞忧生，曾三进三出招商局、电报局等，1922 年病逝于上海",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "简氏兄弟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "爱国华侨，创办南洋兄弟烟草公司，在中国民族工业史上占有重要地位",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "南洋兄弟烟草公司",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "由简氏兄弟创办的民族工业企业，在中国民族工业历史中占有极其重要的一页",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一八六九年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "郑官应第一次捐官的年份",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一八七五年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "郑官应第三次捐官的年份",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一九二二年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "郑官应病逝于上海的年份",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "7d831d53"
+    },
+    "chunk_0028": {
+      "entities": [],
+      "chunk_text_hash": "f3a639fb"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "24b9c544"
+    },
+    "chunk_0030": {
+      "entities": [
+        {
+          "name": "光绪二十九年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中记载简氏兄弟回国创办烟草公司的具体年份，对应公元 1903 年",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广东南洋兄弟烟草公司",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "由简氏兄弟在香港创办的民族卷烟工业企业，文中提及其实体厂场及被迫停业的历史",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "简氏兄弟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "创办广东南洋兄弟烟草公司的民族实业家，文中描述其抗争英美烟公司及重振旧业的事迹",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "双喜",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "南洋公司采用的具有吉祥寓意的卷烟牌号，代表中国民族老烟工业的品牌文化",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪三十一年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中记载南洋兄弟烟草公司更名并再度开业的具体年份，对应公元 1905 年",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "凤阳",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文中提及的安徽省地点，南洋兄弟烟草公司在此地建筑厂场广收烟叶",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "潍县",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文中提及的山东省地点（原文误作滩县），南洋兄弟烟草公司在此地建筑厂场",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "5da2fc26"
+    },
+    "chunk_0031": {
+      "entities": [],
+      "chunk_text_hash": "1727281b"
+    },
+    "chunk_0032": {
+      "entities": [],
+      "chunk_text_hash": "2a7c0bbc"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "93640087"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "f20a4a5a"
+    },
+    "chunk_0035": {
+      "entities": [],
+      "chunk_text_hash": "935a6c02"
+    },
+    "chunk_0036": {
+      "entities": [],
+      "chunk_text_hash": "c1c6c782"
+    },
+    "chunk_0037": {
+      "entities": [],
+      "chunk_text_hash": "da651542"
+    },
+    "chunk_0038": {
+      "entities": [
+        {
+          "name": "李广海",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山骨伤科名家，自幼攻读中医经典，十四岁随父李才干临床学医，后继承父业设医馆于平正桥沙涌坊",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李才干",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "李广海之父，名医，教导李广海从童年起攻读《伤寒论》《神农本草经》等中医经典",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "平正桥沙涌坊",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "李广海继承父业后设立医馆为民治病的地点",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "联合诊所",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1950 年代李广海响应政府号召加入的医疗机构",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山中医院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1956 年成立，李广海参加其业务领导工作的医疗机构",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "伤寒论",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "李广海自幼攻读的中医经典著作之一",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "神农本草经",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "李广海自幼攻读的中医经典著作之一，文中误作'神本农草'",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "医宗金鉴",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "李广海研读的中医重要典籍",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "小夹板外固定",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "李广海注意研究并应用于临床的骨伤治疗技术，解决固定与活动的矛盾",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一九七二年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及李广海时年七十八岁的时间节点",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一九五六年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山中医院成立及李广海参加业务领导工作的年份",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一九六零年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "波兰专家在江门甘化厂跌倒，李广海成功会诊复位的年份",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "江门甘化厂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "1960 年波兰专家进行技术指导并发生跌倒事故的地点",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "8ffde0c6"
+    },
+    "chunk_0039": {
+      "entities": [],
+      "chunk_text_hash": "e25f8fea"
+    },
+    "chunk_0040": {
+      "entities": [
+        {
+          "name": "蛇王满",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东南海县大沥乡闵庄村人，姓匡名满，又名玉堂，生于 1857 年，卒于 1950 年，以捕蛇采药及经营蛇胆药店闻名",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "大沥乡",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "蛇王满的故乡，位于南海县，文中提及在此地形成蛇市集",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "闵庄村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "蛇王满的具体出生地，位于大沥乡的传统村落",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "大沥圩",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文中提及逢五、十有蛇市集的圩市空间",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山汾流街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "蛇王满开设分店的地点，属于佛山的历史街道",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "诗经",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "记载“维虺维蛇”句子的古代文献，反映祖先与蛇的关系",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "神农本草经",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "西汉时期文献，首先记下用蛇作药治病的事实",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "捕蛇者说",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "唐代柳宗元所著文章，详述捕蛇和用蛇治麻风病的事迹",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "朝野佥载",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "唐代张𬸦所著笔记，记载捕蛇及用蛇治病的风事",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "本草纲目",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "明代李时珍所著医药巨著，文中虽文字识别有误但指代此书",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "明代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "李时珍生活的朝代，也是相关医药记载的重要时期",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "西汉",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "《神农本草经》成书及开始有用蛇治病记载的朝代",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "柳宗元和张𬸦生活的朝代，有关捕蛇记述详尽的时期",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "cbf3c603"
+    },
+    "chunk_0041": {
+      "entities": [],
+      "chunk_text_hash": "31b9aad7"
+    },
+    "chunk_0042": {
+      "entities": [],
+      "chunk_text_hash": "a846538f"
+    },
+    "chunk_0043": {
+      "entities": [],
+      "chunk_text_hash": "ad02b4d8"
+    },
+    "chunk_0044": {
+      "entities": [],
+      "chunk_text_hash": "5f5da6a1"
+    },
+    "chunk_0045": {
+      "entities": [],
+      "chunk_text_hash": "ffb2e9dd"
+    },
+    "chunk_0046": {
+      "entities": [],
+      "chunk_text_hash": "600dcd0f"
+    },
+    "chunk_0047": {
+      "entities": [
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海澜石人，生于清乾隆三十八年，长于技击，后习得跌打医术并挂牌行医",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "潘日舒",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "水乡跌打医生，传授梁财信跌打医术及秘诀，临终赠予医书和笔记",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中提及的历史朝代，包含乾隆、咸丰等年号时期",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "乾隆三十八年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财信出生的具体年份，即公元 1763 年",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "咸丰五年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财信去世的具体年份，文中误写为成丰五年",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "南海澜石",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "梁财信的籍贯地，当时是重要的杉木集散地和手工业市镇",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "方伯家庙",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于澜石的古建筑，梁财信曾租用其钟鼓枪一侧作为医馆",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "邻近澜石的手工业市镇，当时人口三十多万",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "著名的陶都，距离澜石五公里",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "潘日舒传授给梁财信的传统医疗技艺，包含秘传笔记和医书",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "463ae6f3"
+    },
+    "chunk_0048": {
+      "entities": [
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末民初南海著名跌打医生，梁财信医馆创始人，擅长驱骨医治外伤性骨折",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁财信医馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于方伯家让钟鼓楼两边的医馆正铺，曾悬挂石招牌，是梁财信行医场所",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "贯之",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信之孙，梁氏跌打医术第三代传人，精于祖传跌打技术并擅长内科",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "兰长",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信过继子，学会跌打医术并正式主诊",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "桂长",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信次子，共生九子，其子多为祖传跌打医生",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏跌打",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "南海地区著名的传统中医骨伤科技艺，以驱骨、接驳粉碎性骨折及止痛散闻名",
+          "confidence": 0.97,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "止痛散",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁财信创制的特色药物，以鸦片为主要成分作为麻醉剂，用于跌打止痛",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清末民初",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财信医馆医务节盛及发展的历史时期",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "88e8ed14"
+    },
+    "chunk_0049": {
+      "entities": [
+        {
+          "name": "梁财信跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A4 信俗礼仪类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "南海地区祖传跌打技术，结合内科病理学问，能正确诊断并加减用药，治疗枪刀伤成效显著",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "精通祖传跌打技术与内科的南海名医，曾治愈绿林统领何江等多处重伤患者",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "何江",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民罕统领之一，绿林出身，多次负伤由梁财信医馆医治并赠送牌匾",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "北江",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "广东水系之一，文中提及各地民众沿北江前来梁财信医馆求医",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "油石",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "梁财信经营合泰和杂货店及存生堂药材店的地点，每日停泊大量求医小艇",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "合泰和杂货店",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "梁财信在油石正埋经营的店铺，用于供应家属副食品和市药材料",
+          "confidence": 0.79,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "存生堂药材店",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "梁财信在油石正埋经营的药材店，用于提供制药材料",
+          "confidence": 0.79,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁财信医馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "梁财信行医场所，挂满伤者愈后送来的牌匾声名远播，设有西栈、东栈和南栈作为诊所和制药工场",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏祠堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "梁财信积累财富后建筑的三座祠堂之一，反映其家族兴盛",
+          "confidence": 0.86,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁桂长生祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "梁桂长自己建筑的生祠，是其成为当地首富后的营建成果",
+          "confidence": 0.84,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "cc28a1fd"
+    },
+    "chunk_0050": {
+      "entities": [],
+      "chunk_text_hash": "640cb26f"
+    },
+    "chunk_0051": {
+      "entities": [],
+      "chunk_text_hash": "b46c9167"
+    },
+    "chunk_0052": {
+      "entities": [
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末民初南海地区首富，以跌打医术发家并建立家族保密措施的医者",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏家族",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "掌握跌打医术秘方，实行传男不传女、口述心记等严格传承制度的家族群体",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁氏家族世代相传的医疗技艺，包含秘方、单方及特定的制药操作规范",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "制腊尺",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "梁氏家族妇女参与辅助劳动的制药工艺环节",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "祖传笔记",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "用丹纸书写、京青厚布封盏精装成册，记录跌打医术单方但隐去关键成分的家族文献",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打止痛散",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁氏家族秘传药方，其核心成分在笔记中故意不录，仅靠历代口述传承",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打咨药",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁氏家族规定的需按春三夏一秋四冬七时间进行浸油操作的特定药品",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "140fecd4"
+    },
+    "chunk_0053": {
+      "entities": [
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海著名跌打医生，制定不包医只包医好的遗训，重视后代文武并重教育",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁家世代相传的医疗技艺，结合文读医书与武练气力施行手术",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "武馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "梁家聘请南北名师教头主持，教授枪刀箭剑及拳术的场所",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "伯韶",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁家后代中主教习四书五经及医书的代表人物",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "贯之",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信孙子一代出现的精通内科长于跌打的传承人",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "以庄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信曾孙，继承和发展家族跌打医术的代表人物",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "少峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信曾孙，家族医术传承者之一",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "内经",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "梁家后代在研读四书五经同时学习的中医经典著作",
+          "confidence": 0.83,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "0e2bcaad"
+    },
+    "chunk_0054": {
+      "entities": [],
+      "chunk_text_hash": "9dd3160e"
+    },
+    "chunk_0055": {
+      "entities": [
+        {
+          "name": "梁财信医馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "梁氏家族开设的著名跌打医馆，曾分布于佛山豆豉巷、北胜街及广州、香港等地，业务从以医为主转向以售药为主",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海著名跌打医生，梁氏家族代表人物，其医术和药品单方在家族内公开，对外秘密",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "晓峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信之孙，首先迁册到广州十八甫开诊，继承并发展家族跌打医术",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "蓝田",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信之孙，到广州双门底挂牌行医，传承家族跌打技艺",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "道生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信之孙，在佛山豆豉巷开设梁财信医馆",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "壮垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信曾孙，笔者父亲，在佛山北胜街开设梁财信医馆",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "寿南",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "梁财信曾孙，前往香港发展梁财信医馆业务",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏家族",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "掌握跌打药品单方和制作技术的家族，民国三年贯之死后由集中而分散，向多地发展",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "民国三年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财信去世后，梁氏家族开始由集中走向分散发展的关键时间节点",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山豆豉巷",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "梁财信医馆在佛山的开设地点之一，位于传统街区",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山北胜街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "梁财信医馆在佛山的另一开设地点，见证家族医药业务发展",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广州十八甫",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "梁晓峰迁册开诊的地点，梁财信医馆向外发展的重要站点",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广州双门底",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "梁蓝田挂牌行医的地点，梁氏家族医药网络的一部分",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "梁氏家族世代相传的传统医疗技艺，包含独特的药品单方和制作技术",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "dff9e859"
+    },
+    "chunk_0056": {
+      "entities": [],
+      "chunk_text_hash": "58082d73"
+    },
+    "chunk_0057": {
+      "entities": [
+        {
+          "name": "梁财信医馆",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中提及的中医跌打医馆，曾受国民党政府排挤政策打击，业务大不如前",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光汉医学院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "梁以庄在广州创办的医学教育机构，文中提到其不准立案",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广东医学专门学校",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "笔者曾转入改习西医的医学教育机构",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏家族",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "梁财信所属家族，文中描述其因封建制度腐朽及后代缺乏一技之长而没落",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁硅友",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财信的孙子，文中描述其一生游手好闲",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁腾长",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财广第三子，梁财信侄子，参与红兵起义后潜回并服毒自尽",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁芳长",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁财广第四子，1855 年参加红兵起义，失败后被迫自尽",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "红兵起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1855 年梁芳长参与的反抗活动，围攻广州失败后西撤",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "一八五五年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "梁芳长参加红兵起义的具体年份",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "梁财信家族世代相传的医疗技艺，文中提及仅少数后人学会",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "b4f6fb30"
+    },
+    "chunk_0058": {
+      "entities": [
+        {
+          "name": "梁财信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海著名跌打医家，其家族开设医馆并创制跌打成药，后代子孙经历战乱与社会主义改造",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁财信跌打医术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "岭南传统医术，以跌打成药闻名，曾重新畅销国内外，贯彻与传统医术与现代科学结合",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁氏家族",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "梁财信所属宗族，历史上曾行贿免罪、变卖祖业，部分成员在特定时期去世",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐拾义",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "原名唐铎华，字振芝，三水南边区人，早年经商后赴广州学医，热心医药与教育事业",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐拾义发冷丸",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统医药",
+          "description": "唐拾义药厂创制的名药，又名唐拾义，是我国较早规模较大成批生产的西成药之一",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐拾义药厂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "我国时间较早、规模较大、成批生产西成药的药厂，由唐拾义创办",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "顺陈村",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "梁财信后来开设医馆的地点，位于南海地区",
+          "confidence": 0.78,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "白泥需村",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "唐拾义的故乡，位于三水南边区黄塘保安乡东头",
+          "confidence": 0.79,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "芦蔓镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "唐拾义年青时经商的地点，位于三水地区",
+          "confidence": 0.76,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "1635a286"
+    },
+    "chunk_0059": {
+      "entities": [
+        {
+          "name": "唐拾义",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍著名实业家，创制唐拾义发冷药及二天油，创办维德学校，对家乡文化教育事业有积极贡献",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐拾义发冷药",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "唐拾义创制的知名药品，当时畅销全国及东南亚地区",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "二天油",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A6 饮食酿造类非遗及文化物产",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "唐拾义与陈少震合作研制成功的药品，畅销国内外",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "维德学校",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "唐拾义在家乡创办的学校，师资设备齐全，规模较大，对本村及唐姓学童免收学费",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐太平",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "唐拾义长子，留学法国获医学博士学位，曾在上海经营唐拾义药厂",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "唐欧洲",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "唐拾义次子，药学专家",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "粤剧的故乡，粤剧发源地，流行于两广粤语地区及港澳台、东南亚等地",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "起源于佛山的传统戏剧，早在黄系统时期就流行于两广及海外华侨聚居地",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "3a683807"
+    },
+    "chunk_0060": {
+      "entities": [
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "岭南代表性剧种，文中提及的开山祖宗与琼花会馆相关，艺人被称为红船子弟",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "琼花会馆",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "最早的粤剧艺人组织所在地，又称琼花室，位于佛山镇大基尾华康街",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "红船子弟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "广粤东剧艺人的别致称呼，因戏班乘坐涂成红色的船只下乡演出而得名",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张五",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "粤剧戏班的开山祖师，雍正年间避祸来到广东佛山镇，传授昆飞诸腔及少林武术",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "珠江三角洲水网密布地带，红船子弟下乡演出的重要区域，琼花会馆所在地",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "大基尾华康街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "琼花会馆（琼花室）的具体地点，班集结和组班的地方",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "天贻节",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A3 民俗节庆类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "文中提及的节庆时间，万人围住看琼花（粤剧）演出的日子",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "少林武术",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A5 传统体育游艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "由张五热心传授给粤戏艺人的传统武术流派",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "汉剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "张五当时所滨的戏种，同时也会唱高腔、屁腔等",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "497145b8"
+    },
+    "chunk_0061": {
+      "entities": [
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "南海及佛山地区代表性传统戏剧，历经沧桑不断发展，曾参与革命宣传",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "汉剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "文中提及与粤剧有深厚渊源的传统剧种，粤剧许多剧目源于此",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李文茂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "咸丰四年率领红船子弟响应太平天国起义的粤剧艺人，对粤剧艺术改革作出努力",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "振天声剧社",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "辛亥革命前后孙中山先生曾与其成员会面的粤剧剧团",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "采南歌班",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "由陈少白等人组织的第一个粤剧志士班，在城乡及港澳演出改良新戏",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "咸丰四年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元一八五四年，李文茂率领红船子弟响应起义的历史时间点",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "同治七年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元一八六八年，粤剧解禁、粤班复业的历史时间点",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "辛亥革命",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "革命志士借助粤剧宣传民众的重要历史事件时期",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈少白",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "兴中会会员，组织天演公司设立戏剧学校并成立采南歌班的革命志士",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "靓雪秋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "廖仲凯先生的弟弟，艺名为靓雪秋的粤剧艺人",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "a9dcd1c6"
+    },
+    "chunk_0062": {
+      "entities": [
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "南国红豆，佛山南海区代表性传统戏剧，二十世纪二三十年代获得重大发展，周恩来曾赞誉其为南国红豆",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "温生才刺孚琦",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "粤剧编演的现实题材剧目之一，取材于现实生活识喻时政鼓吹革命",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "火烧沙头",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "粤剧编演的现实题材剧目之一，反映当时社会生活",
+          "confidence": 0.84,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "秋瑾",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "粤剧编演的以革命烈士秋瑾为题材的剧目",
+          "confidence": 0.83,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "过山班",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "二十世纪二三十年代因商业竞争而赴农村山区演出的小型粤剧戏班的统称",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "搜书院",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "1956 年 5 月周恩来总理在北京观看的粤剧经典剧目",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾陶塑",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "佛山石湾镇的传统陶瓷雕塑艺术，与粤剧服饰头饰关系密切，常表现戏曲故事人物",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "刘备江招亲",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "石湾陶塑瓦脊上表现的二十四大戏曲故事造型之一",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾公仔",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "石湾陶塑的艺术俗称，构图严谨内容丰富，多表现戏曲人物和故事",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "佛山著名陶都，石湾陶塑艺术的发源地和主要传承地",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山祖庙",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "拥有大量陶塑瓦脊的古建筑群，记载有一千二百多个人物陶塑及二十四大戏曲故事",
+          "confidence": 0.97,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "8077eeff"
+    },
+    "chunk_0063": {
+      "entities": [
+        {
+          "name": "石湾公仔",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "佛山石湾地区特有的陶塑艺术，构图严谨，题材多取自粤剧故事，神态生动传神",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "六国大封相",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "粤剧经典排场戏，常被石湾公仔作为创作题材，展现宏大戏剧场面",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "广东地方传统戏曲，对石湾公仔的人物服饰、神态塑造有深远影响",
+          "confidence": 0.99,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "红船戏班",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "清代至民国时期粤剧戏班的统称，因乘红船沿水路演出而得名，曾到佛山石湾演出",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广东刺绣",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "影响粤剧戏服制作及石湾公仔服饰细节的传统工艺美术",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山剪纸",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统美术",
+          "description": "佛山地区传统民间艺术，其图案风格影响了粤剧戏服及石湾公仔的装饰纹样",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "状元坊",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "位于广州的历史街区，清代聚集众多精制戏服的刺绣艺人",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "明代全国四大名镇之一，手工业商业发达，粤剧与石湾陶塑在此共同发展",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "锦山祖庙",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "佛山著名庙宇，内含万福台，是当地戏剧演出活动频繁的历史见证",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "万福台",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "位于锦山祖庙内的古戏台，原称华封台，昔日用于祭神和演戏",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "明代",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本提及佛山在该时期被誉为全国四大名镇之一",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "清光绪",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本提及的时间段，涉及万福台等历史建筑的沿革背景",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "f01c4a10"
+    },
+    "chunk_0064": {
+      "entities": [
+        {
+          "name": "万福台",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "佛山第一座固定戏台，广东省现存最完整的古戏台，原叫华封台，用于祭神演戏",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "华封台",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "万福台的原名，昔日用于祭神、演戏的古建筑",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "光绪二十五年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的时间节点，对应公元一八九九年",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "出将",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "万福台正面设置的演员出场门，体现戏曲艺术特点",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "入相",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "万福台正面设置的演员入场门，与出将相对",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "中和",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统音乐",
+          "description": "万福台近台边处设置的乐员相关设施或曲牌名，关联戏曲伴奏",
+          "confidence": 0.75,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "b872a90b"
+    },
+    "chunk_0065": {
+      "entities": [
+        {
+          "name": "小明星",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "姓邓名蓝蕉，1911-1942 年，三水县人，星腔始创人，平喉四杰之一",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "星腔",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "曲艺",
+          "description": "由小明星始创的粤曲演唱流派，风靡三十年代的歌坛艺术",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "叶贻孙",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "小明星的开山师傅，传授大足能（粤曲相关技艺）",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "平喉四杰",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "曲艺",
+          "description": "粤曲平喉唱腔的代表性人物群体，小明星为其中之一",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "三水县",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "小明星的籍贯地，原文提及为三水县高让区",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "a58369a5"
+    },
+    "chunk_0066": {
+      "entities": [],
+      "chunk_text_hash": "d6e4a19f"
+    },
+    "chunk_0067": {
+      "entities": [],
+      "chunk_text_hash": "675f38c7"
+    },
+    "chunk_0068": {
+      "entities": [],
+      "chunk_text_hash": "e10ca315"
+    },
+    "chunk_0069": {
+      "entities": [],
+      "chunk_text_hash": "5e40c36b"
+    },
+    "chunk_0070": {
+      "entities": [
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "文中提及梁黄系在佛山地区粤剧团演出，为岭南代表性传统戏剧",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "南派硬桥硬马",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A5 传统体育游艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "文中描述梁黄系发挥南派硬桥硬马和腰马功的特点，属传统武术技艺",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "气功",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A5 传统体育游艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "文中提到将国技气功运用到舞台上，属于传统体育与养生技艺",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "杂技",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "曲艺",
+          "description": "文中提及把一些杂技手法运用到舞台上，丰富表演形式",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁黄系",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中核心人物，著名粤剧武生，曾任佛山市人大代表、省政协委员，有“武探花”美称",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佳名扬",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中提及梁黄系曾与其合作演出并拜其为师",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈锦党",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中提及梁黄系曾与其合作演出并拜其为师",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陈少哟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "解放后梁黄系在艳阳天等剧团与其合作演出的艺术家",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "靓少佳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "解放后梁黄系在艳阳天等剧团与其合作演出的著名粤剧艺术家",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "萌记建国酒家",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "",
+          "official_type": "",
+          "description": "抗日战争期间梁黄系转行做生意开设的酒家，已结业",
+          "confidence": 0.75,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山专剧院",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1959 年梁黄系开始在此工作，后一直在佛山地区粤剧团演出的场所",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山地区粤剧团",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "梁黄系长期演出并进行艺术改革的团体机构",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "抗日战争",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及梁黄系在此期间停止演戏转做生意的历史时期",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "c9539bce"
+    },
+    "chunk_0071": {
+      "entities": [
+        {
+          "name": "度家",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "文中提及的粤剧武功流派，由梁荫棠在多年实践探索中自成一家，是二剧界的新贡献",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁荫棠",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中提到的粤剧艺术家，创立度家流派，擅长武打及将国术气功、杂技手法融入舞台表演",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "三节棍",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "梁荫棠年青时演出着重使用的武打器械之一，展现其精湛的武功技艺",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "单刀",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "梁荫棠年青时演出着重使用的武打器械之一，与其三节棍技艺并称",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "赵子龙催归",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "梁荫棠的代表剧目之一，剧中运用了罗汉源及杂技手法，包含行公仔陨台等高难度表演",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "芦花水",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "某剧目中的一场戏，梁荫棠在此场中扮演周瑜，并与张飞进行对打表演",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "周瑜",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "梁荫棠在《芦花水》一场中扮演的戏曲角色，与张飞有精彩对打场面",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "张飞",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "戏曲角色，在《芦花水》一场中与梁荫棠扮演的周瑜进行对打",
+          "confidence": 0.84,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "赵子龙",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "戏曲角色，文中描述其在长坂坡前杀退百万曹兵，被梁荫棠演绎为杀人王形象",
+          "confidence": 0.86,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "f6a7b926"
+    },
+    "chunk_0072": {
+      "entities": [],
+      "chunk_text_hash": "26215942"
+    },
+    "chunk_0073": {
+      "entities": [],
+      "chunk_text_hash": "5dc12842"
+    },
+    "chunk_0074": {
+      "entities": [],
+      "chunk_text_hash": "4ad7c07a"
+    },
+    "chunk_0075": {
+      "entities": [
+        {
+          "name": "粤剧",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统戏剧",
+          "description": "文中提及佛山粤剧团及剧艺术讨论，为南海地区代表性传统戏剧",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "黄炎工",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "文中记载的粤剧艺人的首徒，被嘱咐传授技艺给其他人",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "黄炳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "石湾陶塑艺人，自幼受熏陶，掌握深厚朴实、注重传神的技艺特色",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陶塑",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "文中指石湾陶塑，具有深厚朴实、形神兼备的技艺特色，产品远销东南亚",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "陶塑艺术的发源地与传承地，黄炳生长于此，相关故事广为流传",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "6165e0eb"
+    },
+    "chunk_0076": {
+      "entities": [
+        {
+          "name": "黄炳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "石湾陶塑名家，善于观察动物特性，以‘胎毛’技法塑造鸭、猫等动物形象",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "石湾胎毛",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "黄炳独创的陶塑技法，采用原色不施釉彩，通过细密刻划表现动物羽毛骨骼",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "宝鸭",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的黄炳计划为岳母拜寿制作的陶塑作品名称（注：此处指代具体器物故事，若视为技艺成果归入 A2，若视为具体文物实体可归此类，但结合上下文更偏向技艺描述中的作品名，故主要体现技艺）",
+          "confidence": 0.75,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "bf5a50bd"
+    },
+    "chunk_0077": {
+      "entities": [
+        {
+          "name": "黄炳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "南海石湾陶塑名家，擅长制作瓦猫、老鼠等陶塑作品，亦精于绘画",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陶塑",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "黄炳所精通的传统手工技艺，文中提及将黑泥捏制修抹成老鼠等形象",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "瓦猫",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "黄炳制作的陶塑作品，文中描述其眼嵌绿玻璃，点灯后目光威武，被误认为真猫",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "缸瓦老鼠",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "黄炳制作的陶塑老鼠，曾被商人高价购去作为生肖属鼠者的寿诞礼物",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "猫灯",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A2 传统技艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统技艺",
+          "description": "文中提到的陶塑工艺品，造型如小老虎，猪眼镶嵌绿玻璃，点油灯时目光生光",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "a7cbf539"
+    },
+    "chunk_0078": {
+      "entities": [
+        {
+          "name": "黄炳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海历史人物，以‘神眼’著称，曾协助抓获偷窃陶师庙财物的贼人",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "陶师庙",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B2 宗教建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "佛山地区宗教建筑，文中提及有人偷窃该庙物品",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "周雨耕",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末佛山花纱业巨子，原籍南海县下沙坑海南村人",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "周二六",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山花纱业富商，与周雨耕同属行业巨贾",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "谭清泉",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山染料业富商巨贾",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "梁日初",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山岗布业富商，文中提及梁日初兄弟",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "海南村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "位于南海县下沙坑的古村落，周雨耕原籍地",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "古称四山大名镇之一，西江北江总汇，手工业发达，会馆云集",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "道光",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "清代年号，周雨耕出生于道光年间",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "138f47ed"
+    },
+    "chunk_0079": {
+      "entities": [],
+      "chunk_text_hash": "6ee69c01"
+    },
+    "chunk_0080": {
+      "entities": [],
+      "chunk_text_hash": "d4fb4913"
+    },
+    "chunk_0081": {
+      "entities": [],
+      "chunk_text_hash": "bac51e16"
+    },
+    "chunk_0082": {
+      "entities": [],
+      "chunk_text_hash": "c35e643b"
+    },
+    "chunk_0083": {
+      "entities": [],
+      "chunk_text_hash": "3d7f5c22"
+    },
+    "chunk_0084": {
+      "entities": [],
+      "chunk_text_hash": "85532b7b"
+    },
+    "chunk_0085": {
+      "entities": [
+        {
+          "name": "华英学校",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由英人黎伯廉开办的中学，民国八年建筑费达九万金，培养出洗星海等名人",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "黎伯廉",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "英人，华英学校监督及开办者",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李连枝",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "华英中学首届毕业生之一，曾撰文追忆在华英的生活",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "李国治",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "华英中学旧制中学五届毕业生之一",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "黄汝衡",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "华英中学旧制中学五届毕业生之一",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "洗星海",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "著名音乐家，华英中学毕业生",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "民国八年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "华英学校报告建筑费用的时间年份",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "五卅运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "一九二五年在中国爆发的反帝运动",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "省港工人罢工运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "一九二五年爆发的工人运动",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "name": "广州沙基惨案",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "一九二五年六月英法帝国主义残杀我国工人的事件",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "佛山文史资料"
+        }
+      ],
+      "chunk_text_hash": "c70c976c"
+    },
+    "chunk_0086": {
+      "entities": [],
+      "chunk_text_hash": "6e431c6e"
+    },
+    "chunk_0087": {
+      "entities": [],
+      "chunk_text_hash": "40894d42"
+    },
+    "chunk_0088": {
+      "entities": [],
+      "chunk_text_hash": "fde2360e"
+    },
+    "chunk_0089": {
+      "entities": [],
+      "chunk_text_hash": "1bba4281"
+    },
+    "chunk_0090": {
+      "entities": [],
+      "chunk_text_hash": "a56b4ee1"
+    },
+    "chunk_0091": {
+      "entities": [],
+      "chunk_text_hash": "abc3f517"
+    },
+    "chunk_0092": {
+      "entities": [],
+      "chunk_text_hash": "4ed55574"
+    },
+    "chunk_0093": {
+      "entities": [],
+      "chunk_text_hash": "ce76d319"
+    },
+    "chunk_0094": {
+      "entities": [],
+      "chunk_text_hash": "0e3c6049"
+    },
+    "chunk_0095": {
+      "entities": [],
+      "chunk_text_hash": "0a4ed0df"
+    },
+    "chunk_0096": {
+      "entities": [],
+      "chunk_text_hash": "a740fe05"
+    },
+    "chunk_0097": {
+      "entities": [],
+      "chunk_text_hash": "928da986"
+    },
+    "chunk_0098": {
+      "entities": [],
+      "chunk_text_hash": "c2ac6f3b"
+    },
+    "chunk_0099": {
+      "entities": [],
+      "chunk_text_hash": "c21b1a78"
+    },
+    "chunk_0100": {
+      "entities": [],
+      "chunk_text_hash": "23cb7fdf"
+    },
+    "chunk_0101": {
+      "entities": [],
+      "chunk_text_hash": "712174f6"
+    },
+    "chunk_0102": {
+      "entities": [],
+      "chunk_text_hash": "8d990800"
+    },
+    "chunk_0103": {
+      "entities": [],
+      "chunk_text_hash": "654761ee"
+    },
+    "chunk_0104": {
+      "entities": [],
+      "chunk_text_hash": "3e0b64c4"
+    },
+    "chunk_0105": {
+      "entities": [],
+      "chunk_text_hash": "e9db1e48"
+    },
+    "chunk_0106": {
+      "entities": [],
+      "chunk_text_hash": "ec2f8ba0"
+    },
+    "chunk_0107": {
+      "entities": [],
+      "chunk_text_hash": "c0f2fb29"
+    },
+    "chunk_0108": {
+      "entities": [],
+      "chunk_text_hash": "70b1c467"
+    },
+    "chunk_0109": {
+      "entities": [],
+      "chunk_text_hash": "6475aa06"
+    },
+    "chunk_0110": {
+      "entities": [],
+      "chunk_text_hash": "935fd761"
+    },
+    "chunk_0111": {
+      "entities": [],
+      "chunk_text_hash": "25807f2b"
+    },
+    "chunk_0112": {
+      "entities": [],
+      "chunk_text_hash": "66f8ff9a"
+    },
+    "chunk_0113": {
+      "entities": [],
+      "chunk_text_hash": "c4098d41"
+    },
+    "chunk_0114": {
+      "entities": [],
+      "chunk_text_hash": "52d7800d"
+    },
+    "chunk_0115": {
+      "entities": [],
+      "chunk_text_hash": "7f7f6411"
+    }
+  }
+}

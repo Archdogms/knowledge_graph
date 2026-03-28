@@ -1,0 +1,4449 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "领导修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑先生领导修建京张铁路的卓越成就",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "参与建设",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑与商办广东省粤汉铁路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "西陵铁路",
+          "relation_text": "参与建设",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑与西陵铁路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李四光",
+          "target": "詹天佑",
+          "relation_text": "发表讲话纪念",
+          "relation_group": "人物关联",
+          "evidence": "摘自李四光同志在首都科学技术界纪念詹天佑诞辰一百周年大会上的讲治",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "茅以升",
+          "target": "詹天佑",
+          "relation_text": "撰文介绍",
+          "relation_group": "人物关联",
+          "evidence": "中国杰出的爱国工程师一一詹天佑……茅以升",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "金士宣",
+          "target": "詹天佑",
+          "relation_text": "撰文介绍",
+          "relation_group": "人物关联",
+          "evidence": "介绍詹天佑的光辉事迹··· 金士宣",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "卢耀显",
+          "target": "南海文史资料",
+          "relation_text": "题写封面",
+          "relation_group": "营建创造",
+          "evidence": "封面题字：卢耀显",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "何泳珠",
+          "target": "南海文史资料",
+          "relation_text": "装祯设计",
+          "relation_group": "营建创造",
+          "evidence": "装祯设计：何泳珠",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "何泳珠",
+          "target": "南海文史资料",
+          "relation_text": "担任责编",
+          "relation_group": "社群组织",
+          "evidence": "责任编辑：何泳珠",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "清咸丰十一年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "1861 年 4 月 26 日（清咸丰十一年三月十七日），出生在广东省南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《敬告青年工学家》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑的《敬告青年工学家》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "《敬告青年工学家》",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "詹天佑的《敬告青年工学家》...收录于本次文史资料特辑中",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "市科学馆",
+          "target": "詹天佑",
+          "relation_text": "举办纪念大会",
+          "relation_group": "社群组织",
+          "evidence": "市政协于是日在我市科学馆隆重举行了南海市各界人士纪念詹天佑诞辰 135 周年大会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "关性乔",
+          "target": "詹天佑",
+          "relation_text": "出席纪念大会",
+          "relation_group": "人物关联",
+          "evidence": "原市政协主席关性乔...参加了纪念大会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李金培",
+          "target": "詹天佑",
+          "relation_text": "出席纪念大会",
+          "relation_group": "人物关联",
+          "evidence": "广东省政协副主席李金培...参加了纪念大会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邓丁",
+          "target": "詹天佑",
+          "relation_text": "出席纪念大会",
+          "relation_group": "人物关联",
+          "evidence": "市政协副主席邓丁...参加了纪念大会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "谭庆麒",
+          "target": "詹天佑",
+          "relation_text": "出席纪念大会",
+          "relation_group": "人物关联",
+          "evidence": "市科委副主任谭庆麒...参加了纪念大会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "先祖父幼年离开南海县西关住地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西关",
+          "target": "南海县",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "先祖父幼年离开南海县西关住地",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东博学馆",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "先祖父曾服务家乡，在广州黄埔广东博学馆任教",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持建成",
+          "relation_group": "营建创造",
+          "evidence": "他主持建成京张铁路以后",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "商办广东省粤汉铁路总公司",
+          "relation_text": "任职总理",
+          "relation_group": "人物关联",
+          "evidence": "被推选任职商办广东省粤汉铁路总公司总理",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "主持广东省境内粤汉铁略的修建",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "清末",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "参与清末南洋海军建设",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "1914 年",
+          "relation_text": "捐助于",
+          "relation_group": "时序归属",
+          "evidence": "1914 年和 1915 年，广东省连续两年遭受特大洪水灾害，他在汉口捐助重金救灾",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "1915 年",
+          "relation_text": "捐助于",
+          "relation_group": "时序归属",
+          "evidence": "1914 年和 1915 年，广东省连续两年遭受特大洪水灾害，他在汉口捐助重金救灾",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "詹天佑",
+          "relation_text": "象征",
+          "relation_group": "文化表征",
+          "evidence": "他被誉称为中国工程之父，他的业绩被赞誉为中国人的光荣",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "咸丰十一年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "1861 年 4 月 26 日（清咸丰十一年三月十七日），他出生在广东省南海县",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "世鸾公",
+          "target": "南海县立文社",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "在南海县立文社、修会馆，并修建南海学宫",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "世鸾公",
+          "target": "会馆",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "在南海县立文社、修会馆，并修建南海学宫",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "世鸾公",
+          "target": "南海学宫",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "在南海县立文社、修会馆，并修建南海学宫",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "他出生在广东省南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "清咸丰十一年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "月 26 日（清咸丰十一年三月 十七日），他出生在广东省南海县",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "人物关联",
+          "evidence": "他以大无畏的精神主持修筑的我国自已修建、自行管理的第一条工作艰巨的京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师半会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "他创立了多学科的中华工程师半会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "工科进士",
+          "relation_text": "获授",
+          "relation_group": "人物关联",
+          "evidence": "1910 年，清政府授予他工科进士第一名",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "法学博士学位",
+          "relation_text": "获授",
+          "relation_group": "人物关联",
+          "evidence": "1916 年冬，香港大半授予他法学博士学位",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "中华工程师半会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "他创立了多学科的中华工程师半会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "保路爱国运动",
+          "relation_text": "投身",
+          "relation_group": "人物关联",
+          "evidence": "积极投身保路爱国运动",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中东铁路监管委员会",
+          "relation_text": "出任代表",
+          "relation_group": "人物关联",
+          "evidence": "1919 年初，他奉派出任协约国中东铁路监管委员会技术部中国代表",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "巴黎和会",
+          "relation_text": "致电揭露",
+          "relation_group": "人物关联",
+          "evidence": "并致电巴黎和会，揭露所谓万国共管中国铁路计划的阴谋",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "周恩来",
+          "target": "詹天佑",
+          "relation_text": "称赞",
+          "relation_group": "人物关联",
+          "evidence": "敬爱的周恩来总理曾称赞他为中国人的光荣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海市",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑出生于南海，他是我国近代科学技术的先驱、杰出的爱国工程",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李金培",
+          "target": "省政协文史委员会",
+          "relation_text": "代表",
+          "relation_group": "社群组织",
+          "evidence": "首先，我代表省政协文史委员会，省民进，并以我个人的名义向大会表示热烈的祝贺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李金培",
+          "target": "省民进",
+          "relation_text": "代表",
+          "relation_group": "社群组织",
+          "evidence": "首先，我代表省政协文史委员会，省民进，并以我个人的名义向大会表示热烈的祝贺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑出生于南海，他是我国近代科学技术的先驱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持建成",
+          "relation_group": "人物关联",
+          "evidence": "他以主持建成第一条完全由中国人自已设计、施工的京张铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑作为一位杰出的铁略工程师...他通过修建京张铁路，培养了我国第一批铁路工程师。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "居庸关",
+          "relation_text": "穿过",
+          "relation_group": "空间关联",
+          "evidence": "其中关沟段穿过古称天险的居庸关和八达岭",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "八达岭",
+          "relation_text": "穿过",
+          "relation_group": "空间关联",
+          "evidence": "其中关沟段穿过古称天险的居庸关和八达岭",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《敬告年工学家》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "他在《敬告年工学家》一文中，向当时的青年工程技术专家提出了修业、进德、守规、处事四条原则",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《广东近现代人物词典》",
+          "target": "詹天佑",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "书中收进广东名人 2000 多个，其中南海籍的占了 100 多位...除了詹天佑之外",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《广东近现代人物词典》",
+          "target": "邹伯奇",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "书中收进广东名人 2000 多个...包括有革命家、实业家、学者...南海还出过一位清代著名的天文、数学家邹伯奇",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《广东近现代人物词典》",
+          "target": "陈任校",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "书中收进广东名人 2000 多个...还有陈任校等一批名医",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "清代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "南海还出过一位清代著名的天文、数学家邹伯奇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "康有为",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "朱次琦",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "陈启沅",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "何启",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "黄少强",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《南海文史资料》",
+          "target": "冯乃超",
+          "relation_text": "编印专辑",
+          "relation_group": "文献记载",
+          "evidence": "南海市政协...先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "徽婺庐源詹氏支派世系家谱",
+          "target": "詹榜",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据清光绪十年（1885 年）詹天佑书立之《徽婺庐源詹氏支派世系家谱》...记载：他的曾祖詹榜早在清乾隆二十五年（1761）就眷来粤",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "徽婺庐源詹氏支派世系家谱",
+          "target": "詹鸣珂",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据清光绪十年（1885 年）詹天佑书立之《徽婺庐源詹氏支派世系家谱》...记载...他的祖父詹鸣珂于嘉庆二十五年（1821 年）...正式入籍南海",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "徽婺庐源詹氏支派世系家谱",
+          "relation_text": "书立",
+          "relation_group": "营建创造",
+          "evidence": "清光绪十年（1885 年）詹天佑书立之《徽婺庐源詹氏支派世系家谱》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹榜",
+          "target": "乾隆二十五年",
+          "relation_text": "来粤于",
+          "relation_group": "时序归属",
+          "evidence": "他的曾祖詹榜早在清乾隆二十五年（1761）就眷来粤",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹鸣珂",
+          "target": "嘉庆二十五年",
+          "relation_text": "入籍于",
+          "relation_group": "时序归属",
+          "evidence": "他的祖父詹鸣珂于嘉庆二十五年（1821 年）...正式入籍南海",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹兴洪",
+          "target": "道光三年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "他父亲生于道光三年，即 1824 年",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹鸣珂",
+          "target": "南海县",
+          "relation_text": "入籍",
+          "relation_group": "人物关联",
+          "evidence": "他的祖父詹鸣珂于嘉庆二十五年（1821 年）...正式入籍南海",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "入籍于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑...后入籍南海",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "南海县",
+          "target": "秦始皇三十三年",
+          "relation_text": "始设于",
+          "relation_group": "时序归属",
+          "evidence": "南海县原是秦始皇三十三年（公元前 241 年）设置的南海郡",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "南海县",
+          "target": "隋开皇九年",
+          "relation_text": "置县于",
+          "relation_group": "时序归属",
+          "evidence": "隋开皇九年（589 年）废除南海郡建制，翌年...把番禺县改置为南海县",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "南海县",
+          "target": "广州",
+          "relation_text": "附郭于",
+          "relation_group": "空间关联",
+          "evidence": "此后南海县便一直附郭于广州",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西关",
+          "target": "广州",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "后来成为广州最富庶之地西关（在今之荔湾区内",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "康有为",
+          "relation_text": "同辑收录",
+          "relation_group": "人物关联",
+          "evidence": "先后为康有为、朱次琦、陈启沅、何启、黄少强、冯乃超等名人编印过专辑...纪念詹天佑诞辰 135 周年",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "西关",
+          "target": "詹天佑",
+          "relation_text": "所在地为",
+          "relation_group": "空间关联",
+          "evidence": "西门外十二甫詹家即在其中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东通志",
+          "target": "詹天佑",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "清阮元主修的《广东通志》人物列传，南海县籍老 145 人...正好适应詹氏上述入籍选择",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑毅然出任京张铁路会办，兼总工程师，并用四年时间...完成了京张铁路的建筑工程",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "居庸",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路途经居庸、五桂、石佛寺，八达岭",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "五桂",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路途经居庸、五桂、石佛寺，八达岭",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "石佛寺",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路途经居庸、五桂、石佛寺，八达岭",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "八达岭",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路途经居庸、五桂、石佛寺，八达岭",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "容闳",
+          "target": "香山县",
+          "relation_text": "家乡为",
+          "relation_group": "人物关联",
+          "evidence": "主办此事者容闪的家乡香山县",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "同治壬申年",
+          "relation_text": "留学于",
+          "relation_group": "时序归属",
+          "evidence": "詹天佑于清同治壬申年（1872 年...）赴美",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "光绪戊寅年",
+          "relation_text": "入学于",
+          "relation_group": "时序归属",
+          "evidence": "光绪戊寅年（1878 年）入耶鲁大学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "辛已年",
+          "relation_text": "毕业于",
+          "relation_group": "时序归属",
+          "evidence": "辛已年（1881 年）毕业回国",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "詹兴洪",
+          "target": "詹天佑",
+          "relation_text": "送...报考",
+          "relation_group": "人物关联",
+          "evidence": "詹兴洪当时也是在常到澳门做生意的挚友（后为詹天佑岳父）香山人谭伯邨处得到信息和规劝，经过多方考虑才送詹天佑去报考的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "谭伯邨",
+          "target": "詹天佑",
+          "relation_text": "规劝...留学",
+          "relation_group": "人物关联",
+          "evidence": "詹兴洪当时也是在常到澳门做生意的挚友（后为詹天佑岳父）香山人谭伯邨处得到信息和规劝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "谭伯邨",
+          "target": "詹天佑",
+          "relation_text": "是...岳父",
+          "relation_group": "人物关联",
+          "evidence": "詹兴洪当时也是在常到澳门做生意的挚友（后为詹天佑岳父）香山人谭伯邨",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "籍贯属于",
+          "relation_group": "从属分类",
+          "evidence": "这一切，又都离不开南海县的人文环境。南海县人历来具有反对外来侵略的革命传统",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "张镇孙",
+          "target": "南海县",
+          "relation_text": "籍贯属于",
+          "relation_group": "从属分类",
+          "evidence": "南宋末南海县人、状元张镇孙",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "陈子壮",
+          "target": "南海县",
+          "relation_text": "籍贯属于",
+          "relation_group": "从属分类",
+          "evidence": "明末南海县人、探花陈子壮",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "三元里人民抗英斗争",
+          "target": "道光二十年",
+          "relation_text": "发生于",
+          "relation_group": "时序归属",
+          "evidence": "1841 年（道光二十年）英军在广州西郊增埗登陆……引发了三元里人民大规模的抗英斗争",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "火烧英国商馆",
+          "target": "十三行",
+          "relation_text": "发生于",
+          "relation_group": "空间关联",
+          "evidence": "引发广州民众拥集十三行火烧洋馆",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "九江乡",
+          "target": "明代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "明代，处低洼之地的九江乡人便因势凿沼，养鱼为业，并创造了先进的培育鱼苗技术",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "清代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "清代，南海县人，广东近代史上第一位自然科学家邹伯奇",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《乘方捷术》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "著有《重求》《求》，《繁》《水》 《乘方捷术》、《对数尺记》、《测量备要》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《对数尺记》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "著有《重求》《求》，《繁》《水》 《乘方捷术》、《对数尺记》、《测量备要》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《测量备要》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "著有《重求》《求》，《繁》《水》 《乘方捷术》、《对数尺记》、《测量备要》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "《舆地全图》",
+          "relation_text": "绘制",
+          "relation_group": "人物关联",
+          "evidence": "绘有《舆地全图》，并成功地自制摄影之器自拍肖像",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "同治年间",
+          "relation_text": "创办于",
+          "relation_group": "时序归属",
+          "evidence": "同治年间引进海外技术创办我国第一家机器缫丝厂...都是南海县人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "康有为",
+          "target": "詹天佑",
+          "relation_text": "影响",
+          "relation_group": "人物关联",
+          "evidence": "除陈启沅、康有为的事迹稍迟外...对居住于当年南海县城之中的詹天佑，不可能不产生积极的，甚至是深刻的影响",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "詹天佑",
+          "relation_text": "影响",
+          "relation_group": "人物关联",
+          "evidence": "除陈启沅、康有为的事迹稍迟外...对居住于当年南海县城之中的詹天佑，不可能不产生积极的，甚至是深刻的影响",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "满清王朝",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "詹天佑生遗满清王朝末世，政治腐败，国势衰微",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑有几句话，讲出了他当时受命主持这项工程的思想",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《京张铁路工程纪略·序》",
+          "target": "詹天佑",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《京张铁路工程纪略·序》中，詹天佑有几句话，讲出了他当时受命主持这项工程的思想",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "人物关联",
+          "evidence": "修筑京张铁路的全过程，集中体现了他高度敬业精神的方方面面",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "南口至八达龄的之字形路段",
+          "relation_text": "创造性建造",
+          "relation_group": "人物关联",
+          "evidence": "后来便能创造性地建造了南口至八达龄的之字形路段和八达岭隧道",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "八达岭隧道",
+          "relation_text": "主持建造",
+          "relation_group": "人物关联",
+          "evidence": "后来便能创造性地建造了南口至八达龄的之字形路段和八达岭隧道",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海市",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "今天，我们在詹天佑的家乡南海市隆重集会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "营建创造",
+          "evidence": "给京张铁路的修筑（1905 年 10 月至 1909 年 5 月）造成许多困难，詹天佑靠精巧的设计和施工方案...终于把...京张铁路提前四个半月筑成了",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "滦河大桥",
+          "relation_text": "参与建设",
+          "relation_group": "营建创造",
+          "evidence": "在 1892 年建滦河大桥中，他汲取了外国工程师失败的教训，改选桥址",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "压气沉箱法",
+          "relation_text": "大胆使用",
+          "relation_group": "人物关联",
+          "evidence": "改选桥址，大胆使用压气沉箱法，终于取得成功",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "人物关联",
+          "evidence": "当时唯有詹天佑能担当此任。于是他被任命为该路总工程师...京张铁路的修筑更是如此",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "西陵铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "人物关联",
+          "evidence": "筑西陵铁路（1902 年至次年 3 日）...当时唯有詹天佑能担当此任。于是他被任命为该路总工程师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "八达岭隧道",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "京张铁路...最主要的技术革新有两项。一项是八达岭隧道工程",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "青龙桥",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "京张铁路...另一项是运用折反线原理，在坡度很陡的青龙桥段修筑之字形的路线",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "清朝",
+          "relation_text": "修建于",
+          "relation_group": "时序归属",
+          "evidence": "这在清朝末年里难能可贵的",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西陵铁路",
+          "target": "清朝",
+          "relation_text": "修建于",
+          "relation_group": "时序归属",
+          "evidence": "筑西陵铁路（1902 年至次年 3 日）...这在清朝末年里难能可贵的",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑出任京张铁路总工程师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "唐胥铁路",
+          "relation_text": "参与扩建",
+          "relation_group": "营建创造",
+          "evidence": "早在 1894 年唐胥铁路扩建之后...吸收詹天佑为会员",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "英国工程学会",
+          "target": "詹天佑",
+          "relation_text": "吸收为会员",
+          "relation_group": "社群组织",
+          "evidence": "英国工程学会已吸收詹天佑为会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "美国工程师学会",
+          "target": "詹天佑",
+          "relation_text": "吸收为会员",
+          "relation_group": "社群组织",
+          "evidence": "美国工程师学会又吸收他为正式会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "芮恩施",
+          "target": "詹天佑",
+          "relation_text": "致电悼念",
+          "relation_group": "人物关联",
+          "evidence": "他逝世后，美国驻华公使芮恩施致电说：詹博士对建设中国卓越的贡献",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "斯梯文斯",
+          "target": "詹天佑",
+          "relation_text": "致电哀悼",
+          "relation_group": "人物关联",
+          "evidence": "美国工程师斯梯文斯...的喀电说：他的去世，是吾等同仁的损失",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《詹天佑传》",
+          "target": "詹天佑",
+          "relation_text": "记载生平",
+          "relation_group": "文献记载",
+          "evidence": "茅家琦教授用此四字对他的一生的概括（见《詹天佑传》）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "清政府",
+          "relation_text": "遗言呼吁",
+          "relation_group": "人物关联",
+          "evidence": "要求清政府其甄用技术人员，尤应精求上驷",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "1861 年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "1861 年，南海升起了一颗至今还闪烁光辉的科技明星，这就是著名的铁路工程师詹天佑。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "岭南大学",
+          "relation_text": "演说于",
+          "relation_group": "社群组织",
+          "evidence": "1923 年 12 月 21 日，为中国革命呕心沥血的孙中山对岭南大学的莘莘学子作了一场倾吐肺之言的著名演说",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "后稷",
+          "relation_text": "提及",
+          "relation_group": "人物关联",
+          "evidence": "如教人耕田的中国后稷，发现微生物的法国柏斯多和创立进化论学说的英国达尔文等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "柏斯多",
+          "relation_text": "提及",
+          "relation_group": "人物关联",
+          "evidence": "如教人耕田的中国后稷，发现微生物的法国柏斯多和创立进化论学说的英国达尔文等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "达尔文",
+          "relation_text": "提及",
+          "relation_group": "人物关联",
+          "evidence": "如教人耕田的中国后稷，发现微生物的法国柏斯多和创立进化论学说的英国达尔文等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "珠江",
+          "relation_text": "饮于",
+          "relation_group": "空间关联",
+          "evidence": "他们不但同饮珠江水，而且同是贫家子弟",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "珠江",
+          "relation_text": "饮于",
+          "relation_group": "空间关联",
+          "evidence": "他们不但同饮珠江水，而且同是贫家子弟",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "1872 年",
+          "relation_text": "留学于",
+          "relation_group": "时序归属",
+          "evidence": "1872 年，詹天佑经考试录取的而以公费生的资格赴美留学。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "西陵铁路",
+          "relation_text": "任总工程师",
+          "relation_group": "人物关联",
+          "evidence": "1902 年冬，调任西陵铁路总工程师职务",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "策划修造",
+          "relation_group": "人物关联",
+          "evidence": "由他亲自策划和修造的被中外工程技术界视为畏途的北京至张家口的京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "川汉铁路",
+          "relation_text": "任总工程师",
+          "relation_group": "人物关联",
+          "evidence": "京张铁路建成后，詹天佑先后身任川汉铁路总工程师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "任总理兼总工程师",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑先后身任...粤汉铁路总理、粤汉铁路会办和总理兼总工程师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "汉粤川铁路",
+          "relation_text": "任督办",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑先后身任...汉粤川铁路督办等职",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "清朝政府",
+          "target": "詹天佑",
+          "relation_text": "授予进士",
+          "relation_group": "人物关联",
+          "evidence": "清朝政府于 1909 年授予他 20 名工科进士的第一名",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "美国工程师学会",
+          "target": "詹天佑",
+          "relation_text": "吸收为会员",
+          "relation_group": "社群组织",
+          "evidence": "同年，又被美国工程师学会吸收为第一个中国人会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "詹天佑",
+          "relation_text": "高度赞扬",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑不但受到力主大修铁路的孙中山的高度赞扬",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师会",
+          "relation_text": "出任会长",
+          "relation_group": "人物关联",
+          "evidence": "被推选出任中华工程师会会长",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师学会",
+          "relation_text": "出任会长",
+          "relation_group": "人物关联",
+          "evidence": "被推选出任...中华工程师学会会长等职",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "设计施工",
+          "relation_group": "营建创造",
+          "evidence": "先祖父建成了第一条完全由中国工程技术人员设计、施工的铁路干线一一京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹同伟",
+          "target": "詹天佑",
+          "relation_text": "是后裔",
+          "relation_group": "传承延续",
+          "evidence": "詹天佑先生后裔詹同伟",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "南海市政协",
+          "target": "詹天佑",
+          "relation_text": "主持纪念大会",
+          "relation_group": "社群组织",
+          "evidence": "向组织和主持纪念大会的南海市政协领导",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑铜像",
+          "target": "青龙桥车站",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "人们已在青龙桥车站建立了詹天佑铜像",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑坟墓",
+          "target": "青龙桥车站",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "政府又在北京青龙桥重新为詹天佑修建新墓地",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "广东省粤汉铁路",
+          "relation_text": "修筑",
+          "relation_group": "人物关联",
+          "evidence": "我国杰出爱国工程专家詹天佑及挚友邝孙谋都为家乡从事过此路之修筑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "广东省粤汉铁路",
+          "relation_text": "修筑",
+          "relation_group": "人物关联",
+          "evidence": "我国杰出爱国工程专家詹天佑及挚友邝孙谋都为家乡从事过此路之修筑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "广东省粤汉铁路",
+          "relation_text": "关心重视",
+          "relation_group": "人物关联",
+          "evidence": "孙中山从事实业建设时，对于粤 汉铁路的修建，也函为关心重视",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "盛宣怀",
+          "target": "广东省粤汉铁路",
+          "relation_text": "订立合约",
+          "relation_group": "人物关联",
+          "evidence": "清政府铁路督办大臣盛宣怀与美国合兴公司订约，由该公司承办粤汉铁路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "三水铁路",
+          "target": "广东省粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "先修建广东省粤汉铁路支线三水铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东省粤汉铁路",
+          "target": "光绪二十六年",
+          "relation_text": "起自",
+          "relation_group": "时序归属",
+          "evidence": "粤汉铁路之兴建，起自清光绪二十六年（1900 年）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "三水铁路",
+          "target": "光绪二十七年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "合兴公司自光绪二十七年（1901 年）起，先修建广东省粤汉铁路支线三水铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "三水铁路",
+          "target": "石围塘",
+          "relation_text": "起始于",
+          "relation_group": "空间关联",
+          "evidence": "由广州府 33 南海县境内之石围塘起，通至三水",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "三水铁路",
+          "target": "光绪三十年",
+          "relation_text": "全线通车于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十年，石围塘至三水全线通车",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "张之洞",
+          "target": "粤汉铁路",
+          "relation_text": "倡议废约",
+          "relation_group": "人物关联",
+          "evidence": "美商既然违约出售股票，张之洞乃倡议废约",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "梁诚",
+          "target": "粤汉铁路",
+          "relation_text": "交涉赎回",
+          "relation_group": "人物关联",
+          "evidence": "电派驻美公使梁诚（清末首批出洋留学幼童之一）与美方交涉...商定由清政府赔款回修路权",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "岑春煊",
+          "target": "三水铁路",
+          "relation_text": "接收",
+          "relation_group": "人物关联",
+          "evidence": "并由两广总督岑春煊筹办，另外，即接收三水铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "岑春煊",
+          "target": "粤汉铁路",
+          "relation_text": "主张公款筹办",
+          "relation_group": "人物关联",
+          "evidence": "广东省内粤汉铁路之修建，岑春煊主张以公款筹办",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "三水铁路",
+          "target": "光绪二十七年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "合兴公司自光绪二十七年（1901 年）起，先修建广东省粤汉铁路支线三水铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "光绪三十二年",
+          "target": "粤汉铁路总局",
+          "relation_text": "设立",
+          "relation_group": "时序归属",
+          "evidence": "并于光绪三十二年正月，设立粤汉铁路总局",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "王秉恩",
+          "target": "粤汉铁路总局",
+          "relation_text": "担任总办",
+          "relation_group": "人物关联",
+          "evidence": "由曾经向美合兴公司办理接收之道台王秉恩为路局总办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东总商会",
+          "target": "粤汉铁路总局",
+          "relation_text": "参与筹款",
+          "relation_group": "社群组织",
+          "evidence": "另照会广东总商会及九大善堂……集会商议筹款之事",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "九大善堂",
+          "target": "粤汉铁路总局",
+          "relation_text": "参与筹款",
+          "relation_group": "社群组织",
+          "evidence": "另照会广东总商会及九大善堂……集会商议筹款之事",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "黎国廉",
+          "target": "梁庆桂",
+          "relation_text": "共同主张",
+          "relation_group": "人物关联",
+          "evidence": "绅商黎国廉，梁庆桂提出商办",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "柴维桐",
+          "target": "黎国廉",
+          "relation_text": "逮捕",
+          "relation_group": "人物关联",
+          "evidence": "派番禺知县柴维桐逮捕黎国廉",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广济医院",
+          "target": "南海县",
+          "relation_text": "召集议事",
+          "relation_group": "空间关联",
+          "evidence": "岑春煊派广州府南海、番禺两县邀集绅商到广济医院商议办法",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广济医院",
+          "target": "番禺县",
+          "relation_text": "召集议事",
+          "relation_group": "空间关联",
+          "evidence": "岑春煊派广州府南海、番禺两县邀集绅商到广济医院商议办法",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "唐绍仪",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被提议为总理",
+          "relation_group": "人物关联",
+          "evidence": "股东向袁上诉，并提议推举唐绍仪...为总理",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被推举为协理",
+          "relation_group": "人物关联",
+          "evidence": "并提议推举唐绍仪...为总理，詹天佑为协理",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "郑官应",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被公推为总办",
+          "relation_group": "人物关联",
+          "evidence": "七十二行商代表齐集爱育堂商议，公推郑官应...为总办",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "黄景棠",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被公推为副办",
+          "relation_group": "人物关联",
+          "evidence": "公推郑官应...为总办，黄景棠为副办",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "左宗蕃",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被推选为坐办",
+          "relation_group": "人物关联",
+          "evidence": "总商会由左宗蕃，许应鸿、周麟述为坐办",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "许应鸿",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被推选为坐办",
+          "relation_group": "人物关联",
+          "evidence": "总商会由左宗蕃，许应鸿、周麟述为坐办",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "周麟述",
+          "target": "广东商办粤汉铁路有限总公司",
+          "relation_text": "被推选为坐办",
+          "relation_group": "人物关联",
+          "evidence": "总商会由左宗蕃，许应鸿、周麟述为坐办",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东商办粤汉铁路有限总公司",
+          "target": "光绪三十二年",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十二年（1906 年）四月，商办公司成立，定名为广东商办粤汉铁路有限总公司",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东商办粤汉铁路有限总公司",
+          "target": "石围塘至三水铁路",
+          "relation_text": "接管",
+          "relation_group": "空间关联",
+          "evidence": "石围塘至三水铁路权利由粤湘鄂三省共有）概移交商办公司接管",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "郑官应",
+          "target": "爱育堂",
+          "relation_text": "于此处被公推",
+          "relation_group": "人物关联",
+          "evidence": "七十二行商代表齐集爱育堂商议，公推郑官应...为总办",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "邝孙谋",
+          "target": "南海县东村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "邝孙谋为广东南海县东村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "邝孙谋",
+          "relation_text": "推荐",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑乃推荐邝孙谋代行南下，修筑粤路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "岑春煊",
+          "target": "袁世凯",
+          "relation_text": "商议",
+          "relation_group": "人物关联",
+          "evidence": "两广总督岑春煊...向直隶总督袁世凯商议由詹天佑返粤主持粤路事",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑时任京张铁路总工程司兼会办，不能离职南下",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "粤汉铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "邝孙谋就任广东省商办粤汉铁路总工程司...推荐邝孙谋代行南下，修筑粤路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "郑官应",
+          "target": "粤汉铁路",
+          "relation_text": "曾任总办",
+          "relation_group": "人物关联",
+          "evidence": "总办郑官应以年老多病，力辞所任总办之职",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "光绪三十二年",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十二年（1906 年）邝孙谋就任广东省商办粤汉铁路总工程司",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "邝孙谋",
+          "target": "南海县东村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "邝孙谋为广东南海县东村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东博学馆",
+          "relation_text": "任教",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑正在广东博学馆任教师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "开平铁路公司",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "回国后被派往开平铁路公司",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中国铁路公司",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "约请詹天佑北上天津入中国铁路公司",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "关内外铁路",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "此后，邝孙谋与詹天佑共同任职关内外铁路",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "此后，邝孙谋与詹天佑共同任职关内外铁路",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "光绪三十一年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十一年（1905 年）京张铁路开工修建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主修",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑以正工程司任总工程司",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "京张铁路",
+          "relation_text": "主修",
+          "relation_group": "人物关联",
+          "evidence": "邝孙谋任副工程司",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "光绪三十三年",
+          "relation_text": "改行于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十三年（1907 年），广东省商办粤汉铁路总公司改行总理制",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "梁诚",
+          "target": "粤汉铁路",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "由梁诚任总理...公司在梁诚主持下",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "罗光廷",
+          "target": "粤汉铁路",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "罗光廷任协理",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "粤汉铁路",
+          "relation_text": "主修",
+          "relation_group": "人物关联",
+          "evidence": "邝孙谋任总工程司",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑在京张铁路建成后，主持商办川汉铁路工程中",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "川汉铁路",
+          "relation_text": "主持工程",
+          "relation_group": "营建创造",
+          "evidence": "以四川省商办川汉铁路总工程司兼会办...主持商办川汉铁路工程中",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "出任总理",
+          "relation_group": "人物关联",
+          "evidence": "任广东省商办粤汉铁路公司总理",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "张绥铁路",
+          "relation_text": "主持展修",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑在展修张家口至绥远铁路当中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "邝孙谋",
+          "relation_text": "通信交流",
+          "relation_group": "人物关联",
+          "evidence": "曾不断地与邝孙谋通信，介绍京张铁路修建的进度以及工作经验",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "颜德庆",
+          "relation_text": "致函指导",
+          "relation_group": "人物关联",
+          "evidence": "自北京京张张绥铁路致函宜昌川汉铁路副总工程司颜德庆称",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李稷勋",
+          "target": "川汉铁路",
+          "relation_text": "掌管实权",
+          "relation_group": "人物关联",
+          "evidence": "四川省商办川汉铁路公司驻宜昌总理李稷勋...在宜昌者，掌管筑路实权",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "宣统元年",
+          "relation_text": "建成于",
+          "relation_group": "时序归属",
+          "evidence": "宣统元年八月（1909 年 10 月）京张铁路建成通车",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "主持修筑",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑曾任其总理并主持修筑事宜",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "张绥铁路",
+          "relation_text": "从事展修",
+          "relation_group": "人物关联",
+          "evidence": "接替詹天佑所从事之张绥铁路展修工作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "张绥铁路",
+          "relation_text": "接替展修",
+          "relation_group": "人物关联",
+          "evidence": "邝孙谋...就职张绥铁路总工程司，接替詹天佑所从事之张绥铁路展修工作",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "保路运动",
+          "relation_text": "领导参与",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑身兼广东省商办粤汉铁路及四川省商办川汉铁路两路领导职务...致电川路公司共同保路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "清政府",
+          "target": "保路运动",
+          "relation_text": "引发",
+          "relation_group": "人物关联",
+          "evidence": "清政府以铁路收归国有为名...招致粤湘鄂川各省人民强烈反对...爆发保路运动",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "保路同志军起义",
+          "target": "辛亥革命",
+          "relation_text": "成为导火线",
+          "relation_group": "传承延续",
+          "evidence": "四川省保路运动发展成为保路同志军起义...成为辛亥革命的导火线",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《粤路来了好总理》",
+          "target": "詹天佑",
+          "relation_text": "报导到职",
+          "relation_group": "文献记载",
+          "evidence": "报章以《粤路来了好总理》为题，报导他的到职",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "颜德庆",
+          "relation_text": "致函",
+          "relation_group": "人物关联",
+          "evidence": "他于 1911 年 5 月 21 日于广州致函宜昌颜德庆称",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "广东中华工程师会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "创立广东中华工程师会，并被选为会长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《京张铁路标准图》",
+          "relation_text": "主持编制",
+          "relation_group": "人物关联",
+          "evidence": "他主持编制的《京张铁路标准图》册",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东中华工程师会",
+          "target": "《京张铁路标准图》",
+          "relation_text": "编印发行",
+          "relation_group": "社群组织",
+          "evidence": "由广东中华工程师会编印发行",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "黄沙车站",
+          "relation_text": "起点为",
+          "relation_group": "空间关联",
+          "evidence": "本路起点站为黄沙车站",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "珠江",
+          "relation_text": "南濒",
+          "relation_group": "空间关联",
+          "evidence": "广东省商办粤汉铁路起点南濒珠江",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "粤汉铁路",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "孙中山从事实业建设中，首先到广州视察商办广东省粤汉铁路总公司",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "谭人凤",
+          "target": "粤汉铁路",
+          "relation_text": "任督办",
+          "relation_group": "人物关联",
+          "evidence": "任命谭人凤为督办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "黄兴",
+          "target": "粤汉铁路",
+          "relation_text": "任督办",
+          "relation_group": "人物关联",
+          "evidence": "督办先为谭人凤，后为黄兴",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "欧祥",
+          "target": "粤汉铁路",
+          "relation_text": "任总理",
+          "relation_group": "人物关联",
+          "evidence": "民国三年（1914 年），由欧祥为总理",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "容祺勋",
+          "target": "粤汉铁路",
+          "relation_text": "任总工程司",
+          "relation_group": "人物关联",
+          "evidence": "原副总工程司容祺勋升任总工程司",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "任会办",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被任命为粤汉铁路会办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "黄沙车站",
+          "target": "南海县",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "本路起点站为黄沙车站，位于广州城西南隅之黄沙，属南海县管辖地",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤路公司",
+          "relation_text": "就职于",
+          "relation_group": "人物关联",
+          "evidence": "宣统三年（1911 年）初，詹天佑到广州，正式就职粤路公司总理兼总工程司",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "粤汉干路",
+          "relation_text": "负责修建",
+          "relation_group": "人物关联",
+          "evidence": "以上各段工程均系在邝孙谋任职总工程司期间工",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉干路",
+          "target": "光绪三十二年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十二年（1906 年）八月正式开工",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉干路",
+          "target": "宣统三年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "宣统三年七月通车黎洞",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉干路",
+          "target": "民国元年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "民国元年（1912 年）三月通车连江口",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广三铁路",
+          "target": "黄沙车站",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "隔江对岸，为广三铁路石围塘车站",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "粤汉铁路",
+          "target": "民国三年",
+          "relation_text": "通车于",
+          "relation_group": "时序归属",
+          "evidence": "广东商办粤汉铁路于民国三年（1914 年）四月通车大坑口",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "民国五年",
+          "relation_text": "通车于",
+          "relation_group": "时序归属",
+          "evidence": "民国五年（1916 年）六月通车至韶州",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "詹天佑主持粤路后，继续加强机车修造设备增设",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "黄沙车站",
+          "relation_text": "建成",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑主持粤路后...并于民国元年（1912 年）二月建成黄沙车站站房大楼",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "黄沙车站",
+          "relation_text": "设置",
+          "relation_group": "营建创造",
+          "evidence": "邝孙谋在粤路时，于黄沙站码头设置 25 吨大型起重机",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "黄沙车站",
+          "target": "民国元年",
+          "relation_text": "建成于",
+          "relation_group": "时序归属",
+          "evidence": "并于民国元年（1912 年）二月建成黄沙车站站房大楼",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "滘江大桥",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "重点桥梁工程如滘江大桥长 300 英尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "英德遥步大桥",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "重点桥梁工程如...英德遥步大桥长 755 英尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "盲仔峡",
+          "target": "粤汉铁路",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "继续行进而险竣之盲仔峡...开凿岩石山洞二座通过",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "鹰扬峡",
+          "target": "粤汉铁路",
+          "relation_text": "途经",
+          "relation_group": "空间关联",
+          "evidence": "另有鹰扬峡亦为名胜险地，开凿岩石山洞通过",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "大庙峡山洞",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "广州至韶州间，全线共开凿山洞 5 座，大庙峡山洞长 242 英尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "清风亭山洞",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "广州至韶州间...清风亭山洞长 907 英尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "乐昌大桥",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "韶州以北，路线展修至乐昌，建有乐昌大桥",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "高廉村山洞",
+          "target": "粤汉铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "韶州以北...并开凿高廉村山洞长 1394 英尺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "汉阳钢铁厂",
+          "target": "粤汉铁路",
+          "relation_text": "制造",
+          "relation_group": "营建创造",
+          "evidence": "全线所用之钢轨...为汉阳钢铁厂制造",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "建成",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑自力更生建成了京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "西陵铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑于辛丑条约签订后...还主持修建了西陵铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西陵铁路",
+          "target": "新易铁路",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "西陵铁路（又称新易铁路）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "慈禧太后",
+          "target": "光绪帝",
+          "relation_text": "偕同",
+          "relation_group": "人物关联",
+          "evidence": "于是拟偕光绪帝，亲往皇陵祭祀",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孝陵",
+          "target": "东陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "东陵位于河北遵化县的马兰峪，时建有顺治的孝陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "景陵",
+          "target": "东陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "东陵...时建有...康熙的景陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "裕陵",
+          "target": "东陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "东陵...时建有...乾隆的裕陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "定陵",
+          "target": "东陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "东陵...时建有...咸丰的定陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "惠陵",
+          "target": "东陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "东陵...时建有...同治的惠陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "泰陵",
+          "target": "西陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西陵位于河北省易县...时建有雍正的泰陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "昌陵",
+          "target": "西陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西陵...时建有...嘉庆的昌陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "慕陵",
+          "target": "西陵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西陵...时建有...道光的慕陵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西陵铁路",
+          "target": "辛丑条约",
+          "relation_text": "建于",
+          "relation_group": "时序归属",
+          "evidence": "詹天佑于辛丑条约签订后...主持修建了西陵铁路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "交通史路政编",
+          "target": "民国 20 年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "铁道交通两部交通史编筹委员会民国 20 年出版",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "粤汉铁路",
+          "target": "清代",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "追述广东省商办粤汉铁路之修建历史...清代铁路史",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "詹兴洪",
+          "target": "詹天佑",
+          "relation_text": "是之父",
+          "relation_group": "人物关联",
+          "evidence": "父詹兴洪本为广州茶商...为儿子报了名",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "容闳",
+          "target": "曾国藩",
+          "relation_text": "获支持于",
+          "relation_group": "人物关联",
+          "evidence": "热心于中西文化交流的容阖，在曾国藩、李鸿章的支持下",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "容闳",
+          "target": "李鸿章",
+          "relation_text": "获支持于",
+          "relation_group": "人物关联",
+          "evidence": "热心于中西文化交流的容阖，在曾国藩、李鸿章的支持下",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "威士哈芬",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "进威士哈芬（Wenthaven）的海滨男生学校就读",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "纽哈文",
+          "relation_text": "求学于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑考入纽哈文（NewHaven）的山庄高级中学",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "耶鲁大学",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "考入当地美国著名的高等学府一耶鲁大学...获土木工程科学士学位",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "码头起重机的研究",
+          "relation_text": "撰写了",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑写成有价值的毕业论文，题为 码头起重机的研究",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "马尾海战",
+          "relation_text": "参加",
+          "relation_group": "人物关联",
+          "evidence": "1884 年 8 月 28 日，詹天佑驾舰参加了口法战争马尾海战",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝谋孙",
+          "target": "詹天佑",
+          "relation_text": "介绍入职",
+          "relation_group": "传承延续",
+          "evidence": "经其介绍，詹天佑入技术人才不足的中国铁路公司工作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中国铁路公司",
+          "relation_text": "供职于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑入技术人才不足的中国铁路公司工作，至 1802 年，已在铁路上供职 14 年",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "伍廷芳",
+          "target": "中国铁路公司",
+          "relation_text": "任总办",
+          "relation_group": "人物关联",
+          "evidence": "伍廷芳为总办，由李鸿章控制",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李鸿章",
+          "target": "中国铁路公司",
+          "relation_text": "控制",
+          "relation_group": "人物关联",
+          "evidence": "伍廷芳为总办，由李鸿章控制",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "津沽铁路",
+          "relation_text": "参与修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑进入中国铁路公司后，最先参加的是津沽铁路的修建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关东铁路",
+          "relation_text": "承建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑被调至承建此路的北洋官铁路局，任分段工程师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "滦河大桥",
+          "relation_text": "主持建造",
+          "relation_group": "营建创造",
+          "evidence": "翌年在米各庄处建桥...后路局让詹天佑试试...终于牢牢地建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "压沉箱法",
+          "relation_text": "采用",
+          "relation_group": "人物关联",
+          "evidence": "决定采用压沉箱法。此法将石料洋灰以气压筑至河底",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "滦河大桥",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "终于牢牢地建起了一座座桥墩，架起了长达 670 多米的滦河大桥",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "气压沉箱法",
+          "relation_text": "首次使用",
+          "relation_group": "人物关联",
+          "evidence": "他在华 50 首次使用气压沉箱法的成功尝试",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "英国土木工程学会",
+          "target": "詹天佑",
+          "relation_text": "吸收为会员",
+          "relation_group": "社群组织",
+          "evidence": "1894 年，英国土木工程学会吸收詹天佑为会员",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "津芦铁路",
+          "relation_text": "参与修筑",
+          "relation_group": "人物关联",
+          "evidence": "甲午战争后詹天佑先后参加了津芦铁路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "参与修筑",
+          "relation_group": "人物关联",
+          "evidence": "甲午战争后詹天佑先后参加了...关内外铁路中后所至锦州段的修筑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "株萍路",
+          "relation_text": "帮助修筑",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑转至南方，帮修株萍路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "西陵路",
+          "relation_text": "任总工程师",
+          "relation_group": "人物关联",
+          "evidence": "11 月袁世凯命詹天佑为西陵路总工程师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "袁世凯",
+          "target": "詹天佑",
+          "relation_text": "保荐",
+          "relation_group": "人物关联",
+          "evidence": "袁、胡两位大臣以在事异常出力保荐詹天佑免选本班",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "胡烯",
+          "target": "詹天佑",
+          "relation_text": "保荐",
+          "relation_group": "人物关联",
+          "evidence": "袁、胡两位大臣以在事异常出力保荐詹天佑免选本班",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "袁世凯",
+          "target": "詹天佑",
+          "relation_text": "任命为",
+          "relation_group": "人物关联",
+          "evidence": "11 月袁世凯命詹天佑为西陵路总工程师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "西陵路",
+          "relation_text": "主持修筑",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑主持修筑西陵路，积累了当总工程师之经验",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "为詹天佑日后主持修建京张铁路打下了基础",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "慈禧",
+          "target": "詹天佑",
+          "relation_text": "赏赐",
+          "relation_group": "人物关联",
+          "evidence": "清廷赏以知府衔，不久又特给以道员选用",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "八达岭隧道",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "采用凿八达岭隧道",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "1905 年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "1905 年清政府方有自行修筑京张铁路之举",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "总工程 师、总办是詹天佑。他运用修筑西陵路所积之经验，依靠员工，大胆创新",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "八达岭隧道",
+          "relation_text": "凿建",
+          "relation_group": "营建创造",
+          "evidence": "采用凿八达岭隧道、建人字形折返线、双机车牵 引",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张路",
+          "target": "军都山",
+          "relation_text": "通过",
+          "relation_group": "空间关联",
+          "evidence": "使列车成功地通过了军都山",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张路",
+          "target": "张家口",
+          "relation_text": "驶达",
+          "relation_group": "空间关联",
+          "evidence": "驶达塞外重镇张家口",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西陵路",
+          "target": "京汉路",
+          "relation_text": "归属于",
+          "relation_group": "从属分类",
+          "evidence": "从 1909 年 始，西陵路归京汉铁路局管辖",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西陵路",
+          "target": "古北口",
+          "relation_text": "铺设至",
+          "relation_group": "空间关联",
+          "evidence": "将轨料用于铺设古北（古北口至北京双桥）铁路",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《京津拳匪纪略》",
+          "target": "西陵路",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "侨析生：《京津拳匪纪略》卷三，第 7 页",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《清实录》",
+          "target": "京汉路",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "《清实录》，第 58 册，中华书局，1987 年，第 202 页",
+          "confidence": 0.89,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《中国铁路史》",
+          "target": "京张路",
+          "relation_text": "记述",
+          "relation_group": "文献记载",
+          "evidence": "李占才主编：《中国铁路史》（1876 一 1949）...第 544 页",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "茅以升",
+          "target": "詹天佑",
+          "relation_text": "撰文纪念",
+          "relation_group": "人物关联",
+          "evidence": "茅以升：中国杰出的爱国工程师詹天佑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "袁世凯",
+          "target": "京张路",
+          "relation_text": "奏请奖励",
+          "relation_group": "人物关联",
+          "evidence": "袁世凯：山海关内外铁路告峻援案请奖在事中外各员片",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《清代人物传稿》",
+          "target": "詹天佑",
+          "relation_text": "收录传记",
+          "relation_group": "文献记载",
+          "evidence": "詹天佑，见戴逸、林言椒主编：《清代人物传稿》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "清咸丰 11 年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "1861 年 4 月 26 日（清咸丰 11 年 3 月 17 日）詹天佑出生在广东省南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "人物关联",
+          "evidence": "怀念他建成了第一条完全由中国工程技术人员设计、施工的铁路干线一（北）京张（家口）铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "容闳",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "在老师容闷等人的影响下，他认为只有通过修筑铁路...才能使祖国富强起来",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《码头起重机的研究》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "他的毕业论文《码头起重机的研究》得到很高评价",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "芦台到天津的铁路",
+          "relation_text": "参加修筑",
+          "relation_group": "人物关联",
+          "evidence": "1888 年，天津铁路公司聘请詹天佑为工程司，参加修筑芦台到天津的铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "芦台到天津的铁路",
+          "relation_text": "修筑",
+          "relation_group": "营建创造",
+          "evidence": "1888 年，天津铁路公司聘请詹天佑为工程司，参加修筑芦台到天津的铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "芦台到天津的铁路",
+          "target": "关内外铁路",
+          "relation_text": "延长为",
+          "relation_group": "传承延续",
+          "evidence": "这条铁路以后延长为关内外铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "关内外铁路",
+          "target": "京沈铁路",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "关内外铁路，即现在的京沈铁路",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "滦河大桥",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "他参加了当时最艰巨的滦河大桥等的修建工程",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "英国土木工程师学会",
+          "target": "詹天佑",
+          "relation_text": "推选为会员",
+          "relation_group": "社群组织",
+          "evidence": "1894 年，英国土木工程师学会推选詹天佑为会员",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "义和团运动",
+          "target": "关内外铁路",
+          "relation_text": "遭占领于",
+          "relation_group": "时序归属",
+          "evidence": "1900 年...帝国主义...派遣侵略军队占领了关内外铁路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "萍醴铁路",
+          "relation_text": "前往工作",
+          "relation_group": "人物关联",
+          "evidence": "1901 年，詹天佑毅然离开被八国联军占领的关内外铁路，到长江以南的萍醴铁路工作",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "接收",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派参加接收关内外铁路的工作",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "恢复",
+          "relation_group": "营建创造",
+          "evidence": "恢复了饱受帝国主义躁蹦的关内外铁路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "展筑",
+          "relation_group": "营建创造",
+          "evidence": "并继续展筑，不久，这条铁路就全线竣工",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "清政府决定派詹天佑为总工程师，负责修建京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "金达",
+          "target": "京张铁路",
+          "relation_text": "秘密勘测",
+          "relation_group": "人物关联",
+          "evidence": "英国工程师金达曾秘密勘测过这条线路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "燕山山脉",
+          "relation_text": "经过",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路长约二百公里，经过内外长城间的燕山山脉",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "关沟段",
+          "target": "居庸关",
+          "relation_text": "穿过",
+          "relation_group": "空间关联",
+          "evidence": "穿过古称天险的长城要塞居庸关、八达岭",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "关沟段",
+          "target": "八达岭",
+          "relation_text": "穿过",
+          "relation_group": "空间关联",
+          "evidence": "穿过古称天险的长城要塞居庸关、八达岭",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京张铁路",
+          "target": "关沟段",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "尤其是从南口到岔道城一带，叫做关沟段的地方",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "中华工程师会",
+          "target": "中华工程师学会",
+          "relation_text": "改名为",
+          "relation_group": "传承延续",
+          "evidence": "中华工程师会（后改名为中华工程师学会）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑先生在 1861 年 4 月 26 日生于广东省南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "李四光",
+          "target": "詹天佑",
+          "relation_text": "纪念发言",
+          "relation_group": "人物关联",
+          "evidence": "李四光 1961 年 4 月 26 日在詹先生诞辰一百周年纪念大",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "关内外铁路",
+          "relation_text": "参与修建",
+          "relation_group": "人物关联",
+          "evidence": "关内外铁路英籍总工程师金达与詹先生共事已有 16 年之久",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "金达",
+          "target": "关内外铁路",
+          "relation_text": "主持工程",
+          "relation_group": "人物关联",
+          "evidence": "关内外铁路英籍总工程师金达与詹先生共事已有 16 年之久",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "军都山",
+          "target": "燕山山脉",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "对跨越燕山山脉军都山的线路勘测了三条",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "丰沙线",
+          "target": "永定河",
+          "relation_text": "沿袭走向",
+          "relation_group": "空间关联",
+          "evidence": "一为自北京至门头沟，再沿深山峡谷的永定河以达沙城。这就是解放后修建的丰沙线",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "青龙桥火车站",
+          "relation_text": "铜像立于",
+          "relation_group": "空间关联",
+          "evidence": "在古老的长城脚下，青龙桥火车站站台上，巍然竖立着我国科学技术界的先驱、杰出的铁路工程师一一詹天佑的铜像。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "南海县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑（1861 一 1919）出生在广东省南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "耶鲁大学",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "同年进入耶鲁大学，经过刻苦学习，1881 年在毕业考试中得了第一名",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华棒球队",
+          "relation_text": "效力于",
+          "relation_group": "人物关联",
+          "evidence": "他是中国留学生代表队一一中华棒球队的队员",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "唐津铁路",
+          "relation_text": "参与修筑",
+          "relation_group": "营建创造",
+          "evidence": "任唐（山）津（天津）铁路的帮工程师……在唐津铁路的修筑工程中，他和筑路工人一起工作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "滦河铁桥",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "完成了滦河铁桥的全部工程",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "压气沉箱法",
+          "relation_text": "采用",
+          "relation_group": "人物关联",
+          "evidence": "并在桥墩施工中采用压气沉箱法",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "滦河铁桥",
+          "relation_text": "主持完成",
+          "relation_group": "营建创造",
+          "evidence": "终于胜利地奠定了铁基，完成了滦河铁桥的全部工程",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "任总办兼总工程师",
+          "relation_group": "人物关联",
+          "evidence": "清政府派詹天佑任京张铁路会办（后升总办）兼总工程师",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "关沟段",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "京张铁路……尤以南口到岔道城的关沟段为险峻",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "八达岭",
+          "target": "京张铁路",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "京张铁路……经过内外长城间的燕山山脉……又以八达岭为最高峰",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "义和团运动",
+          "target": "京张铁路",
+          "relation_text": "促成",
+          "relation_group": "时序归属",
+          "evidence": "1900 年义和团运动以后，中国人民纷纷要求自修铁路。在这种情况下，清政府不得不允许由中国人民自修第一条重要的铁路一京张路",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "诺苏卜夫人",
+          "target": "詹天佑",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "他在给他在美国求学时的老师诺苏卜夫人的一封信中表明了他的决心和信念",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "丰沙线",
+          "relation_text": "选定为",
+          "relation_group": "营建创造",
+          "evidence": "经过实际勘测和调查，他曾经选定过三条线路，其中有一条就是解放后我们建成的丰沙线",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "京张铁路最困难的是八达岭隧道工程。为了确保提前建成这条铁路，詹天佑决定八达岭隧道采用分段施工的方法",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "八达岭隧道",
+          "relation_text": "分段施工",
+          "relation_group": "营建创造",
+          "evidence": "为了确保提前建成这条铁路，詹天佑决定八达岭隧道采用分段施工的方法",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "青龙桥",
+          "relation_text": "修筑于",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑还创造性地运用了折返线的原理，在山多坡陡的青龙桥修筑一段人字形线路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "徐世昌",
+          "target": "京张铁路",
+          "relation_text": "勘验",
+          "relation_group": "人物关联",
+          "evidence": "1909 年 9 月 19 日，詹天佑陪同邮传部尚书徐世昌乘火车勘验了全线工程",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "商办广东粤汉铁路总公司",
+          "target": "詹天佑",
+          "relation_text": "聘请",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑应商办广东粤汉铁路总公司的聘请，于 1910 年回广东就任粤路总理",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "就任总理",
+          "relation_group": "人物关联",
+          "evidence": "佑应商办广东粤汉铁路总公司的聘请，于 1910 年回广东 就任粤路总理",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "辛亥革命",
+          "relation_text": "热烈拥护",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑热烈地 欢迎辛亥革命，觉得这是救中国的希望",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师会",
+          "relation_text": "发起成立",
+          "relation_group": "人物关联",
+          "evidence": "由詹天佑等发起成立了中华工程师 会，詹天佑被选为会长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "中华工程师会",
+          "target": "中华工程师学会",
+          "relation_text": "改名为",
+          "relation_group": "传承延续",
+          "evidence": "该会于 1913 年被追改名为中华工程师学 会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师学会",
+          "relation_text": "主持活动",
+          "relation_group": "人物关联",
+          "evidence": "在詹天佑的主持下，学会开展了各种活动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《告青年工学家》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑撰写的《告青年工学家》一文，最能体现他在这方面的思想",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "孙中山",
+          "relation_text": "组织欢迎",
+          "relation_group": "人物关联",
+          "evidence": "他组织粤汉铁路公司同人，欢迎回到广州的孙中山先生",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "袁世凯",
+          "target": "中华工程师会",
+          "relation_text": "下令解散",
+          "relation_group": "人物关联",
+          "evidence": "袁世凯窃取辛亥革命的胜利果实后，下 73 令解散一切人民团体",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《告青年工学家》",
+          "target": "司蒂芬生",
+          "relation_text": "提及",
+          "relation_group": "文献记载",
+          "evidence": "岂智力不欧美若，而司蒂芬生、瓦特、弗兰克林、毛利之流，不能产于中国耶",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《告青年工学家》",
+          "target": "瓦特",
+          "relation_text": "提及",
+          "relation_group": "文献记载",
+          "evidence": "岂智力不欧美若，而司蒂芬生、瓦特、弗兰克林、毛利之流，不能产于中国耶",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《告青年工学家》",
+          "target": "弗兰克林",
+          "relation_text": "提及",
+          "relation_group": "文献记载",
+          "evidence": "岂智力不欧美若，而司蒂芬生、瓦特、弗兰克林、毛利之流，不能产于中国耶",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《告青年工学家》",
+          "target": "毛利",
+          "relation_text": "提及",
+          "relation_group": "文献记载",
+          "evidence": "岂智力不欧美若，而司蒂芬生、瓦特、弗兰克林、毛利之流，不能产于中国耶",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "武汉长江大桥",
+          "relation_text": "计划修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑还计划过修建武汉长江大桥，并且组织力量绘制了长江大桥的蓝图",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "武汉长江大桥",
+          "target": "龟蛇二山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "这座大桥傲立龟蛇二山，飞架大江南北",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《演说辞》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "就在那篇用文言记灵的《演说辞》里，可见谈到如下该谐而辛酸的话语",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "武汉欧美同学会",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "在武汉欧美同学悬亲会上，他发表演说",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中东铁路",
+          "relation_text": "主修",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往参加这次实质上...阴谋共管原属中，俄合办的中东铁路",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "海参崴",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往海参崴和哈尔滨参加这次实质上",
+          "confidence": 0.65,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "哈尔滨",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往海参崴和哈尔滨参加这次实质上",
+          "confidence": 0.65,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "中东铁路",
+          "relation_text": "担任代表",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往海参崴和哈尔滨参加这次实质上是帝国主义的分赃会议，担任这个委员会的技术部中国代表",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "海参崴",
+          "relation_text": "前往参会",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往海参崴和哈尔滨参加这次实质上是帝国主义的分赃会议",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "哈尔滨",
+          "relation_text": "前往参会",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑被派往海参崴和哈尔滨参加这次实质上是帝国主义的分赃会议",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "哈尔滨",
+          "relation_text": "病倒于",
+          "relation_group": "人物关联",
+          "evidence": "最后病倒在哈尔滨",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "汉口",
+          "relation_text": "送回治疗",
+          "relation_group": "人物关联",
+          "evidence": "1919 年 4 月 20 日被送回汉口治疗",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "《敬告青年工学家》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑的《敬告青年工学家》1918 年 2 月",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "《革命文物》",
+          "target": "《敬告青年工学家》",
+          "relation_text": "刊载",
+          "relation_group": "文献记载",
+          "evidence": "原载 1979 年第五期《革命文物》略有修改和删节",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": []
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "我国京张铁路，首订工程员司升转章程",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "清咸丰十一年",
+          "relation_text": "诞生于",
+          "relation_group": "时序归属",
+          "evidence": "1861 年（清咸丰十一年）4 月 26 日诞生于广东省广州府南海县",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "清乾隆二十五年",
+          "relation_text": "先祖迁居于",
+          "relation_group": "时序归属",
+          "evidence": "先祖于清乾隆二十五年（1760 年）自安徽婺源迁居广东",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "同治十一年",
+          "relation_text": "考取于",
+          "relation_group": "时序归属",
+          "evidence": "1872 年（同治十一年）考取幼童出洋预备班",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "光绪七年",
+          "relation_text": "毕业于",
+          "relation_group": "时序归属",
+          "evidence": "1881 年（光绪七年）毕业后立即回国",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "欧阳庚",
+          "relation_text": "同批毕业",
+          "relation_group": "传承延续",
+          "evidence": "毕业的只有詹天佑及欧阳庚二人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "福州船政局",
+          "relation_text": "学习于",
+          "relation_group": "人物关联",
+          "evidence": "被派往福州船政局后学堂学习驾驶",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "福州船政局",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "1884 年 2 月至 10 月任福州船政局后学堂教习",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东黄浦水陆师学堂",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "1884 年任广州黄浦广东博学馆外文教习...广东博学馆改名为广东黄浦水陆师学堂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "滦河大桥",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "在滦河大桥工程中，采用压气沉箱法施工",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "津芦铁路",
+          "relation_text": "参与修建",
+          "relation_group": "营建创造",
+          "evidence": "参与津芦铁路（天津、芦沟桥、右安门外马家堡车站）修建工作",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "山海关北洋官铁路局",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "任山海关北洋官铁路局帮工程司、驻扎（驻段）工",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "川汉铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "公司总工程司主持修建川汉铁路宜万段工程",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "洛潼铁路",
+          "relation_text": "任工程顾问",
+          "relation_group": "人物关联",
+          "evidence": "任洛潼铁路（河南洛阳至潼关）工程顾问",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "沪嘉铁路",
+          "relation_text": "验收",
+          "relation_group": "人物关联",
+          "evidence": "被派验收沪嘉（上海至嘉兴）铁路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "9 月京张铁路建成通车...詹天佑主持修建",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "张绥铁路",
+          "relation_text": "筹划",
+          "relation_group": "人物关联",
+          "evidence": "继续筹划张绥铁路（张家口到绥远）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "英皇家工商技艺学会",
+          "relation_text": "当选会员",
+          "relation_group": "人物关联",
+          "evidence": "被选为英皇家工商技艺学会会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "英国北方科学与文艺学会",
+          "relation_text": "当选会员",
+          "relation_group": "人物关联",
+          "evidence": "英国北方科学与文艺学会会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤汉铁路",
+          "relation_text": "任总理",
+          "relation_group": "人物关联",
+          "evidence": "1910 年（宣统二年）当选为广东商办粤汉铁路总公司总理",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "辛亥革命",
+          "relation_text": "坚守岗位",
+          "relation_group": "人物关联",
+          "evidence": "辛亥革命中，在广州率领粤汉铁路总公司全体人员坚守岗位",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "詹天佑",
+          "relation_text": "会见",
+          "relation_group": "人物关联",
+          "evidence": "1912 年...孙中山视察广州粤汉铁路总公司，与詹天佑等人会见",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "京张铁路",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "9 月孙中山视察京张铁路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "孙中山",
+          "relation_text": "陪同视察",
+          "relation_group": "人物关联",
+          "evidence": "由张绥铁路总工程司邝孙谋陪同，孙中山在北京宣布聘请詹天佑",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "武长铁路",
+          "relation_text": "任总局总办",
+          "relation_group": "人物关联",
+          "evidence": "本年内任粤汉铁路会办兼武长铁路（武昌至长沙）总局总办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "汉粤川铁路",
+          "relation_text": "任会办",
+          "relation_group": "人物关联",
+          "evidence": "后任汉粤川铁路会办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东中华工程师会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "在广州创立广东中华工程师会并捐助费用，当选为会长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "英国混凝土学会",
+          "relation_text": "当选会员",
+          "relation_group": "人物关联",
+          "evidence": "被选为英国混凝土学会会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东中华工程师会",
+          "target": "中华工程师会",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "广东工程师会、上海工学会，路工同人共济会三会合并成立中华工程师会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师会",
+          "relation_text": "任首任会长",
+          "relation_group": "人物关联",
+          "evidence": "被选为首任会长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "英国铁路轨道学会",
+          "relation_text": "当选会员",
+          "relation_group": "人物关联",
+          "evidence": "当选为英国铁路轨道学会会员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "粤东水灾汉口救灾会",
+          "relation_text": "任会长",
+          "relation_group": "人物关联",
+          "evidence": "被推选为粤东水灾汉口救灾会会长",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "旅汉广东医院",
+          "relation_text": "捐助",
+          "relation_group": "人物关联",
+          "evidence": "对粤东水灾、旅汉广东医院，广东公学多所捐助",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东公学",
+          "relation_text": "捐助",
+          "relation_group": "人物关联",
+          "evidence": "对粤东水灾、旅汉广东医院，广东公学多所捐助",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "中华工程师学会",
+          "target": "西单牌楼报于街",
+          "relation_text": "迁至",
+          "relation_group": "空间关联",
+          "evidence": "中华工程师学会由汉口迁北京，在西单牌楼报于街办公",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "詹世弯",
+          "target": "清嘉庆二十五年",
+          "relation_text": "申请入籍于",
+          "relation_group": "时序归属",
+          "evidence": "詹世弯于清嘉庆二十五年（1820 年）在南海县为子辈申请获准入籍文",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑族谱",
+          "target": "詹万榜",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "文内之詹榜即詹世鸾之父詹万榜",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑族谱",
+          "target": "詹兴甲",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "詹钰即詹世驾长子詹兴甲",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "詹天佑族谱",
+          "relation_text": "所立",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑所立族谱内记载他的祖父詹世弯",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "詹天佑手书履历",
+          "relation_text": "自书",
+          "relation_group": "营建创造",
+          "evidence": "1915 年，詹天佑任汉粤川铁路督办时自书履历",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑手书履历",
+          "target": "同治十二年",
+          "relation_text": "提及",
+          "relation_group": "文献记载",
+          "evidence": "广来南海风民济同治上一年曲窄生源",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑手书履历",
+          "target": "南海县",
+          "relation_text": "表明籍贯",
+          "relation_group": "文献记载",
+          "evidence": "他明确表明是广东 南海县民籍",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑故居",
+          "target": "西关",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "詹天佑故居座落于原南海县西关",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "西关",
+          "target": "南海县",
+          "relation_text": "原属",
+          "relation_group": "从属分类",
+          "evidence": "詹天佑故居座落于原南海县西关",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "仁济医院",
+          "relation_text": "病逝于",
+          "relation_group": "人物关联",
+          "evidence": "4 月 24 日在汉口仁济医院因腹疾（阿米巴痢疾）严重，心力衰竭病逝",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中华工程师学会",
+          "relation_text": "曾任会长",
+          "relation_group": "人物关联",
+          "evidence": "汉粤川铁路督办、中华工程师学会 会长",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "留美幼童",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "清政府派遣赴美留学的幼童群体，詹天佑为其中一员",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑领导修建京张铁路时，将各级上程司分派各工段",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "八达岭山洞",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "八达岭山洞为我国铁路当时少有的长山涧...京张铁路关键工程",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "青龙桥之字形路线",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "京张铁路青龙桥之学形路线于全路建成后行驶列车之情景",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "青龙桥之字形路线",
+          "relation_text": "选定",
+          "relation_group": "人物关联",
+          "evidence": "本图为詹天佑选定青龙桥之字形路线自绘路线平面原图之仿绘图",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "石佛寺山洞",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "南口至八达岭之间...远方山洞为石佛寺山洞",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "怀来河大桥",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "京张铁路通过八达岭山洞以后，西行经怀来河，此大桥...为京张铁路最长的桥梁",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "五桂头山洞",
+          "target": "京张铁路",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "五桂头山洞及拱桥竣工照片...京张铁路沿线山洞",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "詹天佑",
+          "target": "川汉铁路",
+          "relation_text": "主持开工",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑在宜昌主持商办四川省川汉铁路开工典礼",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "人物关联",
+          "evidence": "因京张铁路工作紧张，詹天佑推荐留美同学...返乡修建粤路",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "商办粤路公司",
+          "relation_text": "主持建设",
+          "relation_group": "人物关联",
+          "evidence": "1906 年商办粤路公司推选詹天佑返乡主持粤路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "邝孙谋",
+          "relation_text": "推荐任职",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑推荐留美同学...邝孙谋...返乡修建粤路，任总工程师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "邝孙谋",
+          "target": "商办粤路公司",
+          "relation_text": "任总工程司",
+          "relation_group": "人物关联",
+          "evidence": "任商办粤路公司总工程师，协助詹天佑修建粤路",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "商办粤路公司",
+          "relation_text": "视察指示",
+          "relation_group": "人物关联",
+          "evidence": "1912 年，孙中山...首先到商办粤路公司视察。指示粤汉干线",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "商办粤路公司",
+          "target": "广三铁路",
+          "relation_text": "统一管理",
+          "relation_group": "从属分类",
+          "evidence": "詹天佑主持商办粤路公司时，广三铁路运输由商办粤路公司统一管理",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "商办粤路公司",
+          "target": "英德大桥",
+          "relation_text": "同步竣工",
+          "relation_group": "营建创造",
+          "evidence": "商办粤路通车英德站，英德大桥同时竣工",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "商办粤路公司",
+          "target": "黄沙码头",
+          "relation_text": "设置设备",
+          "relation_group": "营建创造",
+          "evidence": "商办粤路黄沙码头设置巨型起重机",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "中国革命博物馆",
+          "relation_text": "藏品存于",
+          "relation_group": "空间关联",
+          "evidence": "这是詹天佑研究并保存之詹尼氏自动车钩模型。现存中国革命博物馆",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "保路运动",
+          "target": "川汉铁路",
+          "relation_text": "因路爆发",
+          "relation_group": "文化表征",
+          "evidence": "四川商办川汉铁路工，保路运动爆发",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "孙中山",
+          "target": "商办粤路公司",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "1912 年，孙中山...首先到商办粤路公司视察",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "京张铁路",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "1912 年，孙中山北上，就任全国铁路督办，并视察京张铁路",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "孙中山",
+          "target": "张家口车站",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "本照片为到达张家口车站丁站台上留影",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "京张铁路",
+          "relation_text": "主持修建",
+          "relation_group": "营建创造",
+          "evidence": "詹天佑率领公司人员欢迎留影...扬他为国筑路",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "张绥铁路",
+          "relation_text": "资助修建",
+          "relation_group": "营建创造",
+          "evidence": "以个人积蓄全数购买张绥铁路债券，资助修建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "广东中华工程师会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "1912 年，詹天佑在广州创立广东中华工程师会",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "广东中华工程师会",
+          "target": "中华工程师学会",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "与上海学会，上御铁路同人共济会入合...后改称学会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "交通部",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "交通部设技监学管全国交通技术事务工作，詹天佑于...任职首任技监",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "仁济医院",
+          "relation_text": "逝世于",
+          "relation_group": "人物关联",
+          "evidence": "请假回汉口就医...逝于汉口仁济医院",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "远东铁路会议",
+          "relation_text": "出席",
+          "relation_group": "人物关联",
+          "evidence": "詹天佑于哈尔滨，海参崴出席远东铁路会议",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "中华工程师学会",
+          "target": "詹天佑纪念像",
+          "relation_text": "建议建立",
+          "relation_group": "社群组织",
+          "evidence": "中华工程师学会以及京绥铁路同人会一致建议在八达岭青龙桥车站立像",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "京绥铁路同人会",
+          "target": "詹天佑纪念像",
+          "relation_text": "建议建立",
+          "relation_group": "社群组织",
+          "evidence": "中华工程师学会以及京绥铁路同人会一致建议在八达岭青龙桥车站立像",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "中国铁道学会",
+          "target": "詹天佑墓地",
+          "relation_text": "参与迁移",
+          "relation_group": "社群组织",
+          "evidence": "1982 年，铁道部、中国铁道学会，北京铁路局将...詹天佑先生慕地...迁至青龙桥站",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑",
+          "target": "詹天佑故居",
+          "relation_text": "设计建造",
+          "relation_group": "营建创造",
+          "evidence": "在汉口自行设计建造了此宅",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        },
+        {
+          "source": "詹天佑故居陈列馆",
+          "target": "詹天佑故居",
+          "relation_text": "依托建立",
+          "relation_group": "传承延续",
+          "evidence": "詹天佑故居陈列馆...依托詹天佑故居建立",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第28辑_纪念詹天佑诞辰一百三十五周年特辑"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": []
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    }
+  }
+}

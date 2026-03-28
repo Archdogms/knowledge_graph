@@ -1,0 +1,104 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": []
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "佛山民间艺术研究社",
+          "target": "彩灯",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "图为佛山民间艺术研究社工人在制作新式彩灯",
+          "confidence": 0.98,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "陶塑",
+          "relation_text": "装饰有",
+          "relation_group": "空间关联",
+          "evidence": "还装上石饰湾陶塑、木雕、砖雕等工艺品",
+          "confidence": 0.96,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "木雕",
+          "relation_text": "装饰有",
+          "relation_group": "空间关联",
+          "evidence": "还装上石饰湾陶塑、木雕、砖雕等工艺品",
+          "confidence": 0.96,
+          "source_file": "中国旅行_广州佛山"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "砖雕",
+          "relation_text": "装饰有",
+          "relation_group": "空间关联",
+          "evidence": "还装上石饰湾陶塑、木雕、砖雕等工艺品",
+          "confidence": 0.96,
+          "source_file": "中国旅行_广州佛山"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": []
+    }
+  }
+}

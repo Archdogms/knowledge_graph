@@ -1,0 +1,178 @@
+node {
+  diameter: 40px;
+  font-size: 12px;
+  caption: '{name}';
+}
+
+node.A1 {
+  color: #E74C3C;
+  border-color: #E74C3C;
+  caption: '{name}';
+}
+
+node.A2 {
+  color: #E67E22;
+  border-color: #E67E22;
+  caption: '{name}';
+}
+
+node.A3 {
+  color: #F39C12;
+  border-color: #F39C12;
+  caption: '{name}';
+}
+
+node.A4 {
+  color: #D35400;
+  border-color: #D35400;
+  caption: '{name}';
+}
+
+node.A5 {
+  color: #C0392B;
+  border-color: #C0392B;
+  caption: '{name}';
+}
+
+node.A6 {
+  color: #F1C40F;
+  border-color: #F1C40F;
+  caption: '{name}';
+}
+
+node.B1 {
+  color: #D4A76A;
+  border-color: #D4A76A;
+  caption: '{name}';
+}
+
+node.B2 {
+  color: #B8860B;
+  border-color: #B8860B;
+  caption: '{name}';
+}
+
+node.B3 {
+  color: #CD853F;
+  border-color: #CD853F;
+  caption: '{name}';
+}
+
+node.B4 {
+  color: #8B6914;
+  border-color: #8B6914;
+  caption: '{name}';
+}
+
+node.B5 {
+  color: #A0522D;
+  border-color: #A0522D;
+  caption: '{name}';
+}
+
+node.B6 {
+  color: #DEB887;
+  border-color: #DEB887;
+  caption: '{name}';
+}
+
+node.C1 {
+  color: #3498DB;
+  border-color: #3498DB;
+  caption: '{name}';
+}
+
+node.C2 {
+  color: #2980B9;
+  border-color: #2980B9;
+  caption: '{name}';
+}
+
+node.C3 {
+  color: #2471A3;
+  border-color: #2471A3;
+  caption: '{name}';
+}
+
+node.C4 {
+  color: #5DADE2;
+  border-color: #5DADE2;
+  caption: '{name}';
+}
+
+node.D1 {
+  color: #27AE60;
+  border-color: #27AE60;
+  caption: '{name}';
+}
+
+node.D2 {
+  color: #2ECC71;
+  border-color: #2ECC71;
+  caption: '{name}';
+}
+
+node.D3 {
+  color: #1ABC9C;
+  border-color: #1ABC9C;
+  caption: '{name}';
+}
+
+node.D4 {
+  color: #16A085;
+  border-color: #16A085;
+  caption: '{name}';
+}
+
+node.E1 {
+  color: #8E44AD;
+  border-color: #8E44AD;
+  caption: '{name}';
+}
+
+node.E2 {
+  color: #9B59B6;
+  border-color: #9B59B6;
+  caption: '{name}';
+}
+
+node.E3 {
+  color: #7D3C98;
+  border-color: #7D3C98;
+  caption: '{name}';
+}
+
+node.E4 {
+  color: #A569BD;
+  border-color: #A569BD;
+  caption: '{name}';
+}
+
+node.E5 {
+  color: #BB8FCE;
+  border-color: #BB8FCE;
+  caption: '{name}';
+}
+
+node.F1 {
+  color: #5499C7;
+  border-color: #5499C7;
+  caption: '{name}';
+}
+
+node.F2 {
+  color: #48C9B0;
+  border-color: #48C9B0;
+  caption: '{name}';
+}
+
+node.F3 {
+  color: #76D7C4;
+  border-color: #76D7C4;
+  caption: '{name}';
+}
+
+relationship {
+  font-size: 10px;
+  caption: '{relation_text}';
+}

@@ -1,0 +1,2442 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "字迪之，号沃生，原籍南海西樵南沙村，香港社会一代名人，曾支持孙中山革命活动",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "西樵南沙村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "位于南海西樵，是何启的原籍地",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "杜国彪",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "撰写《南海县旅港的杰出人物何启》文章及本专辑的作者",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿信",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "何启之孙，为专辑提供大量中英文资料",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿铎",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "何启之孙，与何鸿信共同提供家族资料",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "兴中会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山创立的革命组织，何启曾被推选为其对外发言人",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启创办的医疗机构，位于香港",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启创办的教育机构，培养了中国近代医学人才",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "圣士提反中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启参与创办的男子中学",
+          "confidence": 0.86,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港大学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启协助创建的著名高等学府",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "南海文史资料",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "由南海县政协文史资料委员会编辑出版的地方文史刊物",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "3478ce38"
+    },
+    "chunk_0001": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海县籍旅港人士，清末民初一代名人，首位合格华人医生及华人大律师",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "1887 年由何启在香港创办的医院，后成为香港西医书院所在地",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "1887 年由何启创办，后并入香港大学成为其医学院的教育机构",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港大学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启协助创办的著名高等学府，前身为香港西医书院",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "圣士提反中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启创办的中英文并重的男子中学，重视中文教育",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "启德机场",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启始建，为香港航空事业发展打下基础的机场",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "杜国彪",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "《何启生平事迹纪略》一文的作者",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何永贞",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启的长子",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港立法局",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启曾任非官职华人议员长达二十四年的议政机构",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "372ce51c"
+    },
+    "chunk_0002": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国民主革命运动支持者，原籍广东省南海县西樵镇南沙村，香港西医书院教师，孙中山的老师",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "西樵镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "佛山市南海区下辖镇，何启原籍所在地，位于西樵山附近",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "南沙村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "位于西樵镇的古村落，何启原籍，曾属海洲乡管辖，何族落籍地",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "风光秀丽的名山，位于南海县，何族落籍地附近的地理空间",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何荣昌",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启祖父，字碧中，早年出洋至南洋麻六甲谋生，在雕板印刷厂当工人",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何福堂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启父亲，字润养，号进善，生于清嘉庆二十三年，曾在英华书院肄业并加入基督教",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "英华书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "摩利臣牧师在麻六甲开设的教会学校，采用中英文教学，何福堂曾在此肄业和工作",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "察世俗每月统记传",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "世界上第一份华文报刊，由摩利臣牧师创办，用木刻华文方块字印刷的基督教会刊物",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "清嘉庆二十三年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "公元 1818 年，何福堂出生的年份",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "兴中会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山领导的革命组织，何启曾掩护其在香港设立的据点并参与广州起义策划",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "a9a448ea"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "d6a7ae62"
+    },
+    "chunk_0004": {
+      "entities": [
+        {
+          "name": "何福堂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍历史人物，生前财富巨大，葬于西樵山石头岗",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "西樵山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "南海名山，文中提及何福堂及其妻子黎氏葬于此处的石头岗和百鸟归巢",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "石头岗",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古墓葬",
+          "description": "位于西樵山，又名饭盖岗，为何福堂墓地所在",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "饭盖岗",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古墓葬",
+          "description": "石头岗的别名，何福堂葬于此",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "百鸟归巢",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古墓葬",
+          "description": "西樵山半山地名，何福堂妻子黎氏葬于此",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "字迪之，号沃生，何福堂第四子，近代著名人物，曾就读中央书院",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "中央书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "香港官办学校，后改名为皇仁书院，孙中山与何启曾在此求学",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "皇仁书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "中央书院于 1894 年改名后的名称",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代革命先驱，文中提及曾于 1885 年入读中央书院",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "巴芦麻学校",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于英国根德郡，何启 1871 年赴英留学首入读的学校",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "fc8bdf3c"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "fd90b819"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "29ff079c"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "dabfacb5"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "53cb0c99"
+    },
+    "chunk_0009": {
+      "entities": [],
+      "chunk_text_hash": "ee83fef6"
+    },
+    "chunk_0010": {
+      "entities": [],
+      "chunk_text_hash": "8f90ed54"
+    },
+    "chunk_0011": {
+      "entities": [
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启等人筹建的医学教育机构，孙中山曾在此求学，文中提及筹建过程、领导机构及学制",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港西医书院筹建委员会主席，委员会中唯一的中国人，曾任院长顾问",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "路西尔爵士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港首席法官，担任书院筹建委员会主要成员",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "罗格",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "殖民地秘书，书院筹建委员会成员兼总登记员（实际财务员）",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "高劳马士医生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "联合教会主席，为书院筹集捐款 8000 元",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "庇理罗士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "向书院捐赠 5000 元的捐助者",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "史越活博士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港西医书院创办初期首任院长，兼任政府中学校校长等职",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "孟生博士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港西医书院校务长，负责安排医生负责教学工作",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "康德黎博士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港西医书院秘书，曾在雅丽氏医院担任义务医师",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "佐旦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "与何启、康德黎等在雅丽氏医院担任义务医师的医生",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "卡拉奇",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "与何启、康德黎等在雅丽氏医院担任义务医师的医生",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "香港西医书院建立后成为其实习医院，多位创办医生曾在此任职",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "基督教伦敦传道会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "拨给书院 14000 元创建费用的宗教组织",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "15a35ad2"
+    },
+    "chunk_0012": {
+      "entities": [
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启创办的医学院，学制五年，全英语授课，颁发毕业证书及内外科医生开业执照",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "佛兰西斯",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "政府委派到书院的陪席推事，负责与英国总卫生局磋商认可毕业证书",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "艾理士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "殖民地外科医生，在书院帮助教授解剖学",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "克京臣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "曾与何启及艾理士在香港完成扑灭鼠疫流行病工作，在书院教授生理学",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "西医书院创办人、名誉赞助人及义务秘书，兼教法医学，既是医生又是大律师",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "洗冤录",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "中国有关法医的古典著作，被用作书院法医学课程的教学资料",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "本草纲目",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "中国医药学古典著作，被用作书院法医学课程的教学资料",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "d3e8b176"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "d882c865"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "063936a1"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "1b520469"
+    },
+    "chunk_0016": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "倡议建立圣士提反中学，被推选为香港大学募捐董事会主席，热心教育事业的历史人物",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "圣士提反（男）中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启等人于 1903 年创立的中英文并重学校，首届毕业生三分之一升入香港大学",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "曹允善",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "与何启、周少歧等共同倡议建立圣士提反中学的律师",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "周少歧",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "参与倡议建立圣士提反中学的殷商",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "芦押爵士",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "时任香港总督，亲临圣士提反中学毕业典礼并提议设立完全大学",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "么地",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "印度袄教徒慈善家，响应号召捐款 15 万元作为香港大学建筑费用",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港大学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "1910 年奠基、1911 年开学的高等学府，何启任募捐董事会主席推动其建立",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "后改名香港医学院并于 1912 年并入香港大学的医科教育机构",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港总督府",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "1909 年举行第一次筹办香港大学募捐董事会议的地点",
+          "confidence": 0.83,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "5e41c37c"
+    },
+    "chunk_0017": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港医学院代表，获授权签署并入香港大学协议书，建议开办中文课程，因创办香港大学贡献获授爵士勋衔",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "伍廷芳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "始自其担任香港立法局非官职华人议员，由总督轩尼诗委派",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "轩尼诗",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "第一任香港总督期间委派伍廷芳任立法局非官职议员",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "芦押",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "1912 年召开专门会议研究西医书院并入香港大学问题的香港总督",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港医学院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "原西医书院改名而成，后并入香港大学，何启曾代表其签署协议",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港大学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "1912 年合并香港医学院后招生开学，何启曾检查其创建情况",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港立法局",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "设非官职华人议员始自伍廷芳的历史机构",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "1912 年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港总督召开会议研究西医书院并入香港大学问题的年份",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "1911 年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启专门检查香港大学创建情况的年份",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "1c432eda"
+    },
+    "chunk_0018": {
+      "entities": [],
+      "chunk_text_hash": "230b95a9"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "c0394a27"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "3511e769"
+    },
+    "chunk_0021": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "西方医学早期传播者，香港西医书院创办人，曾兼任教师讲授法医学并参与雅丽氏医院管理",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港西医书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启热心创办的医学教育机构，旨在培养高级医科人才，后发展为香港大学医学院",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "由何启亲自参与管理的医疗机构，建成后又筹划创办香港西医书院",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "敦华医院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "中国传统医学堡垒，何启曾任其培养西医医生的主管人，推动其向西方医学转变",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港大学医学院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启致力筹建的医学高等教育机构，源于香港西医书院的发展",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港公共卫生法",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "1888 年公布的法令，修正了不适当部分以适应华人情况，反映当时卫生措施重视程度",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "0a06bd8d"
+    },
+    "chunk_0022": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍名人，接触西方科学文明，主张学习西方技术提倡新政，曾撰写《中国先睡后醒论书后》",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "王韬",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代思想家，获何启支持创办《华字日报》及《循环日报》",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡礼垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "字翼南，广东三水人，与何启合作发表政治论文，著有《胡翼南全集》",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "曾纪泽",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "侯爵，撰写《中国先睡后醒论》，其思想被何启批驳",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "光绪十三年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "即公元 1887 年，文中记载何启与胡礼垣开始合作发表政治论文的时间",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《华字日报》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "1882 年由王韬等人创办，获何启支持的报刊",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《循环日报》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "由王韬创办，何启支持，用于传播世界各国经济政治科学讯息的报刊",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《胡翼南全集》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "胡礼垣（字翼南）的个人著作集",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国先睡后醒论》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "1887 年曾纪泽侯爵撰写的文章，被何启认为误国害民",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国先睡后醒论书后》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "何启为批驳曾纪泽思想而撰写的论文",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《德臣西报》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "刊登何启关于改良主义运动短评社论的报纸，1895 年 10 月 18 日刊载",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "085699dc"
+    },
+    "chunk_0023": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代中国学者、改良主义运动代表人物，著有《新政真诠》等政治论文",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡礼垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启好友，《德臣西报》编辑，将何启英文文章译为中文并合著《新政真诠》",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "曾纪泽",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清外交家，著有《中国先睡后醒论》，被何启撰文批驳",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《新政真诠》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "何启与胡礼垣合编的政治论文集，论述政治革新与救国救民主张",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国先睡后醒论》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "曾纪泽所写论文，后被何启作《中国先睡后醒论书后》进行批驳",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《德臣西报》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "香港地方报纸，胡礼垣曾任其编辑，刊登过何启相关文章",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "改良主义运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代中国社会政治改革运动，何启等人积极支持并参与评论",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "81a6c0dd"
+    },
+    "chunk_0024": {
+      "entities": [
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的改良主义者，被何启、胡礼垣及萧公权评论其政见与思想，忠于王朝统治和正统观念",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "梁启超",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中与康有为并列提及的历史人物，被认为忠于王朝统治和正统观念，受儒家思想庇护",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代政治家和思想家，与胡礼垣合著评论文章，主张传入西方民主政治原理，批判儒家思想",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡礼垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代思想家，与何启共同撰写评论文章，批驳中学为体西学为用原则，深受西方教养",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "英敛之",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "《新政真义》上海版本编辑，天主教徒，1916 年在天津办报，曾参与创办大学工作",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "萧公权",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "历史学家，著有《中国政治思想史》，在书中评论何启、胡礼垣及康梁的思想差异",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国政治思想史》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "萧公权所著学术著作，文中引用其关于何启、胡礼垣政治思想的论述",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《新政真义》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "英敛之编辑的书籍，上海版本前言中论述了康有为的建议",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国改革之进步论》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "文中列举的关于中国改革评论的文章篇名",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《革命新篇》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "文中列举的讨论革命议题的文章篇名",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《新政安衡》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "文中列举的探讨新政平衡的文章篇名",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《新政论议》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "文中列举的议论新政的文章篇名",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "改良主义运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代政治史研究中提到的历史运动，何启和胡礼垣常被关联于此运动",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "革命运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "中国近代政治史研究中提到的历史运动，常与改良主义运动并提",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "e121a4d0"
+    },
+    "chunk_0025": {
+      "entities": [],
+      "chunk_text_hash": "3886ecbb"
+    },
+    "chunk_0026": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代思想家，与胡礼垣合著《新政论议》，批评康有为、张之洞思想，暗中支持兴中会",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡礼垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代思想家，与何启共同发表改良建议，主张建立代表会议制度",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "百日维新",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "清末政治改革运动，文中提及何启等人的思想是其和声",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "兴中会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "孙中山创立的革命团体，何启曾给予暗中支持",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "孙逸仙",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "即孙中山，派遣陈少白赴港筹办报纸，与何启思想一致",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "陈少白",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "受孙逸仙派遣到香港为兴中会筹办报纸，邀请何启等人",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "区凤",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启的老朋友，被陈少白邀请共同查明港府态度",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "康有为",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清维新派代表人物，其思想在文中被何启与胡礼垣批评",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "张之洞",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清洋务派代表人物，其思想在文中被何启与胡礼垣批评",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "郑观应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代早期维新思想家，文中将其与何启等人的思想进行对比",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "陈炽",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代维新思想家，文中提及何启等人的思想比其更进一层",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《何启、胡礼垣的新政论议》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "小野川秀美所著学术著作，论述何启与胡礼垣的政治主张",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《主要的改良建议概述》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "何启、胡礼垣发表的文章，阐述其改良建议",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国近代改良主义思想》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "古代文物",
+          "description": "胡滨所著书籍，分析何启和胡礼垣的华侨资产阶级立场",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "敦康",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "英文报纸编辑，与何启、胡礼垣合作撰写兴中会政策宣言译文",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "热地",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "英文报纸编辑（Thomas H Reid），参与兴中会相关文件撰写",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "193e7216"
+    },
+    "chunk_0027": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清改良主义思想家，曾撰写《关于打开政策大门的致词》等文章，后受孙中山影响支持革命",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡礼垣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "与何启共同提出改良主义建议的晚清学者，驳斥张之洞三原则但仍拥护君主政体",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "郑观应",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的早期维新思想家，其思想被何启、胡礼垣认为不如后者先进",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "陈炽",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及的晚清维新派人物，与郑观应一同作为思想比较对象",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "张之洞",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清重臣，其提出的三原则被何启与胡礼垣驳斥",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "革命先行者，其思想影响了何启，1895 年在香港召开高级指挥人员会议商讨广州起义",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "义和团起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启曾就此问题写给布芦（Johnbull）公开信的历史事件",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "广州起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1895 年 8 月孙中山在香港西营盘杏花楼召开会议商讨方略的革命行动",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "关于打开政策大门的致词",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "何启撰写的最后两篇文章之一，阐述其改良主义政治主张",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "公开信",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "何启关于义和团起义问题写给布芦（Johnbull）的文章",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "德臣西报",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "晚清时期在香港发行的英文报纸，其记者参与了 1895 年的起义商讨会议",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "2bdbc0ee"
+    },
+    "chunk_0028": {
+      "entities": [
+        {
+          "name": "孙中山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "革命领袖，文中提及召开高级指挥人员会议商讨广州起义方略及率兴中会会员协助李鸿章",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍名人，文中记载其主持革命会议、起草英文对外宣言及草拟《平治章程》",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "广州起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "乙未年发生的革命行动，文中提及孙中山在香港商讨其方略后以事泄失败",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "兴中会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "近代革命团体，文中提及何启秘密拥护该会并出席其高级指挥部会议",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "义和团运动",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1900 年发生的历史事件，文中提及此时帝国主义者纷纷入侵",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "武昌起义",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1911 年成功的革命起义，文中提及成功后孙中山邀请何启返粤",
+          "confidence": 0.93,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "区凤",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及 1899 年与何启等协助陈少白在香港创办《中国日报》",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "陈少白",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "革命人士，文中提及 1899 年由何启与区凤等协助其在香港创办《中国日报》",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "李鸿章",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "晚清重臣，文中提及何启建议兴中会联合其占据两广宣告独立",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "伍廷芳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启姐夫，文中提及与何启往见李鸿章商讨新政事宜",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "胡汉民",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东省都督，文中提及孙中山嘱咐其外交事务向何启请教",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "黎德",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "英国人、德臣西报记者，文中提及出席广州起义方略会议并参与起草英文对外宣言",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "卜力",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港总督，文中提及何启与其面谈并获得其对革命计划的赞同",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《中国日报》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "1899 年在香港创办的革命报刊，由何启、区凤等协助陈少白创办以鼓吹革命",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《平治章程》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "何启于 1900 年义和团运动时草拟的文件，建议兴中会联合李鸿章占据两广",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "《在孙逸仙和中国革命的起源》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E4 文集著述类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "史栖伏连（HZSchiffrin）所著文章，文中引用其描述何启在革命事业中的作用",
+          "confidence": 0.9,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "杏花楼",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于香港西营盘的建筑，文中提及孙中山在此召开高级指挥人员会议",
+          "confidence": 0.87,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "d6b80d82"
+    },
+    "chunk_0029": {
+      "entities": [],
+      "chunk_text_hash": "e1ca635b"
+    },
+    "chunk_0030": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "杰出公务员、大律师，曾任立法局议员二十四年，为中国革新和人民自由权利负责的历史人物",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启的英籍妻子，其坟墓位于跑马地坟场",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "跑马地坟场",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古墓葬",
+          "description": "位于香港的墓葬区，何启及其妻子雅丽氏安葬于此",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "般含道 45 号 B 寓所",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启病逝之地，与其晚年生活密切相关的历史地点",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "船湾",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "何启逝世前一天参加游泳聚会的地点",
+          "confidence": 0.78,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "德臣西报",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E1 地方志类",
+          "official_label": "可移动文物",
+          "official_type": "近代现代文物",
+          "description": "报导何启病逝消息的历史报刊文献",
+          "confidence": 0.82,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港律师协会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "在法院集中举行追悼何启活动的专业社群组织",
+          "confidence": 0.75,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "立法局",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F3 发展阶段类",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启曾工作二十四年并担任议员的政府机构，见证其公共生涯",
+          "confidence": 0.7,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "ffa859aa"
+    },
+    "chunk_0031": {
+      "entities": [
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "英国鸭巴甸大学医学士、外科硕士、大律师，曾任香港立法局非官员议员，何进善第四子",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "黎玉卿",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启续娶之妻，父为美国人母为中国人，生于 1870 年，死于 1945 年",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "雅丽氏",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启深爱的妻子，华尔登长女，1852 年生于伦敦，1884 年死于香港",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "伍廷芳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "曾任李鸿章秘书、驻美国公使、驻西班牙公使及财政商务委员会副主任席，何妙龄之夫",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何妙龄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启姐姐，嫁与伍廷芳为妻",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何进善",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "香港立法局 1890-1914 年非官员议员，何启之父",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "跑马地坟场",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古墓葬",
+          "description": "位于香港，何启坟墓所在地，坟墓位于坟场中心",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "民国三十四年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "黎玉卿夫人逝世年份，对应公元 1945 年",
+          "confidence": 0.96,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "61d83faf"
+    },
+    "chunk_0032": {
+      "entities": [
+        {
+          "name": "伍廷芳",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "曾任李鸿章秘书、驻美公使、财政部长等职，孙中山大元帅府时期重要外交家",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "伍朝枢",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "伍廷芳之子，博士，曾任驻华盛顿大使、政府外交官",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "傅秉常",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启女婿，著名外交家",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何永贞",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启长子，官名何君干，曾任外交部次长、粤汉铁路局长",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "中山舰",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "孙中山曾登临的历史名舰，见证近代革命历史",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "粤汉铁路",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "中国近代重要铁路干线，何永贞曾任其局长",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "香港中央书院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启 11 岁考入并就读的近代著名学府",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "鸭巴甸大学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启攻读医科并取得学士及硕士学位的英国高校",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "林肯学院",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "何启转读并取得法律学士学位的英国法学院",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿铸",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启孙儿，改名何雄，世界十大船长之一",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿铎",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启孙儿，参加解放战争，后任佛山市卫生局副局长",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿星",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启孙儿，上海市电镀学会主席，高级工程师",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何鸿志",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "何启孙儿，上海药厂工程师",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        },
+        {
+          "name": "何启",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "南海籍近代著名思想家、医生、律师，香港第一名华人执业西医",
+          "confidence": 0.99,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第16辑_(南海县政协文史资料研究委员会)"
+        }
+      ],
+      "chunk_text_hash": "cb9430e6"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "de65d5bb"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "f3da3716"
+    }
+  }
+}

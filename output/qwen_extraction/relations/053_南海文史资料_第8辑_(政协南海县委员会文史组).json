@@ -1,0 +1,3695 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "杜国彪",
+          "target": "白沙乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "杜国彪同志是南海县白沙乡人",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "抗日战争",
+          "target": "芦沟桥事变",
+          "relation_text": "始于",
+          "relation_group": "时序归属",
+          "evidence": "抗日战争从一九三七年七月七日芦沟桥事变起",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "周侠生",
+          "target": "显纲村",
+          "relation_text": "来到",
+          "relation_group": "人物关联",
+          "evidence": "南海农民运动特派员周侠生同志受党的派遣来到了显纲村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张述文",
+          "target": "武馆",
+          "relation_text": "设",
+          "relation_group": "营建创造",
+          "evidence": "后来解甲回乡，从事设武馆授徙",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "王隐林",
+          "target": "张述文",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "他是武林中佛山南来祖师王隐林的门下",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "周侠生",
+          "target": "张述文",
+          "relation_text": "师叔侄关系",
+          "relation_group": "传承延续",
+          "evidence": "与周侠生是师叔侄关系",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "显纲农会",
+          "target": "张二国",
+          "relation_text": "选出",
+          "relation_group": "社群组织",
+          "evidence": "显纲农会便得到省农会的批准，宣告成立了。选出张二国为会长",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张云峰",
+          "target": "显纲村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "张云峰（是显纲村人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "张云峰",
+          "target": "显纲村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "张云峰（是显纲村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张添平",
+          "target": "显纲村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "张添平（亦系显纲村人）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张露泉",
+          "target": "农民自卫军",
+          "relation_text": "任队长",
+          "relation_group": "人物关联",
+          "evidence": "选出...张露泉任队长",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凌瑞徽",
+          "target": "显纲村",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "派出了...凌瑞徽...担任教师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何庆绵",
+          "target": "显纲村",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "以及...何庆绵两位同志担任教师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "钟宝莲",
+          "target": "妇女解放协会",
+          "relation_text": "任正主任",
+          "relation_group": "人物关联",
+          "evidence": "选出了钟宝莲（又名钟奖风）为正主任",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邓俭",
+          "target": "妇女解放协会",
+          "relation_text": "任副主任",
+          "relation_group": "人物关联",
+          "evidence": "邓俭为副主任",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "农民自卫军",
+          "target": "显纲村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "显纲乡农民自卫军很快建立起来了",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "妇女解放协会",
+          "target": "显纲村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "她们积极建立起了自已的组织一一妇女解放协会",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "黎万欢",
+          "target": "显纲村",
+          "relation_text": "回到",
+          "relation_group": "人物关联",
+          "evidence": "黎万欢回到显纲村，与张泉林同志商量后",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黎万欢",
+          "target": "抗日自卫队",
+          "relation_text": "组织",
+          "relation_group": "人物关联",
+          "evidence": "杨康华同志在广州指示黎万欢同志：立即回去，迅速把群众组织起来，把抗日白卫队组织起来",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杨康华",
+          "target": "黎万欢",
+          "relation_text": "指示",
+          "relation_group": "人物关联",
+          "evidence": "杨康华同志在广州指示黎万欢同志：立即回去",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "锋社话剧团",
+          "target": "七姐节",
+          "relation_text": "演出",
+          "relation_group": "社群组织",
+          "evidence": "请了广州有名的锋社话剧团（中共地下党直接领导的文艺团体）求演出",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "磺堡",
+          "target": "文头岭",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "日军遗留在我县文头岭...的磺堡",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "冯冲村",
+          "target": "象岗岭",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "岭下冯冲村劫后余生的老人邹福良",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "万石头村",
+          "target": "禅炭公路",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "到万石头村附近的丘陵地带",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹福良",
+          "target": "冯冲村",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "岭下冯冲村劫后余生的老人邹福良",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "道边",
+          "target": "四山部队藤田队",
+          "relation_text": "率领",
+          "relation_group": "人物关联",
+          "evidence": "由敌酋名叫道边的带领，沿禅炭公路进犯",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄若璧",
+          "target": "日寇入侵官窑纪实",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "日寇入侵官窑纪实 黄若璧",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "道边",
+          "target": "禅炭公路",
+          "relation_text": "沿路进犯",
+          "relation_group": "人物关联",
+          "evidence": "由敌酋名叫道边的带领，沿禅炭公路进犯",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "万石头村",
+          "target": "官窑",
+          "relation_text": "位于附近",
+          "relation_group": "空间关联",
+          "evidence": "到万石头村附近的丘陵地带，架起山炮向官窑方向轰击",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白沙桥",
+          "target": "官窑",
+          "relation_text": "位于附近",
+          "relation_group": "空间关联",
+          "evidence": "出白沙桥（官窑附近的公路桥）入官窖善堂巷",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "善堂巷",
+          "target": "官窑",
+          "relation_text": "位于区内",
+          "relation_group": "空间关联",
+          "evidence": "入官窖善堂巷（现在官窑区公所对面的巷口）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "站岗头",
+          "target": "官窑",
+          "relation_text": "位于区内",
+          "relation_group": "空间关联",
+          "evidence": "由站岗头（现在成美厂门口的高地一带）入横街、驿市",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "古岗桥",
+          "target": "官窑",
+          "relation_text": "途经地点",
+          "relation_group": "空间关联",
+          "evidence": "第三路：山古岗桥经游鱼布，入石市石巷",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "织箩仔",
+          "target": "官窑",
+          "relation_text": "遇难于",
+          "relation_group": "人物关联",
+          "evidence": "人称他是织箩仔。在街上遇见目寇被刺杀",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伟臣",
+          "target": "官窑",
+          "relation_text": "遇难于",
+          "relation_group": "人物关联",
+          "evidence": "一名盲人叫邹伟臣...不幸在街上遇见，躲避不及，被日寇枪杀",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "和昌生果店",
+          "target": "官窑",
+          "relation_text": "位于区内",
+          "relation_group": "空间关联",
+          "evidence": "最无辜的是和昌生果店的一位店员...匆匆跑往驿市救火",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何景华",
+          "target": "广祥兴布厂",
+          "relation_text": "创办经营",
+          "relation_group": "人物关联",
+          "evidence": "官窑广祥兴布厂（当时是比较著名的布厂）的老板何景华",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何景华",
+          "target": "田螺布",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "因为押运布匹等货物及财物回家乡田螺布",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "田螺布",
+          "target": "罩塘",
+          "relation_text": "位于附近",
+          "relation_group": "空间关联",
+          "evidence": "行至三江沙塘村附近...文中亦作沙塘村",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "金山寺",
+          "target": "官窑",
+          "relation_text": "邻近区域",
+          "relation_group": "空间关联",
+          "evidence": "以后转移到羊城八景之一的金山寺...从此附近的瑶头、马村",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "瑶头",
+          "target": "官窑",
+          "relation_text": "邻近区域",
+          "relation_group": "空间关联",
+          "evidence": "从此附近的瑶头、马村、岑冈，冯涌等乡村居无宁日了",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "马村",
+          "target": "官窑",
+          "relation_text": "邻近区域",
+          "relation_group": "空间关联",
+          "evidence": "从此附近的瑶头、马村、岑冈，冯涌等乡村居无宁日了",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "岑冈",
+          "target": "官窑",
+          "relation_text": "邻近区域",
+          "relation_group": "空间关联",
+          "evidence": "从此附近的瑶头、马村、岑冈，冯涌等乡村居无宁日了",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "冯涌",
+          "target": "官窑",
+          "relation_text": "邻近区域",
+          "relation_group": "空间关联",
+          "evidence": "从此附近的瑶头、马村、岑冈，冯涌等乡村居无宁日了",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "石门",
+          "target": "流溪河",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "石门位于广州西北约十公里处，在流溪河下游左岸",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "石门山",
+          "target": "流溪河",
+          "relation_text": "矗立于",
+          "relation_group": "空间关联",
+          "evidence": "这里有矗立河边的石门山",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "吴隐",
+          "target": "石门",
+          "relation_text": "事迹留传于",
+          "relation_group": "人物关联",
+          "evidence": "东晋时代曾留传吴隐",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "石门返照",
+          "target": "石门山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "有羊城八景之一石门返照的名胜",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "石门村",
+          "target": "石门山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在石门村安下一个据点...日寇在石门河边设有岗哨，在山上建有哨所",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "丰岗村",
+          "target": "石门山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "就在石门往里水的中途站的丰岗村",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "里水圩",
+          "target": "石门山",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "里水圩距石门约二公里",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "风雨亭",
+          "target": "丰岗村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "正在往水路上的丰乐享乘凉憩息...迅速包围了风雨享",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "冯湛元",
+          "target": "丰岗村",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "捉了冯湛元村长",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": [
+        {
+          "source": "冯湛元",
+          "target": "石门山",
+          "relation_text": "被害于",
+          "relation_group": "人物关联",
+          "evidence": "捉了冯湛元村长，诬说他私通游击 队，也被拉去石门山下杀害了",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "蒲辉",
+          "target": "蒲二",
+          "relation_text": "是...之侄",
+          "relation_group": "传承延续",
+          "evidence": "甘蕉乡的蒲二和蒲辉叔侄两个号称甘蕉两虎",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜志成",
+          "target": "甘蕉乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "便派了几位乡绅带着礼物前往曲江礼请杜志成先生回乡...这位同乡",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜志成",
+          "target": "清明时节",
+          "relation_text": "返乡于",
+          "relation_group": "时序归属",
+          "evidence": "正是清明时节，身穿便服打扮得文质彬彬的杜先生，以回乡祭祖为名，回到甘蕉乡",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜志成",
+          "target": "民团炮楼",
+          "relation_text": "会见汉奸于",
+          "relation_group": "人物关联",
+          "evidence": "扫墓完毕便到民团炮楼会见保安团长蒲二",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凤书小学",
+          "target": "甘蕉乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "里水区甘蕉乡凤书小学办校记",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "蒲二",
+          "target": "民团炮楼",
+          "relation_text": "驻扎于",
+          "relation_group": "空间关联",
+          "evidence": "搞维持会办民团...当时他还不知道这位同乡是何等身份...三人走出炮楼外边",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "杜志成",
+          "target": "甘蕉乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "蒲二叔侄才知这位同乡不是普通一兵",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "甘蕉乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "原藉是南海县里水区甘蕉乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "辛亥革命",
+          "relation_text": "参与于",
+          "relation_group": "人物关联",
+          "evidence": "他是辛亥革命起义青年敢死队的旗手",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜志成",
+          "target": "蒲二",
+          "relation_text": "处决",
+          "relation_group": "人物关联",
+          "evidence": "把廿蕉两虎就地处决了",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜志成",
+          "target": "邹八堤",
+          "relation_text": "合作",
+          "relation_group": "人物关联",
+          "evidence": "他和泌冲的地主民团头目邹八堤一道用计骗开炮楼",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "凤书小学",
+          "relation_text": "纪念建",
+          "relation_group": "营建创造",
+          "evidence": "全部用于创建凤书小学，用以纪念民主革命的志士杜凤书先生",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凤书小学",
+          "target": "联沙小学",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "这所学校一九五 0 年改为联沙小学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "北围",
+          "target": "和顺区",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "和顺北围",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "民国二十七年",
+          "target": "北围",
+          "relation_text": "记载入侵",
+          "relation_group": "文献记载",
+          "evidence": "1937 年（即民国二十七年）农历八月日军南下攻占广州...和顺北围",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "南边村",
+          "target": "和顾北围",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南边村投弹四 枚，落在竹林里...和顾北围 地区，年上六十岁的村民，都是历史的见证者",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海九江镇区立小学",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "沦陷时期去九江做教师...约我去南海九江镇区立小学做教 师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "潘耀光",
+          "target": "佛山市",
+          "relation_text": "世居于",
+          "relation_group": "人物关联",
+          "evidence": "我家世居佛 山 I",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "潘耀光",
+          "target": "南海九江镇区立小学",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "有街坊陈巨，约我去南海九江镇区立小学做教 师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈巨",
+          "target": "潘耀光",
+          "relation_text": "介绍给",
+          "relation_group": "人物关联",
+          "evidence": "有街坊陈巨，约我去南海九江镇区立小学做教 师",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "永安路车站",
+          "target": "佛山市",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "我便从佛山的永安路车站搭车",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "福大汽车公司",
+          "target": "永安路车站",
+          "relation_text": "始发于",
+          "relation_group": "空间关联",
+          "evidence": "从佛山的永安路车站搭车，当时通往九 江的客车，唯一只是口伪办的福大汽车公司的车",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "福大汽车公司",
+          "target": "九江镇",
+          "relation_text": "通达",
+          "relation_group": "空间关联",
+          "evidence": "当时通往九 江的客车，唯一只是口伪办的福大汽车公司的车",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "藤箧",
+          "target": "潘耀光",
+          "relation_text": "携带",
+          "relation_group": "人物关联",
+          "evidence": "我自带的一只藤隐（箱）本可自携",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "锦城桥",
+          "target": "大呗",
+          "relation_text": "位于前往",
+          "relation_group": "空间关联",
+          "evidence": "车饶幸到了大呗...从桥头走过桥尾",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区立小学",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "到了九江镇的区立小学",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "是本县泌冲乡人，其数居现仍在泌冲乡",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "朱次琦",
+          "relation_text": "并称",
+          "relation_group": "人物关联",
+          "evidence": "与九江朱次琦、顺德杨摘奇并称广东三奇",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "杨摘奇",
+          "relation_text": "并称",
+          "relation_group": "人物关联",
+          "evidence": "与九江朱次琦、顺德杨摘奇并称广东三奇",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "朱次琦",
+          "target": "杨摘奇",
+          "relation_text": "并称",
+          "relation_group": "人物关联",
+          "evidence": "与九江朱次琦、顺德杨摘奇并称广东三奇",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "乡祠",
+          "relation_text": "悬挂于",
+          "relation_group": "营建创造",
+          "evidence": "有一联（自撰）用长条水刻挂在乡祠，以教育后人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "之洞",
+          "target": "邹伯奇",
+          "relation_text": "拜访",
+          "relation_group": "人物关联",
+          "evidence": "之洞曾两次拜访，均",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "泌冲乡",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "所居泌冲乡在浔冈洲之南",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "罗照沧",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "乃命门人罗照沧",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "景隆",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "旅弟景隆",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "邹景隆",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "及其门人邹景隆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "罗海田",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "及其门人...罗海田",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "南海博物馆",
+          "target": "邹伯奇",
+          "relation_text": "现存碑图",
+          "relation_group": "空间关联",
+          "evidence": "该碑图现存于南海博物馆中",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "广雅书院",
+          "relation_text": "掌教于",
+          "relation_group": "人物关联",
+          "evidence": "在他掌教广雅书院时，曾向门生讲授地质学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "对数尺",
+          "relation_text": "自制",
+          "relation_group": "营建创造",
+          "evidence": "他自制之对数尺，可按距离角逆测出足宿位置",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "摄影之器",
+          "relation_text": "独创",
+          "relation_group": "营建创造",
+          "evidence": "他就无师承而独创出摄影之器",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹伯奇",
+          "target": "梦溪笔谈",
+          "relation_text": "研读",
+          "relation_group": "人物关联",
+          "evidence": "攻《梦溪笔谈》读面极思之",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "摄影之器",
+          "target": "道光十五年",
+          "relation_text": "始研于",
+          "relation_group": "时序归属",
+          "evidence": "先是岁在乙未（道光十五年，公元 1835 年）客有以塔之倒影献疑者",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "摄影之器",
+          "target": "道光二十四年",
+          "relation_text": "制成于",
+          "relation_group": "时序归属",
+          "evidence": "甲辰岁（道光二十四年、公元 1844 年）...而作是器",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "广州五层楼博物馆",
+          "target": "邹伯奇",
+          "relation_text": "现藏遗物",
+          "relation_group": "空间关联",
+          "evidence": "近闻已献给国家，现存于广州五层楼博物馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "梁启超",
+          "target": "邹伯奇",
+          "relation_text": "赞叹",
+          "relation_group": "人物关联",
+          "evidence": "康有为的学生梁启超在读到邹伯奇有关摄影之器的若作时，击节赞叹",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈兰甫",
+          "target": "邹伯奇",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "陈兰甫为伯奇遗作写序，称其著作为今世科学之奇书",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "平北乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "林乃平洲区平北乡澳边坊人，出生于 1906 年",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "粤剧",
+          "relation_text": "从事",
+          "relation_group": "人物关联",
+          "evidence": "粤剧名流林超群艺海史略",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "观世音菩萨",
+          "relation_text": "扮演",
+          "relation_group": "人物关联",
+          "evidence": "时元挺被村民推选为色，打扮为观世音菩萨",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "金山和",
+          "target": "梅圆村",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "本区平南乡梅圆村有名艺人金山和",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "金山和",
+          "target": "粤剧",
+          "relation_text": "传授",
+          "relation_group": "人物关联",
+          "evidence": "招募十岁上下儿童，课以学剧技艺，进行培训",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "梁炳",
+          "target": "金山和",
+          "relation_text": "协助",
+          "relation_group": "人物关联",
+          "evidence": "原名陈福三（即白超鸿父亲）与助教梁炳，返回乡中招募",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "偷狗祠",
+          "target": "谈氏大宗祠",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "据查乃是谈氏大宗柯...乡人便呼之为偷狗同",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "平北乡",
+          "target": "迎神赛会",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "乡中习俗，每于迎神赛会，常使小童化装作桃色以增添气氛",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "梅圆村",
+          "target": "平洲区",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "本区平南乡梅圆村",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "细佬哥班",
+          "target": "林超群",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "同班数十人中，除林超群最享盛名外，尚有金枝叶、张盛才、冯展图、冯显荣等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "细佬哥班",
+          "target": "金枝叶",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "同班数十人中，除林超群最享盛名外，尚有金枝叶、张盛才、冯展图、冯显荣等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "细佬哥班",
+          "target": "张盛才",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "同班数十人中，除林超群最享盛名外，尚有金枝叶、张盛才、冯展图、冯显荣等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "细佬哥班",
+          "target": "冯展图",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "同班数十人中，除林超群最享盛名外，尚有金枝叶、张盛才、冯展图、冯显荣等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "细佬哥班",
+          "target": "冯显荣",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "同班数十人中，除林超群最享盛名外，尚有金枝叶、张盛才、冯展图、冯显荣等。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "大富费",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "超群离开孩子班后，随即跃上三班头，先后在《大富费》、《新纪元》、《祝华年》、《大罗天》等剧团",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "新纪元",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "超群离开孩子班后，随即跃上三班头，先后在《大富费》、《新纪元》、《祝华年》、《大罗天》等剧团",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "祝华年",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "超群离开孩子班后，随即跃上三班头，先后在《大富费》、《新纪元》、《祝华年》、《大罗天》等剧团",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "大罗天",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "超群离开孩子班后，随即跃上三班头，先后在《大富费》、《新纪元》、《祝华年》、《大罗天》等剧团",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "昆曲",
+          "relation_text": "改革",
+          "relation_group": "人物关联",
+          "evidence": "并把当时舞台上所沿用的昆曲，进行改革创新",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "梆王",
+          "relation_text": "注重",
+          "relation_group": "人物关联",
+          "evidence": "尤其在榔王方面，特别注重字音运腔",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "兴中华剧团",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "他在兴中华剧团时，该班鬼台（即掌管财务者），陈耀泉因见其侄女陈艳芳噪音颇佳",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "陈艳芳",
+          "relation_text": "收徒",
+          "relation_group": "传承延续",
+          "evidence": "经征得超群允诺，收为学徒，她七岁正式拜超群为师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈耀泉",
+          "target": "陈艳芳",
+          "relation_text": "引荐",
+          "relation_group": "人物关联",
+          "evidence": "陈耀泉因见其侄女陈艳芳噪音颇佳，经征得超群允诺，收为学徒",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈艳芳",
+          "target": "芳艳芬",
+          "relation_text": "更名为",
+          "relation_group": "从属分类",
+          "evidence": "后来成为赫赫有名的芳艳芬，此为超群第一位高足",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "红船",
+          "target": "八和会馆",
+          "relation_text": "分类于",
+          "relation_group": "从属分类",
+          "evidence": "这类戏斑在八和会馆内称为小型下乡班",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "孔雀屏",
+          "relation_text": "授徒",
+          "relation_group": "传承延续",
+          "evidence": "后来在广州授徒，孔雀屏是他所期得意门徒",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "广绣",
+          "target": "红船",
+          "relation_text": "用于制作",
+          "relation_group": "文化表征",
+          "evidence": "当时戏服均为广绣...装满戏服道具的大戏箱全部掉进水里",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "林小群",
+          "target": "肖兰芳",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "淑仪初学于肖兰芳",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "王不减",
+          "relation_text": "师事于",
+          "relation_group": "传承延续",
+          "evidence": "续而师事于王不减（音乐师）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "胡铁",
+          "relation_text": "见习于",
+          "relation_group": "传承延续",
+          "evidence": "参加剧团后，继续见习于小武胡铁",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "靓少佳",
+          "relation_text": "受教于",
+          "relation_group": "传承延续",
+          "evidence": "超群又将女儿托付于靓少佳、郎筠玉优俪再为其深造",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "郎筠玉",
+          "relation_text": "受教于",
+          "relation_group": "传承延续",
+          "evidence": "超群又将女儿托付于靓少佳、郎筠玉优俪再为其深造",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "省粤剧院",
+          "relation_text": "任职于",
+          "relation_group": "社群组织",
+          "evidence": "应聘为省粤剧院技术指导",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "胜寿年剧团",
+          "relation_text": "转投于",
+          "relation_group": "社群组织",
+          "evidence": "后转到胜寿年剧团",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "第五届全国人大代表",
+          "relation_text": "当选为",
+          "relation_group": "人物关联",
+          "evidence": "当上第五届全国人大代表",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白超鸿",
+          "target": "白驹荣",
+          "relation_text": "师事于",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白超鸿",
+          "target": "罗品超",
+          "relation_text": "师事于",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白超鸿",
+          "target": "陆飞鸿",
+          "relation_text": "师事于",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林小群",
+          "target": "白超鸿",
+          "relation_text": "结侣于",
+          "relation_group": "人物关联",
+          "evidence": "小群爱侣白超鸿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "白超鸿",
+          "target": "白驹荣",
+          "relation_text": "师事",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白超鸿",
+          "target": "罗品超",
+          "relation_text": "师事",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "白超鸿",
+          "target": "陆飞鸿",
+          "relation_text": "师事",
+          "relation_group": "传承延续",
+          "evidence": "曾师事白驹荣、罗品超、陆飞鸿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林艳玲",
+          "target": "广东粤剧院",
+          "relation_text": "毕业于",
+          "relation_group": "传承延续",
+          "evidence": "成为省粤剧院第一届毕业生",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林艳玲",
+          "target": "肇庆地区粤剧团",
+          "relation_text": "任职于",
+          "relation_group": "社群组织",
+          "evidence": "虽然安排于肇庆地区粤剧团，但无戏可演",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林艳玲",
+          "target": "曹秀琴",
+          "relation_text": "授业于",
+          "relation_group": "传承延续",
+          "evidence": "她的学生中，现负盛名者有曹秀琴、郭凤女等",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林艳玲",
+          "target": "郭凤女",
+          "relation_text": "授业于",
+          "relation_group": "传承延续",
+          "evidence": "她的学生中，现负盛名者有曹秀琴、郭凤女等",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林艳玲",
+          "target": "香港八和会馆艺校",
+          "relation_text": "任教于",
+          "relation_group": "社群组织",
+          "evidence": "现仍任教于香港八和会馆艺校",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "锦屏",
+          "target": "超群流派",
+          "relation_text": "本源于",
+          "relation_group": "传承延续",
+          "evidence": "其唱腔亦本于超群流派",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "叶北华",
+          "target": "惠阳县新铺乡",
+          "relation_text": "原籍于",
+          "relation_group": "人物关联",
+          "evidence": "叶老原籍惠阳县新铺乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "陈凝丹",
+          "target": "白花社乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "1911 年 12 月生于南海白花社乡",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "普君圩",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "长大后居佛山普君圩凯狗塘边",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "南海县立师范学校",
+          "relation_text": "考入",
+          "relation_group": "人物关联",
+          "evidence": "他在 18 岁时考入南海县立师范学校初中",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "佛山民间艺术社",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "佛山民间艺术社工艺美术师",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "岭南画派",
+          "relation_text": "传承于",
+          "relation_group": "传承延续",
+          "evidence": "岭南画派第二传人陈凝丹",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "高剑父",
+          "target": "岭南画派",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "岭南画派鼻祖高剑父",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "高剑父",
+          "target": "陈凝丹",
+          "relation_text": "指导",
+          "relation_group": "传承延续",
+          "evidence": "直接受高剑父与黄少强之指导",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄少强",
+          "target": "陈凝丹",
+          "relation_text": "指导",
+          "relation_group": "传承延续",
+          "evidence": "直接受高剑父与黄少强之指导",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "陈凝丹",
+          "target": "高剑父",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "直接受高剑父与黄少强之指导",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "黄少强",
+          "relation_text": "师事于",
+          "relation_group": "传承延续",
+          "evidence": "尤能师事黄少强继承谱家国之哀愁",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "岭南画派",
+          "relation_text": "继承",
+          "relation_group": "传承延续",
+          "evidence": "他继承岭南画派，实是岭南画派的老画家",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "高剑父",
+          "target": "佛山",
+          "relation_text": "建学院于",
+          "relation_group": "营建创造",
+          "evidence": "派鼻祖高剑父之美术学院于佛山",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "剑父老师旧居",
+          "relation_text": "瞻仰",
+          "relation_group": "人物关联",
+          "evidence": "瞻仰剑父老师旧居",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "剑父老师旧居",
+          "target": "普济禅院",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "至普济禅院睛仰剑父师旧居",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《登长城》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "兹择其此间所作画之题诗以证述之： 《登长城》诗云",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《游黄山题送客松》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "有辛酉年（1981 年）新春所题《黄山送客松》之诗",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《重访渝州》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "兹择其此间所作画之题诗以证述之： 《重访渝州》诗云",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《桂林写生》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "兹择其此间所作画之题诗以证述之： 《桂林写生》诗云",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《黄山送客松》",
+          "relation_text": "书写",
+          "relation_group": "人物关联",
+          "evidence": "其用左腕书者，有辛酉年（1981 年）新春所题《黄山送客松》之诗",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《黄山皮蓬深处》",
+          "relation_text": "绘制",
+          "relation_group": "人物关联",
+          "evidence": "凝丹亦擅茅龙笔，以此曾作《黄山皮蓬深处》并题诗",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "西樵石燕岩",
+          "relation_text": "题写",
+          "relation_group": "人物关联",
+          "evidence": "及所题西樵石燕岩三宇",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "曲竹联",
+          "relation_text": "书写",
+          "relation_group": "人物关联",
+          "evidence": "见挂有一曲竹联，亦系用茅龙笔直接书写在竹面者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "茅龙笔",
+          "relation_text": "擅用",
+          "relation_group": "人物关联",
+          "evidence": "凝丹亦擅茅龙笔，以此曾作《黄山皮蓬深处》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "黄山",
+          "relation_text": "写生于",
+          "relation_group": "人物关联",
+          "evidence": "1979 年写生于黄山",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "漓江",
+          "relation_text": "游历",
+          "relation_group": "人物关联",
+          "evidence": "七日漓江江上行，奇峰两岸笑相迎",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "渝州",
+          "relation_text": "造访",
+          "relation_group": "人物关联",
+          "evidence": "登长城，游黄山，两访渝州",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "朝天门",
+          "relation_text": "立于",
+          "relation_group": "人物关联",
+          "evidence": "最好朝天门上立，万家灯火照征人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1934 年",
+          "relation_text": "举办画展于",
+          "relation_group": "时序归属",
+          "evidence": "1934 年即在广州举行个人画展",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1979 年",
+          "relation_text": "写生于",
+          "relation_group": "时序归属",
+          "evidence": "1979 年写生于黄山",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "辛酉年",
+          "relation_text": "题诗于",
+          "relation_group": "时序归属",
+          "evidence": "有辛酉年（1981 年）新春所题《黄山送客松》之诗",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "曲竹联",
+          "target": "辛酉年",
+          "relation_text": "刻记于",
+          "relation_group": "时序归属",
+          "evidence": "上联脚下刻有 辛酉复永四字",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "佛山",
+          "relation_text": "寓居于",
+          "relation_group": "空间关联",
+          "evidence": "笔者到其佛山寓所之客厅中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "高剑父",
+          "target": "陈凝丹",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "弟子陈凝丹来游门下，服腐吾论",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "新中国画展",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "曾举行新中国画展于陪都",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈夫",
+          "target": "广东画院",
+          "relation_text": "任职于",
+          "relation_group": "从属分类",
+          "evidence": "广东画院秘书长除夫",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈夫",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "忠于美术事业，锲而不舍。…（83 年 10 月题凝丹画展）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "甄石绩",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "甄石绩、陈显达：…凝丹擅长写云松飞瀑",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈显达",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "这时期的作品，气魄益发雄键，技巧愈加精湛",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "刘逸生",
+          "target": "陈凝丹",
+          "relation_text": "赠诗",
+          "relation_group": "人物关联",
+          "evidence": "刘逸生：四纪声华艺苑飞...（赠陈凝丹诗）",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄良",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "黄良：陈凝丹人品高洁，淡于名利...融会贯通",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "刘再明",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "刘再明：·…为有豪情在，妙笔绝天工",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何龙",
+          "target": "陈凝丹",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "何龙：他写万里长城，是",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "万里长城",
+          "relation_text": "描绘",
+          "relation_group": "人物关联",
+          "evidence": "他写万里长城",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "黄山",
+          "relation_text": "写生",
+          "relation_group": "人物关联",
+          "evidence": "黄山踏遍更多奇",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "辛酉复永",
+          "target": "凝丹茅龙书",
+          "relation_text": "同刻于",
+          "relation_group": "空间关联",
+          "evidence": "刻有 辛酉复永四字，下联脚下刻有凝丹茅龙书",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "陈凝丹",
+          "target": "高剑父",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "凝丹是岭南画派创始人高剑父的首属学生",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "黄少强",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "后来又跟岭南画派的黄少强学艺",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "高剑父",
+          "target": "岭南画派",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "凝丹是岭南画派创始人高剑父的首属学生",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《到民间去》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "抗战期间，绘出许多感人至深的...作品。如《到民间去》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《宣传抗且到民间》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "抗战期间，绘出许多感人至深的...作品。如...《宣传抗且到民间》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《老游击》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "抗战期间，绘出许多感人至深的...作品。如...《老游击》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《战地之春》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "抗战期间，绘出许多感人至深的...作品。如...《战地之春》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《垦荒者》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "抗战期间，绘出许多感人至深的...作品。如...《垦荒者》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《雪满关山耀威武》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1938 年参加广州美术界筹募寒衣慰问前方将士而举行书画展览。其中作品有《雪满关山耀威武》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《难民图》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1938 年在香港举办救济难民画展，作品有《难民图》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《骨肉流离道路中》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1938 年在香港举办救济难民画展，作品有...《骨肉流离道路中》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《生产动员》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1945 年十一月在重庆举行个人画展，作品有《生产动员》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《共患难》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1945 年十一月在重庆举行个人画展，作品有...《共患难》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《秧歌舞》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "1950 年参加华南美术界组织的购买胜利折实公债画展，其中作品有《秧歌舞》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1934 年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "1934 年其年 23 岁即在广州举行个人画展，荣获艺坛后起之秀的光荣称号",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1938 年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "1938 年参加广州美术界筹募寒衣慰问前方将士而举行书画展览",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1945 年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "1945 年十一月在重庆举行个人画展",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1949 年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "1949 月在广州中山图书馆，举行个人画展",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "1950 年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "1950 年参加华南美术界组织的购买胜利折实公债画展",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "广州中山图书馆",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "1949 月在广州中山图书馆，举行个人画展",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "高剑父",
+          "target": "广州中山图书馆",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "1949 月在广州中山图书馆，举行个人画展，高剑父亲自作序",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "刘再明",
+          "target": "陈凝丹",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "刘再明：·…为有豪情在，妙笔绝天工",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何龙",
+          "target": "陈凝丹",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "何龙：他写万里长城，是那么雄伟、壮观...字字句句流露出对祖国对人民事业的坚贞与忠诚",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "廖冰兄",
+          "target": "陈凝丹",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "廖冰兄：他一生最可贵的地方，就是忠于祖国，忠于人民、忠于艺术",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "大沥",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "83 年 10 月凝丹大沥画展题词",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "凝丹",
+          "target": "佛山画会",
+          "relation_text": "担任会长",
+          "relation_group": "人物关联",
+          "evidence": "1980 年佛山画会成立，凝丹被推选为会长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "郭沫若",
+          "target": "凝丹",
+          "relation_text": "题字画册",
+          "relation_group": "人物关联",
+          "evidence": "1962 年郭沫若同志来佛山，参观其画展，并为其画册题字",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "廖承志",
+          "target": "凝丹",
+          "relation_text": "携带画作",
+          "relation_group": "人物关联",
+          "evidence": "廖承志首次赴日，其中有他的名画",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邹必至",
+          "target": "凝丹",
+          "relation_text": "携带画作",
+          "relation_group": "人物关联",
+          "evidence": "南海县长邹必至...访日时，均带有陈之作品为访日礼品之一",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈邦贵",
+          "target": "凝丹",
+          "relation_text": "携带画作",
+          "relation_group": "人物关联",
+          "evidence": "县委书记陈邦贵访日时，均带有陈之作品为访日礼品之一",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凝丹",
+          "target": "南浦中学",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "凝丹在抗战中，举家从佛山走难翁源任教于南浦中学",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凝丹",
+          "target": "广州文化公园",
+          "relation_text": "举办画展",
+          "relation_group": "人物关联",
+          "evidence": "1985 年 12 月在广州文化公园举行画展",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凝丹",
+          "target": "大沥",
+          "relation_text": "举办画展",
+          "relation_group": "人物关联",
+          "evidence": "同年十月在南海大沥举行个人画展",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "凝丹",
+          "target": "秧歌舞",
+          "relation_text": "创作画作",
+          "relation_group": "营建创造",
+          "evidence": "其中作品有《秧歌舞》等五幅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "廖冰兄",
+          "target": "凝丹",
+          "relation_text": "好评画展",
+          "relation_group": "人物关联",
+          "evidence": "曾受画界名流好评（详见上引廖冰兄谈话）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "区慵斋",
+          "target": "张槎大富乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "区榆字斋，原属本县张槎大富乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "清末",
+          "relation_text": "毕业于",
+          "relation_group": "时序归属",
+          "evidence": "早年毕业于清末商业学堂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "民国十年",
+          "relation_text": "转入于",
+          "relation_group": "时序归属",
+          "evidence": "民国十年以后，转入报界工作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "《现象》",
+          "relation_text": "刊出于",
+          "relation_group": "文献记载",
+          "evidence": "作品多在广州《现象》、《公评》两报刊出",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "《公评》",
+          "relation_text": "刊出于",
+          "relation_group": "文献记载",
+          "evidence": "作品多在广州《现象》、《公评》两报刊出",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "南越王赵佗",
+          "relation_text": "著述关于",
+          "relation_group": "人物关联",
+          "evidence": "陈济棠时代，写南越王赵佗归汉故事",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "《老师》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "广州沦陷前一年，在报刊的小品栏目上，写《老师》的副业一文",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄少强",
+          "target": "《老师》",
+          "relation_text": "绘制插图",
+          "relation_group": "人物关联",
+          "evidence": "黄少强为这篇文章作了插图",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "区慵斋",
+          "target": "黄少强",
+          "relation_text": "合作宣传",
+          "relation_group": "人物关联",
+          "evidence": "有时配合民间画师黄少强撰文作抗敌救亡宣传",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈铁献",
+          "target": "委道轩",
+          "relation_text": "受雇于",
+          "relation_group": "人物关联",
+          "evidence": "有陈铁献者。受顾于伪广东省绥靖公处长委道轩",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "《出峡图》",
+          "relation_text": "创作",
+          "relation_group": "人物关联",
+          "evidence": "二左图为陈凝丹遗作《出峡图》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "官山墟",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "官山圩（现改为镇）位于南海县西樵山麓",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "北江",
+          "target": "官山墟",
+          "relation_text": "流经",
+          "relation_group": "空间关联",
+          "evidence": "圩市东北绕过北江支流，圩旁有官山涌与它汇合",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈启源",
+          "target": "继昌隆丝",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启源赴南洋经商考察归来，在官山附近他的家乡简村，创办了我国第一个民族资本经营的机器丝厂—继昌隆丝",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈启源",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "在官山附近他的家乡简村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "继昌隆丝",
+          "target": "简村",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "在官山附近他的家乡简村，创办了我国第一个民族资本经营的机器丝厂—继昌隆丝",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "继昌隆丝",
+          "target": "同治十二年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "远在清同治十二年（1873），陈启源...创办了我国第一个民族资本经营的机器丝厂—继昌隆丝",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "联盛",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山有缚丝厂联盛、慎和、中偈、永栈等字七间",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "慎和",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山有缚丝厂联盛、慎和、中偈、永栈等字七间",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "中偈",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山有缚丝厂联盛、慎和、中偈、永栈等字七间",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "永栈",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山有缚丝厂联盛、慎和、中偈、永栈等字七间",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "共丰年",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时圩内有桑市一处。黄市有共丰年、仁和、大公等名号五间",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "仁和",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时圩内有桑市一处。黄市有共丰年、仁和、大公等名号五间",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "大公",
+          "target": "官山墟",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时圩内有桑市一处。黄市有共丰年、仁和、大公等名号五间",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "车艇",
+          "target": "官山墟",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "经官山出口往广州的车艇",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "高街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "大小街道约三十多条，现在只有高街、海边街及茶行街，人们还保留过去的叫法。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "海边街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "大小街道约三十多条，现在只有高街、海边街及茶行街，人们还保留过去的叫法。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "茶行街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "大小街道约三十多条，现在只有高街、海边街及茶行街，人们还保留过去的叫法。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "利群新街",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "他还在圩内建了一条新街，名为利群新街。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "颜昌",
+          "target": "利群新街",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "他还在圩内建了一条新街，名为利群新街。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "颜昌",
+          "target": "怡香",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "其中怡香大酒家是旅美归侨颜昌独资经营的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "西樵山",
+          "target": "官山",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "在油榨涌附近涌边一列都开有打石店，因为在西樵山营墓葬的人多，故此业特盛。",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "西江",
+          "target": "官山",
+          "relation_text": "汇入",
+          "relation_group": "空间关联",
+          "evidence": "西江、北江两江洪水汇入官山涌",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "北江",
+          "target": "官山",
+          "relation_text": "汇入",
+          "relation_group": "空间关联",
+          "evidence": "西江、北江两江洪水汇入官山涌",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "海榕紫洞艇",
+          "target": "官山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "还有泊在河上的海榕紫洞艇，也经营饮食业。",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "西樵中学",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山的学校有：职工学校一间（初中程度）、西樵中学一间",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "职工学校",
+          "target": "官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时官山的学校有：职工学校一间（初中程度）、西樵中学一间",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "西江",
+          "target": "官山圩",
+          "relation_text": "流经",
+          "relation_group": "空间关联",
+          "evidence": "西 江、北江两江洪水汇入官山涌",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "北江",
+          "target": "官山圩",
+          "relation_text": "流经",
+          "relation_group": "空间关联",
+          "evidence": "西 江、北江两江洪水汇入官山涌",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "就成",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "仪圩内的当押业，就有就成、昌记、公 益、永生等七户",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "昌记",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "仪圩内的当押业，就有就成、昌记、公 益、永生等七户",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "公益",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "仪圩内的当押业，就有就成、昌记、公 益、永生等七户",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "永生",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "仪圩内的当押业，就有就成、昌记、公 益、永生等七户",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何东",
+          "target": "就成",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "就成号的东主叫何东（火岸村人）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何东",
+          "target": "西成押",
+          "relation_text": "设立",
+          "relation_group": "人物关联",
+          "evidence": "他还在广西梧州设当铺 叫西成押",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何东",
+          "target": "广纶丝庄",
+          "relation_text": "经营",
+          "relation_group": "人物关联",
+          "evidence": "在官山有广纶丝庄，并营 信贷汇兑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "何东",
+          "target": "广和隆猪行",
+          "relation_text": "发迹于",
+          "relation_group": "人物关联",
+          "evidence": "据说他的发迹是由经营广和 隆猪行开始的",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "赛龙船",
+          "target": "官山圩",
+          "relation_text": "举办于",
+          "relation_group": "社群组织",
+          "evidence": "当时赛龙船，也利用作为赌博的",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "尼姑庵",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "圩内有尼姑庵四五间",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "喃哑道馆",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "喃哑道馆亦有四五间，供圩民虚用作法事",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "存真仙馆",
+          "target": "官山圩",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "建在圩后的存真仙馆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "銮祥",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "为婚嫁丧葬和迎神赛会等事服务 的八音仪仪铺有銮祥、鎏鸣两家",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "鎏鸣",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "为婚嫁丧葬和迎神赛会等事服务 的八音仪仪铺有銮祥、鎏鸣两家",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "潮水庙",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时的庙宇（如潮水庙）搞迎神赛会",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "梳起",
+          "target": "官山圩",
+          "relation_text": "流行于",
+          "relation_group": "文化表征",
+          "evidence": "官山丝和织机女工很多，有的怕结婚后困身不嫁人 （俗称梳起）",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "斋堂",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "官山当时就 有斋堂十多间",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "普济善堂",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "为了扶助贫民、孤寡，官山也曾兴办了一些慈善事业。较大的机构有普济善堂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "普济善堂",
+          "target": "乐殷商",
+          "relation_text": "选出为",
+          "relation_group": "社群组织",
+          "evidence": "较大的机构有普济善堂，善堂选出乐殷商为理事长和 理事",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "傅德用",
+          "target": "普济善堂",
+          "relation_text": "捐建",
+          "relation_group": "营建创造",
+          "evidence": "澳门巨富傅德用，每次回乡总认捐过千元",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌变法",
+          "relation_text": "以...为界",
+          "relation_group": "时序归属",
+          "evidence": "他的一 生可以戊成变法为界",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康同壁",
+          "target": "万木草堂遗稿",
+          "relation_text": "编纂",
+          "relation_group": "人物关联",
+          "evidence": "康同壁编《万木草堂遗稿》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康同复",
+          "target": "万木草堂遗稿",
+          "relation_text": "珍藏",
+          "relation_group": "人物关联",
+          "evidence": "未刊稿，康同复珍藏",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "哀故京",
+          "relation_text": "书写",
+          "relation_group": "人物关联",
+          "evidence": "提笔书写了元遗山的《哀故京》诗",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "慈禧",
+          "relation_text": "比作",
+          "relation_group": "人物关联",
+          "evidence": "他愤怒地把慈禧比作亡周的褒姒",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "荣禄",
+          "relation_text": "指责",
+          "relation_group": "人物关联",
+          "evidence": "他指出荣禄，李莲英一伴是为虎作张、卖国",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "李莲英",
+          "relation_text": "指责",
+          "relation_group": "人物关联",
+          "evidence": "他指出荣禄，李莲英一伴是为虎作张、卖国",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "荣禄",
+          "relation_text": "指责",
+          "relation_group": "人物关联",
+          "evidence": "他指出荣禄，李莲英一伴是为虎作张、卖国求荣的乱臣贼子",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "李莲英",
+          "relation_text": "指责",
+          "relation_group": "人物关联",
+          "evidence": "他指出荣禄，李莲英一伴是为虎作张、卖国求荣的乱臣贼子",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "袁世凯",
+          "target": "康有为",
+          "relation_text": "邀请",
+          "relation_group": "人物关联",
+          "evidence": "袁世凯邀请康有为参与政权，遭到他的拒绝",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "永遇乐·京口北固亭怀古",
+          "relation_text": "书写",
+          "relation_group": "人物关联",
+          "evidence": "他不仅书写了全词，而且反复地浓墨重写",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "韩树园",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "康有为与弟子韩树园一起同游",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "八角钟楼",
+          "target": "寒山寺",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "回顾一下那白色的八角钟楼...同游苏州的寒山寺",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "八角钟楼",
+          "target": "寒山寺",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "回顾一下那白色的八角钟楼...游苏州的寒山寺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "大雄宝殿",
+          "target": "寒山寺",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "该钟现悬在寒山寺大雄宝殿内右侧",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "碑廊",
+          "target": "寒山寺",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "此碑与刻有张继诗的那块碑至今还相对面立于寒山寺碑廊",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为诗碑",
+          "target": "碑廊",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "此碑与刻有张继诗的那块碑至今还相对面立于寒山寺碑廊",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张继诗碑",
+          "target": "碑廊",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "此碑与刻有张继诗的那块碑至今还相对面立于寒山寺碑廊",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "近舟",
+          "target": "康有为诗碑",
+          "relation_text": "立石",
+          "relation_group": "营建创造",
+          "evidence": "这首诗由该寺主持近舟立石",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张仲森",
+          "target": "康有为诗碑",
+          "relation_text": "刻写",
+          "relation_group": "营建创造",
+          "evidence": "吴县张仲森刻在石碑上",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "伊藤博文",
+          "target": "寒山寺",
+          "relation_text": "撰铭赠钟",
+          "relation_group": "人物关联",
+          "evidence": "曾任过日本首相的伊藤博文，亲自写了一篇钟铭...只好再铸一新钟送还",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "康有为诗碑",
+          "relation_text": "题写",
+          "relation_group": "人物关联",
+          "evidence": "他提笔愤书道：钟声已渡海云东...这首诗由该寺主持近舟立石",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "大限",
+          "target": "日置益",
+          "relation_text": "授意提交",
+          "relation_group": "人物关联",
+          "evidence": "他授意驻华公使日置益于 1915 年 1 月 28 日向袁世凯当面提交了二十一条",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "日置益",
+          "target": "二十一条",
+          "relation_text": "提交",
+          "relation_group": "人物关联",
+          "evidence": "他授意驻华公使日置益于 1915 年 1 月 28 日向袁世凯当面提交了二十一条",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "袁世凯",
+          "target": "二十一条",
+          "relation_text": "承认",
+          "relation_group": "人物关联",
+          "evidence": "竞于该年 5 月 9 日丧心病狂地承认了这个要使中国完全沦为日本殖民地的二十一条",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "袁世凯",
+          "target": "洪宪元年",
+          "relation_text": "改为",
+          "relation_group": "人物关联",
+          "evidence": "此后他便悍然宣布实行帝制，明令明年改为洪宪元年",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "蔡锣",
+          "target": "护国运动",
+          "relation_text": "发动",
+          "relation_group": "人物关联",
+          "evidence": "1915 年 12 月 25 日，蔡锣在云南发动了护国运动",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "徐勤",
+          "relation_text": "派往接待",
+          "relation_group": "人物关联",
+          "evidence": "并派自已的得力弟予徐勤到香港去接待和保护蔡鳄",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "蔡锣",
+          "relation_text": "致信鼓励",
+          "relation_group": "人物关联",
+          "evidence": "他在致蔡锣的信中说...以此鼓励蔡",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "潘若海",
+          "relation_text": "派往劝说",
+          "relation_group": "人物关联",
+          "evidence": "康有为特派弟子潘若海到南京劝说冯国璋等保持中立",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "冯国璋",
+          "relation_text": "劝其中立",
+          "relation_group": "人物关联",
+          "evidence": "康有为特派弟子潘若海到南京劝说冯国璋等保持中立",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海康先生年谱续编",
+          "target": "蔡锣",
+          "relation_text": "记载鼓励",
+          "relation_group": "文献记载",
+          "evidence": "康同璧著《南海康先生年谱续编》...以此鼓励蔡",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "跋章士钊致黄兴书",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "康有为在《跋章士钊致黄兴书》中详细地叙述",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "《跋章士钊致黄兴书》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有为在《跋章士钊致黄兴 书》中详细地叙述了这次策动反袁的经过",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "梁启超",
+          "relation_text": "策划",
+          "relation_group": "人物关联",
+          "evidence": "吾留以勿北，如必北，惟速密令蔡松坡走还滇举兵，而汝亦宣即走",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "蔡松坡",
+          "relation_text": "策划",
+          "relation_group": "人物关联",
+          "evidence": "惟速密令蔡松坡走还滇举兵",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "徐勤",
+          "relation_text": "筹措经费",
+          "relation_group": "人物关联",
+          "evidence": "康有为为了给徐勤筹措讨袁经费，不惜卖掉自已的房子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "张智若",
+          "relation_text": "派遣",
+          "relation_group": "人物关联",
+          "evidence": "康有为又派弟子张智若到广西劝说陆柒廷及早宣布独立",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "陆荣廷",
+          "relation_text": "致信",
+          "relation_group": "人物关联",
+          "evidence": "康有为在致陆荣廷信中说：国事危迫，与公关系尤深",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "蔡松坡",
+          "target": "护国战争",
+          "relation_text": "发动",
+          "relation_group": "人物关联",
+          "evidence": "促使蔡提前发动了护国战争",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "梁启超",
+          "target": "蔡松坡",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "以蔡松坡为启超门人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "梁启超",
+          "target": "潘若海",
+          "relation_text": "通电",
+          "relation_group": "人物关联",
+          "evidence": "潘若海得其与蔡松坡通电密码",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "徐勤",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "康有为弟子...文中记载其回粤讨袁",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "徐勤",
+          "target": "护国战争",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "徐勤亦回粤讨袁...徐勤以十九舰攻粤",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张智若",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "康有为又派弟子张智若",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "张智若",
+          "target": "陆荣廷",
+          "relation_text": "劝说",
+          "relation_group": "人物关联",
+          "evidence": "派弟子张智若到广西劝说陆柒廷及早宣布独立",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康同璧",
+          "target": "《南海康先生年谱续编》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康同璧著《南海康先生年谱续编》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《跋章士钊致黄兴书》",
+          "target": "护国战争",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "康有为在《跋章士钊致黄兴 书》中详细地叙述了这次策动反袁的经过",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《康有为家书考释》",
+          "target": "康有为",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "李云光著《康有为家书考释》...引用其中关于康有为抵押房屋筹措经费的记载",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《南海康先生年谱续编》",
+          "target": "徐勤",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "康同璧记载此事说：未儿，徐勤亦回粤讨袁",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《康氏遗稿》",
+          "target": "陆荣廷",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "赵丰田收藏《康氏遗稿》...引用其中致陆荣廷信件内容",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "丙辰二月五日",
+          "relation_text": "作诗于",
+          "relation_group": "时序归属",
+          "evidence": "徐勤启程时，康有为特地写诗一首...题日是《丙辰二月五日送君勉回粤起义兵讨洪宪篡臂写近诗付善伯归示君勉》",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "《康氏遗稿》",
+          "target": "康有为",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "赵丰田收藏的康有为文稿集，收录其关于兵事及政治主张的文字",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《南海康先生谱续编》",
+          "target": "康有为",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "记载康有为劝诫袁世凯引咎辞职等内容",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "袁世凯",
+          "relation_text": "致电要求退位",
+          "relation_group": "人物关联",
+          "evidence": "亲自致 电袁世凯，开门见山地要求袁世凯退位",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "护国军",
+          "relation_text": "出谋划策",
+          "relation_group": "人物关联",
+          "evidence": "康有为除了给护国军出谋划策和多方支援外",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "护国运动",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "他大力地支持了以蔡锣为首的护国运动",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "《时报》",
+          "target": "康有为",
+          "relation_text": "刊登",
+          "relation_group": "文献记载",
+          "evidence": "1916 年 4 月 22 日刊登康有为劝阻美国商人借款给袁世凯电文的报纸",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "蔡锣",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "他大力地支持了以蔡锣为首的护国运动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "冯国璋",
+          "relation_text": "发电劝诫",
+          "relation_group": "人物关联",
+          "evidence": "他又发电给长江各督军冯国璋等...劝他们共结联盟，保持中立",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "谭延闿",
+          "target": "联省自治",
+          "relation_text": "主张实行",
+          "relation_group": "人物关联",
+          "evidence": "湖南督军谭延通电声称湘省实行自治，以树联省自治之基",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "赵恒惕",
+          "target": "联省自治",
+          "relation_text": "主张推行",
+          "relation_group": "人物关联",
+          "evidence": "湖南省长赵恒惕通电主张联省自治",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "赵恒惕",
+          "target": "康有为",
+          "relation_text": "致电征求",
+          "relation_group": "人物关联",
+          "evidence": "并就此事给康有为发电，征求康的意见",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "联省自治",
+          "relation_text": "严加驳斥",
+          "relation_group": "人物关联",
+          "evidence": "康有为复电严加驳斥这种分裂国家的举动",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康有为",
+          "target": "春秋",
+          "relation_text": "引用论证",
+          "relation_group": "人物关联",
+          "evidence": "《春秋》言大一统，孟子言定于一，中国数千年皆统一立国",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "康同璧",
+          "target": "南海康先生年谱续编",
+          "relation_text": "编著撰写",
+          "relation_group": "营建创造",
+          "evidence": "（康同璧著《南海康先生年谱续编》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海康先生年谱续编",
+          "target": "联省自治",
+          "relation_text": "记载言论",
+          "relation_group": "文献记载",
+          "evidence": "康有为明确表示对有损于国家统一的联省自治，自已持反对的态度",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "熊秉三",
+          "target": "华会之盟",
+          "relation_text": "讲述盟约",
+          "relation_group": "人物关联",
+          "evidence": "熊秉三告我曰：华会之盟，列强助我，中国从此不忧危亡",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": [
+        {
+          "source": "康同璧",
+          "target": "南海康先生年谱续编",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "（康同璧著《南海康先生年谱续编》）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海中学校刊",
+          "target": "南海中学",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "它的创办、发展历史，本刻在碑记，并分期刊登在《南海中学校刊》内",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "校史散记",
+          "target": "南海中学",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "现只靠回忆和参阅有关资料编写成《校史散记》，作为南海教育史的参考",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海中学",
+          "target": "清光绪三十年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "南海中学始建于清光绪三·1 年（1904 年）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "傅汝梅",
+          "target": "南海中学",
+          "relation_text": "见证初创",
+          "relation_group": "人物关联",
+          "evidence": "清光绪三十年时期、学校规模仅具雏形。县长 傅汝梅",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "卢梳魂",
+          "target": "南海中学",
+          "relation_text": "曾任校长",
+          "relation_group": "人物关联",
+          "evidence": "初办旧制（四年制）中学时期 校长 卢梳魂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李景康",
+          "target": "南海中学",
+          "relation_text": "曾任校长",
+          "relation_group": "人物关联",
+          "evidence": "1913-1916...校长 李景康",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李宝祥",
+          "target": "南海中学",
+          "relation_text": "参与筹建",
+          "relation_group": "人物关联",
+          "evidence": "1926-1933 第二次筹建校舍...县长 李宝祥",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "周铭宗",
+          "target": "南海中学",
+          "relation_text": "曾任校长",
+          "relation_group": "人物关联",
+          "evidence": "1913-1916...校长 周铭宗",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "曾镜涵",
+          "target": "南海中学",
+          "relation_text": "曾任校长",
+          "relation_group": "人物关联",
+          "evidence": "1926-1933...校长 曾镜涵",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李海云",
+          "target": "南海中学",
+          "relation_text": "主政完善",
+          "relation_group": "人物关联",
+          "evidence": "1933-1937 发展完善时期 县长 李海云",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李道轩",
+          "target": "南海中学",
+          "relation_text": "主持迁校",
+          "relation_group": "人物关联",
+          "evidence": "抗战开始，迁校到珠海县钱山上课 县长 李道轩",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李兆福",
+          "target": "南海中学",
+          "relation_text": "曾任校长",
+          "relation_group": "人物关联",
+          "evidence": "汪伪县长...校长 李兆福",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄华",
+          "target": "南海中学",
+          "relation_text": "主政迁澳",
+          "relation_group": "人物关联",
+          "evidence": "钱山失守，迁澳门 县长 黄华",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "黄浩明",
+          "target": "南海中学",
+          "relation_text": "主政停办",
+          "relation_group": "人物关联",
+          "evidence": "1941-1945 汪伪时期、停办 县长 黄浩明",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "邓邦模",
+          "target": "南海中学",
+          "relation_text": "主政复办",
+          "relation_group": "人物关联",
+          "evidence": "1945-1949 复办 县长 邓邦模",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "光绪三·1 年",
+          "target": "南海中学",
+          "relation_text": "废科举办于",
+          "relation_group": "时序归属",
+          "evidence": "于清光绪三·1 年（1904 年）废科举办学堂时期，这时学校规模未有定型",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "民国二年",
+          "target": "南海中学",
+          "relation_text": "筹组于",
+          "relation_group": "时序归属",
+          "evidence": "民国二年（1913 年）出当时南海的知名人士...倡导...筹组而成的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李景康",
+          "target": "南海中学",
+          "relation_text": "倡导筹组",
+          "relation_group": "人物关联",
+          "evidence": "李景康、前清贡生潘镜美的倡导，李宝祥县长的主持下，筹组而成的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "潘镜美",
+          "target": "南海中学",
+          "relation_text": "倡导筹组",
+          "relation_group": "人物关联",
+          "evidence": "李景康、前清贡生潘镜美的倡导，李宝祥县长的主持下，筹组而成的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李宝祥",
+          "target": "南海中学",
+          "relation_text": "主持筹组",
+          "relation_group": "人物关联",
+          "evidence": "李宝祥县长的主持下，筹组而成的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海中学",
+          "target": "南海学宫",
+          "relation_text": "初办于",
+          "relation_group": "空间关联",
+          "evidence": "南海中学的校址就确定在南海学宫",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "旅港南海同乡会",
+          "target": "南海中学",
+          "relation_text": "资助",
+          "relation_group": "社群组织",
+          "evidence": "旅港南海同乡会、南海商会的大力资助下，筹集了大量办学资金",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海商会",
+          "target": "南海中学",
+          "relation_text": "资助",
+          "relation_group": "社群组织",
+          "evidence": "旅港南海同乡会、南海商会的大力资助下，筹集了大量办学资金",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "李海云",
+          "target": "南海中学",
+          "relation_text": "筹建校舍",
+          "relation_group": "营建创造",
+          "evidence": "1933 年，李海云任南海县长时，筹建了两座宿舍，约一千平方米。八个课室",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "里水麻奢",
+          "target": "陈风江",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "部分老师的家属，住在里水麻奢陈凤江的家里",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "邹伯奇",
+          "target": "清代",
+          "relation_text": "活跃于",
+          "relation_group": "时序归属",
+          "evidence": "邹伯奇、林超群、叶北华、陈凝丹等都是我县清代以来的知名人士",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "林超群",
+          "target": "清代",
+          "relation_text": "活跃于",
+          "relation_group": "时序归属",
+          "evidence": "邹伯奇、林超群、叶北华、陈凝丹等都是我县清代以来的知名人士",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "叶北华",
+          "target": "清代",
+          "relation_text": "活跃于",
+          "relation_group": "时序归属",
+          "evidence": "邹伯奇、林超群、叶北华、陈凝丹等都是我县清代以来的知名人士",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "陈凝丹",
+          "target": "清代",
+          "relation_text": "活跃于",
+          "relation_group": "时序归属",
+          "evidence": "邹伯奇、林超群、叶北华、陈凝丹等都是我县清代以来的知名人士",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "康有为",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "《论康有为后期的爱围思想》是学术论文...刊登在这里供读者参考",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第8辑_(政协南海县委员会文史组)"
+        }
+      ]
+    }
+  }
+}

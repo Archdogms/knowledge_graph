@@ -1,0 +1,2665 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "陈显达",
+          "target": "粤剧",
+          "relation_text": "从事",
+          "relation_group": "人物关联",
+          "evidence": "佛山 一一粤剧 的 故乡 陈显达",
+          "confidence": 0.88,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "翠亨村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "孙中 山先生出生 在 广东省香山 县...棒 享村",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "香山县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "孙中 山先生出生 在 广东省香山 县",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙达成",
+          "target": "孙中山",
+          "relation_text": "之父",
+          "relation_group": "人物关联",
+          "evidence": "孙的中父亲叫山孙达成",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": []
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "孙中山",
+          "target": "翠亨村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "享村人。他自少好上学陪颖过人。他与孙中山先生是同学",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "上李鸿章书",
+          "relation_text": "草拟",
+          "relation_group": "人物关联",
+          "evidence": "1894 年他返家乡享村在故居用了十多天的时间草拟成上李鸿章书",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "兴中会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "从 18 年 9 冬起 4 孙中山便离开翌京村到檀香山创立兴中会",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "中国同盟会",
+          "relation_text": "建立",
+          "relation_group": "人物关联",
+          "evidence": "以后又在日本建立中国同盟会",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "西医书院",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "务长英国人康德莹颁发的西医书院第一名毕业证书并接受所授予医科硕士学位",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "陆皓东",
+          "target": "孙中山",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "他与孙中山先生是同学过从甚密",
+          "confidence": 0.85,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "辛亥武昌起义",
+          "target": "清朝",
+          "relation_text": "推翻",
+          "relation_group": "时序归属",
+          "evidence": "在最后一次的辛亥武昌起义取得了胜利推翻了清朝皇帝",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "辛亥武昌起义",
+          "target": "民国",
+          "relation_text": "建立",
+          "relation_group": "时序归属",
+          "evidence": "推翻了清朝皇帝建立了民国",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "孔子",
+          "relation_text": "受学于",
+          "relation_group": "人物关联",
+          "evidence": "对封建圣人《孔子》...康有为早年受其思想影响",
+          "confidence": 0.85,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "简凤仪",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "1863 年六岁从番禺学者简凤仪读四书五经",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康赞修",
+          "target": "考弟祠",
+          "relation_text": "教学于",
+          "relation_group": "社群组织",
+          "evidence": "其祖父赞修在广州学宫考弟祠教学",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "考弟祠",
+          "relation_text": "就读于",
+          "relation_group": "社群组织",
+          "evidence": "有（康）为往就读",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "陈寿生",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "1870 年秋回广州从陈寿生学八股文",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "杨仁山",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "1872 年回乡从杨仁山学",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "澹如楼",
+          "relation_text": "自学于",
+          "relation_group": "社群组织",
+          "evidence": "1873-1875 年自学于澹如楼",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "海国图志",
+          "relation_text": "阅读",
+          "relation_group": "人物关联",
+          "evidence": "阅读海国图志及地球图等图书",
+          "confidence": 0.99,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "朱次琦",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "始从朱次琦（朱九江）先生受学",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "朱次琦",
+          "target": "九江",
+          "relation_text": "讲学于",
+          "relation_group": "社群组织",
+          "evidence": "受学于九江计山草堂",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "张云珠",
+          "relation_text": "娶",
+          "relation_group": "人物关联",
+          "evidence": "同年底十九岁结婚夫人张云珠",
+          "confidence": 0.99,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "三湖书院",
+          "relation_text": "求学于",
+          "relation_group": "社群组织",
+          "evidence": "1879 年正月到西樵山...三湖书院学",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "三湖书院",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于西樵山白云洞",
+          "confidence": 0.99,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "西樵山",
+          "relation_text": "游历于",
+          "relation_group": "人物关联",
+          "evidence": "到西樵山游...相得至深",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "折云洞",
+          "relation_text": "读书于",
+          "relation_group": "人物关联",
+          "evidence": "到西枞山折云洞潜心读书",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪八年",
+          "relation_text": "应考于",
+          "relation_group": "人物关联",
+          "evidence": "光绪八年 1882 年...康有为曾到北京应顺天乡试",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "不缠足会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "次年创不不强足会章例",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "光如楼",
+          "relation_text": "居读于",
+          "relation_group": "人物关联",
+          "evidence": "1884 一 1887 年康有为都是居乡读于光如楼",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "中法战争",
+          "target": "康有为",
+          "relation_text": "激发",
+          "relation_group": "人物关联",
+          "evidence": "中法成争时...因而更激发康方为交法图强的思想",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "张之洞",
+          "relation_text": "建议",
+          "relation_group": "人物关联",
+          "evidence": "他兽到广州请张易华向两广总督张之洞建议开局译西书",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "1891 年在广州开设万木草堂学舍授徒",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪十九年",
+          "relation_text": "中举于",
+          "relation_group": "时序归属",
+          "evidence": "1893 年 光绪十九年康有为再应乡试中举",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "第二年与学生梁局超一同进京会试",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "公车上书",
+          "relation_text": "发起",
+          "relation_group": "人物关联",
+          "evidence": "在北京联合当时在京淮备考取进士的各省举人...又叫公车上书",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "公车上书",
+          "target": "马关条约",
+          "relation_text": "反对",
+          "relation_group": "文化表征",
+          "evidence": "指出甲午战争后所签订的马关条约...并向清政府提出了拒和",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万国公报",
+          "target": "中外纪闻",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "万国公报 后改为中外纪闻",
+          "confidence": 0.99,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "强学会",
+          "relation_text": "组织",
+          "relation_group": "人物关联",
+          "evidence": "组织强学会",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "广仁",
+          "relation_text": "胞弟为",
+          "relation_group": "人物关联",
+          "evidence": "将其母的灵杠及其弟广仁在北京...并举了行追乔会",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "张勋",
+          "relation_text": "拥护",
+          "relation_group": "人物关联",
+          "evidence": "康有到为北京 拥护 张动捧十二 岁 的 宣统",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "清仪",
+          "relation_text": "祝寿于",
+          "relation_group": "人物关联",
+          "evidence": "康有为不顾 年老体 误从上海赴天 津张 园 向 清 仪 祝寿",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "清仪",
+          "relation_text": "呈送谢恩折于",
+          "relation_group": "人物关联",
+          "evidence": "匆匆 E 向溥仪呈送谢恩折",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "康同璧",
+          "relation_text": "父亲为",
+          "relation_group": "人物关联",
+          "evidence": "据 现任 上 海 市文史 馆 馆员...康同 ARTE...回忆父亲死因",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "万木草堂",
+          "relation_text": "讲学于",
+          "relation_group": "人物关联",
+          "evidence": "康有为讲学之所，文中提及《万木草堂书目录》",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "康有的为论著据《万木草从堂书 目 录所列 即 有经 部《孔子 改制考",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "新学伪经考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《万木草从堂书 目 录所列 即 有经 部...《新 学 伪 经考》",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "春秋董氏学",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《万木草从堂书 目 录所列 即 有经 部...《春董秋氏学",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "春秋笔削微言大义考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《万木草从堂书 目 录所列 即 有经 部...《春秋 笔削 微 言大义考》",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "封建复辟",
+          "relation_text": "支持",
+          "relation_group": "人物关联",
+          "evidence": "康有到为北京 拥护 张动捧十二 岁 的 宣统 清仪复习...为 封建复辟制造 僵 论",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "张勋",
+          "target": "清仪",
+          "relation_text": "扶持",
+          "relation_group": "人物关联",
+          "evidence": "拥护 张动捧十二 岁 的 宣统 清仪",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "清仪",
+          "target": "宣统",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "清朝末代废帝 清 仪...宣统",
+          "confidence": 0.99,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "康有为",
+          "target": "孔子改制考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《孔子改制考》...等六十四种子部同大攻",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "新学伪经考",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《新学伪经考》...等六十四种子部同大攻",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "戊戌奏稿",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《戊戌奏稿》...等六十四种子部同大攻",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "物质救国论",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《物质救国论》...等六十四种子部同大攻",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "长兴学记",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《长兴学记》等二十六种",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "光绪皇帝",
+          "relation_text": "上书",
+          "relation_group": "人物关联",
+          "evidence": "数次上书请求光绪皇帝改革政治",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "康有为",
+          "target": "维新变法",
+          "relation_text": "主张",
+          "relation_group": "人物关联",
+          "evidence": "萌发维新变法思潮...提出变法主张",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁启超",
+          "target": "康有为",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "康有为弟子",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "黎涌村",
+          "target": "魁岗",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "家住息岗黎水村",
+          "confidence": 0.85,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黎涌村",
+          "target": "整头并",
+          "relation_text": "拥有",
+          "relation_group": "空间关联",
+          "evidence": "村中有一方形水井称为整头并",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "简文会",
+          "target": "南汉",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "他的出身年代正是残唐五代十国之一的南汉",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "简文会",
+          "target": "干享元年",
+          "relation_text": "中状元于",
+          "relation_group": "时序归属",
+          "evidence": "公元 917 年改号干享元年这一年开科取士简文会参碟加试考中第一名状元",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "陈元",
+          "target": "黎涌村",
+          "relation_text": "题诗于",
+          "relation_group": "人物关联",
+          "evidence": "该村有遗老陈元先生题下诗一首",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "郑官应",
+          "target": "盛世危言",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "以上材料见 盛世 危言",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "十九世纪七十年代",
+          "relation_text": "提出于",
+          "relation_group": "时序归属",
+          "evidence": "他在 十九世纪七十年代 就 提出立法、司法行政三权并重",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "康有为",
+          "relation_text": "同为",
+          "relation_group": "人物关联",
+          "evidence": "他 与康有为、滩 启 超 等 为代表 的维派新",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "梁启超",
+          "relation_text": "同为",
+          "relation_group": "人物关联",
+          "evidence": "他 与康有为、滩 启 超 等 为代表 的维派新",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "袁世凯",
+          "relation_text": "反对",
+          "relation_group": "人物关联",
+          "evidence": "郑 官 应...必反对 袁世凯 控制轮电二 局的 斗争",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "郑官应",
+          "target": "盛世危言",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "郑官应所著政治改良论著，一八九三年定名出版",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "救时揭要",
+          "target": "同治元年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "于一八六二年同治元年刊行",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "盛世危言",
+          "target": "光绪十九年",
+          "relation_text": "定名于",
+          "relation_group": "时序归属",
+          "evidence": "一八九三年定名出版",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "救时揭要",
+          "target": "易言",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "一八六二年...刊有题名救时揭要 一八七一年增订成上下本改名易言刊行",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "易言",
+          "target": "盛世危言",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "至一八九三年...始定名盛世危言",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "孙中山",
+          "target": "盛世危言",
+          "relation_text": "阅读",
+          "relation_group": "人物关联",
+          "evidence": "和孙中山先生早期的富强之大经治国之大本...读",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "毛泽东",
+          "target": "盛世危言",
+          "relation_text": "阅读",
+          "relation_group": "人物关联",
+          "evidence": "毛泽东少年时代也常通宵达旦阅读盛世危言",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "盛世危言",
+          "target": "中日甲午战争",
+          "relation_text": "早于",
+          "relation_group": "时序归属",
+          "evidence": "为中日甲午战争前著名的政治改良的论著",
+          "confidence": 0.9,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": [
+        {
+          "source": "郑官应",
+          "target": "一八六九年",
+          "relation_text": "捐官于",
+          "relation_group": "时序归属",
+          "evidence": "比如他曾三次捐官一八六九年、一作七 O 年、一八七五年",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "一八七五年",
+          "relation_text": "捐官于",
+          "relation_group": "时序归属",
+          "evidence": "比如他曾三次捐官一八六九年、一作七 O 年、一八七五年",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "郑官应",
+          "target": "一九二二年",
+          "relation_text": "病逝于",
+          "relation_group": "时序归属",
+          "evidence": "一九二二年九月病逝于上海时年八十一岁",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "简氏兄弟",
+          "target": "南洋兄弟烟草公司",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "爱国华侨简氏兄弟在中国民族工业的历史中南洋兄弟烟草公司占有极其重要的一页",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "简氏兄弟",
+          "target": "广东南洋兄弟烟草公司",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "光绪二十九年简氏携少量资金回国在香港创办广东南洋兄弟烟草公司",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "广东南洋兄弟烟草公司",
+          "target": "双喜",
+          "relation_text": "采用",
+          "relation_group": "文化表征",
+          "evidence": "南洋公司采用中国各族人民闻间乐见的而又吉的祥名字 KO 双喜等来济名卷的烟牌号",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "广东南洋兄弟烟草公司",
+          "target": "凤阳",
+          "relation_text": "建筑厂场",
+          "relation_group": "空间关联",
+          "evidence": "安徽省的凤阳山东省的滩县坊子等地先后建筑厂场广收烟叶",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "广东南洋兄弟烟草公司",
+          "target": "潍县",
+          "relation_text": "建筑厂场",
+          "relation_group": "空间关联",
+          "evidence": "安徽省的凤阳山东省的滩县坊子等地先后建筑厂场广收烟叶",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "广东南洋兄弟烟草公司",
+          "target": "光绪二十九年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "一九 D 年光绪二十九年简氏携少量资金回国在香港创办广东南洋兄弟烟草公司",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "广东南洋兄弟烟草公司",
+          "target": "光绪三十一年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "一九于五年光州绪一年 7 在香再港度开业更名为南洋兄弟烟草公司",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "李广海",
+          "target": "李才干",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "十四岁随父李才干临床学医",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "平正桥沙涌坊",
+          "relation_text": "设医馆于",
+          "relation_group": "空间关联",
+          "evidence": "继承父业设医馆于平正桥沙涌坊",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "联合诊所",
+          "relation_text": "加入",
+          "relation_group": "社群组织",
+          "evidence": "1950 年主动申请加入了联合诊所",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "佛山中医院",
+          "relation_text": "主持业务",
+          "relation_group": "社群组织",
+          "evidence": "1956 年佛山中医院成立参加了中医医院的业务领导工作",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "伤寒论",
+          "relation_text": "攻读",
+          "relation_group": "人物关联",
+          "evidence": "从童年起便攻读《伤寒论》",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "神农本草经",
+          "relation_text": "攻读",
+          "relation_group": "人物关联",
+          "evidence": "从童年起便攻读...神本农草等中医经典",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "医宗金鉴",
+          "relation_text": "研读",
+          "relation_group": "人物关联",
+          "evidence": "攻读...医宗金鉴",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "小夹板外固定",
+          "relation_text": "研究应用",
+          "relation_group": "人物关联",
+          "evidence": "李广海注意小夹板外固定的研究并将生物力学运用于临床",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李广海",
+          "target": "江门甘化厂",
+          "relation_text": "会诊于",
+          "relation_group": "空间关联",
+          "evidence": "1960 年波兰一专家到江门甘化厂...请李广海会诊",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "蛇王满",
+          "target": "闵庄村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "蛇王满主人系广东南海县大沥乡闵庄村人",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "蛇王满",
+          "target": "大沥乡",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "蛇王满主人系广东南海县大沥乡闵庄村人",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "蛇王满",
+          "target": "佛山汾流街",
+          "relation_text": "开设于",
+          "relation_group": "营建创造",
+          "evidence": "以后又在佛山汾流街开设蛇王满分店",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "本草纲目",
+          "target": "明代",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "到了明朝李时珍他写的本 2456",
+          "confidence": 0.9,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "神农本草经",
+          "target": "西汉",
+          "relation_text": "成书于",
+          "relation_group": "时序归属",
+          "evidence": "西汉时的《神本农草经》",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "捕蛇者说",
+          "target": "唐代",
+          "relation_text": "著于",
+          "relation_group": "时序归属",
+          "evidence": "唐代柳宗元的捕蛇者说",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "朝野佥载",
+          "target": "唐代",
+          "relation_text": "著于",
+          "relation_group": "时序归属",
+          "evidence": "唐代...张灵的朝金野载",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "南海澜石",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "梁财信是南海澜石人生于清乾隆三十八年",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "乾隆三十八年",
+          "relation_text": "生于",
+          "relation_group": "时序归属",
+          "evidence": "梁财信是南海澜石人生于清乾隆三十八年",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "咸丰五年",
+          "relation_text": "死于",
+          "relation_group": "时序归属",
+          "evidence": "死于成丰五年《185 年 5",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "潘日舒",
+          "target": "梁财信",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "潘喜爱他为人勤尽传授给他一些跌打医术",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "潘日舒",
+          "target": "梁财信",
+          "relation_text": "赠予",
+          "relation_group": "传承延续",
+          "evidence": "临死时和遗嘱将所有医书和秘传笔记给梁财信",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "方伯家庙",
+          "relation_text": "租用",
+          "relation_group": "营建创造",
+          "evidence": "开始时租澜石方伯家庙的钟鼓枪一边作医馆",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "南海澜石",
+          "target": "佛山",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "澜石离佛山只十二公里",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "南海澜石",
+          "target": "石湾",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "离石湾只五公里",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "梁财信医馆",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "树了立一块梁财信医馆的石招牌这就是梁财信的正铺",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信医馆",
+          "target": "清末民初",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "梁财信医馆医务节盛是在清末民初",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "兰长",
+          "target": "梁财信",
+          "relation_text": "过继为子",
+          "relation_group": "传承延续",
+          "evidence": "兰长和柱长过继给财信也跟学着会了跌打正式主诊",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "桂长",
+          "target": "梁财信",
+          "relation_text": "是次子",
+          "relation_group": "从属分类",
+          "evidence": "他的次子桂长共生九子",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "贯之",
+          "target": "梁财信",
+          "relation_text": "是孙子",
+          "relation_group": "从属分类",
+          "evidence": "他的次子桂长共生九子以贯之居长...他的孙子多数是祖传跌打医生",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "止痛散",
+          "relation_text": "创制",
+          "relation_group": "营建创造",
+          "evidence": "梁财信...创制...止痛散以鸦片为主要成份作为麻醉剂",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "贯之",
+          "target": "梁氏跌打",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "贯之不但精于祖传的跌打技术还擅长内科",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "兰长",
+          "target": "梁氏跌打",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "兰长和柱长过继给财信也跟学着会了跌打正式主诊",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "梁财信跌打医术",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "不但精于祖传的跌打技术还擅长内科",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "梁财信医馆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "梁财信医馆里挂清了伤者冯愈后送来的胜蕊",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "合泰和杂货店",
+          "relation_text": "经营",
+          "relation_group": "人物关联",
+          "evidence": "在油石正埋经营了一间合泰和杂货店",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "存生堂药材店",
+          "relation_text": "经营",
+          "relation_group": "人物关联",
+          "evidence": "及一间存生堂药材店",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信",
+          "target": "梁氏祠堂",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "先后建筑了十多座大屋三座花园一坐祠堂",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "何江",
+          "target": "梁财信医馆",
+          "relation_text": "赠匾",
+          "relation_group": "人物关联",
+          "evidence": "何江多次负伤一次...了一块卫我军民的牌蕊",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁桂长生祠",
+          "target": "梁财信",
+          "relation_text": "由...修建",
+          "relation_group": "营建创造",
+          "evidence": "桂长自己还建筑了一间生祠",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信医馆",
+          "target": "油石",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时渊石河边每日停消求医者乘坐的小艇",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "合泰和杂货店",
+          "target": "油石",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在油石正埋经营了一间合泰和杂货店",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "存生堂药材店",
+          "target": "油石",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "及一间存生堂药材店",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "梁氏家族",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "梁财信在发家后对于如何巩固和维护其封建家族是煞费苦心的采取了一系列措施",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "对医术是传男不传女...秘方、技术都是不传妇女的",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "祖传笔记",
+          "target": "跌打医术",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有一本祖传的笔记用丹纸书写...记录跌打医术单方但隐去关键成分",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "祖传笔记",
+          "target": "跌打止痛散",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "如跌打止痛散在遗留的笔记...入数味不录",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "制腊尺",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "家族妇女虽也参加一些制药的辅助劳动如制腊尺之类",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "跌打医术",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "梁财信遗训是不包医只包你医好...他要 求 后代 学 文化是 为 了 使 他们 更好 继承 祖业",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "伯韶",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "伯韶 等 主教 在 读好四 书 五经的 同时学习《内 经》",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "伯韶",
+          "target": "内经",
+          "relation_text": "研读",
+          "relation_group": "人物关联",
+          "evidence": "伯韶 等 主教 在 读好四 书 五经的 同时学习《内 经》",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "贯之",
+          "target": "跌打医术",
+          "relation_text": "发展",
+          "relation_group": "传承延续",
+          "evidence": "出现了 精通 内 科长 于 跌 打 的 贯 之使跌打 医术有了进一步 的 发展",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "以庄",
+          "target": "跌打医术",
+          "relation_text": "继承",
+          "relation_group": "传承延续",
+          "evidence": "他的 曾孙 以庄和少 峰",
+          "confidence": 0.9,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "少峰",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "他的 曾孙 以庄和少 峰",
+          "confidence": 0.9,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "武馆",
+          "target": "跌打医术",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "武 馆里还 聘请 了 不 少 南北 名 源 师、教头来 主持...学 了这才 能 狂 炼 身体有足够 气力施行跌打 手术",
+          "confidence": 0.88,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "晓峰",
+          "target": "梁财信",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "梁财信的孙子晓峰首先迁册到广州十八甫开诊",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "蓝田",
+          "target": "梁财信",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "孙子蓝田也到广双门州底挂牌",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "道生",
+          "target": "梁财信",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "孙子道生...在佛山豆残塌...先后开设梁财信医馆",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "壮垣",
+          "target": "梁财信",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "曾孙壮垣 笔者父亲 在佛山...北胜街先后开设梁财信医馆",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "寿南",
+          "target": "梁财信",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "曾孙寿南更到香港去发展",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "晓峰",
+          "target": "广州十八甫",
+          "relation_text": "开诊于",
+          "relation_group": "空间关联",
+          "evidence": "晓峰首先迁册到广州十八甫开诊",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "蓝田",
+          "target": "广州双门底",
+          "relation_text": "行医于",
+          "relation_group": "空间关联",
+          "evidence": "孙子蓝田也到广双门州底挂牌",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "道生",
+          "target": "佛山豆豉巷",
+          "relation_text": "开设于",
+          "relation_group": "空间关联",
+          "evidence": "孙子道生...在佛山豆残塌...先后开设梁财信医馆",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "壮垣",
+          "target": "佛山北胜街",
+          "relation_text": "开设于",
+          "relation_group": "空间关联",
+          "evidence": "曾孙壮垣...在佛山...北胜街先后开设梁财信医馆",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信医馆",
+          "target": "佛山豆豉巷",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "在佛山豆残塌和北胜街先后开设梁财信医馆",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信医馆",
+          "target": "佛山北胜街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "在佛山豆残塌和北胜街先后开设梁财信医馆",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "梁氏家族...掌握跌打药品单方和制作技术",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "民国三年",
+          "relation_text": "分散于",
+          "relation_group": "时序归属",
+          "evidence": "进入民国尤其是民国三年贯之死后梁氏家族由集中而分散了",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": []
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "梁财信医馆",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "梁财信家族世代相传的医疗技艺，文中提及仅少数后人学会",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "梁财信家族世代相传的医疗技艺",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁硅友",
+          "target": "梁氏家族",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "梁财信的孙子硅友",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁腾长",
+          "target": "梁氏家族",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "梁财广第三子，梁财信侄子",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁芳长",
+          "target": "梁氏家族",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "梁财广第四子",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁芳长",
+          "target": "红兵起义",
+          "relation_text": "参加",
+          "relation_group": "人物关联",
+          "evidence": "芳长在一八五五年参加了...红兵起义",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "红兵起义",
+          "target": "一八五五年",
+          "relation_text": "发生于",
+          "relation_group": "时序归属",
+          "evidence": "芳长在一八五五年参加了...红兵起义",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "光汉医学院",
+          "target": "梁氏家族",
+          "relation_text": "创办于",
+          "relation_group": "营建创造",
+          "evidence": "梁以庄在广州办的光汉医学院",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "梁财信",
+          "target": "顺陈村",
+          "relation_text": "开设医馆于",
+          "relation_group": "人物关联",
+          "evidence": "学会了跌打到顺陈村德开设医馆",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁氏家族",
+          "target": "梁财信跌打医术",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "梁财信，南海著名跌打医家，其家族开设医馆并创制跌打成药",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁财信跌打医术",
+          "target": "梁氏家族",
+          "relation_text": "由...传承",
+          "relation_group": "传承延续",
+          "evidence": "梁财信，南海著名跌打医家，其家族开设医馆并创制跌打成药",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义",
+          "target": "白泥需村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "唐拾义原名唐铎华字振芝三水南边区黄塘保安乡白泥需村东头人",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义",
+          "target": "芦蔓镇",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "年青时曾在三水芦蔓镇经商",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义",
+          "target": "唐拾义药厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "由唐拾义创办",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义药厂",
+          "target": "唐拾义发冷丸",
+          "relation_text": "创制",
+          "relation_group": "营建创造",
+          "evidence": "该药厂创制了一称名药唐拾义发冷",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "唐拾义",
+          "target": "唐拾义发冷药",
+          "relation_text": "创制",
+          "relation_group": "营建创造",
+          "evidence": "唐拾义创制了一称名药 唐拾义发冷",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义",
+          "target": "二天油",
+          "relation_text": "合作研制",
+          "relation_group": "营建创造",
+          "evidence": "唐失义又与陈少震合作研制成功我一一友二牙育",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐拾义",
+          "target": "维德学校",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "唐拾义在家乡创办一问给...维德学校",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐太平",
+          "target": "唐拾义",
+          "relation_text": "是长子",
+          "relation_group": "传承延续",
+          "evidence": "唐拾义有数子长子唐太平",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "唐欧洲",
+          "target": "唐拾义",
+          "relation_text": "是次子",
+          "relation_group": "传承延续",
+          "evidence": "次子唐欧洲是药学专家",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "佛山",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "佛山是粤剧的发源地",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "张五",
+          "target": "粤剧",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "这个张五可说是粤剧戏班的开山祖师了",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "张五",
+          "target": "少林武术",
+          "relation_text": "传授",
+          "relation_group": "人物关联",
+          "evidence": "他将拿手的昆飞诸腔及少林武术热心传授给粤戏艺人",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "佛山镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于佛山镇大基尾华康街",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "大基尾华康街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "地点在今天的 大基尾华康街",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "红船子弟",
+          "target": "粤剧",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "广粤东剧艺人有一个别致的称呼一一红船子弟...这琼花指的就是粤剧",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "天贻节",
+          "target": "粤剧",
+          "relation_text": "举办",
+          "relation_group": "社群组织",
+          "evidence": "但到年年天贻节万人围住看琼花。这琼花指的就是粤剧",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "张五",
+          "target": "汉剧",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "据说张五当时唱的足飞阳腔他滨的戏是汉剧",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "粤剧",
+          "target": "汉剧",
+          "relation_text": "源于",
+          "relation_group": "传承延续",
+          "evidence": "有人便说志剧的老底子便是汉剧因为汉别的许多剧目几乎粤剧都有",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李文茂",
+          "target": "咸丰四年",
+          "relation_text": "起义于",
+          "relation_group": "时序归属",
+          "evidence": "咸丰四年一八五四年曾率领红船子弟申应洪秀全领导的太平天国起义的粤剧艺人李文茂",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "同治七年",
+          "relation_text": "解禁于",
+          "relation_group": "时序归属",
+          "evidence": "直至同治七年一八六八年粤剧解禁粤班复业",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "振天声剧社",
+          "target": "辛亥革命",
+          "relation_text": "活跃于",
+          "relation_group": "时序归属",
+          "evidence": "辛亥革命前后一些革命志士借助粤剧来宣传民众。孙中山先生就曾在新加坡与振天声剧社的成员见面会晤",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "陈少白",
+          "target": "采南歌班",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "兴中会会员陈少白先生等人还组织天演公司设戏剧学校成立了第一个粤剧志士班采南歌班",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "粤剧",
+          "target": "温生才刺孚琦",
+          "relation_text": "编演",
+          "relation_group": "社群组织",
+          "evidence": "取材于现实生活识喻时政鼓吹革命编演了温生才刺孚琦",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "火烧沙头",
+          "relation_text": "编演",
+          "relation_group": "社群组织",
+          "evidence": "编演了...《火烧沙头》",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "秋瑾",
+          "relation_text": "编演",
+          "relation_group": "社群组织",
+          "evidence": "编演了...《秋瑾》等剧目",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "过山班",
+          "target": "粤剧",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "小型的粤剧戏班...名之曰过山班",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "石湾陶塑",
+          "target": "石湾镇",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "石湾陶塑艺术的发源地和主要传承地",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "佛山祖庙",
+          "target": "刘备江招亲",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "佛山祖庙陶塑瓦脊约有...二十四大戏曲故事包括《刘备江招亲》",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "石湾公仔",
+          "target": "石湾陶塑",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "这些石湾公仔...石湾镇的陶瓷艺术",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "石湾公仔",
+          "target": "六国大封相",
+          "relation_text": "取材于",
+          "relation_group": "文化表征",
+          "evidence": "石湾公仔大部份取材于广泛流传的粤剧剧...如排场戏六国大封相",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "石湾公仔",
+          "target": "粤剧",
+          "relation_text": "取材于",
+          "relation_group": "文化表征",
+          "evidence": "陶塑的石湾公仔大部份取材于广泛流传的粤剧剧",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "石湾公仔",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "对石湾公仔的人物服饰、神态塑造有深远影响",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "红船戏班",
+          "target": "佛山",
+          "relation_text": "演出于",
+          "relation_group": "社群组织",
+          "evidence": "当年红船戏班如到佛山石湾演出时",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "广东刺绣",
+          "relation_text": "受...影响",
+          "relation_group": "文化表征",
+          "evidence": "粤戏最剧古老裤实有明的地方特色也受广东刺绣...影响",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "粤剧",
+          "target": "佛山剪纸",
+          "relation_text": "受...影响",
+          "relation_group": "文化表征",
+          "evidence": "受广东刺绣和佛山剪纸图案影响",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "状元坊",
+          "target": "广东刺绣",
+          "relation_text": "聚集",
+          "relation_group": "社群组织",
+          "evidence": "清康京时聚居在现广州状元坊内的刺斤艺人",
+          "confidence": 0.91,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "佛山",
+          "target": "明代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "早在明代就被誉为全国四大名镇之一",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "锦山祖庙",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "锦山祖庙里的万福台",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "清光绪",
+          "relation_text": "沿革于",
+          "relation_group": "时序归属",
+          "evidence": "万福台原叫华封台...清光绪二",
+          "confidence": 0.85,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "万福台",
+          "target": "华封台",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "万福台原叫华封台",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "光绪二十五年",
+          "relation_text": "重修于",
+          "relation_group": "时序归属",
+          "evidence": "清光绪二十五年一八九九年时佛山的封建统治者为了给芝禧的六",
+          "confidence": 0.85,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "出将",
+          "relation_text": "设有",
+          "relation_group": "空间关联",
+          "evidence": "台上设有四个门口正面为出将",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "入相",
+          "relation_text": "设有",
+          "relation_group": "空间关联",
+          "evidence": "正面为出将、人入相两门是演员出入场之用的",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "万福台",
+          "target": "中和",
+          "relation_text": "设有",
+          "relation_group": "空间关联",
+          "evidence": "近台边处另设中和",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "小明星",
+          "target": "三水县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "小明星姓邓名蓝蕉 1911 一 1942 年 三水县高让区伏户乡墩头村人",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "小明星",
+          "target": "星腔",
+          "relation_text": "始创",
+          "relation_group": "人物关联",
+          "evidence": "是三十年风摩歌坛的星腔始创人",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "叶贻孙",
+          "target": "小明星",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "她的养母就送她去拜叶贻孙为开山师傅",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "小明星",
+          "target": "平喉四杰",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "从此成为平喉四杰之一",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": []
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "梁黄系",
+          "target": "佳名扬",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "与佳名扬、陈锦党等合作演出并拜他们为师",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "陈锦党",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "与佳名扬、陈锦党等合作演出并拜他们为师",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "萌记建国酒家",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "抗日战争期间他曾停止演戏转在做生意开了一间萌记建国酒家",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "佛山专剧院",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "1959 年开始到佛山专剧院以后一直在佛山地区粤剧团演出",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "佛山地区粤剧团",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "以后一直在佛山地区粤剧团演出",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "南派硬桥硬马",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "充分发挥南派硬桥硬马和腰马功的特点",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "气功",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "把国技气功及一些杂技手法运用到舞台上",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁黄系",
+          "target": "杂技",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "把国技气功及一些杂技手法运用到舞台上",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "梁荫棠",
+          "target": "度家",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "在多年的实践探索中他的武功自成流派号称度家",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "三节棍",
+          "relation_text": "擅长使用",
+          "relation_group": "人物关联",
+          "evidence": "他年青时的演出着重武打三节棍",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "单刀",
+          "relation_text": "擅长使用",
+          "relation_group": "人物关联",
+          "evidence": "单刀都机得很好",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "赵子龙催归",
+          "relation_text": "主演",
+          "relation_group": "人物关联",
+          "evidence": "在《赵子龙催归》中...用的行公仔陨台到武打的表演中",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "芦花水",
+          "relation_text": "参演",
+          "relation_group": "人物关联",
+          "evidence": "这剧的《芦花水》一场里梁荫党扮演...周瑜",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "周瑜",
+          "relation_text": "饰演",
+          "relation_group": "人物关联",
+          "evidence": "梁荫党扮演...周瑜",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "周瑜",
+          "target": "张飞",
+          "relation_text": "对打",
+          "relation_group": "人物关联",
+          "evidence": "周瑜与张飞对打时",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "梁荫棠",
+          "target": "赵子龙",
+          "relation_text": "饰演",
+          "relation_group": "人物关联",
+          "evidence": "赵子龙是一个杀人王...梁荫党的甚至手指都与锣鼓配合得很好",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": []
+    },
+    "chunk_0073": {
+      "relations": []
+    },
+    "chunk_0074": {
+      "relations": []
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "黄炎工",
+          "target": "粤剧",
+          "relation_text": "传承",
+          "relation_group": "传承延续",
+          "evidence": "对他的首徒黄炎工说今后如果有人问你我们是什么家你就说我们是度家以后你就按我的做法夫教给其他人了吧",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "陶塑",
+          "relation_text": "掌握",
+          "relation_group": "人物关联",
+          "evidence": "黄炳自幼受陶塑艺人的震陶...年青时就掌握了石湾陶塑深厚朴实注重传神形神兼备的技艺特色",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "石湾",
+          "relation_text": "生长于",
+          "relation_group": "人物关联",
+          "evidence": "他生长在劳动人民中间...关于他的故事在石湾人中曾广为流传",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "陶塑",
+          "target": "石湾",
+          "relation_text": "发源于",
+          "relation_group": "空间关联",
+          "evidence": "石湾陶塑...黄炳生长于此",
+          "confidence": 0.93,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": [
+        {
+          "source": "黄炳",
+          "target": "石湾胎毛",
+          "relation_text": "独创",
+          "relation_group": "营建创造",
+          "evidence": "黄炳手的下鸭子采用 石湾胎毛...原色表现不施釉彩是为胎",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "宝鸭",
+          "relation_text": "塑出",
+          "relation_group": "营建创造",
+          "evidence": "回家之后黄炳就很快地塑出一对...宝鸭",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "黄炳",
+          "target": "陶塑",
+          "relation_text": "精于",
+          "relation_group": "人物关联",
+          "evidence": "黄炳不但精于陶塑还擅于绘画",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "瓦猫",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "真猫捉泥鼠瓦猫治真鼠一时传为佳话",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "缸瓦老鼠",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "黄炳在家里制作起老鼠来了...变成了一只黑老鼠",
+          "confidence": 0.97,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄炳",
+          "target": "猫灯",
+          "relation_text": "制作",
+          "relation_group": "营建创造",
+          "evidence": "这件猫灯被一个商人以高价购去...黄炳在家里制作起老鼠来",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "黄炳",
+          "target": "陶师庙",
+          "relation_text": "协助追回失物",
+          "relation_group": "人物关联",
+          "evidence": "原来这个汉子由于赌输了钱偷了陶师庙的东西。事后人们说起此事都说黄炳的一双眼犀利真是神眼",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "周雨耕",
+          "target": "海南村",
+          "relation_text": "原籍位于",
+          "relation_group": "空间关联",
+          "evidence": "周雨耕...原籍南海县下沙坑海南村人",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "周雨耕",
+          "target": "道光",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "周两寿是在清末道光年间出生的",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "佛山",
+          "target": "周二六",
+          "relation_text": "孕育出",
+          "relation_group": "人物关联",
+          "evidence": "在这种形势下佛山也产生了不少富商巨贾例如花纱业的周二六",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "佛山",
+          "target": "谭清泉",
+          "relation_text": "孕育出",
+          "relation_group": "人物关联",
+          "evidence": "在这种形势下佛山也产生了不少富商巨贾例如...染料业的谭清泉",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "佛山",
+          "target": "梁日初",
+          "relation_text": "孕育出",
+          "relation_group": "人物关联",
+          "evidence": "在这种形势下佛山也产生了不少富商巨贾例如...岗布业的梁日初兄弟",
+          "confidence": 0.92,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": []
+    },
+    "chunk_0084": {
+      "relations": []
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "黎伯廉",
+          "target": "华英学校",
+          "relation_text": "开办",
+          "relation_group": "人物关联",
+          "evidence": "华英学校监督为英人黎伯廉开办",
+          "confidence": 0.98,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "洗星海",
+          "target": "华英学校",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "旧制中学毕业的有五届毕业生中有李国治、黄汝衡、李连枝、洗星海等等",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李连枝",
+          "target": "华英学校",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "旧制中学毕业的有五届毕业生中有李国治、黄汝衡、李连枝、洗星海等等",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李国治",
+          "target": "华英学校",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "旧制中学毕业的有五届毕业生中有李国治、黄汝衡、李连枝、洗星海等等",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "黄汝衡",
+          "target": "华英学校",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "旧制中学毕业的有五届毕业生中有李国治、黄汝衡、李连枝、洗星海等等",
+          "confidence": 0.96,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "李连枝",
+          "target": "华英学校",
+          "relation_text": "撰文追忆",
+          "relation_group": "人物关联",
+          "evidence": "李连枝在华英追忆一文谈到",
+          "confidence": 0.95,
+          "source_file": "佛山文史资料"
+        },
+        {
+          "source": "华英学校",
+          "target": "民国八年",
+          "relation_text": "报告于",
+          "relation_group": "时序归属",
+          "evidence": "据该校民国八年报告建筑费一项已达九万金",
+          "confidence": 0.94,
+          "source_file": "佛山文史资料"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": []
+    },
+    "chunk_0087": {
+      "relations": []
+    },
+    "chunk_0088": {
+      "relations": []
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": []
+    },
+    "chunk_0091": {
+      "relations": []
+    },
+    "chunk_0092": {
+      "relations": []
+    },
+    "chunk_0093": {
+      "relations": []
+    },
+    "chunk_0094": {
+      "relations": []
+    },
+    "chunk_0095": {
+      "relations": []
+    },
+    "chunk_0096": {
+      "relations": []
+    },
+    "chunk_0097": {
+      "relations": []
+    },
+    "chunk_0098": {
+      "relations": []
+    },
+    "chunk_0099": {
+      "relations": []
+    },
+    "chunk_0100": {
+      "relations": []
+    },
+    "chunk_0101": {
+      "relations": []
+    },
+    "chunk_0102": {
+      "relations": []
+    },
+    "chunk_0103": {
+      "relations": []
+    },
+    "chunk_0104": {
+      "relations": []
+    },
+    "chunk_0105": {
+      "relations": []
+    },
+    "chunk_0106": {
+      "relations": []
+    },
+    "chunk_0107": {
+      "relations": []
+    },
+    "chunk_0108": {
+      "relations": []
+    },
+    "chunk_0109": {
+      "relations": []
+    },
+    "chunk_0110": {
+      "relations": []
+    },
+    "chunk_0111": {
+      "relations": []
+    },
+    "chunk_0112": {
+      "relations": []
+    },
+    "chunk_0113": {
+      "relations": []
+    },
+    "chunk_0114": {
+      "relations": []
+    },
+    "chunk_0115": {
+      "relations": []
+    }
+  }
+}

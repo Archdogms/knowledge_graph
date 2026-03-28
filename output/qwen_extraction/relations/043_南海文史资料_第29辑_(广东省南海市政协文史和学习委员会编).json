@@ -1,0 +1,4634 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "南海文史资料",
+          "target": "区梦觉",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "关于历史人物的史料占了 11 篇，其中有女革命家原广东省委书记区梦觉",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "陈芦荻",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有活跃于文坛数十年的诗人陈芦荻",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "铁桥三",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有武术界名人铁桥三、黄飞鸿、林世荣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "黄飞鸿",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有武术界名人铁桥三、黄飞鸿、林世荣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "林世荣",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有武术界名人铁桥三、黄飞鸿、林世荣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "任剑辉",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有粤剧界演员任剑辉、梁醒波等",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "梁醒波",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有粤剧界演员任剑辉、梁醒波等",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海文史资料",
+          "target": "永春拳",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《永春拳源流考》作者罗佐云先生旅居广州，文中对永春拳的名称和创作人，以及永春拳的拳诀作了调查和考证",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "黄飞鸿",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "林世荣小传··· ……·冯植（53）...武术界名人...黄飞鸿、林世荣",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "区梦觉",
+          "target": "松塘村",
+          "relation_text": "乡居于",
+          "relation_group": "空间关联",
+          "evidence": "左边最末的一幢老屋，便是区梦觉的乡居",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "季华小学",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "她幼年就读佛山季华小学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "坤维女子中学",
+          "relation_text": "就读于",
+          "relation_group": "人物关联",
+          "evidence": "及广州坤维女子中学",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "区氏",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "区氏...出过区梦觉、区大典等历史人物",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区大典",
+          "target": "区氏",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "区氏...出过区梦觉、区大典等历史人物",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": []
+    },
+    "chunk_0003": {
+      "relations": []
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "区梦觉",
+          "target": "仙溪排灌站",
+          "relation_text": "帮助建成",
+          "relation_group": "营建创造",
+          "evidence": "她竭力帮助家乡建起了仙溪，沙基、岗三个排灌站",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "沙基排灌站",
+          "relation_text": "帮助建成",
+          "relation_group": "营建创造",
+          "evidence": "她竭力帮助家乡建起了仙溪，沙基、岗三个排灌站",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "岗排灌站",
+          "relation_text": "帮助建成",
+          "relation_group": "营建创造",
+          "evidence": "她竭力帮助家乡建起了仙溪，沙基、岗三个排灌站",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "上金瓯",
+          "relation_text": "倡议修路",
+          "relation_group": "营建创造",
+          "evidence": "在她倡议和发动下，凡天内，修筑起上金瓯至官山公路的雏形",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "区梦觉",
+          "target": "官山",
+          "relation_text": "倡议修路",
+          "relation_group": "营建创造",
+          "evidence": "在她倡议和发动下，凡天内，修筑起上金瓯至官山公路的雏形",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "西樵学堂乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈芦荻，原名陈培迪，系广东省南海市西樵学堂乡人",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《桑野》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有《桑野》、《驰驱集》、《远讯》...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《驰驱集》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有《桑野》、《驰驱集》、《远讯》...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《远讯》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有《桑野》、《驰驱集》、《远讯》...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《旗下高歌》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有...《旗下高歌》、《田园新歌》、《海南颂》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《田园新歌》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有...《旗下高歌》、《田园新歌》、《海南颂》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《海南颂》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有...《旗下高歌》、《田园新歌》、《海南颂》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《芦获诗选》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有...《芦获诗选》、《荻花集》等",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈芦荻",
+          "target": "《荻花集》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "生前出版的诗集主要有...《芦获诗选》、《荻花集》等",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈培淦",
+          "target": "陈芦荻",
+          "relation_text": "是弟",
+          "relation_group": "传承延续",
+          "evidence": "其弟是广州市有名的老中医陈培淦",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": []
+    },
+    "chunk_0006": {
+      "relations": []
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "袁涤非",
+          "target": "远边村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "袁氏兄弟为广东南海县狮山乡远边（后讹为袁边）村人……三子涤非",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "袁涤清",
+          "target": "远边村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "袁氏兄弟为广东南海县狮山乡远边（后讹为袁边）村人……四子涤清",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "远边村",
+          "target": "狮山乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "广东南海县狮山乡远边（后讹为袁边）村人",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "袁涤非",
+          "target": "省港大罢工",
+          "relation_text": "参与",
+          "relation_group": "人物关联",
+          "evidence": "1925 年爆发震动世界的省港大罢工……他激于爱国义愤，概然应允，在省港罢工委员会文书部负责处理来往公文",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈叔举",
+          "target": "袁涤非",
+          "relation_text": "邀请",
+          "relation_group": "人物关联",
+          "evidence": "友人陈叔举恳切地对他说：现在省港罢工委员会需要人处理来往公文，你最合适……你是否愿意屈就？",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "汤耀荣",
+          "target": "南侨机工",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "汤耀荣与许年、朱松胜等人奉命一起开车撤退……后来，南侨机工队伍被解散",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "汤耀荣",
+          "target": "许年",
+          "relation_text": "战友",
+          "relation_group": "人物关联",
+          "evidence": "汤耀荣与许年、朱松胜等人奉命一起开车撤退",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "汤耀荣",
+          "target": "朱松胜",
+          "relation_text": "战友",
+          "relation_group": "人物关联",
+          "evidence": "汤耀荣与许年、朱松胜等人奉命一起开车撤退",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "汤耀荣",
+          "target": "惠通桥",
+          "relation_text": "通过",
+          "relation_group": "人物关联",
+          "evidence": "汤耀荣果断地与战友们火速地通过惠通桥",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "何青山",
+          "target": "金钟岗",
+          "relation_text": "记述",
+          "relation_group": "文献记载",
+          "evidence": "何青山《金钟岗下的雷声》……1944 年 11 月，隶属当年南海县第二区的仙溪村附近的金钟岗下",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "仙溪村",
+          "target": "金钟岗",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "仙溪村附近的金钟岗",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "李文茂",
+          "target": "凤凰仪班",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "李文茂是清道光末年至咸丰初年粤剧凤凰仪班著名打武家",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "红巾军",
+          "relation_text": "率领",
+          "relation_group": "人物关联",
+          "evidence": "李文茂率领红船子弟，响应太平天国革命运动举行武装起义",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "田汉",
+          "target": "李文茂",
+          "relation_text": "评价",
+          "relation_group": "人物关联",
+          "evidence": "这是田汉同志对粤剧艺人李文茂率领红船子弟...举行武装起义的评价",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪秀全",
+          "target": "李文茂",
+          "relation_text": "联络",
+          "relation_group": "人物关联",
+          "evidence": "派密使到广东寻找反清群众组织领导人...先在佛山大基尾琼花会馆找到李文茂",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈金刚",
+          "target": "红巾军",
+          "relation_text": "参与创立",
+          "relation_group": "人物关联",
+          "evidence": "联络得广东天地会领袖陈升，陈金刚等人，密谋起义",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈开",
+          "target": "红巾军",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "以陈开为大元帅...一举攻下佛山镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "红巾军",
+          "target": "佛山镇",
+          "relation_text": "攻占",
+          "relation_group": "社群组织",
+          "evidence": "一举攻下佛山镇",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "李文茂",
+          "relation_text": "寻访地",
+          "relation_group": "空间关联",
+          "evidence": "先在佛山大基尾琼花会馆找到李文茂",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "红船子弟",
+          "target": "佛山镇",
+          "relation_text": "占领",
+          "relation_group": "社群组织",
+          "evidence": "计 1854 年夏至 1855 年春，起义军占领佛山半年之久",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "文虎军",
+          "relation_text": "编建",
+          "relation_group": "人物关联",
+          "evidence": "李文茂便以戏班中的健儿为骨干编建三军，日文虎军",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "猛虎军",
+          "relation_text": "编建",
+          "relation_group": "人物关联",
+          "evidence": "李文茂便以戏班中的健儿为骨干编建三军，...猛虎军",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "飞虎军",
+          "relation_text": "编建",
+          "relation_group": "人物关联",
+          "evidence": "李文茂便以戏班中的健儿为骨干编建三军，...飞虎军",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "红巾军",
+          "target": "粤剧",
+          "relation_text": "源于",
+          "relation_group": "传承延续",
+          "evidence": "后因义军人数激增，戏服不足，便一律以红巾扎头代替冠盔，故称红巾军",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大成国",
+          "target": "秀京",
+          "relation_text": "改名为",
+          "relation_group": "传承延续",
+          "evidence": "建立大成国，改浔州为秀京",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "融县怀远山",
+          "relation_text": "退入",
+          "relation_group": "人物关联",
+          "evidence": "被迫退入融县怀远山中，悲愤吐血而死",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "粤剧",
+          "relation_text": "保持本色",
+          "relation_group": "人物关联",
+          "evidence": "李文茂称王之后，仍保持粤剧艺人本色",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "祖庙",
+          "target": "木雕",
+          "relation_text": "保存有",
+          "relation_group": "空间关联",
+          "evidence": "至今祖庙还保存着清光绪年间的两幅巨型木雕",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "岭西禄舟村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "黄飞鸿在清道光 27 年（1847 年）出生于广东南海县西樵山岭西禄舟村",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "黄麒英",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "十二岁即随父亲在四乡行医...他先后拜林福成和铁桥三...为师",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "林福成",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "他先后拜林福成和铁桥三（梁坤，南海人）为师学南派武功",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "铁桥三",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "他先后拜林福成和铁桥三（梁坤，南海人）为师学南派武功",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "铁线拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "学南派武功，精通铁线拳",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "工字伏虎拳",
+          "relation_text": "自创",
+          "relation_group": "人物关联",
+          "evidence": "壮年后自创工字伏虎拳",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "舞狮",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "尤以舞狮采高青以飞铊摘取堪称一绝",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "宝芝林",
+          "relation_text": "开设",
+          "relation_group": "人物关联",
+          "evidence": "在广州十三行仁安坠开设宝芝林药店",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "黄飞鸿",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "众弟子中以林世荣（南海平洲人）、梁宽的武技最为出类拔萃",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁宽",
+          "target": "黄飞鸿",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "众弟子中以林世荣（南海平洲人）、梁宽的武技最为出类拔萃",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "刘永福",
+          "target": "黄飞鸿",
+          "relation_text": "受治于",
+          "relation_group": "人物关联",
+          "evidence": "著名的黑旗将军刘永福，一次坠马跌伤大腿...群医束手",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "刘永福",
+          "relation_text": "医治",
+          "relation_group": "人物关联",
+          "evidence": "黄飞鸿钦敬刘永福是越南抗法和台湾抗日的大英雄，悉力为他医治，七天内即告痊愈",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "刘永福",
+          "target": "宝芝林",
+          "relation_text": "题赠匾额",
+          "relation_group": "人物关联",
+          "evidence": "刘十分感激，亲书安术精药妙四个大字制成金箔横匾，悬挂在宝芝林的大堂中",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "莫桂兰",
+          "relation_text": "传授武技",
+          "relation_group": "传承延续",
+          "evidence": "黄飞鸿对她甚为痛爱，传授她工字伏虎拳和子母刀等武技",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "宝芝林",
+          "relation_text": "苦心经营",
+          "relation_group": "营建创造",
+          "evidence": "黄飞鸿苦心经营了数十半的仁安里宝芝林",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "邓秀琼",
+          "target": "黄飞鸿",
+          "relation_text": "料理后事",
+          "relation_group": "人物关联",
+          "evidence": "幸弟子邓秀琼为他料理后事，葬于白云山麓",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "莫桂兰",
+          "relation_text": "资助移居",
+          "relation_group": "人物关联",
+          "evidence": "莫桂兰在丈夫的门人林世荣，邓秀琼等资助下，偕黄的两名儿子移居香港",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "莫桂兰",
+          "target": "宝芝林",
+          "relation_text": "续设",
+          "relation_group": "传承延续",
+          "evidence": "移居香港，续设宝芝林药店和武术馆授徒谋生",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "关德兴",
+          "target": "莫桂兰",
+          "relation_text": "特聘顾问",
+          "relation_group": "人物关联",
+          "evidence": "1950 年香港粤剧名家关德兴先生首次拍摄《黄飞鸿》电影时，特聘她担任顾问",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "西樵务本山房",
+          "relation_text": "命名狮队",
+          "relation_group": "社群组织",
+          "evidence": "他开设的武馆醒狮队，前列大旗绣着西樵务本山房六个大字...来命名的",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄飞鸿",
+          "target": "禄舟村",
+          "relation_text": "练武于",
+          "relation_group": "空间关联",
+          "evidence": "现西樵山禄舟村尚遗有黄飞鸿生前在乡练武的石锁和石墩",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "石锁",
+          "target": "禄舟村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "现西樵山禄舟村尚遗有黄飞鸿生前在乡练武的石锁和石墩",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "石墩",
+          "target": "禄舟村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "现西樵山禄舟村尚遗有黄飞鸿生前在乡练武的石锁和石墩",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "黄飞鸿",
+          "target": "禄舟村",
+          "relation_text": "练武于",
+          "relation_group": "人物关联",
+          "evidence": "现西樵山禄舟村尚遗有黄飞鸿生前在乡练武的石锁和石墩各一具",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "禄舟村",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "现西樵山禄舟村尚遗有黄飞鸿生前在乡练武的石锁和石墩各一具",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "梁坤",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "铁桥三原名梁坤",
+          "confidence": 1.0,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁坤",
+          "target": "清嘉庆十八年",
+          "relation_text": "生于",
+          "relation_group": "时序归属",
+          "evidence": "铁桥三原名梁坤，生于清嘉庆十八年（1813）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁坤",
+          "target": "南海县",
+          "relation_text": "籍贯为",
+          "relation_group": "人物关联",
+          "evidence": "铁桥三原名梁坤，生于清嘉庆十八年（1813），南海县人",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁坤",
+          "target": "觉因和尚",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "以后拜洪拳大师、福建莆田少林寺觉因和尚为师",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁坤",
+          "target": "能仁寺",
+          "relation_text": "修行于",
+          "relation_group": "人物关联",
+          "evidence": "梁坤在广州白云山能仁寺带发修行",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "广东十虎",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "广东有十位最出名的武林高手，号称广东十虎，他们是铁桥三",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "洪拳",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "铁桥三是洪拳高手",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "铁线拳",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "铁桥三是洪拳高手，擅长铁线拳",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "铁桥三",
+          "target": "少林",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "讷素知尊驾是少林苗裔",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "净明和尚",
+          "target": "西禅寺",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "广州西禅寺的净明和尚",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "净明和尚",
+          "target": "铁桥三",
+          "relation_text": "邀请",
+          "relation_group": "人物关联",
+          "evidence": "想请尊驾暂时当行脚僧，陪讷出外化缘",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "老尼姑",
+          "target": "尼姑庵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "有一名老尼姑出来，两人始知是尼姑庵",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "老尼姑",
+          "target": "铁桥三",
+          "relation_text": "授艺",
+          "relation_group": "传承延续",
+          "evidence": "老尼姑授艺",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "铁桥三",
+          "target": "铁线拳法",
+          "relation_text": "表演",
+          "relation_group": "人物关联",
+          "evidence": "铁桥三说声放肆，便展开架式，运气使劲，表演他自已最拿手的铁线拳法",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "云深",
+          "target": "尼姑庵",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "老尼说法号云深……尼姑庵晚上十分清静",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "云深",
+          "target": "大雄宝殿",
+          "relation_text": "坐镇于",
+          "relation_group": "人物关联",
+          "evidence": "来到大雄宝殿，看见殿内灯光照耀，云深端坐椅上，观看数名尼姑练武",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "云深",
+          "target": "铁桥三",
+          "relation_text": "称赞为",
+          "relation_group": "人物关联",
+          "evidence": "云深抚着手掌说：尊技功力俱佳，不愧为少林苗裔",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "少林",
+          "relation_text": "被誉为",
+          "relation_group": "人物关联",
+          "evidence": "云深抚着手掌说：尊技功力俱佳，不愧为少林苗裔",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "净明和尚",
+          "target": "尼姑庵",
+          "relation_text": "借宿于",
+          "relation_group": "人物关联",
+          "evidence": "请两人进庵……铁桥三与净明和尚熟睡至深夜",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "云深",
+          "target": "铁桥三",
+          "relation_text": "指导",
+          "relation_group": "传承延续",
+          "evidence": "云深将轶桥三所欠缺之处一一指出，具体辅导",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "少林苗裔",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "尊技功力俱佳，不愧为少林苗裔",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "虎啸",
+          "target": "龙吟",
+          "relation_text": "并列",
+          "relation_group": "文化表征",
+          "evidence": "所欠缺的是虎啸，龙吟两式",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "小尼姑",
+          "target": "虎啸",
+          "relation_text": "掌握",
+          "relation_group": "传承延续",
+          "evidence": "她已经熟悉虎啸、龙吟两式",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "小尼姑",
+          "target": "龙吟",
+          "relation_text": "掌握",
+          "relation_group": "传承延续",
+          "evidence": "她已经熟悉虎啸、龙吟两式",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "老尼姑云深",
+          "target": "铁桥三",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "老讷为你指点迷津……铁桥三再拜受教。以后，铁桥三铭记老尼姑云深的教导",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "林福成",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有林福成",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "施雨良",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……施雨良",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "区珠",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……区珠",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "伍熙官",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……伍熙官",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "孖指添",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……孖指添",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "何蒋臣",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……何蒋臣",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "蔡赞",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "铁桥三晚年以授徒为主，他的徒弟有……蔡赞",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁桥三",
+          "target": "单脚踏沉船",
+          "relation_text": "展示",
+          "relation_group": "人物关联",
+          "evidence": "铁桥三一脚站在码头上，另一脚踏落船头，暗暗发力，只见船头慢慢下沉入水",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "林世荣",
+          "target": "平北西河村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "平洲平北西河村降生一肥头大耳的健壮男婴",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "光绪年间",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "1861 年春，其时是满清光绪年间……平洲平北西河村降生一肥头大耳的健壮男婴",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "行月刀",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "从孩童始便将自已学到的行月刀，流金铛和蝴蝶掌诸法教他",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "流金铛",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "从孩童始便将自已学到的行月刀，流金铛和蝴蝶掌诸法教他",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "蝴蝶掌",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "从孩童始便将自已学到的行月刀，流金铛和蝴蝶掌诸法教他",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "胡金星",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "把世荣交金星授教",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "迥栏桥",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当他经过广州迥栏桥时",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "源记肉店",
+          "target": "迥栏桥",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当他经过广州迥栏桥时，见一间源记肉店",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "世荣",
+          "target": "源记肉店",
+          "relation_text": "入职于",
+          "relation_group": "人物关联",
+          "evidence": "翌日，世荣就离别家人到源记肉店工作了",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "世荣",
+          "target": "龙富记肉店",
+          "relation_text": "租住于",
+          "relation_group": "人物关联",
+          "evidence": "在另一龙富记肉店内租了一间小房和妻居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阿林",
+          "target": "黄飞鸿",
+          "relation_text": "是...之子",
+          "relation_group": "从属分类",
+          "evidence": "其中有拳师黄飞鸿之子阿林",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "阿林",
+          "target": "世荣",
+          "relation_text": "引荐给",
+          "relation_group": "人物关联",
+          "evidence": "于是，叫阿林请世荣到馆会面",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": [
+        {
+          "source": "林世荣",
+          "target": "黄飞鸿",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "是日就苦苦要拜黄飞鸿为师。飞鸿一口答允。于是，一学就是十年，成为黄飞鸿的得意门生。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "龙某",
+          "target": "黄飞鸿武馆",
+          "relation_text": "寻衅于",
+          "relation_group": "人物关联",
+          "evidence": "店主偕其族人龙某寻踪到黄飞鸿武馆前……在门前大吵大闹",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "海幢寺",
+          "relation_text": "游览于",
+          "relation_group": "人物关联",
+          "evidence": "一天，林世荣随师父黄飞鸿游览海幢寺",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "铁头僧",
+          "target": "海幢寺",
+          "relation_text": "驻锡于",
+          "relation_group": "人物关联",
+          "evidence": "海幢寺服铁头僧……其中海幢寺善服铁头僧在广州府已成为佳话",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "铁头僧",
+          "relation_text": "击败",
+          "relation_group": "人物关联",
+          "evidence": "即以虎双形拳的月影手脚式破之，当场将铁头僧打出三尺之外",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "月影手脚式",
+          "target": "虎双形拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "即以虎双形拳的月影手脚式破之",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "生菜会",
+          "target": "南海官窑",
+          "relation_text": "举办于",
+          "relation_group": "空间关联",
+          "evidence": "适值南海官窑庆白衣观音庙诞辰...举行盛大的生茶会活动",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "生菜会",
+          "target": "白衣观音庙",
+          "relation_text": "庆祝诞辰",
+          "relation_group": "社群组织",
+          "evidence": "庆白衣观音庙诞辰，于农历正月廿六日一连三天举行盛大的生茶会活动",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "生菜会",
+          "target": "明代",
+          "relation_text": "起源于",
+          "relation_group": "时序归属",
+          "evidence": "官窑生茶会源于明代",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "生菜会",
+          "target": "清代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "盛于清代",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "生菜会",
+          "target": "舞龙舞狮",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "举行游灯、游神，做大戏、抢花炮及舞龙舞狮等活动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "粤剧",
+          "target": "白衣观音庙",
+          "relation_text": "演出于",
+          "relation_group": "空间关联",
+          "evidence": "白衣观音庙旁边，正在上演粤剧",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "东较场",
+          "target": "清代",
+          "relation_text": "盛行于",
+          "relation_group": "时序归属",
+          "evidence": "清代末年，羊城设立武馆甚多...那时广州府主事",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "林世荣",
+          "target": "洪拳",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "他的洪拳，佛拳打得出神入化",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "佛拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "他的洪拳，佛拳打得出神入化",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "广州东较场",
+          "relation_text": "比武于",
+          "relation_group": "人物关联",
+          "evidence": "于广州东较场 举办一次大型武术竞赛，林世荣也报名参加",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "孙中山",
+          "relation_text": "受称赞于",
+          "relation_group": "人物关联",
+          "evidence": "受到大总 统孙中山先生的称赞",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "乐善戏院",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "面林世荣被西关的乐善戏院所 赏识，他为护卫",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "朱虾",
+          "relation_text": "师徒关系",
+          "relation_group": "传承延续",
+          "evidence": "林世荣徒弟朱虾入乐善戏院看戏时",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "广州孤儿院",
+          "relation_text": "筹款于",
+          "relation_group": "人物关联",
+          "evidence": "他率领徒弟表演武术，为广州孤儿院筹款",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱虾",
+          "target": "乐善戏院",
+          "relation_text": "冲突于",
+          "relation_group": "人物关联",
+          "evidence": "朱虾入乐善戏院看戏时...于是发生口角，继而动武",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李世桂",
+          "target": "乐善戏院",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "新商人接管。一武并李世桂不认识朱虾",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "广州东较场",
+          "target": "清代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "清代末年...于广州东较场 举办一次大型武术竞赛",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "乐善戏院",
+          "target": "光绪",
+          "relation_text": "事件发生于",
+          "relation_group": "时序归属",
+          "evidence": "在满清光绪、宣统年之间...面林世荣被西关的乐善戏院所 赏识",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "乐善戏院",
+          "target": "宣统",
+          "relation_text": "事件发生于",
+          "relation_group": "时序归属",
+          "evidence": "在满清光绪、宣统年之间...面林世荣被西关的乐善戏院所 赏识",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "谭就",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "于是和徒弟谭就二人逃至西苣栏街万和熟药店躲避",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "孔宝发",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "此店是其徒弟孔宝发开设的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李有",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "见到徒弟李有，李惊问何故",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁济川",
+          "target": "林世荣",
+          "relation_text": "姻亲",
+          "relation_group": "人物关联",
+          "evidence": "世柒忆起有姐丈梁济川",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "平洲",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "三日后才抵步家乡平洲",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁济川",
+          "target": "怀集",
+          "relation_text": "旅居于",
+          "relation_group": "人物关联",
+          "evidence": "旅居怀集当盐埠司理",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "林世荣",
+          "target": "虎鹤双形拳",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "林世荣...写下了《伏虎拳》、《铁线拳》和《虎鹤双形拳》等著作",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "伏虎拳",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "林世荣...写下了《伏虎拳》、《铁线拳》和《虎鹤双形拳》等著作",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "铁线拳",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "林世荣...写下了《伏虎拳》、《铁线拳》和《虎鹤双形拳》等著作",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "朱愚斋",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "世荣与徒弟朱愚斋、张士，李世辉等人致力弘扬岭南武术",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张士",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "世荣与徒弟朱愚斋、张士，李世辉等人致力弘扬岭南武术",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李世辉",
+          "target": "林世荣",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "世荣与徒弟朱愚斋、张士，李世辉等人致力弘扬岭南武术",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "猴子偷桃",
+          "target": "虎鹤双形拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "虎鹤双形拳传统古谱...其中第九十九式为猴子偷桃",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林世荣",
+          "target": "竹树坡聚安里八号",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "住在香港竹树坡聚安里八号，仍以开馆授徒为业",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李寿伯",
+          "target": "林世荣",
+          "relation_text": "招待",
+          "relation_group": "人物关联",
+          "evidence": "主事者李寿伯设宴招待世柒",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": [
+        {
+          "source": "任剑辉",
+          "target": "仙凤鸣剧团",
+          "relation_text": "组成",
+          "relation_group": "人物关联",
+          "evidence": "1956 起年任剑辉与白雪仙长期合作，组成仙凤鸣剧团",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "白雪仙",
+          "target": "仙凤鸣剧团",
+          "relation_text": "组成",
+          "relation_group": "人物关联",
+          "evidence": "1956 起年任剑辉与白雪仙长期合作，组成仙凤鸣剧团",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "仙凤鸣剧团",
+          "target": "唐涤生",
+          "relation_text": "聘请",
+          "relation_group": "社群组织",
+          "evidence": "还诚聘当时著名编剧家唐涤生为剧务主任",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "陈宝珠",
+          "relation_text": "收为徒弟",
+          "relation_group": "传承延续",
+          "evidence": "任剑辉亲收的正式徒弟是陈宝珠",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈非侬",
+          "target": "陈宝珠",
+          "relation_text": "父亲是",
+          "relation_group": "人物关联",
+          "evidence": "陈的父母是粤剧名伶陈非侬和宫粉红",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "宫粉红",
+          "target": "陈宝珠",
+          "relation_text": "母亲是",
+          "relation_group": "人物关联",
+          "evidence": "陈的父母是粤剧名伶陈非侬和宫粉红",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "雏凤鸣剧团",
+          "relation_text": "缔造",
+          "relation_group": "人物关联",
+          "evidence": "任还缔造出雏凤鸣剧团",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "龙剑笙",
+          "relation_text": "培养扶植",
+          "relation_group": "传承延续",
+          "evidence": "和培养扶植出一批粤剧的后起之秀。如龙剑笙……都是她的徒弟",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "梅雪诗",
+          "relation_text": "培养扶植",
+          "relation_group": "传承延续",
+          "evidence": "和培养扶植出一批粤剧的后起之秀。如……梅雪诗……都是她的徒弟",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "朱剑丹",
+          "relation_text": "培养扶植",
+          "relation_group": "传承延续",
+          "evidence": "和培养扶植出一批粤剧的后起之秀。如……朱剑丹……都是她的徒弟",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "任剑辉",
+          "target": "言雪芬",
+          "relation_text": "培养扶植",
+          "relation_group": "传承延续",
+          "evidence": "和培养扶植出一批粤剧的后起之秀。如……言雪芬……都是她的徒弟",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "声架悦",
+          "target": "梁醒波",
+          "relation_text": "是之父",
+          "relation_group": "传承延续",
+          "evidence": "他父亲声架悦是粤剧红伶。",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大胆根",
+          "target": "梁醒波",
+          "relation_text": "授艺于",
+          "relation_group": "传承延续",
+          "evidence": "醒波 17 岁即跟随老伶工大胆根学小武行当。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马师曾",
+          "target": "梁醒波",
+          "relation_text": "邀请加盟",
+          "relation_group": "人物关联",
+          "evidence": "1940 年应马之邀，他携妻女赴港，加盟太平剧团。",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "太平剧团",
+          "relation_text": "加盟于",
+          "relation_group": "社群组织",
+          "evidence": "1940 年应马之邀，他携妻女赴港，加盟太平剧团。",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "仙凤鸣粤剧团",
+          "relation_text": "加盟于",
+          "relation_group": "社群组织",
+          "evidence": "五十年代中期，梁醒波加盟仙凤鸣剧团后",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "审死官",
+          "relation_text": "合演过",
+          "relation_group": "人物关联",
+          "evidence": "他与马师曾合演的《审死官》，《苦凤笃伶》等剧",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马师曾",
+          "target": "审死官",
+          "relation_text": "合演过",
+          "relation_group": "人物关联",
+          "evidence": "他与马师曾合演的《审死官》，《苦凤笃伶》等剧",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "苦凤笃伶",
+          "relation_text": "合演过",
+          "relation_group": "人物关联",
+          "evidence": "他与马师曾合演的《审死官》，《苦凤笃伶》等剧",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "马师曾",
+          "target": "苦凤笃伶",
+          "relation_text": "合演过",
+          "relation_group": "人物关联",
+          "evidence": "他与马师曾合演的《审死官》，《苦凤笃伶》等剧",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "霸王别姬",
+          "relation_text": "饰演过",
+          "relation_group": "人物关联",
+          "evidence": "他饰演《霸王别姬》中的楚霸王尤为出色。",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梅兰芳",
+          "target": "梁醒波",
+          "relation_text": "赞誉过",
+          "relation_group": "人物关联",
+          "evidence": "被艺术大师梅兰芳誉为粤剧的金少山",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "再世红梅记",
+          "relation_text": "饰演过",
+          "relation_group": "人物关联",
+          "evidence": "在《再世红梅记》中，他饰演贾似道",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "仙凤鸣粤剧团",
+          "target": "再世红梅记",
+          "relation_text": "演出过",
+          "relation_group": "社群组织",
+          "evidence": "在《再世红梅记》中，他饰演贾似道...这出戏中他更破例开脸饰演奸相",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "白蛇新传",
+          "relation_text": "饰演过",
+          "relation_group": "人物关联",
+          "evidence": "在《白蛇新传》中，他先饰演南极仙翁...后又下凡化身为船夫",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "仙凤鸣粤剧团",
+          "target": "白蛇新传",
+          "relation_text": "演出过",
+          "relation_group": "社群组织",
+          "evidence": "在《白蛇新传》中，他先饰演南极仙翁",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁醒波",
+          "target": "紫钗记",
+          "relation_text": "饰演过",
+          "relation_group": "人物关联",
+          "evidence": "在《紫钗记》中，他人分别饰落魄书生崔允明和好打不平的仗义黄衫客两个角色",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "仙凤鸣粤剧团",
+          "target": "紫钗记",
+          "relation_text": "演出过",
+          "relation_group": "社群组织",
+          "evidence": "在《紫钗记》中，他人分别饰落魄书生崔允明和好打不平的仗义黄衫客两个角色",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "大文教村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "笔者曾走访了武状元姚大宁的家乡一南海市和顺镇大文教村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大文教村",
+          "target": "和顺镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南海市和顺镇大文教村",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚氏族谱",
+          "target": "姚大宁",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "翻阅了姚氏族谱，发现姚氏家族的渊源甚广...第三体系为大文教姚姓世系图",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "湛若水",
+          "target": "姚氏族谱",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "卷首有明代堪若水代为作序",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "魁星踢斗",
+          "relation_text": "凭借",
+          "relation_group": "人物关联",
+          "evidence": "清朝嘉庆年间的姚大宁，凭着一招魁星踢斗夺得武状元",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚满恩",
+          "target": "大文教村",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "在大文教村姚氏第二十三世子孙姚满恩先生的协助下",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "姚泰",
+          "target": "大文教村",
+          "relation_text": "迁居至",
+          "relation_group": "人物关联",
+          "evidence": "增城系九世祖八四郎之子姚泰，迁居南海大文教村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "族谱",
+          "target": "大文教村",
+          "relation_text": "记载世系",
+          "relation_group": "文献记载",
+          "evidence": "族谱记载，大文教姚氏支系的二世祖为·宣公……传到十五世永祥公之后",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "大文教村",
+          "relation_text": "属于支系",
+          "relation_group": "从属分类",
+          "evidence": "民间流传的武状元姚大宁，实是大文教姚氏支系的第十七代子孙",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "嘉庆六年",
+          "relation_text": "中进士于",
+          "relation_group": "时序归属",
+          "evidence": "辛酉，恐科会试中武五十一名进士……推迟到嘉庆六年",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南海县志",
+          "target": "姚大宁",
+          "relation_text": "记载事迹",
+          "relation_group": "文献记载",
+          "evidence": "据南海县志所载：其小状元是由于考试文意写得好并在射箭中九发九中",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "嘉庆皇帝",
+          "target": "旗杆",
+          "relation_text": "亲赐",
+          "relation_group": "营建创造",
+          "evidence": "嘉庆皇帝亲赐旗杆，以作树碑",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "旗杆",
+          "target": "姚氏宗祠",
+          "relation_text": "竖立于",
+          "relation_group": "空间关联",
+          "evidence": "皇帝御赐的旗杆，竖于村东的姚氏宗祠门前",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": [
+        {
+          "source": "姚氏宗祠",
+          "target": "大文教村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "竖于村东的姚氏宗祠门前",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "旗杆夹",
+          "target": "姚氏宗祠",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "姚氏宗祠门前的旗杆夹有两座",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "乾隆皇帝",
+          "target": "旗杆夹",
+          "relation_text": "御赐",
+          "relation_group": "营建创造",
+          "evidence": "一座是姚大宁乡试中举时乾隆皇帝所赐",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "嘉庆皇帝",
+          "target": "旗杆夹",
+          "relation_text": "御赐",
+          "relation_group": "营建创造",
+          "evidence": "另一座是姚大宁殿试中状元时嘉庆皇帝所赐",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "旗杆夹",
+          "target": "姚大宁",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "上面刻有其乡试中武第三十八名举人的镌文...上面也刻有其恩科殿试钦点头名状元的镌文",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "状元府",
+          "target": "大文教村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "状元府则位于大文教村的北面",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "白虎树",
+          "target": "状元府",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "靠近池塘边耸立高大的木棉树和榕树...人们称之为白虎树",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "白虎树",
+          "target": "姚大宁",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "相传，姚大宁小时候放牛...独自躺卧在这棵榕树下睡午觉...隐约卧着一只白虎",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "石牌坊",
+          "target": "状元府",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "府第正门前建有高大的石牌坊",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "圣旨石雕",
+          "target": "石牌坊",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "在刻有百世流芳的大石匾之上，是一块石雕的圣旨",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "神茶",
+          "target": "状元府",
+          "relation_text": "装饰",
+          "relation_group": "文化表征",
+          "evidence": "两扇门上各刻有神茶、郁垒两位高大的门神",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "郁垒",
+          "target": "状元府",
+          "relation_text": "装饰",
+          "relation_group": "文化表征",
+          "evidence": "两扇门上各刻有神茶、郁垒两位高大的门神",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "威镇南疆",
+          "target": "状元府",
+          "relation_text": "题于",
+          "relation_group": "文化表征",
+          "evidence": "门上方，一块黑底金字的横匾，上书威镇南疆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "大文教村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "清代南海大文教村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0052": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "状元府",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "在这充满刀光剑影的武状元府内",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "状元府",
+          "target": "武曲星君",
+          "relation_text": "供奉",
+          "relation_group": "社群组织",
+          "evidence": "大堂正面是灵台，上面供奉着武曲星君的神位",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "檀香木雕",
+          "target": "状元府",
+          "relation_text": "装饰",
+          "relation_group": "营建创造",
+          "evidence": "正中上方用檀香木雕有圣旨字样的竖匾",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚氏族人",
+          "target": "状元坊",
+          "relation_text": "拥有",
+          "relation_group": "从属分类",
+          "evidence": "状元坊原是姚氏族人的作坊",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "状元坊",
+          "target": "道光八年",
+          "relation_text": "重修于",
+          "relation_group": "时序归属",
+          "evidence": "此坊于道光八年（公元 1828 年）作过重修",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "石匾",
+          "target": "状元坊",
+          "relation_text": "见证",
+          "relation_group": "文化表征",
+          "evidence": "现有造存的石匾为证",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "状元坊",
+          "relation_text": "得名于",
+          "relation_group": "人物关联",
+          "evidence": "因此就把这个作坊叫做状元坊",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0053": {
+      "relations": [
+        {
+          "source": "状元坊",
+          "target": "姚大宁",
+          "relation_text": "因得名于",
+          "relation_group": "文化表征",
+          "evidence": "因此就把这个作坊叫做状元坊。对姚大宁的金榜题名",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "姚大宁",
+          "target": "魁星踢斗",
+          "relation_text": "赖以成功",
+          "relation_group": "人物关联",
+          "evidence": "姚大宁赖以成功的一招魁星踢斗破绽很多",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "钟江洪",
+          "target": "姚大宁",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "刚好遇上姚大宁的师父钟江洪",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "钟江洪",
+          "target": "状元坊",
+          "relation_text": "教于",
+          "relation_group": "社群组织",
+          "evidence": "钟江洪在坊内教姚氏的子弟练武",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "钟江洪",
+          "target": "童子拜观音",
+          "relation_text": "展示",
+          "relation_group": "人物关联",
+          "evidence": "再转身来一个童子拜观音之势，无声无息地半跪在瓦面上",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "姚大宁",
+          "target": "清代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "按清代规定，只有皇帝的近卫可穿黄色……由此可以断定，黄色的是姚大宁的官服",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "郑氏",
+          "target": "姚大宁",
+          "relation_text": "配偶为",
+          "relation_group": "人物关联",
+          "evidence": "最后两件，其实是一套女装，很可能是姚大宁夫人郑氏之物",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "永春拳",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "此拳为清代乾隆末年湖南衡山的老僧一尘庵主……所传",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "一尘庵",
+          "relation_text": "搭建",
+          "relation_group": "营建创造",
+          "evidence": "一尘庵主（其在衡山，所搭的草庐，称一尘庵）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "乾隆",
+          "relation_text": "传于",
+          "relation_group": "时序归属",
+          "evidence": "此拳为清代乾隆末年湖南衡山的老僧一尘庵主……所传",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "一尘庵主",
+          "target": "永春拳",
+          "relation_text": "始传",
+          "relation_group": "人物关联",
+          "evidence": "此拳为清代乾隆末年湖南衡山的老僧一尘庵主所传",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "衡山",
+          "relation_text": "搭草庐于",
+          "relation_group": "空间关联",
+          "evidence": "其在衡山，所搭的草庐，称一尘庵",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "张五",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "首先教给湘昆戏班的武生张五",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五",
+          "target": "永春拳",
+          "relation_text": "传入南海",
+          "relation_group": "人物关联",
+          "evidence": "张五来粤传艺，把此拳传于南海县佛山镇大基尾的琼花会馆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五",
+          "target": "琼花会馆",
+          "relation_text": "传艺于",
+          "relation_group": "人物关联",
+          "evidence": "把此拳传于南海县佛山镇大基尾的琼花会馆粤剧界诸弟子",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "佛山镇",
+          "relation_text": "发祥于",
+          "relation_group": "空间关联",
+          "evidence": "故南海县佛山镇，实为永春拳的发祥地",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "佛山镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南海县佛山镇大基尾的琼花会馆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "天地会",
+          "relation_text": "作为",
+          "relation_group": "文化表征",
+          "evidence": "永春拳武技，是反清的天地会党人的一种斗争武技",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "万年清",
+          "target": "洪熙官",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "书中五枚大师、至善禅师、洪熙官、方世玉等虚构人物",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "万年清",
+          "target": "方世玉",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "书中五枚大师、至善禅师、洪熙官、方世玉等虚构人物",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "万年清",
+          "target": "永春拳",
+          "relation_text": "记述",
+          "relation_group": "文献记载",
+          "evidence": "有关到洪拳和永春拳荒诞无稽之事纷纷出笼了",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "永春拳",
+          "target": "二字钳阳马",
+          "relation_text": "以...为特征",
+          "relation_group": "文化表征",
+          "evidence": "永春拳是依照少林的传统技法，拳打卧牛之地，以二字钳阳马...进行习拳和近身搏击为其特征",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李小龙",
+          "target": "叶问",
+          "relation_text": "拜...为师",
+          "relation_group": "传承延续",
+          "evidence": "李小龙，在成名之前，曾遵乃父李海泉之命，在香港拜叶问为师习永春拳",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李海泉",
+          "target": "粤剧",
+          "relation_text": "从事于",
+          "relation_group": "人物关联",
+          "evidence": "李海泉在三四十年代，是粤剧界的武生和丑生",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李海泉",
+          "target": "永春拳",
+          "relation_text": "习练",
+          "relation_group": "人物关联",
+          "evidence": "在戏剧生涯中，亦习永春拳",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "叶问",
+          "target": "佛山镇",
+          "relation_text": "世居于",
+          "relation_group": "空间关联",
+          "evidence": "叶问又名叶继问，世居佛山",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "叶问",
+          "target": "陈华顺",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "乃陈华顺（找钱华）的弟子",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李小龙",
+          "target": "谭腿",
+          "relation_text": "兼习",
+          "relation_group": "人物关联",
+          "evidence": "李小龙除习永春拳外，兼习谭腿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李小龙",
+          "target": "木人桩功",
+          "relation_text": "苦练",
+          "relation_group": "人物关联",
+          "evidence": "留学美国后，亦苦练木人桩功不辍",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "光绪初",
+          "relation_text": "称雄于",
+          "relation_group": "时序归属",
+          "evidence": "光绪初，梁赞即以拳王称雄于佛山武林",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "佛山镇",
+          "relation_text": "称雄于",
+          "relation_group": "空间关联",
+          "evidence": "梁赞即以拳王称雄于佛山武林",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "梁赞",
+          "target": "佛山镇",
+          "relation_text": "称雄于",
+          "relation_group": "人物关联",
+          "evidence": "光绪初，梁赞即以拳王称雄于佛山武林",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "光绪初",
+          "relation_text": "称雄于",
+          "relation_group": "时序归属",
+          "evidence": "光绪初，梁赞即以拳王称雄于佛山武林",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈华顺",
+          "target": "顺德陈村",
+          "relation_text": "原籍为",
+          "relation_group": "人物关联",
+          "evidence": "是陈华顺（顺德陈村镇人）的弟子",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "叶问",
+          "target": "陈华顺",
+          "relation_text": "拜师于",
+          "relation_group": "传承延续",
+          "evidence": "和叶问一块在十三岁时于佛山拜陈为师的",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "陈华顺",
+          "relation_text": "拜师于",
+          "relation_group": "传承延续",
+          "evidence": "是陈华顺（顺德陈村镇人）的弟子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "南海县南庄",
+          "relation_text": "籍贯为",
+          "relation_group": "人物关联",
+          "evidence": "南海县南庄人，是陈华顺（顺德陈村镇人）的弟子",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "彭南",
+          "target": "招就",
+          "relation_text": "改习于",
+          "relation_group": "传承延续",
+          "evidence": "彭老在 30 岁时，向同龄的招就改习永春拳",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "吴仲素",
+          "target": "叶问",
+          "relation_text": "教导过",
+          "relation_group": "传承延续",
+          "evidence": "吴仲素教叶问，使其二人皆终其艺",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "彭南",
+          "target": "佛山镇",
+          "relation_text": "定居于",
+          "relation_group": "人物关联",
+          "evidence": "清代时其先祖来佛山镇定居，已历七代",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "木人桩",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "壁挂长棍等永春拳特有器械",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "叶问",
+          "relation_text": "师兄为",
+          "relation_group": "传承延续",
+          "evidence": "因黎的年纪比叶问大数月，故叶称黎为师兄",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "一尘庵主",
+          "target": "摊手五",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "湖南衡山的一位老和尚叫一尘庵主，在乾隆、嘉庆年闫，传授于湖南昆剧的武生摊手五",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "黄华宝",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "把永春拳传给武生黄华宝（鹤山县古劳圩人）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "梁二娣",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "把永春拳传给...男武旦梁二娣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "大花面锦",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "把永春拳传给...大花面锦",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "黎福孙",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "把永春拳传给...和小生黎福孙（三水县人）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大花面锦",
+          "target": "陆兰宫",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "陆兰官是大花面锦的嫡传弟子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "彭南",
+          "relation_text": "传授给",
+          "relation_group": "传承延续",
+          "evidence": "从此，彭南尽得黎叶衣钵相授",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "南庄",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "黎叶出身富家...他把家在南庄的田亩产业悉数献出",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "乾隆",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "在乾隆、嘉庆年闫，传授于湖南昆剧的武生摊手五",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "嘉庆",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "在乾隆、嘉庆年闫，传授于湖南昆剧的武生摊手五",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大花面锦",
+          "target": "同治",
+          "relation_text": "任职于",
+          "relation_group": "时序归属",
+          "evidence": "同治年中，火花面锦为我舅父陆兰官极力挽留在金竹村专职担任武术教头",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "琼花会馆",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "摊手五后来到佛山，在琼花会馆粤剧乐丰年班担任箱头",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎叶",
+          "target": "木人桩",
+          "relation_text": "演练",
+          "relation_group": "人物关联",
+          "evidence": "黎叶先到浏览大厅，见厅角设置木人桩一具...上前打了一套木人桩拳谱",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "大花面锦",
+          "target": "永春武技",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "大花面锦及其家属定居于金竹村，一心教授陆家子弟永春武技",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄华宝",
+          "target": "梁赞",
+          "relation_text": "收为徒弟",
+          "relation_group": "传承延续",
+          "evidence": "有佛山开中药店的梁赞，拜黄华宝为师",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁二娣",
+          "target": "永春武技",
+          "relation_text": "授徒",
+          "relation_group": "传承延续",
+          "evidence": "授徒之事，遂由梁二娣独力承担...故惟有金心授徒为业",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "仁生堂",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "梁赞当时在佛山万元里（今筷子路）开设仁生堂中药店",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "陈华顺",
+          "relation_text": "收为徒弟",
+          "relation_group": "传承延续",
+          "evidence": "梁赞后来收了找钱华（找赎钱银职业的绰号，即陈华顺）...为徒",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄华宝",
+          "target": "同治年间",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "清同治年间，黄华宝、梁二娣两人，在佛山大基尾收徒授艺",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁二娣",
+          "target": "同治年间",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "清同治年间，黄华宝、梁二娣两人，在佛山大基尾收徒授艺",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "福裕禅师",
+          "target": "河南嵩山少林寺",
+          "relation_text": "住持于",
+          "relation_group": "人物关联",
+          "evidence": "由该寺住持福裕禅师（雪庭上人）定有寺谱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "福裕禅师",
+          "target": "河南嵩山少林寺",
+          "relation_text": "制定寺谱",
+          "relation_group": "营建创造",
+          "evidence": "由该寺住持福裕禅师（雪庭上人）定有寺谱，即《救赐祖庭少林释氏源流五家宗派世 08 谱之碑》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "俞大猷",
+          "target": "正气堂集",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "明代抗倭名将俞大猷著的《正气堂集·新建十方禅院碑》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "正气堂集",
+          "target": "新建十方禅院碑",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "俞大猷著的《正气堂集·新建十方禅院碑》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "俞大猷",
+          "target": "宗擎",
+          "relation_text": "传授剑技",
+          "relation_group": "传承延续",
+          "evidence": "即择其僧年少有勇力者二人，一名宗擎，一名普从，随往南征。三载之问，淳淳示之，皆得其真诀矣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "俞大猷",
+          "target": "普从",
+          "relation_text": "传授剑技",
+          "relation_group": "传承延续",
+          "evidence": "即择其僧年少有勇力者二人，一名宗擎，一名普从，随往南征。三载之问，淳淳示之，皆得其真诀矣",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "宗擎",
+          "target": "河南嵩山少林寺",
+          "relation_text": "隶属于",
+          "relation_group": "从属分类",
+          "evidence": "宗擎是十五代弟子",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "普从",
+          "target": "河南嵩山少林寺",
+          "relation_text": "隶属于",
+          "relation_group": "从属分类",
+          "evidence": "普从是少林第十三代弟子",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一念和尚",
+          "target": "河南嵩山少林寺",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "一念和尚...为少林第二十二传的弟子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "清世宗实录",
+          "target": "一念和尚",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据《清世宗实录》卷 81 第 32 页雍正 7 年 5 月乙丑载：康熙 47 年被捕的一念和尚",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": [
+        {
+          "source": "一尘庵主",
+          "target": "永春拳",
+          "relation_text": "传至",
+          "relation_group": "传承延续",
+          "evidence": "计由一尘庵主至粤剧界武生黄华宝等人，中间隔着摊手五",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "一尘庵主",
+          "target": "南少林寺",
+          "relation_text": "出自",
+          "relation_group": "人物关联",
+          "evidence": "一坐庵主很可能就是南少林寺漏网逃脱的少数武僧之一",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "永春拳",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "教授黄华宝、梁二娣、大花面锦、黎福孙等梨园子弟永春武技的摊手五师傅",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "黄华宝",
+          "relation_text": "教授",
+          "relation_group": "传承延续",
+          "evidence": "教授黄华宝、梁二娣、大花面锦、黎福孙等梨园子弟永春武技",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "梁二娣",
+          "relation_text": "教授",
+          "relation_group": "传承延续",
+          "evidence": "教授黄华宝、梁二娣、大花面锦、黎福孙等梨园子弟永春武技",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "大花面锦",
+          "relation_text": "教授",
+          "relation_group": "传承延续",
+          "evidence": "教授黄华宝、梁二娣、大花面锦、黎福孙等梨园子弟永春武技",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "黎福孙",
+          "relation_text": "教授",
+          "relation_group": "传承延续",
+          "evidence": "教授黄华宝、梁二娣、大花面锦、黎福孙等梨园子弟永春武技",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五",
+          "target": "摊手五",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "摊手五的真实姓名...即粤剧界武打行当所供拳的张五师傅是也",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "粤剧",
+          "target": "张五",
+          "relation_text": "祭祀",
+          "relation_group": "社群组织",
+          "evidence": "粤剧界在清末至新中国成立时止，武打行当的艺人，均有供奉张五师傅并定期祭祀的习俗",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈永华",
+          "target": "天地会",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "天地会是于康熙年初，由郑成功的幕僚陈永华创建于台湾",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "顾坚",
+          "target": "昆剧",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "明人《魏良辅。南词弓证》云是元代末年由顾坚所创的",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "顾坚",
+          "target": "昆山腔",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "明人《魏良辅。南词弓证》云是元代末年由顾坚所创的",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "魏良辅",
+          "target": "昆山腔",
+          "relation_text": "加工提高",
+          "relation_group": "传承延续",
+          "evidence": "明嘉靖年，经魏员辅吸收海盐腔、弋阳腔的音乐，进行加工提高",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "南词弓证",
+          "target": "昆剧",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "明人《魏良辅。南词弓证》云是元代末年由顾坚所创的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "泾林续记",
+          "target": "昆山腔",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "明人周玄晖著的《泾林续记》里，有明太祖朱元璋召见昆山耆老周寿谊，与之谈论昆山腔曲的记载",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "昆剧",
+          "target": "昆山腔",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "有一种昆剧，也叫昆山腔、昆曲",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "昆剧",
+          "target": "粤剧",
+          "relation_text": "影响至深",
+          "relation_group": "传承延续",
+          "evidence": "而粤剧的形成和发展，则受昆剧的影响至深",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "昆剧",
+          "target": "明嘉靖",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "明嘉靖年，经魏员辅吸收海盐腔、弋阳腔的音乐，进行加工提高，昆剧影响逐渐扩大",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "粤剧",
+          "target": "龙舟调",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "粤剧的音乐，包括有掷子、二黄、西皮、粤讴、龙舟调",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "永春拳",
+          "relation_text": "传入",
+          "relation_group": "传承延续",
+          "evidence": "湘昆的摊手五已南来广东...从此，粤剧的武打行当多习永春拳为主",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "乐丰年班",
+          "relation_text": "执教",
+          "relation_group": "人物关联",
+          "evidence": "在粤剧红船的乐丰年班中，担任武技教练之职",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "清代道光",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "在清代道光、咸丰年间，湘昆的摊手五已南来广东",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "清代咸丰",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "在清代道光、咸丰年间，湘昆的摊手五已南来广东",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "摊手五",
+          "relation_text": "奉为祖师",
+          "relation_group": "社群组织",
+          "evidence": "其后被岁有祭祀的供奉为打武家的祖师爷",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大花面",
+          "target": "粤剧",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "粤剧中的大花面一角，也称大面，为传统戏曲角色",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆兰官",
+          "target": "金竹村",
+          "relation_text": "居住于",
+          "relation_group": "空间关联",
+          "evidence": "三水县金竹村豪绅陆兰官",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "彭南",
+          "target": "金竹村",
+          "relation_text": "调查",
+          "relation_group": "人物关联",
+          "evidence": "笔者于 1991 年 4 月 27 日，陪彭南老人...专程前往金竹村作调查访问",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "廷弼陆公祠",
+          "target": "金竹村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在三水县金竹村的廷弼陆公祠小住数月",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆氏大宗祠",
+          "target": "金竹村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "亲见青壮年乡亲点亮大光灯（即汽灯）在陆氏大宗祠的石平台上",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "金竹村",
+          "target": "丹灶镇",
+          "relation_text": "紧邻",
+          "relation_group": "空间关联",
+          "evidence": "三水县金竹村；紧邻笔者家乡南海县丹灶镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "大锅饭",
+          "target": "陆氏大宗祠",
+          "relation_text": "举办于",
+          "relation_group": "社群组织",
+          "evidence": "亲见青壮年乡亲点亮大光灯（即汽灯）在陆氏大宗祠的石平台上，挥刀舞棍的练习技击",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "八斩刀",
+          "target": "金竹村",
+          "relation_text": "流传于",
+          "relation_group": "空间关联",
+          "evidence": "习武的兵器中，对我印象深刻的是带有 S 形护手架的板状短刀...表亲们随口叫出名堂，称八斩刀为劈刀",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "六点半棍",
+          "target": "金竹村",
+          "relation_text": "流传于",
+          "relation_group": "空间关联",
+          "evidence": "以指茶水画着八斩刀和六点半棍的图形，表亲们随口叫出名堂...称六点半棍为单头长棍",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆氏大宗祠",
+          "target": "金竹村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "金竹村是三水县白妮镇的大村...陆氏大宗祠建筑最具规模的美轮美奂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "廷弼陆公祠",
+          "target": "金竹村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "金竹村是三水县白妮镇的大村...次者要算廷弼陆公祠了",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆治华",
+          "target": "金竹村",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "依稀认得 50 年前那位头蓄短发、体格健壮的年青表兄陆治华，现短发如昨，惟已星霜满头的罐然老农",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆铭滔",
+          "target": "金竹村",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "村长陆铭滔闻讯来了，于是，我和彭老，王立泉君等一行就在茶楼里同一班表亲们谈论开来了",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "良登村",
+          "target": "丹灶镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "说是南海丹灶镇良登村人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "八斩刀",
+          "target": "劈刀",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "称八斩刀为劈刀",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "六点半棍",
+          "target": "长棍",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "称六点半棍为单头长棍",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "金竹村",
+          "relation_text": "流传于",
+          "relation_group": "空间关联",
+          "evidence": "自清代至 1949 年底解放时止，本村的男丁青壮年人，学武成风...练的武技以永春拳",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "木人桩",
+          "target": "陆氏大宗祠",
+          "relation_text": "原设于",
+          "relation_group": "空间关联",
+          "evidence": "祠内还设有木人桩多具",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "长棍",
+          "target": "陆氏大宗祠",
+          "relation_text": "展演于",
+          "relation_group": "空间关联",
+          "evidence": "金竹村的子弟，必聚集在陆氏大宗祠石平台上，轮番上场展演身手",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "劈刀",
+          "target": "陆氏大宗祠",
+          "relation_text": "展演于",
+          "relation_group": "空间关联",
+          "evidence": "金竹村的子弟，必聚集在陆氏大宗祠石平台上，轮番上场展演身手",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "大花面锦",
+          "target": "陆氏大宗祠",
+          "relation_text": "配享于",
+          "relation_group": "社群组织",
+          "evidence": "断定大花面锦是姓陆名锦...是以其死后得以配享于宗庙",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆门公氏安人",
+          "target": "陆氏大宗祠",
+          "relation_text": "入祀于",
+          "relation_group": "社群组织",
+          "evidence": "外姓人入祀陆氏宗祠者，仅限于祖先的配偶，例如：陆门公氏安人之类",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "族谱",
+          "target": "陆门公氏安人",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "宗族本谱记载亦然...外姓人入祀陆氏宗祠者，仅限于祖先的配偶",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "清代",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "自清代至 1949 年底解放时止，本村的男丁青壮年人，学武成风",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二花脸",
+          "target": "咸丰四年",
+          "relation_text": "活动于",
+          "relation_group": "时序归属",
+          "evidence": "清代咸丰四年（1854 年），粤剧伶人二花脸",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": [
+        {
+          "source": "天地会",
+          "target": "清代康熙年初",
+          "relation_text": "创立于",
+          "relation_group": "时序归属",
+          "evidence": "它创立于清代康熙年初",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "红市军",
+          "relation_text": "率领",
+          "relation_group": "人物关联",
+          "evidence": "李文茂...与另一位首领陈开，分别在佛山镇和广州北郊三元里，率领红市军",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈开",
+          "target": "红市军",
+          "relation_text": "率领",
+          "relation_group": "人物关联",
+          "evidence": "与另一位首领陈开，分别在佛山镇和广州北郊三元里，率领红市军",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "佛山镇",
+          "relation_text": "起义于",
+          "relation_group": "人物关联",
+          "evidence": "分别在佛山镇和广州北郊三元里，率领红市军响应太平天国革命举行反清武装起义",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈开",
+          "target": "三元里",
+          "relation_text": "起义于",
+          "relation_group": "人物关联",
+          "evidence": "分别在佛山镇和广州北郊三元里，率领红市军响应太平天国革命举行反清武装起义",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "大成国",
+          "relation_text": "建立",
+          "relation_group": "人物关联",
+          "evidence": "主力则由李文茂、陈开率领，转战入广西，攻克浔州（今桂平），建大成国号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈开",
+          "target": "大成国",
+          "relation_text": "建立",
+          "relation_group": "人物关联",
+          "evidence": "主力则由李文茂、陈开率领，转战入广西，攻克浔州（今桂平），建大成国号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄华宝",
+          "target": "永春拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "黄华宝、梁二娣、陆锦、黎福孙四人...彼此又是精通武技",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁二娣",
+          "target": "永春拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "黄华宝、梁二娣、陆锦、黎福孙四人...彼此又是精通武技",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆锦",
+          "target": "永春拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "黄华宝、梁二娣、陆锦、黎福孙四人...彼此又是精通武技",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎福孙",
+          "target": "永春拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "黄华宝、梁二娣、陆锦、黎福孙四人...彼此又是精通武技",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "张五",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "李文茂也不可能不是永春门张五师傅的门下弟子",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五",
+          "target": "红市军",
+          "relation_text": "策动",
+          "relation_group": "人物关联",
+          "evidence": "张五亦不可能不是天地会党人、红市军在武装起义前的宣传者和策动组织者",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《南洋华侨通史》",
+          "target": "天地会",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "关于大地会的起源，据温飞雄先生撰的《南洋华侨通史》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "红市军",
+          "target": "清代咸丰四年",
+          "relation_text": "兴起于",
+          "relation_group": "时序归属",
+          "evidence": "清代咸丰四年（1854 年）...率领红市军响应太平天国革命举行反清武装起义",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0067": {
+      "relations": [
+        {
+          "source": "陈永华",
+          "target": "天地会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "陈永华尤为苦心孤诣，矢志光复……乃创立秘密团体天地会于台湾",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈永华",
+          "target": "陈近南",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "其香主陈近南者，即陈永华之自托也",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "天地会",
+          "target": "反清复明",
+          "relation_text": "传播",
+          "relation_group": "文化表征",
+          "evidence": "四海传播反清复明思想",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "天地会",
+          "target": "康熙十三年",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "天地会其第次拜会结盟，为康熙甲寅年（康熙十三年·1674 年）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪门",
+          "target": "天地会",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "洪门（即天地会，三合会）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "三合会",
+          "target": "天地会",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "又称洪门、三合会",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《南洋华侨通史》",
+          "target": "天地会",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据温飞雄先生撰的《南洋华侨通史》第十四章里云……创立秘密团体天地会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《洪门传说索隐》",
+          "target": "洪门",
+          "relation_text": "考证",
+          "relation_group": "文献记载",
+          "evidence": "唐豪先生著的《洪门传说索隐》亦云：洪门……的创造年代",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《清稗类沙》",
+          "target": "洪门",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "主康熙十三年甲寅的，为徐珂《清稗类沙》",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《中国秘密社会史》",
+          "target": "洪门",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "平山舟的《中国秘密社会史》……主康熙十三年甲寅",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "郑成功",
+          "target": "天地会",
+          "relation_text": "孕育",
+          "relation_group": "人物关联",
+          "evidence": "天地会者酝酿于永历帝及郑成功既死之后",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0068": {
+      "relations": [
+        {
+          "source": "洪门",
+          "target": "康熙十三年",
+          "relation_text": "创立于",
+          "relation_group": "时序归属",
+          "evidence": "故认康熙十三年甲寅创立洪门一说为正确",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈开",
+          "target": "天地会",
+          "relation_text": "领导起义",
+          "relation_group": "人物关联",
+          "evidence": "广东天地会陈开、李文茂的武装起义",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "天地会",
+          "relation_text": "领导起义",
+          "relation_group": "人物关联",
+          "evidence": "广东天地会陈开、李文茂的武装起义",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林爽文",
+          "target": "台湾彰化",
+          "relation_text": "起义于",
+          "relation_group": "人物关联",
+          "evidence": "林爽文在乾隆五十二年于台湾彰化起义",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "林爽文",
+          "target": "乾隆五十二年",
+          "relation_text": "起义于",
+          "relation_group": "时序归属",
+          "evidence": "林爽文在乾隆五十二年于台湾彰化起义",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "圣武记",
+          "target": "林爽文",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "清人《魏源·圣武记》有云：林爽文者，居彰化之大理",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "天地会起源考",
+          "target": "大清律例",
+          "relation_text": "引用",
+          "relation_group": "文献记载",
+          "evidence": "《萧一山·天地会起源考》：...事见嘉庆十五年《大清律例》",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪秀全",
+          "target": "天地会",
+          "relation_text": "结拜设立",
+          "relation_group": "人物关联",
+          "evidence": "结拜设立天地会名目",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪秀全",
+          "target": "金田村",
+          "relation_text": "起义于",
+          "relation_group": "人物关联",
+          "evidence": "洪秀全在广西金田村太平天国起义之前",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪火全口供",
+          "target": "洪秀全",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "北平故官文献馆所藏《洪火全口供》云：数年前，游方到广东，遂与花县人洪秀全",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪大全",
+          "target": "乌兰泰",
+          "relation_text": "被俘于",
+          "relation_group": "人物关联",
+          "evidence": "洪大企被清军将领乌兰泰俘虏",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "锄经书舍零墨",
+          "target": "洪大全",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "清人黄协著的《锄经书舍零墨》有载：洪大全，湖南人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "太平天国",
+          "target": "广西永安",
+          "relation_text": "活动于",
+          "relation_group": "空间关联",
+          "evidence": "太平军挥师东进，在广西永安（今蒙山县）被清廷重兵包围",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "洪拳",
+          "target": "清代",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "广东的洪拳，当今中国武术界一致认为，是清代民间会党洪门会（含天地会、三合会）党人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪拳",
+          "target": "洪门会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "是清代民间会党洪门会（含天地会、三合会）党人，以反清复明假托",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "天地会",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "勿宁说是天地会（含三合会，洪门会）所创最恰当",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "三合会",
+          "relation_text": "象征",
+          "relation_group": "文化表征",
+          "evidence": "是以一提起永春拳，就知对方是三合会党人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪拳",
+          "target": "洪门会",
+          "relation_text": "象征",
+          "relation_group": "文化表征",
+          "evidence": "一如提到洪拳就明白讲的是洪门会人一样",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪大全",
+          "target": "天地会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "洪大全是湖南省天地会的首领",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五",
+          "target": "天地会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "张五与之同属湖南人，可隐约看出两人彼此间存在天地会组织的某种关系",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "三合会",
+          "target": "天地会",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "这具体说明三合会和洪门会，亦即天地会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪门会",
+          "target": "天地会",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "这具体说明三合会和洪门会，亦即天地会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《天地会起源考·史料》",
+          "target": "《会香诗》",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "萧一山的《天地会起源考·史料》卷五中，引述现存英国伦敦大不列颠博物馆所藏的《会香诗》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《近代秘密社会·史料》",
+          "target": "郭英娇",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "从《萧一山·近代秘密社会·史料》中引述一首洪门诗歌...中途幸遇郭英娇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《会香诗》",
+          "target": "三合会",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "用小说《三国演义》里刘备、关羽、张飞三人的桃圆结义故事，借喻为结拜的三合",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "《饮血诗》",
+          "target": "洪门会",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "另一首《饮血诗》亦云：此夕会盟天下合，四海招集尽姓洪",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "天地会",
+          "target": "道光",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "清代道光、咸丰年间，广东的天地会在下层人民中组织",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "天地会",
+          "target": "咸丰",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "清代道光、咸丰年间，广东的天地会在下层人民中组织",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": [
+        {
+          "source": "李文茂",
+          "target": "天地会",
+          "relation_text": "担任首领",
+          "relation_group": "人物关联",
+          "evidence": "李文茂是天地会首领之一，又是粤剧演员",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "粤剧",
+          "relation_text": "参演并发展组织",
+          "relation_group": "人物关联",
+          "evidence": "李文茂...又是粤剧演员，在粤剧界里发展天地会组织",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "琼花会馆",
+          "target": "佛山镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "设在佛山镇大基尾粤剧艺人同业组织的琼花会馆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄华宝",
+          "target": "永春武技",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "广东天地会首领李文茂和粤剧演员黄华宝...都是精通永春武技的同行艺人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁二娣",
+          "target": "永春武技",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "粤剧演员黄华宝、梁二娣...都是精通永春武技的同行艺人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陆锦",
+          "target": "永春武技",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "粤剧演员...陆锦、黎福孙，都是精通永春武技的同行艺人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黎福孙",
+          "target": "永春武技",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "粤剧演员...陆锦、黎福孙，都是精通永春武技的同行艺人",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "摊手五",
+          "target": "永春武技",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "摊手五张五师傅...传授永春武技给粤剧梨园子弟",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "邝殿卿",
+          "target": "八和会馆",
+          "relation_text": "重建",
+          "relation_group": "营建创造",
+          "evidence": "邝殿卿后来在广州的西关，重建同业组织，改名为八和会馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "邝殿卿",
+          "target": "粤剧",
+          "relation_text": "争取解禁",
+          "relation_group": "人物关联",
+          "evidence": "由粤剧演员邝殿卿...多次向两广总督衙门据理力争，才获准解禁的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "八和会馆",
+          "target": "琼花会馆",
+          "relation_text": "取代",
+          "relation_group": "传承延续",
+          "evidence": "重建同业组织，改名为八和会馆，取代原琼花会馆",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春武技",
+          "target": "三合会",
+          "relation_text": "作为斗争手段",
+          "relation_group": "文化表征",
+          "evidence": "永春武技，实为三合会人组织群众反清的斗争手段",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "三合会",
+          "target": "天地会",
+          "relation_text": "属于支派",
+          "relation_group": "从属分类",
+          "evidence": "三合会，洪门会）各地的支派",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "洪门会",
+          "target": "天地会",
+          "relation_text": "属于支派",
+          "relation_group": "从属分类",
+          "evidence": "天地会（含三合会，洪门会）各地的支派",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0071": {
+      "relations": [
+        {
+          "source": "永春拳",
+          "target": "小练头拳谱",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "永春全部武技，计有小练头拳谱、寻桥拳谱、标指拳谱和木人桩拳谱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "寻桥拳谱",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "永春全部武技，计有小练头拳谱、寻桥拳谱、标指拳谱和木人桩拳谱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "标指拳谱",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "永春全部武技，计有小练头拳谱、寻桥拳谱、标指拳谱和木人桩拳谱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "木人桩拳谱",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "永春全部武技，计有小练头拳谱、寻桥拳谱、标指拳谱和木人桩拳谱",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "六点半棍",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "器械套路，则有六点半棍和八斩刀两种",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳",
+          "target": "八斩刀",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "器械套路，则有六点半棍和八斩刀两种",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈华顺",
+          "target": "永春拳",
+          "relation_text": "宗师",
+          "relation_group": "人物关联",
+          "evidence": "自永春门宗师陈华顺、梁璧之后",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁璧",
+          "target": "永春拳",
+          "relation_text": "宗师",
+          "relation_group": "人物关联",
+          "evidence": "自永春门宗师陈华顺、梁璧之后",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "彭南",
+          "target": "永春拳",
+          "relation_text": "公开示范",
+          "relation_group": "人物关联",
+          "evidence": "彭南老人计划把永春武技，毫无保留地全部公开示范和系统出版",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "小练头拳谱",
+          "target": "永春拳",
+          "relation_text": "入门基础",
+          "relation_group": "文化表征",
+          "evidence": "小练头，是永春拳初学入门的基础功",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "小念头",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "如果说，小练头是习永春拳初学入门的基础功，则小念头是 修练阴柔深藏不露的最高级的武功。",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "寻桥",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "思考着经 溶汇了的寻桥、标指、和木人桩的套路",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "标指",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "思考着经 溶汇了的寻桥、标指、和木人桩的套路",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "木人桩",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "思考着经 溶汇了的寻桥、标指、和木人桩的套路",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "永春拳",
+          "relation_text": "精通",
+          "relation_group": "人物关联",
+          "evidence": "纵观永春门历代如梁赞先生等宗师，在小念头达到炉火纯青 的境界后",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "二字钳阳马",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "永春拳的马步、共有二字钳阳马和双弓钳阳马两 种。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "双弓钳阳马",
+          "target": "永春拳",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "永春拳的马步、共有二字钳阳马和双弓钳阳马两 种。",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "一尘祖师",
+          "target": "永春拳诀",
+          "relation_text": "创作",
+          "relation_group": "营建创造",
+          "evidence": "是一尘祖师和张五祖师将各家拳技之长浓缩而成的心血结晶",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "张五祖师",
+          "target": "永春拳诀",
+          "relation_text": "创作",
+          "relation_group": "营建创造",
+          "evidence": "是一尘祖师和张五祖师将各家拳技之长浓缩而成的心血结晶",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "钳阳马",
+          "relation_text": "传授",
+          "relation_group": "传承延续",
+          "evidence": "按照梁赞宗师所传的正确方法是……即为二字钳阳马",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "永春拳诀",
+          "target": "耕拦摊膀",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "手法：耕拦摊膀，（音雌）摸荡授（音猎）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "小练头",
+          "target": "钳阳马",
+          "relation_text": "流传",
+          "relation_group": "传承延续",
+          "evidence": "仅在初级套路的小练头中，流传于世的即有上述错误之处",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "彭南",
+          "target": "永春拳",
+          "relation_text": "整理恢复",
+          "relation_group": "传承延续",
+          "evidence": "笔者有幸辱承南海，三水县的乡亲和彭南老人的厚托...终于理清百多年来永春拳的历史脉络及其纵横的关系，恢复了其本来的面目",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "李文茂",
+          "target": "梁赞",
+          "relation_text": "师承于",
+          "relation_group": "传承延续",
+          "evidence": "永春拳世系师承表...一李文茂...黄华宝—梁赞",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "梁赞",
+          "target": "叶问",
+          "relation_text": "传至",
+          "relation_group": "传承延续",
+          "evidence": "永春拳世系师承表...梁赞...叶问",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "黄鹤鸣",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：黄鹤鸣、杜凤书（杜玉兴）...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "杜凤书",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：黄鹤鸣、杜凤书（杜玉兴）...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "余东雄",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：黄鹤鸣、杜凤书（杜玉兴）、余东雄...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "周华",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：...余东雄，周华、陈春...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "陈春",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：...周华、陈春，游寿、罗坤",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "游寿",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：...陈春，游寿、罗坤",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "罗坤",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第一碑者七人：...游寿、罗坤",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "罗进",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：罗进、罗干、罗联...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "罗干",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：罗进、罗干、罗联...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "罗联",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：...罗干、罗联、罗遇坤...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "罗遇坤",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：...罗联、罗遇坤（罗裕坤）...",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "陈才",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：...罗遇坤（罗裕坤）、陈才、陈福",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄花岗七十二烈士墓",
+          "target": "陈福",
+          "relation_text": "刻有",
+          "relation_group": "文献记载",
+          "evidence": "刻在第二碑者六人：...陈才、陈福",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄鹤鸣",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...黄鹤鸣",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...杜凤书",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "余东雄",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...余东雄",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "周华",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...周华",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈春",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...陈春",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "游寿",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...游寿",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗坤",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...罗坤",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗进",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...罗进",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗干",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...罗干",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗联",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...罗联",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗遇坤",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...罗遇坤",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈才",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...陈才",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "陈福",
+          "target": "黄花岗起义",
+          "relation_text": "殉难于",
+          "relation_group": "人物关联",
+          "evidence": "黄花岗起义殉难烈士...其中南海籍烈士十三人...陈福",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "黄鹤鸣",
+          "target": "黄花岗起义",
+          "relation_text": "参加",
+          "relation_group": "人物关联",
+          "evidence": "后中星加坡乘轮回国，参加广州起义工作、不幸战死在督署附近",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄鹤鸣",
+          "target": "同盟会",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "立志加人同盟会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄鹤鸣",
+          "target": "增步制造局",
+          "relation_text": "做工于",
+          "relation_group": "人物关联",
+          "evidence": "黄鹤鸿烈士是一位机器工人他在增步制造局做工",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "黄鹤鸣",
+          "relation_text": "由...介绍加入",
+          "relation_group": "传承延续",
+          "evidence": "杜风书烈上山黄鹤鸣介绍加 A 同盟会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "同盟会",
+          "relation_text": "加入",
+          "relation_group": "人物关联",
+          "evidence": "杜风书烈上山黄鹤鸣介绍加 A 同盟会",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "陆皓东",
+          "relation_text": "仰慕",
+          "relation_group": "人物关联",
+          "evidence": "参加组织是由于仰墓陆皓东史坚如，吴樾、徐，秋董的壮烈行动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "史坚如",
+          "relation_text": "仰慕",
+          "relation_group": "人物关联",
+          "evidence": "参加组织是由于仰墓陆皓东史坚如，吴樾、徐，秋董的壮烈行动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "吴樾",
+          "relation_text": "仰慕",
+          "relation_group": "人物关联",
+          "evidence": "参加组织是由于仰墓陆皓东史坚如，吴樾、徐，秋董的壮烈行动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "徐锡麟",
+          "relation_text": "仰慕",
+          "relation_group": "人物关联",
+          "evidence": "参加组织是由于仰墓陆皓东史坚如，吴樾、徐，秋董的壮烈行动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "杜凤书",
+          "target": "秋瑾",
+          "relation_text": "仰慕",
+          "relation_group": "人物关联",
+          "evidence": "参加组织是由于仰墓陆皓东史坚如，吴樾、徐，秋董的壮烈行动",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "游寿",
+          "target": "丹灶西城村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "游寿烈士是丹灶西城村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "黄增辉",
+          "target": "黄鹤鸣",
+          "relation_text": "是...之子",
+          "relation_group": "人物关联",
+          "evidence": "采访了黄鹤鸣烈士的儿子黄增辉先生",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "罗锦初",
+          "target": "罗遇坤",
+          "relation_text": "是...之孙",
+          "relation_group": "人物关联",
+          "evidence": "罗遇坤烈士的孙子罗锦初先生",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        },
+        {
+          "source": "赵立人",
+          "target": "黄花岗起义",
+          "relation_text": "著述关于",
+          "relation_group": "人物关联",
+          "evidence": "赵立人撰写的《三·二九广州起义中的南海籍华侨烈士》一文",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第29辑_(广东省南海市政协文史和学习委员会编)"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": []
+    }
+  }
+}

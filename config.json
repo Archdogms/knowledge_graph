@@ -1,0 +1,10 @@
+{
+  "dashscope_api_key": "sk-132d9016f2c24777af2771af2a835455",
+  "api_key": "sk-132d9016f2c24777af2771af2a835455",
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "qwen_model": "qwen3.5-plus",
+  "chunk_size": 800,
+  "max_threads":20,
+  "max_retries": 5,
+  "retry_delay": 2
+}

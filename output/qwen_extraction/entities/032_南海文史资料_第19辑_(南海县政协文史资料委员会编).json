@@ -1,0 +1,2424 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "entities": [],
+      "chunk_text_hash": "b146b851"
+    },
+    "chunk_0001": {
+      "entities": [],
+      "chunk_text_hash": "bcc2145f"
+    },
+    "chunk_0002": {
+      "entities": [],
+      "chunk_text_hash": "8ce0fd74"
+    },
+    "chunk_0003": {
+      "entities": [],
+      "chunk_text_hash": "7bed745f"
+    },
+    "chunk_0004": {
+      "entities": [],
+      "chunk_text_hash": "5538fa02"
+    },
+    "chunk_0005": {
+      "entities": [],
+      "chunk_text_hash": "4af631cd"
+    },
+    "chunk_0006": {
+      "entities": [],
+      "chunk_text_hash": "87c18c99"
+    },
+    "chunk_0007": {
+      "entities": [],
+      "chunk_text_hash": "e1dc8635"
+    },
+    "chunk_0008": {
+      "entities": [],
+      "chunk_text_hash": "a516d9da"
+    },
+    "chunk_0009": {
+      "entities": [],
+      "chunk_text_hash": "dc921c00"
+    },
+    "chunk_0010": {
+      "entities": [],
+      "chunk_text_hash": "0a57f04a"
+    },
+    "chunk_0011": {
+      "entities": [],
+      "chunk_text_hash": "f8abec0e"
+    },
+    "chunk_0012": {
+      "entities": [],
+      "chunk_text_hash": "7ac07b14"
+    },
+    "chunk_0013": {
+      "entities": [],
+      "chunk_text_hash": "28872c6a"
+    },
+    "chunk_0014": {
+      "entities": [],
+      "chunk_text_hash": "ca1cfcfe"
+    },
+    "chunk_0015": {
+      "entities": [],
+      "chunk_text_hash": "700640d5"
+    },
+    "chunk_0016": {
+      "entities": [],
+      "chunk_text_hash": "a8276f49"
+    },
+    "chunk_0017": {
+      "entities": [],
+      "chunk_text_hash": "e819d232"
+    },
+    "chunk_0018": {
+      "entities": [],
+      "chunk_text_hash": "ce45ae0d"
+    },
+    "chunk_0019": {
+      "entities": [],
+      "chunk_text_hash": "83822843"
+    },
+    "chunk_0020": {
+      "entities": [],
+      "chunk_text_hash": "cc32dd83"
+    },
+    "chunk_0021": {
+      "entities": [],
+      "chunk_text_hash": "8f37f7fe"
+    },
+    "chunk_0022": {
+      "entities": [
+        {
+          "name": "官窑",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文中提及工作队到达及秧歌队表演的地点，南海历史悠久的古镇",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "明德小学校",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "土改工作队入住并进行学习的具体场所",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "华北师范大学",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及派出教师支援土改的高等教育机构，代表知识分子群体",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "卜占亚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "一九五二年期间担任南海县委书记的师政治部主任",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "夏作先",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中记载的南海县委委员、民运科长",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "群岗乡小江村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "土改期间部队工作队集中整训的具体村落",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "秧歌队",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A1 表演艺术类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统舞蹈",
+          "description": "春节时在官窑街上表演的具有浓郁陕北民间特色的文艺队伍",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "齐文远",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中描述的秧歌队中化装诙谐、引起群众大笑的大胖子同志",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "45f76a61"
+    },
+    "chunk_0023": {
+      "entities": [
+        {
+          "name": "罗登贤",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "1905 年生于南海县南庄镇紫洞隔巷村，中国工人运动著名领袖、东北人民抗日斗争主要发动者和领导者",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "紫洞隔巷村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "位于南海县南庄镇，罗登贤烈士的出生地",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南庄镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "南海县下辖镇，罗登贤故乡所在地",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "香港英国皇家太古船厂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "罗登贤曾在此当学徒并参与罢工斗争的历史场所",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "海员大罢工",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1922 年初在香港爆发，罗登贤带领工人参与的著名罢工事件",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "抗美援朝",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "135 师离开南海奔赴的前线战场历史事件",
+          "confidence": 0.91,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "土改",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本提及的南海县开展的 земельная реформа（土地改革）第二阶段工作",
+          "confidence": 0.82,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "d02cccd6"
+    },
+    "chunk_0024": {
+      "entities": [],
+      "chunk_text_hash": "8dcaef32"
+    },
+    "chunk_0025": {
+      "entities": [],
+      "chunk_text_hash": "848d9dd4"
+    },
+    "chunk_0026": {
+      "entities": [],
+      "chunk_text_hash": "82ddb489"
+    },
+    "chunk_0027": {
+      "entities": [],
+      "chunk_text_hash": "2ad15d63"
+    },
+    "chunk_0028": {
+      "entities": [
+        {
+          "name": "张云峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "原名张铭书，1900 年出生于南海县松岗镇显纲村，早期工人运动领导人之一，革命烈士",
+          "confidence": 0.98,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "《绝笔书》",
+          "ai_grade_label": "E 文献记忆体系",
+          "ai_grade_type": "E5 口述史与地方记忆材料",
+          "official_label": "非物质文化遗产",
+          "official_type": "民间文学",
+          "description": "革命烈士张云峰牺牲前写下的手迹文献，收录于本刊第十八辑",
+          "confidence": 0.92,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢应湘",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "曾撰写关于张云峰烈士短文的同志",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "松岗镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "广东省南海县下辖镇，张云峰烈士出生地所在区域",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "显纲村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "位于松岗镇的古村落，张云峰烈士的故乡",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "张权冲",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "张云峰之父，在显纲村开设咸杂小店的贫苦农民",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名城",
+          "description": "南海县古镇，1923 年底至 1924 年初工人运动兴起之地",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁复然",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，对张云峰进行教育和影响的革命先驱",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "王寒迟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，参与教育和影响张云峰的革命者",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁桂华",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，张云峰在工人运动中的引路人之一",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "钱维方",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，曾教育和影响张云峰",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "1919e2c4"
+    },
+    "chunk_0029": {
+      "entities": [
+        {
+          "name": "大魁堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于佛山祖庙左侧，原为封建势力议事决策机构，1925 年春成为佛山工人代表大会会址",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "显纲村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "张云峰家乡，1925 年组织农民协会，1927 年中共南海县委机关所在地，南海县农民运动活动中心",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "张云峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，曾任佛山工人代表大会执行委员、秘书及工农商学联合会书记，领导当地工农运动",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁复然",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，对张云峰进行教育和影响的关键人物",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "王寒迟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，参与教育影响张云峰的思想觉悟提升",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁桂华",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，参与教育影响张云峰的思想觉悟提升",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "钱维方",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，参与教育影响张云峰的思想觉悟提升",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁新枝",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，1927 年四一五反革命叛变后与张云峰等人转移的革命骨干",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈应刚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，1927 年四一五反革命叛变后与张云峰等人转移的革命骨干",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁敬熙",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，1927 年四一五反革命叛变后与张云峰等人转移的革命骨干",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "佛山工人代装会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1925 年春正式成立的工人组织，张云峰当选执行委员并担任秘书",
+          "confidence": 0.88,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "工农商学联合会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "佛山成立的联合组织，张云峰被选为书记",
+          "confidence": 0.87,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "中共南海县委",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "1927 年成立，机关设在显纲村",
+          "confidence": 0.89,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "88a8131d"
+    },
+    "chunk_0030": {
+      "entities": [],
+      "chunk_text_hash": "9979b9f8"
+    },
+    "chunk_0031": {
+      "entities": [
+        {
+          "name": "张云峰",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "共产党员，留下绝笔书，表现出视死如归的壮烈气概",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢伦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "字兆才，南海县大沥镇铁村人，农会骨干，革命烈士",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "铁村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B4 古遗址与生产遗存类",
+          "official_label": "不可移动文物",
+          "official_type": "古文化遗址",
+          "description": "南海县农村第一个党小组建立地，大革命时期最早成立农民协会的村庄之一",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥镇",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "谢伦烈士的家乡所在地，位于广东省南海县",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "周侠生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "佛山武术师，1924 年受聘到铁村武馆授艺",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁复燃",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东早期共产党员，第一届农民运动讲习所毕业生",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "武馆",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "1924 年铁村农民为自卫防身在村中开设的武术传授场所",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "农民协会",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "大革命时期在铁村成立的早期农民组织",
+          "confidence": 0.85,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "新军",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "辛亥革命前孙中山先生组织的革命军队，谢伦曾参加",
+          "confidence": 0.84,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "bd605da0"
+    },
+    "chunk_0032": {
+      "entities": [
+        {
+          "name": "周侠生",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C2 非遗传承人及技艺人物",
+          "official_label": "非遗传承主体",
+          "official_type": "传承人",
+          "description": "山武术师，1925 年在铁村授艺并协助梁复燃开展农民运动，后加入中国共产党",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁复燃",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "广东早期共产党员，第一届农民运动讲习所毕业生，1925 年受派到南海县九区大沥等地开展农民运动",
+          "confidence": 0.97,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢伦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "铁村农民协会执行委员，负责武装工作，担任铁村农民自卫军队长",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢泰珍",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "谢伦之父，1925 年被动员参加农民协会",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢荣棠",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "谢伦之弟，1925 年参加农民协会",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢咏才",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "谢伦之弟，1925 年参加农民协会",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢植奇",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "谢伦堂兄弟，1925 年参加农民协会",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "谢玉山",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "谢伦堂兄弟，1925 年参加农民协会",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "铁村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "南海县九区大沥辖下村落，1925 年成立农民协会及农民自卫军",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "大镇",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "南海县九区大沥辖下村落，梁复燃曾在此开展农民运动",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "钟边",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "南海县九区大沥辖下村落，梁复燃曾在此开展农民运动",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "东塘村",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B6 古村落与聚落遗产类",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名村",
+          "description": "南海罗村辖下贫农村，1926 年遭反动民团进攻，与铁村农会有联动",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "大沥",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "南海县九区辖地，梁复燃、周侠生等在此开展农民运动并组织农会",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "罗村",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "南海辖区，东塘村所在地，涉及水利纠纷与农会斗争",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "劳动童子团",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A3 民俗节庆类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "民俗",
+          "description": "革命时期儿童组织，谢伦女儿曾参加，属特定历史时期的群众组织形式",
+          "confidence": 0.85,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "农民自卫军",
+          "ai_grade_label": "A 非遗文化体系",
+          "ai_grade_type": "A5 传统体育游艺类非遗",
+          "official_label": "非物质文化遗产",
+          "official_type": "传统体育、游艺与杂技",
+          "description": "铁村农民协会组织的武装力量，由谢伦担任队长，用于保护农会利益",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "1925 年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "铁村农民协会正式成立及谢伦等人参加农会的年份",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "1926 年农历 7 月",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "反动民团借水利纠纷向东塘村农会进攻的时间",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "78a4f5d2"
+    },
+    "chunk_0033": {
+      "entities": [],
+      "chunk_text_hash": "f80bbc69"
+    },
+    "chunk_0034": {
+      "entities": [],
+      "chunk_text_hash": "b9809f67"
+    },
+    "chunk_0035": {
+      "entities": [],
+      "chunk_text_hash": "fa170911"
+    },
+    "chunk_0036": {
+      "entities": [],
+      "chunk_text_hash": "aa111969"
+    },
+    "chunk_0037": {
+      "entities": [],
+      "chunk_text_hash": "c234d80d"
+    },
+    "chunk_0038": {
+      "entities": [],
+      "chunk_text_hash": "c13cbfd4"
+    },
+    "chunk_0039": {
+      "entities": [],
+      "chunk_text_hash": "c0ef35ce"
+    },
+    "chunk_0040": {
+      "entities": [],
+      "chunk_text_hash": "22075874"
+    },
+    "chunk_0041": {
+      "entities": [],
+      "chunk_text_hash": "5cd5c2cd"
+    },
+    "chunk_0042": {
+      "entities": [],
+      "chunk_text_hash": "c88ab24b"
+    },
+    "chunk_0043": {
+      "entities": [],
+      "chunk_text_hash": "ee3d22b5"
+    },
+    "chunk_0044": {
+      "entities": [],
+      "chunk_text_hash": "5a811702"
+    },
+    "chunk_0045": {
+      "entities": [],
+      "chunk_text_hash": "efbeb137"
+    },
+    "chunk_0046": {
+      "entities": [],
+      "chunk_text_hash": "4fe027c9"
+    },
+    "chunk_0047": {
+      "entities": [],
+      "chunk_text_hash": "5c92bbce"
+    },
+    "chunk_0048": {
+      "entities": [
+        {
+          "name": "林德昭之墓",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B5 石刻碑记类",
+          "official_label": "不可移动文物",
+          "official_type": "石窟寺及石刻",
+          "description": "即张松年墓碑，刻字石碑，原位于圣坑庙附近，后移至人沙镇沙头村前",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈广华烈士之基",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B3 纪念性建筑与名人故居类",
+          "official_label": "不可移动文物",
+          "official_type": "近现代重要史迹及代表性建筑",
+          "description": "位于人沙镇沙头村前，与张松年墓碑并立的烈士纪念设施",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "张松年",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "原名林德昭，革命烈士，曾在四会适口镇北乡南乡为群众排难解忧",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "麦永坚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "原名麦君铺，广东南海县西樵区人，1942 年加入中国共产党",
+          "confidence": 0.96,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "麦君素",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "麦永坚之兄，曾任地下党交通站长",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "李冲",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "参加过学生运动，启蒙麦永坚参加抗日和振兴中华革命活动",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "杜埃",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "参与介绍麦永坚加入中国共产党的党组织人员",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "吴华",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "张松年表兄，曾拟请求其校正文史资料",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "珠江纵队西樵武工队",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "培养和教育麦永坚的革命武装组织",
+          "confidence": 0.82,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "西樵区",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "麦永坚故乡，位于广东南海县",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "广州广雅中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "麦永坚 1941 年考入的学校，在此接受革命启蒙",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "6e728527"
+    },
+    "chunk_0049": {
+      "entities": [],
+      "chunk_text_hash": "2c281abc"
+    },
+    "chunk_0050": {
+      "entities": [],
+      "chunk_text_hash": "bf513aeb"
+    },
+    "chunk_0051": {
+      "entities": [],
+      "chunk_text_hash": "767b5b9c"
+    },
+    "chunk_0052": {
+      "entities": [],
+      "chunk_text_hash": "ac725619"
+    },
+    "chunk_0053": {
+      "entities": [],
+      "chunk_text_hash": "828b09f3"
+    },
+    "chunk_0054": {
+      "entities": [
+        {
+          "name": "南海明伦堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中提及修理大成殿及收回被占殿祠，为科举时代学产管理核心场所，含学宫建筑",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "大成殿",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中明确提到进行修理的大成殿，属学宫主体建筑",
+          "confidence": 0.98,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "区太史大典",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期负责保管明伦堂款产的邑中士绅，后任教香港大学",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "朱孝廉文格",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期推举负责保管明伦堂专责的孝廉，民国十八年谢世",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈孝廉柱臣",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期推举负责保管明伦堂专责的孝廉，因年老欲卸责",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "沈耀东",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期担任明伦堂干事的人物",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "黄县长俊民",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国三十四年十二月将公款公物簿据移交广州市南海同乡会的县长",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "王县长皓明",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "借口统一整理地方公产，呈请省政府将明伦堂产款交回县政府接管的县长",
+          "confidence": 0.93,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "李文范",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "联名致函罗主席及杜厅长，申述明伦堂产款性质的先生",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "区芳浦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "联名致函罗主席及杜厅长，申述明伦堂产款性质的先生",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "邓刚三",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "联名致函罗主席及杜厅长，申述明伦堂产款性质的先生",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "广州市南海同乡会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "民国三十四年后接管明伦堂公款公物，并拟具组织章程的地方社群团体",
+          "confidence": 0.94,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县事委员会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "邑绅在本堂组织，赋有发展地方教育文化事业任务的早期管理机构",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南海明伦堂公款管理委员会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "由县事委员会改组而成，参照东莞明伦堂规程拟具章程的管理机构",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "伪管理委员会",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "",
+          "official_type": "",
+          "description": "倭寇南侵广州沦陷后接管明伦堂的非法管理机构",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "学宫内各碑碣",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B5 石刻碑记类",
+          "official_label": "不可移动文物",
+          "official_type": "石窟寺及石刻",
+          "description": "记载明伦堂款产来源及沿革的石刻碑记，历历可考",
+          "confidence": 0.96,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文本中多次提及的历史时期，如民国成立、民国十八年、民国三十四年等",
+          "confidence": 0.99,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国十八年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "朱孝廉谢世及区太史任教香港大学的时间节点",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国三十四年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "倭寇降伏，南海县政府接收整理明伦堂的时间",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国三十五年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "广州市南海同乡会拟具南海明伦堂公款管理委员会组织章程的时间",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "da1325e8"
+    },
+    "chunk_0055": {
+      "entities": [
+        {
+          "name": "明伦堂",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "",
+          "official_type": "",
+          "description": "本邑士绅团体，管理地方公共产款及教育文化事业的机构",
+          "confidence": 0.95,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "区芳浦",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.92,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "郭英殊",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.91,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "王金石",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈大年",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届委员、第二届候补委员",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "曾镜涵",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陆满",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "傅炳馄",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届委员（文中第二届误作傅炳爆）",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "区觉孟",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "吕治国",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "邓刚",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "余仲麒",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "邵洛滔",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员",
+          "confidence": 0.86,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈勉锋",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及常务委员",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "李景宗",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员及第一届常务委员",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "岑藻芬",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届候补委员、第二届委员",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "关葆照",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届候补委员",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁少梅",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届候补委员",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "何秉民",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届委员及常务委员",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "江冷",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届候补委员",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "黄庆戈",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一、二届委员",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "麦佐衡",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届委员",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "李应林",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届委员、第二届候补委员",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "霍宾材",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第一届委员",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "黄泳弩",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届委员",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "黄刚中",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届委员",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈绩武",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届委员",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "杜之才",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届委员",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "陈公侠",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届候补委员",
+          "confidence": 0.8,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "梁广文",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届候补委员",
+          "confidence": 0.8,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "区萃",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期南海地方士绅，明伦堂公款管理委员会第二届候补委员",
+          "confidence": 0.79,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国三十六年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "明伦堂公款管理委员会举行第一届选举大会的时间",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国三十七年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "明伦堂公款管理委员会举行第二届选举大会的时间",
+          "confidence": 0.98,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国二十七年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "广州沦陷及伪委会开始管理明伦堂产业的时间",
+          "confidence": 0.97,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "广州沦陷",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F2 历史事件类",
+          "official_label": "",
+          "official_type": "",
+          "description": "抗日战争期间广州被日军占领的历史事件，影响明伦堂产业管理",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县政府",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国时期负责遵照省府指令并抄送同乡会的行政机构",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "8d6ebc87"
+    },
+    "chunk_0056": {
+      "entities": [
+        {
+          "name": "明伦堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中提及的学宫内殿祠及产业管理主体，拥有大量田亩铺业，用于补助教育文化事业",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "李秋涵",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C1 历史文化人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "民国十二年间通过欺骗手段冒名领卖米埠直街铺业契据的人物",
+          "confidence": 0.88,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "米埠直街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文中提到的具体街道地点，涉及十八十九两号铺业的产权纠纷",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "沙头南畔乡",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "本县所属乡镇，明伦堂在此拥有四十余亩田亩",
+          "confidence": 0.87,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "里水",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "本县所属镇，明伦堂在此拥有二十七亩余田亩",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "洋塘蚬子涌",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "位于本县的河涌地段，明伦堂在此拥有十七亩余田亩",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "溶洲沙",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "位于本县的沙洲地段，明伦堂在此拥有二百余亩田亩",
+          "confidence": 0.84,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "中山濠角浪纲沙",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D1 山川水系空间",
+          "official_label": "自然保护地",
+          "official_type": "自然公园",
+          "description": "位于中山县的沙洲地段，明伦堂在此拥有三顷田亩",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南海中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "明伦堂公款补助复校费及经费的学校之一",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "石门中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "明伦堂公款补助复校费及经费的学校之一",
+          "confidence": 0.9,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "西栋中学",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D4 传承场所与活动场地",
+          "official_label": "公共文化资源",
+          "official_type": "公共文化设施",
+          "description": "明伦堂公款补助复校费及经费的学校之一",
+          "confidence": 0.89,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国二十七年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中记载广州沦陷及伪委会管理开始的时间节点",
+          "confidence": 0.95,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "民国十二年",
+          "ai_grade_label": "F 历史时序体系",
+          "ai_grade_type": "F1 朝代年号类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中记载米埠直街铺业契据被欺骗领卖的具体年份",
+          "confidence": 0.94,
+          "ai_layer": "认知支撑层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "9cc82a92"
+    },
+    "chunk_0057": {
+      "entities": [
+        {
+          "name": "南海中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及获得复校费及经费补助的学校，为南海教育历史实体",
+          "confidence": 0.75,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "石门中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及获得复校费及经费补助的学校，为南海教育历史实体",
+          "confidence": 0.75,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "西栋中学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及获得复校费及经费补助的学校，为南海教育历史实体",
+          "confidence": 0.78,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "中正小学",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "",
+          "official_type": "",
+          "description": "文中提及获赠风琴的学校，反映当时教育文化发展",
+          "confidence": 0.76,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "大成殿",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "本邑学宫主体建筑，文中记载其势将倾塌待修理，供奉先圣贤牌位",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "广府学宫",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "文中提及遭残毁后由士绅修理的学宫，作为本邑学宫修复的参照",
+          "confidence": 0.92,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "本邑学宫",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "南海县学宫，包含大成殿等建筑，国难以来遭残毁，计划投资修理",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "崇圣殿",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "学宫建筑群的一部分，文中提及被省民教馆占住，计划收回",
+          "confidence": 0.91,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "忠孝祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "学宫建筑群的一部分，文中提及被省民教馆占住，计划收回",
+          "confidence": 0.9,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "尊经阁",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "学宫建筑群的一部分，文中提及被省民教馆占住，计划收回",
+          "confidence": 0.89,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "吕委员治国",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C3 文物营建与守护人物",
+          "official_label": "",
+          "official_type": "",
+          "description": "公推前往交涉收回被占殿祠业权的委员",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "乡贤祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于朝天街 60 号之一，见于铺屋地业一览表中的历史建筑",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "一德路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "南海县明伦堂公款管理委员会所属铺屋所在地，具历史街道特征",
+          "confidence": 0.72,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "十三行",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "南海县明伦堂公款管理委员会所属铺屋所在地，具历史商业街区特征",
+          "confidence": 0.73,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "光复中路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "南海县明伦堂公款管理委员会所属铺屋所在地，具历史街道特征",
+          "confidence": 0.71,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "新胜街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "南海县明伦堂公款管理委员会所属铺屋所在地，具历史街道特征",
+          "confidence": 0.7,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "米市街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "南海县明伦堂公款管理委员会所属铺屋及学宫西便余地所在地",
+          "confidence": 0.72,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "朝天路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "划归学宫西便余地的街道，含 60 号等历史地业",
+          "confidence": 0.7,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "朝天街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "含乡贤祠等历史建筑的街道，见于地业一览表",
+          "confidence": 0.71,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "南海县明伦堂",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "管理公款及铺屋地业的机构及其所属产业，致力于发展文化教育",
+          "confidence": 0.82,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "f1b3fdaa"
+    },
+    "chunk_0058": {
+      "entities": [
+        {
+          "name": "乡贤祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于朝天街 60 号之一，经办理重新登记领有权状的古建筑",
+          "confidence": 0.95,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "节孝祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于学宫街 52 号，经重新登记领有权状的古建筑",
+          "confidence": 0.94,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "名宦祠",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于学宫街 74 号的古建筑",
+          "confidence": 0.93,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "义路门",
+          "ai_grade_label": "B 物质文化遗产体系",
+          "ai_grade_type": "B1 古建筑类",
+          "official_label": "不可移动文物",
+          "official_type": "古建筑",
+          "description": "位于学宫街 78 号，经重新登记领有权状的建筑构件或附属建筑",
+          "confidence": 0.88,
+          "ai_layer": "文化本体层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "青云巷",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "位于学宫街 74 号的历史巷道空间",
+          "confidence": 0.85,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "里水",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文本中提及的南海地域名称，涉及田产所在地",
+          "confidence": 0.82,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "九江",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文本中提及的南海地域名称，涉及蕃背沙田产",
+          "confidence": 0.83,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "官山",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D2 镇街圩市空间",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化名镇",
+          "description": "文本中提及的地域名称，涉及海口江浦司前田产",
+          "confidence": 0.81,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "显岗陈姓",
+          "ai_grade_label": "C 传承主体体系",
+          "ai_grade_type": "C4 宗族姓氏与地方社群",
+          "official_label": "非遗传承主体",
+          "official_type": "传承群体",
+          "description": "大同显岗地区霸耕学田的陈姓宗族群体",
+          "confidence": 0.79,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "光复中路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文本列表中提及的历史街道名称",
+          "confidence": 0.76,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "米市街",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文本列表中提及的传统商业街道名称",
+          "confidence": 0.75,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "十三行",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文本列表中提及的历史商业街区名称",
+          "confidence": 0.74,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        },
+        {
+          "name": "一德路",
+          "ai_grade_label": "D 文化空间体系",
+          "ai_grade_type": "D3 历史街区与传统片区",
+          "official_label": "历史文化名城名镇名村",
+          "official_type": "历史文化街区",
+          "description": "文本列表中提及的历史街道名称",
+          "confidence": 0.73,
+          "ai_layer": "传承承载层",
+          "is_anchor": false,
+          "source_file": "南海文史资料_第19辑_(南海县政协文史资料委员会编)"
+        }
+      ],
+      "chunk_text_hash": "bf9f5be3"
+    },
+    "chunk_0059": {
+      "entities": [],
+      "chunk_text_hash": "0879bbc9"
+    },
+    "chunk_0060": {
+      "entities": [],
+      "chunk_text_hash": "9d5b1533"
+    },
+    "chunk_0061": {
+      "entities": [],
+      "chunk_text_hash": "6f105b15"
+    },
+    "chunk_0062": {
+      "entities": [],
+      "chunk_text_hash": "92c47025"
+    },
+    "chunk_0063": {
+      "entities": [],
+      "chunk_text_hash": "16e7b9f6"
+    },
+    "chunk_0064": {
+      "entities": [],
+      "chunk_text_hash": "3b041f60"
+    }
+  }
+}

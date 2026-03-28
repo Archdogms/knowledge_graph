@@ -1,0 +1,811 @@
+{
+  "chunks": {
+    "chunk_0000": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "西樵简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅……广东省南海市西樵简村人，生于清道光十四年三月初七日",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "清道光十四年",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅……生于清道光十四年三月初七日（公元 1834 年 4 月 15 日）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪二十九年",
+          "relation_text": "逝世于",
+          "relation_group": "时序归属",
+          "evidence": "卒于光绪二十九年七月初三日（公元 1903 年 8 月 25 日）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "他在家乡创办了我国第一家民族资本经营的使用机器的缥丝厂一一继昌隆丝厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《理气溯源》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅的主要著作有：《理气溯源》七卷",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅的主要著作有：……《蚕桑谱》二卷",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《周易理数会通》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅的主要著作有：……《周易理数会通》八卷",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《陈启沅算学》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅的主要著作有：……《陈启沅算学》十三卷",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "刘仕贤",
+          "target": "《蚕桑谱注解》",
+          "relation_text": "定稿",
+          "relation_group": "人物关联",
+          "evidence": "将他于八十年代初定稿、并得到……梁家勉审阅的《蚕桑谱注解》原稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "《蚕桑谱注解》",
+          "relation_text": "审阅",
+          "relation_group": "人物关联",
+          "evidence": "得到华南农学院农史研究室主任、广东省农史研究会会长梁家勉审阅的《蚕桑谱注解》原稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0001": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅...著有《蚕桑谱》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "《蚕桑谱》",
+          "target": "种桑养蚕",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "是书专为教人种桑养蚕之法",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "奇和堂药局",
+          "target": "广州城",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于广州城十八甫",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "奇和堂药局",
+          "target": "十八甫",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "位于广州城十八甫",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "奇和堂药局",
+          "target": "《蚕桑谱》",
+          "relation_text": "藏有",
+          "relation_group": "社群组织",
+          "evidence": "奇和堂药局藏板",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "奉政公",
+          "target": "乐耕堂",
+          "relation_text": "归隐于",
+          "relation_group": "人物关联",
+          "evidence": "先父奉政公...晚年归隐。有堂日乐耕",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "缫丝之法",
+          "relation_text": "推广",
+          "relation_group": "人物关联",
+          "evidence": "仿西人纵丝之法，归而教之乡人",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "癸酉",
+          "relation_text": "行动于",
+          "relation_group": "时序归属",
+          "evidence": "沅遂于癸酉之秋，仿西人纵丝之法",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "陈君芷馨",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "吾友陈君芷馨，心焉之，因出所著《蚕桑谱》示其乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "蚕桑谱",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "这是潘衍桐写的序...为《蚕桑谱》作序",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "南庄镇",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "潘衍桐，南海县整头堡荷徽乡人（今属南海市南庄镇）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "光绪二十三年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "光绪二十三年仲春之月南海潘衍桐莲序",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "茗善",
+          "target": "曲植筐",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "尝乘轩过茗，见夫柔桑沃若...具曲植筐",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "曲植筐",
+          "target": "蚕桑谱",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "篇中诸法具备...具曲植筐",
+          "confidence": 0.82,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "粤东陈氏",
+          "target": "蚕桑之法",
+          "relation_text": "倡行并制谱记载",
+          "relation_group": "人物关联",
+          "evidence": "粤东陈氏，独以此倡行岭南，尝即其亲所阅历者，制为谱，俾蚕桑之法，人人可按籍而稽也",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "吴封",
+          "target": "蚕桑之法",
+          "relation_text": "作序重刊推广",
+          "relation_group": "人物关联",
+          "evidence": "光绪二十九年六月吴封叙...爱将此谱重刊，以广其传",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "李长龄",
+          "target": "机器丝",
+          "relation_text": "确查设局情况",
+          "relation_group": "人物关联",
+          "evidence": "遵即派候补知县李长龄前往各县，逐一确查",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "机器丝",
+          "target": "官山",
+          "relation_text": "创自于",
+          "relation_group": "空间关联",
+          "evidence": "机器丝，同治五年创自南海县属之官山地方",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "机器丝",
+          "target": "同治五年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "机器丝，同治五年创自南海县属之官山地方",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "机器丝",
+          "target": "光绪七年",
+          "relation_text": "迁往于",
+          "relation_group": "时序归属",
+          "evidence": "光绪七年迁往澳门",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "机器缫丝",
+          "target": "土车",
+          "relation_text": "不同于",
+          "relation_group": "文化表征",
+          "evidence": "机器所缴丝斤，质细而脆...仍以土车手为便",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "徐令",
+          "target": "昌隆",
+          "relation_text": "查禁",
+          "relation_group": "人物关联",
+          "evidence": "昌隆，因饰织工人饮恨，纠党滋事，遂被徐令在南海任上查禁",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "昌隆",
+          "target": "复和隆",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "于光绪七年迁往澳门，改号日复和隆",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "昌隆",
+          "target": "光绪七年",
+          "relation_text": "迁建于",
+          "relation_group": "时序归属",
+          "evidence": "于光绪七年迁往澳门，改号日复和隆",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "利厚生",
+          "target": "官山简村乡",
+          "relation_text": "创建于",
+          "relation_group": "营建创造",
+          "evidence": "后复在官山简村乡续创单车丝机器，一人一具，号日利厚生",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "张之洞",
+          "target": "李长龄",
+          "relation_text": "委派",
+          "relation_group": "人物关联",
+          "evidence": "两广总督张扎饰厘总局委侯补知县李长龄前往各属查明",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "光绪十二年",
+          "target": "机器缫丝",
+          "relation_text": "记载产量",
+          "relation_group": "文献记载",
+          "evidence": "查光绪十二年由顺德等县运省之洋庄丝，约计二百二十八万余斤之多",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "光绪三十一年",
+          "target": "机器缫丝",
+          "relation_text": "记载产量",
+          "relation_group": "文献记载",
+          "evidence": "至光绪三十一、三十二两年，每年出口之丝四百余万厅",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "光绪三十二年",
+          "target": "机器缫丝",
+          "relation_text": "记载产量",
+          "relation_group": "文献记载",
+          "evidence": "至光绪三十一、三十二两年，每年出口之丝四百余万厅",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "南海息心老人芷馨陈启沅撰",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "南顺机器缚丝厂",
+          "relation_text": "倡办",
+          "relation_group": "人物关联",
+          "evidence": "并倡办南顺机器缚丝厂，以开风气",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈锦贺",
+          "target": "蚕桑谱",
+          "relation_text": "编辑刊刻",
+          "relation_group": "人物关联",
+          "evidence": "光绪三十四年 南海陈启沅男锦贺编辑",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "陈锦簧",
+          "target": "蚕桑谱",
+          "relation_text": "绘图并校",
+          "relation_group": "人物关联",
+          "evidence": "男竹君陈锦簧绘图并校",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "崇绮",
+          "target": "蚕桑谱",
+          "relation_text": "题诗",
+          "relation_group": "人物关联",
+          "evidence": "愚弟崇绮拜题",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "吴封",
+          "target": "蚕桑谱",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "《蚕桑谱》序· 吴封",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "衍桐",
+          "target": "蚕桑谱",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "《蚕桑谱》序·… 衍桐",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "广东劝业道",
+          "target": "蚕桑谱",
+          "relation_text": "批示嘉奖",
+          "relation_group": "社群组织",
+          "evidence": "广东劝业道陈宪台批示……殊堪嘉尚",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "光绪三十四年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "特著此书刊刻……光绪三十四年",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "刘任贤",
+          "target": "蚕桑谱",
+          "relation_text": "注解",
+          "relation_group": "人物关联",
+          "evidence": "三、蚕桑谱注解··· 刘任贤梁家勉",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "蚕桑谱",
+          "relation_text": "注解",
+          "relation_group": "人物关联",
+          "evidence": "三、蚕桑谱注解··· 刘任贤梁家勉",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "野蚕",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有野蚕家蚕之分。野蚕仍有数种注三，生于枫荷之树者多",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "家蚕",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "有野蚕家蚕之分...家蚕之要，天时、地利、人和，缺一不可",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "土丝",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "历年土丝、土绸、出口征税，动以数百万计",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "土绸",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "历年土丝、土绸、出口征税，动以数百万计",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "僵蚕",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "更有劣等者，曰僵蚕注八。可作驱风药",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "蚕萝",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "已结之茧，退去蚕壳，化成无足之虫，曰蚕萝注七了",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": []
+    },
+    "chunk_0008": {
+      "relations": []
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": []
+    },
+    "chunk_0011": {
+      "relations": []
+    },
+    "chunk_0012": {
+      "relations": []
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": []
+    },
+    "chunk_0015": {
+      "relations": []
+    },
+    "chunk_0016": {
+      "relations": []
+    },
+    "chunk_0017": {
+      "relations": []
+    },
+    "chunk_0018": {
+      "relations": []
+    },
+    "chunk_0019": {
+      "relations": []
+    },
+    "chunk_0020": {
+      "relations": []
+    },
+    "chunk_0021": {
+      "relations": []
+    },
+    "chunk_0022": {
+      "relations": []
+    },
+    "chunk_0023": {
+      "relations": []
+    },
+    "chunk_0024": {
+      "relations": []
+    },
+    "chunk_0025": {
+      "relations": []
+    },
+    "chunk_0026": {
+      "relations": []
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": []
+    },
+    "chunk_0029": {
+      "relations": []
+    },
+    "chunk_0030": {
+      "relations": []
+    },
+    "chunk_0031": {
+      "relations": []
+    },
+    "chunk_0032": {
+      "relations": []
+    },
+    "chunk_0033": {
+      "relations": []
+    },
+    "chunk_0034": {
+      "relations": []
+    },
+    "chunk_0035": {
+      "relations": []
+    },
+    "chunk_0036": {
+      "relations": []
+    },
+    "chunk_0037": {
+      "relations": []
+    },
+    "chunk_0038": {
+      "relations": []
+    },
+    "chunk_0039": {
+      "relations": []
+    },
+    "chunk_0040": {
+      "relations": []
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": []
+    },
+    "chunk_0043": {
+      "relations": []
+    },
+    "chunk_0044": {
+      "relations": []
+    },
+    "chunk_0045": {
+      "relations": []
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": [
+        {
+          "source": "简村",
+          "target": "西樵官山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "1866 年，广东第一间蒸汽丝工广是在南海县西樵官山附近的简村创建的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "广东第一间蒸汽缫丝工厂",
+          "target": "简村",
+          "relation_text": "创建于",
+          "relation_group": "空间关联",
+          "evidence": "1866 年，广东第一间蒸汽丝工广是在南海县西樵官山附近的简村创建的",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "坐缫式",
+          "target": "立式缫丝",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "我国丝工艺有了很大的进展，由坐缚式（一人 4 一 8 个绪）发展到立式（一人 20 个",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": []
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": []
+    },
+    "chunk_0055": {
+      "relations": [
+        {
+          "source": "刘仕贤",
+          "target": "苏南蚕丝专科学校",
+          "relation_text": "毕业于",
+          "relation_group": "人物关联",
+          "evidence": "1953 年在苏南蚕丝专科学校（大专三年）毕业",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "刘仕贤",
+          "target": "广东省农业科学院",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "分配到广东省农业科学院工作...曾任...广东省农科院副院长",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "中山大学农学院",
+          "relation_text": "考入",
+          "relation_group": "人物关联",
+          "evidence": "1929 年考入中山大学农学院农学系",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "中山大学农学院",
+          "relation_text": "任教于",
+          "relation_group": "人物关联",
+          "evidence": "曾先后任教于...中山大学农学院等处",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "华南农学院",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "1952 年起任华南农学院（今名华南农业大学）图书馆长",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "关于以农立国问题的商",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "早期发表的论文有《关于以农立国问题的商》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "徐光启年谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "近年的重要论文有《徐光启年谱》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "齐民要术",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "《《齐民要术》的撰著者和撰期》、《有关《齐民要术》若干问题的再探讨》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "农政全书",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "《《农政全书》撰述过程及若干有关问题的探讨》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "南方草木状",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "《对《南方草木状》著者及若干问题的探索》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        },
+        {
+          "source": "梁家勉",
+          "target": "广东省农史研究会",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "曾任...广东省农史研究会会长、名誉会长",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第24辑_蚕桑谱专辑"
+        }
+      ]
+    }
+  }
+}

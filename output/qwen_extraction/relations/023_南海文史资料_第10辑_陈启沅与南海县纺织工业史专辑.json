@@ -1,0 +1,5568 @@
+{
+  "chunks": {
+    "chunk_0001": {
+      "relations": []
+    },
+    "chunk_0002": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1873 年（同治十二年）回国，在南海简村创办继昌隆丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在南海简村创办继昌隆丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "黄景坤",
+          "target": "陈启沅",
+          "relation_text": "撰写传记",
+          "relation_group": "人物关联",
+          "evidence": "三、陈启沅传 ·…黄景坤",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈天杰",
+          "target": "继昌隆丝厂",
+          "relation_text": "著述文章",
+          "relation_group": "人物关联",
+          "evidence": "五、广东第一间蒸汽丝厂继昌隆及其创办人陈启沅 陈天杰",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "辞海",
+          "target": "陈启沅",
+          "relation_text": "收录条目",
+          "relation_group": "文献记载",
+          "evidence": "《辞海》（1979 年版）431 页关于陈启源条的注释...实为陈启沅",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0003": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅，字芷馨，简村堡简村乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创设",
+          "relation_group": "人物关联",
+          "evidence": "在简村乡创设丝厂，名日继昌隆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "著有《蚕桑谱》一卷",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "理气溯源",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "著有...《理气溯源》七卷",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "周易理数会通",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "著有...《周易理数会通》八卷",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈启沅算学",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "著有...《陈启沅算学》十三卷",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县志",
+          "target": "陈启沅",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "刊本《南海县志》...陈启沅传（卷二十一）的记述",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县志",
+          "target": "清宣统二年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "清宣统二年（公元 1910 年）刊本《南海县志》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广东蚕桑谱",
+          "target": "陈启沅",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "《广东蚕桑谱》...等三种陈启沅著作",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广东蚕桑谱",
+          "target": "光绪三十四年",
+          "relation_text": "发印于",
+          "relation_group": "时序归属",
+          "evidence": "光绪三十四年奇和堂药局发印",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "奇和堂药局",
+          "target": "广东蚕桑谱",
+          "relation_text": "藏板印发",
+          "relation_group": "社群组织",
+          "evidence": "奇和堂药局藏板，丁酉新刻、光绪三十四年奇和堂药局发印",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "惜阴草堂",
+          "target": "理气溯源",
+          "relation_text": "藏板刊印",
+          "relation_group": "社群组织",
+          "evidence": "《理气溯源》（惜阴草堂藏板，光绪十年岁次甲申刊印）",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "惜阴草堂",
+          "target": "陈启沅算学",
+          "relation_text": "藏板刊印",
+          "relation_group": "社群组织",
+          "evidence": "《陈启沅算学》（懵阴草堂藏板，已丑新刻本）",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0004": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村乡",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "广东省南海县江浦司简村堡简村乡人，生于清道光十四年三月初七日",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "清道光十四年",
+          "relation_text": "生于",
+          "relation_group": "时序归属",
+          "evidence": "生于清道光十四年三月初七日（公元一八三四年四月十五日）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪二十九年",
+          "relation_text": "卒于",
+          "relation_group": "时序归属",
+          "evidence": "卒于光绪二十九年七月初三日（公元一九三年八月二十五日）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈开",
+          "target": "三合会",
+          "relation_text": "首领",
+          "relation_group": "人物关联",
+          "evidence": "三合会首领陈开于佛山起义",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0005": {
+      "relations": [
+        {
+          "source": "陈启枢",
+          "target": "安南",
+          "relation_text": "赴",
+          "relation_group": "人物关联",
+          "evidence": "陈启枢初到安南",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "安南",
+          "relation_text": "赴",
+          "relation_group": "人物关联",
+          "evidence": "决计随二兄启枢赴安南经商",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "怡昌荫号",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "启枢、启沅兄弟二人，先在安南堤岸海傍街设立怡昌荫号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫号",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "启枢、启沅兄弟二人，先在安南堤岸海傍街设立怡昌荫号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "均和栈",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "继扩充发展，开设均和栈杂货店",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "均和栈",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "继扩充发展，开设均和栈杂货店",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "均和昌酱园",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设均和栈杂货店、均和昌酱园",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "均和昌酱园",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设均和栈杂货店、均和昌酱园",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "裕昌和·东京庄",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设...裕昌和·东京庄",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "裕昌和·东京庄",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设...裕昌和·东京庄",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "盛其祥谷米行",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设...盛其祥谷米行",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "盛其祥谷米行",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "开设...盛其祥谷米行",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "怡丰当",
+          "relation_text": "投承经营",
+          "relation_group": "营建创造",
+          "evidence": "又向提岸当局投承经营怡丰当",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡丰当",
+          "relation_text": "投承经营",
+          "relation_group": "营建创造",
+          "evidence": "又向提岸当局投承经营怡丰当",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "机器缫丝厂",
+          "relation_text": "考察",
+          "relation_group": "人物关联",
+          "evidence": "见法国人所办之机器缴丝厂，大有感悟，遂反复详加考察",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈开自述",
+          "target": "佛山镇",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "据《陈开自述》中有云...占领佛山镇",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "咸丰四年",
+          "target": "陈启枢",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "此乃咸丰四年（公元一八五四年）秋间事",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0006": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅...在家乡简村创办机器丝厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "机器缫丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "于同治十一年（壬申。公元一八七二年）决心归国，在家乡简村创办机器丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "机器缫丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在家乡简村创办机器丝厂。厂房就建在祖屋之旁",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "盖其家乡一带（九江主簿所属...等地）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "同治十一年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "陈启沅巧子同治十一年（壬申。公元一八七二年）决心归国，在家乡简村创办机器丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "丹灶镇",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅访得同乡江浦司伏隆堡良登村（今属丹灶区）人陈淡浦",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "陈联泰号",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "陈淡浦...在广州城十三行新豆栏上街...开设之陈联泰号",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈联泰号",
+          "target": "广州十三行",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在广州城十三行新豆栏上街（后因业务扩充发展，迁至十八甫路）开设之陈联泰号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "机器缫丝厂",
+          "relation_text": "重修",
+          "relation_group": "营建创造",
+          "evidence": "由陈联泰负责丝机器的改造与安装",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0007": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "取厂名为继昌隆，择吉投茧开工",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈淡浦",
+          "relation_text": "合作",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅遂与陈淡浦商量，双方合作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈联泰",
+          "target": "继昌隆",
+          "relation_text": "负责改造安装",
+          "relation_group": "人物关联",
+          "evidence": "由陈联泰负责丝机器的改造与安装",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅乃在简村及邻近之裹头村...取厂名为继昌隆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "癸酉",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "择吉投茧开工，时为癸酉之秋也",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "壬申",
+          "relation_text": "归国于",
+          "relation_group": "时序归属",
+          "evidence": "于一八七二年（壬申）归国",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "洋庄丝",
+          "relation_text": "产出",
+          "relation_group": "社群组织",
+          "evidence": "继昌隆所出之丝，称为洋庄丝、厂丝",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "厂丝",
+          "relation_text": "产出",
+          "relation_group": "社群组织",
+          "evidence": "继昌隆所出之丝，称为洋庄丝、厂丝",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "七里丝",
+          "target": "厂丝",
+          "relation_text": "区别于",
+          "relation_group": "从属分类",
+          "evidence": "较之旧法手缴之土丝《又名七里丝）...新器...此即中国第一家民族资本经营之近代机器丝厂",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈联泰",
+          "target": "陈启沅",
+          "relation_text": "协助",
+          "relation_group": "人物关联",
+          "evidence": "得陈联泰师徒之通力合作",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0008": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅...创办继昌隆缫丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "机器缴丝工业",
+          "relation_text": "始创",
+          "relation_group": "人物关联",
+          "evidence": "由陈启沅始创之广东省近代机器缴丝工业",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆...位于南海县简村",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村",
+          "target": "西樵镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "简村...今属西樵镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "学堂村",
+          "target": "西樵镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "学堂村...今属西樵镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "吉水村",
+          "target": "西樵镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "吉水村...今属西樵镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大桐",
+          "target": "九江镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "大桐...今属九江镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南畔",
+          "target": "沙头镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "南畔...今属沙头镇",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "癸酉",
+          "target": "陈启沅",
+          "relation_text": "传技于",
+          "relation_group": "传承延续",
+          "evidence": "计自癸酉之秋以后三年间，睡其后而学者约千余人",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "光绪七年",
+          "target": "继昌隆",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "至光绪七年...在南海县内就有十家...计：简村四家",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "珠江三角洲",
+          "target": "机器缴丝工业",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "在珠江三角洲桑蚕区之农村圩镇，则集合有二、三万众之近代丝产业工人大军",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0009": {
+      "relations": []
+    },
+    "chunk_0010": {
+      "relations": [
+        {
+          "source": "华夏村",
+          "target": "学堂乡",
+          "relation_text": "攻扑",
+          "relation_group": "社群组织",
+          "evidence": "由华夏村、莘涌村两村之机工队伍带头，附近各村机工随后，共约三千余人，攻扑学堂乡",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "莘涌村",
+          "target": "学堂乡",
+          "relation_text": "攻扑",
+          "relation_group": "社群组织",
+          "evidence": "由华夏村、莘涌村两村之机工队伍带头，附近各村机工随后，共约三千余人，攻扑学堂乡",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅呕心沥血创立在南海县之机器丝",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "黄龙韬",
+          "target": "机器巢丝",
+          "relation_text": "封禁",
+          "relation_group": "人物关联",
+          "evidence": "以黄龙韬、徐陛为代表之地方军政告局，立即封禁南海全县之机器巢丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐陛",
+          "target": "机器巢丝",
+          "relation_text": "封禁",
+          "relation_group": "人物关联",
+          "evidence": "以黄龙韬、徐陛为代表之地方军政告局，立即封禁南海全县之机器巢丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大岗圩",
+          "target": "华夏村",
+          "relation_text": "约定于",
+          "relation_group": "空间关联",
+          "evidence": "按先日在大岗圩捡阉之约定，于当日已刻，由华夏村、莘涌村两村之机工队伍带头",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大岗圩",
+          "target": "莘涌村",
+          "relation_text": "约定于",
+          "relation_group": "空间关联",
+          "evidence": "按先日在大岗圩捡阉之约定，于当日已刻，由华夏村、莘涌村两村之机工队伍带头",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "江浦",
+          "target": "机器巢丝",
+          "relation_text": "拥有",
+          "relation_group": "空间关联",
+          "evidence": "统计江浦一带共有机器一十一座",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0011": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅呕心沥血创立在南海县之机器丝事业",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "复和隆",
+          "relation_text": "改号为",
+          "relation_group": "传承延续",
+          "evidence": "取号日和昌，后又改为复和隆",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "光绪七年",
+          "relation_text": "迁于",
+          "relation_group": "时序归属",
+          "evidence": "于光绪七年（公元一八八一年）底，将继昌隆迁往澳门",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈锦第",
+          "target": "利厚生",
+          "relation_text": "复办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅之侄子陈锦第...利用继昌隆之厂房，复办一小规模之丝厂，名为：利厚生",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "机汽单车",
+          "relation_text": "改制",
+          "relation_group": "人物关联",
+          "evidence": "故再与次子锦篇，变通改制一具名为机汽单车之小型缚丝机",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈锦篇",
+          "target": "机汽单车",
+          "relation_text": "改制",
+          "relation_group": "人物关联",
+          "evidence": "故再与次子锦篇，变通改制一具名为机汽单车之小型缚丝机",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈锦篇",
+          "target": "利贞丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "于是由锦篇在简村另建办一家利贞丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "利贞丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "由锦篇在简村另建办一家利贞丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "复和隆",
+          "target": "简村",
+          "relation_text": "迁回",
+          "relation_group": "空间关联",
+          "evidence": "陈启乃于一八八五年将复和隆丝偶迁回简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0012": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "复和隆丝偈",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启乃于一八八五年将复和隆丝偶迁回简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "复和隆丝偈",
+          "target": "世昌纶",
+          "relation_text": "更名为",
+          "relation_group": "传承延续",
+          "evidence": "新厂取名为世昌纶",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "世昌纶",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "在村边购地建厂，机器更新，规模更大（五百位），新厂取名为世昌纶",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "利厚生",
+          "target": "世昌纶",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "锦所设之利厚生，并入世昌纶",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "其初，继昌隆出产之厂丝...陈启沅为减少中间丝庄环节之分利",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "昌栈号",
+          "relation_text": "开办",
+          "relation_group": "人物关联",
+          "evidence": "自行投资在广州杨仁南街开办昌栈号丝庄",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "昌栈号",
+          "target": "杨仁南街",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "在广州杨仁南街开办昌栈号丝庄",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蒲轩",
+          "target": "昌栈号",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "由次子蒲轩主持",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "张之洞",
+          "target": "李长龄",
+          "relation_text": "委派",
+          "relation_group": "人物关联",
+          "evidence": "张之洞转伤厘务总局委派候补知县李长龄前往各县",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "海关十年报告",
+          "target": "继昌隆",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "以继昌隆为发端之广东厂丝...资料来源：据《海关十年报告》",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "关册",
+          "target": "继昌隆",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "以继昌隆为发端之广东厂丝...及《关册》18941913 综合",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0013": {
+      "relations": []
+    },
+    "chunk_0014": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "于光绪十二。（公元一八八六年）写成《蚕桑谱》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "广东蚕桑谱",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "写成《蚕桑谱》（又名广东蚕桑谱）一书",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "光绪十二年",
+          "relation_text": "成书于",
+          "relation_group": "时序归属",
+          "evidence": "于光绪十二。（公元一八八六年）写成《蚕桑谱》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "光绪二十三年",
+          "relation_text": "刊行于",
+          "relation_group": "时序归属",
+          "evidence": "复于光绪二十三年（公元一八九七年）将此书刻板刊行",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "理气溯源",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "将其心得，写成《理气溯源》七卷",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "周易理数会通",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "写成...《周易理数会通》八卷",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈启沅算学",
+          "relation_text": "编著",
+          "relation_group": "人物关联",
+          "evidence": "写成...《陈启沅算学》十三卷...乃作者寝馈此者十数年...编著而成者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "联吟集",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著《联吟集》...诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "菊宜谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著...《菊宜谱》...诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "农桑谱略",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著...《农桑谱略》...诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "验方拾遗",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著...《验方拾遗》...诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "艺学新篇",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著...《艺学新篇》...诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "课儿尺牍",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "尚有其余所著...《课儿尺牍》诸稿",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0015": {
+      "relations": [
+        {
+          "source": "鬼眼七",
+          "target": "陈启沅",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "陈启沅之目力特佳……乡人因誉称之为鬼眼七",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "尝在家乡简村，遥望西樵山上",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "微雕",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "又善微雕，工绘事",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "绘事",
+          "relation_text": "擅长",
+          "relation_group": "人物关联",
+          "evidence": "又善微雕，工绘事",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "百豫坊",
+          "relation_text": "营建",
+          "relation_group": "营建创造",
+          "evidence": "光绪十三年……陈启沅在继昌隆原址，营建高大坚阔之大屋……总其名曰百豫坊",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "绮亭公祠",
+          "relation_text": "营建",
+          "relation_group": "营建创造",
+          "evidence": "奉祀先人之绮亭公祠一座……总其名曰百豫坊",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "吉水窦",
+          "relation_text": "重修",
+          "relation_group": "营建创造",
+          "evidence": "捐巨金重修简村，先登两堡之吉水窦",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陶模",
+          "target": "陈启沅",
+          "relation_text": "器重",
+          "relation_group": "人物关联",
+          "evidence": "陶模十分器重陈启沅，遂将一锑矿委与办理",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "崇绮",
+          "target": "陈启沅",
+          "relation_text": "题诗赞誉",
+          "relation_group": "人物关联",
+          "evidence": "崇绮……在其题赠给陈启沅之诗中，称誉陈启沅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "百豫坊",
+          "target": "光绪十三年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "光绪十三年（丁亥。公元一八八七年）陈启沅……营建……总其名曰百豫坊",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "百豫坊",
+          "target": "继昌隆",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅在继昌隆原址，营建……总其名曰百豫坊",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "绮亭公祠",
+          "target": "百豫坊",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "奉祀先人之绮亭公祠一座……总其名曰百豫坊",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "吉水窦",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "重修简村，先登两堡之吉水窦",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0016": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "吉水窦",
+          "relation_text": "捐资重修",
+          "relation_group": "营建创造",
+          "evidence": "捐巨金重修简村，先登两堡之吉水窦",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "官山普济善堂",
+          "relation_text": "捐资赞助",
+          "relation_group": "营建创造",
+          "evidence": "又捐巨金于官山普济善堂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "羊城崇正善堂",
+          "relation_text": "捐资赞助",
+          "relation_group": "营建创造",
+          "evidence": "又捐巨金于...羊城崇正善堂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "云泉仙馆",
+          "relation_text": "倡议修缮",
+          "relation_group": "营建创造",
+          "evidence": "倡修西樵山之云泉仙馆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "克勤义学",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "在简村办克勤义学",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "寿世堂",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "设寿世堂药材店",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "世昌纶",
+          "relation_text": "遗留",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅所遗世昌纶、利贞两丝偈",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "利贞",
+          "relation_text": "遗留",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅所遗世昌纶、利贞两丝偈",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《理气溯源》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "据陈启沅著《理气溯源》初集",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅故乡...在简村办克勤义学",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "云泉仙馆",
+          "target": "西樵山",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵山之云泉仙馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "吉水窦",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "重修简村，先登两堡之吉水窦",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《续修南海县志》",
+          "target": "陈启沅",
+          "relation_text": "载有列传",
+          "relation_group": "文献记载",
+          "evidence": "见宣统二年、庚戌，《续修南海县志》...《陈启沅列传》",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "清代",
+          "relation_text": "生活于",
+          "relation_group": "时序归属",
+          "evidence": "见《清代人物传稿》...题：陈启沅",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《续修南海县志》",
+          "target": "宣统二年",
+          "relation_text": "修撰于",
+          "relation_group": "时序归属",
+          "evidence": "见宣统二年、庚戌，《续修南海县志》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0017": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅是南海县原江浦司简村堡简村乡人（现属南海县官山镇简村）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "他在简村乡百豫坊故里，创办了中国第一家民族资本经营的近代机器丝厂，号日继昌隆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "机器缚丝创于简村堡陈启沅...他在简村乡百豫坊故里，创办了...继昌隆",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村",
+          "target": "官山镇",
+          "relation_text": "属于",
+          "relation_group": "从属分类",
+          "evidence": "现属南海县官山镇简村",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈启沅算学",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "见陈启沅著《陈启沅算学》自序",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅算学",
+          "target": "惜阴草堂",
+          "relation_text": "藏板于",
+          "relation_group": "空间关联",
+          "evidence": "《陈启沅算学》（惜阴草堂藏板已丑新刻）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈乃材",
+          "target": "陈启沅算学",
+          "relation_text": "同校",
+          "relation_group": "人物关联",
+          "evidence": "长男 陈乃材召三 同校",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈锦宽",
+          "target": "陈启沅算学",
+          "relation_text": "同校",
+          "relation_group": "人物关联",
+          "evidence": "三舅 陈锦宽竹君 同校",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "崇绮",
+          "target": "陈启沅",
+          "relation_text": "题诗赠",
+          "relation_group": "人物关联",
+          "evidence": "附印崇绮题诗...芷馨仁兄大人雅鉴 愚弟崇绮拜题",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘衍桐",
+          "target": "蚕桑谱",
+          "relation_text": "作序",
+          "relation_group": "人物关联",
+          "evidence": "《蚕桑谱序》潘衍桐谨序",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不谦斋漫存",
+          "target": "陈启沅",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "据：清乌程徐广陛著《不谦斋漫存》卷六、南海书牍，题（字堂乡滋事情形第一）",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "中国近代经济史论文集",
+          "target": "继昌隆",
+          "relation_text": "收录",
+          "relation_group": "文献记载",
+          "evidence": "见 1979 年 4 月《中国近代经济史论文集》...关于继昌隆巢丝厂的若干史料",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "汪敬处",
+          "target": "中国近代经济史论文集",
+          "relation_text": "著文于",
+          "relation_group": "人物关联",
+          "evidence": "汪敬处著，关于继昌隆巢丝厂的若干史料及值得研究的几个问题一文",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈作彬",
+          "target": "陈启沅",
+          "relation_text": "是孙",
+          "relation_group": "传承延续",
+          "evidence": "陈作彬（维则）先生（启沅之孙）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0018": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "机器缚丝创于简村堡陈启沅，名日丝偶",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村堡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "机器缚丝创于简村堡陈启沅",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "继昌隆",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "（见宣统二年庚戌《续修南海县志》...关于继昌隆丝偈的创立时间",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "鬼纽",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "又名鬼纽，以其交洋人也。（见宣统二年庚戌《续修南海县志》",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "广东蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅著《广东蚕桑谱》自序",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "同治十二年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "应该是同治十二年癸酉之秋（即公元 1873 年）...这时就是继昌隆建立投产之时",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "鬼纽",
+          "target": "继昌隆",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "号日继昌隆...又名鬼纽，以其交洋人也",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝偶",
+          "target": "继昌隆",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "号日继昌隆...名日丝偶，以其用机器也",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0019": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝偈",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "仿效西法，创丝厂，教诸乡人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "广东蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "《蚕桑谱》一书是光绪丙戌年陈氏七子岭南畸人启沅稿",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈蒲轩",
+          "target": "陈启沅",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "陈启沅的儿子陈蒲轩说：先父芷馨公……以同治癸酉年归家，仿效西法，创丝厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝偈",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "把这两者绪合在一块的课堂和实验室，就是继旨隆丝偈……一八七二年，简村人陈启沅",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广东蚕桑谱",
+          "target": "光绪十二年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "《蚕桑谱》一书是光绪丙戌年陈氏七子岭南畸人启沅稿……而丙戌年即光绪十二年",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈联泰号",
+          "relation_text": "合作制造",
+          "relation_group": "人物关联",
+          "evidence": "陈启沉和广州陈联泰号合作制造，并安装在继昌隆丝偶的略与西人所制大同而小异的新制的丝之器",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "陈启沅",
+          "relation_text": "合作制造",
+          "relation_group": "人物关联",
+          "evidence": "他的曾祖父陈淡浦和陈启沅合作制造丝机器的情况",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "奇和堂药局",
+          "target": "广东蚕桑谱",
+          "relation_text": "藏有",
+          "relation_group": "社群组织",
+          "evidence": "见奇和堂药局藏板《广东蚕桑谱》封二页所刻",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "岭南畸人",
+          "relation_text": "自号",
+          "relation_group": "从属分类",
+          "evidence": "陈氏七子岭南畸人启沅稿",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0020": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "一八七二年，简村人陈启沅从越南带回旧轮船机器一套",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆汽机巢丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅在简村成立了继昌隆汽机巢丝厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《理气溯源》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅著《理气溯源》卷一的例言之六、七内有云",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "陈启沅",
+          "relation_text": "合作",
+          "relation_group": "传承延续",
+          "evidence": "说他的曾祖父陈淡浦和陈启沅合作制造丝机器的情况",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈联泰",
+          "target": "继昌隆汽机巢丝厂",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "由陈联泰负责巢丝机器的改造和安装……至一八七三年工程全部完成。陈启沅在简村成立了继昌隆汽机巢丝厂",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆汽机巢丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅在简村成立了继昌隆汽机巢丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《续修南海县志》",
+          "target": "陈启沅",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "在宣统二年庚戌《续修南海县志》卷二十一的陈启沅列传则只载卒年六十有九",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《理气溯源》",
+          "target": "甲申之岁",
+          "relation_text": "成书于",
+          "relation_group": "时序归属",
+          "evidence": "是书成于甲申之岁",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪二十九年",
+          "relation_text": "逝世于",
+          "relation_group": "人物关联",
+          "evidence": "光绪二十九年（公元 1903 年）旧历七月初三，陈启沅去",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0021": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "道光十四年",
+          "relation_text": "生于",
+          "relation_group": "时序归属",
+          "evidence": "推定：陈启沅当生于道光十四年，即公元 1834 年",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "光绪二十九年",
+          "relation_text": "卒于",
+          "relation_group": "时序归属",
+          "evidence": "卒于光绪二十九年，即公元 1903 年",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "鹧鸪岗",
+          "relation_text": "葬于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅去世...葬于小塘）今属南海县小塘镇）鹧鸪岗",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "鹧鸪岗",
+          "target": "小塘镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "葬于小塘）今属南海县小塘镇）鹧鸪岗",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "陈蒲轩",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《续修南海县志》卷末载...则是陈蒲轩为彰乃父之德而用花翎道衔陈启沅的名义捐钱的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "由该村陈启沅创办...广东第一间蒸汽丝厂继昌隆",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村乡",
+          "relation_text": "设于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆缚丝厂...设在广东南海县西樵的简村乡",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村乡",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "设在广东南海县西樵的简村乡",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈天杰",
+          "target": "怡昌荫",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "天杰曾到安南，于安南工读时，常在启沅、启枢开设之怡昌荫居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫",
+          "relation_text": "开设",
+          "relation_group": "人物关联",
+          "evidence": "常在启沅、启枢开设之怡昌荫居住",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "五层楼博物馆",
+          "target": "继昌隆",
+          "relation_text": "陈列",
+          "relation_group": "文化表征",
+          "evidence": "近偶到广州市五层楼博物馆见陈列继昌隆丝厂的简介",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0022": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "由该村陈启沅创办……启枢、启沅原在本乡简村教蒙馆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "启枢、启沅原在本乡简村教蒙馆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆巢丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "由该村陈启沅创办……致力于继昌隆巢丝厂的，只陈启沅、陈启枢两人",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "继昌隆巢丝厂",
+          "relation_text": "经营",
+          "relation_group": "人物关联",
+          "evidence": "致力于继昌隆巢丝厂的，只陈启沅、陈启枢两人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "吉水",
+          "relation_text": "姻亲于",
+          "relation_group": "人物关联",
+          "evidence": "其妻本为邻乡吉水麦姓之女",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "麦宪培",
+          "target": "陈启枢",
+          "relation_text": "资助",
+          "relation_group": "人物关联",
+          "evidence": "岳父麦宪培……一面并资助陈启枢以盘川，着其远渡安南",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "安南",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "回国偕同启沅赴安南……启枢、启沅在安南合力经营商业日益发展",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "安南",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "回国偕同启沅赴安南……启枢、启沅在安南合力经营商业日益发展",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫号",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "先设有怡昌荫号，经营杂货纱绸",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "怡昌荫号",
+          "relation_text": "设立",
+          "relation_group": "营建创造",
+          "evidence": "先设有怡昌荫号，经营杂货纱绸",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "堤岸怡手饷当",
+          "relation_text": "承办",
+          "relation_group": "营建创造",
+          "evidence": "后又承办了堤岸怡手饷当",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "堤岸怡手饷当",
+          "relation_text": "承办",
+          "relation_group": "营建创造",
+          "evidence": "后又承办了堤岸怡手饷当",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "后期著有《蚕桑谱》与《启沅算学》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《陈启沅算学》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "所著《陈启沅算学》十三卷，其中有涉及蒸汽锅炉",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "咸丰四年",
+          "relation_text": "行于",
+          "relation_group": "时序归属",
+          "evidence": "乃回国偕同启沅赴安南，时在 1854 年（咸丰四年甲寅）秋间事",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "咸丰四年",
+          "relation_text": "行于",
+          "relation_group": "时序归属",
+          "evidence": "乃回国偕同启沅赴安南，时在 1854 年（咸丰四年甲寅）秋间事",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "同治十一年",
+          "relation_text": "计划于",
+          "relation_group": "时序归属",
+          "evidence": "1872 年（同治十一年壬申），陈启沅、启枢在安南的生意……但启沅有心回国计划倡办",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0023": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创设",
+          "relation_group": "营建创造",
+          "evidence": "启沅回国后，即着手创设继昌隆丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "继昌隆丝厂",
+          "relation_text": "筹措资金",
+          "relation_group": "营建创造",
+          "evidence": "全由陈启枢由安南先后汇返，因此继昌隆的股金，悉为他兄弟二人投资",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "因此厂址择定在本乡的简村",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "同治十一年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "1872 年（同治十一年壬申）...启沅回国后，即着手创设继昌隆丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "安南",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅、启枢在安南的生意，正蓬勃有为",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "安南",
+          "relation_text": "留驻于",
+          "relation_group": "人物关联",
+          "evidence": "陈启枢则仍留在安南生理商务",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村",
+          "target": "南海",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "蚕茧本出自南海、顺德地区...厂址择定在本乡的简村",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "南海",
+          "relation_text": "原料来自",
+          "relation_group": "空间关联",
+          "evidence": "蚕茧本出自南海、顺德地区，原料的采购，最为使当",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "顺德",
+          "relation_text": "原料来自",
+          "relation_group": "空间关联",
+          "evidence": "蚕茧本出自南海、顺德地区，原料的采购，最为使当",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0024": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "继昌隆由 1873 年（同治十二年癸酉）春间开始筹建",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "设计",
+          "relation_group": "营建创造",
+          "evidence": "机器安装，全由陈启沅自行设计",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "陈启沅",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆最初厂址，就在陈启沅祖屋旁边的空地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈维泰机器店",
+          "target": "继昌隆丝厂",
+          "relation_text": "承建",
+          "relation_group": "营建创造",
+          "evidence": "初在广州十八甫陈维泰机器店定制和购买现成的铁具回厂装置",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "足踩式丝工作位",
+          "relation_text": "设有",
+          "relation_group": "从属分类",
+          "evidence": "建有...足踩式的丝工作位三百个",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "滚丝轮木架",
+          "target": "继昌隆丝厂",
+          "relation_text": "用于",
+          "relation_group": "文化表征",
+          "evidence": "滚丝轮木架，即丝工具...把丝滚上制为成品",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "同治十二年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "继昌隆由 1873 年（同治十二年癸酉）春间开始筹建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "同治十三年",
+          "relation_text": "建成于",
+          "relation_group": "时序归属",
+          "evidence": "至翌年（1874 同治十三年甲戌）秋冬之",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0025": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "继昌隆缫丝厂创办者，担任司理",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "同治十二年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "继昌隆由 1873 年（同治十二年癸酉）春间开始筹建",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "同治十三年",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "至 翌年（1874 同治十三年甲戌）秋冬之交，大致就绪，正式开始生产",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "简村...继昌隆缫丝厂所在地",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅故乡...简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "杏头村",
+          "target": "继昌隆",
+          "relation_text": "供给",
+          "relation_group": "社群组织",
+          "evidence": "杏头村占百人左右",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "吉水村",
+          "target": "继昌隆",
+          "relation_text": "供给",
+          "relation_group": "社群组织",
+          "evidence": "吉水村占五十余人",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "龙仍村",
+          "target": "继昌隆",
+          "relation_text": "供给",
+          "relation_group": "社群组织",
+          "evidence": "龙仍村...占二、三十人",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "自梳女",
+          "target": "继昌隆",
+          "relation_text": "构成",
+          "relation_group": "社群组织",
+          "evidence": "年达廿五岁以上的女工，十之八九是自梳女",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大偈",
+          "target": "继昌隆",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "机器部分的大偈（即师傅）助手等共三十多人",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0026": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在创办继昌隆的同时又斥资数千元",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "永生号米机",
+          "relation_text": "开办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在创办继昌隆的同时又斥资数千元...开办永生号米机",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆缫丝厂所在地...多到简村买米",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "永生号米机",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "从广州整批购运回到简村...先后设立之后",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0027": {
+      "relations": []
+    },
+    "chunk_0028": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启枢，陈启沅兄弟俩自到安南经商获利后，未办继昌隆前",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启枢，陈启沅兄弟俩自到安南经商获利后，未办继昌隆前",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆缫丝厂所在地...简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅故乡...简村",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "对乡中的年老无依寡妇，散发施米薄，简村...三条村的米簿",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "杏头",
+          "relation_text": "施舍于",
+          "relation_group": "人物关联",
+          "evidence": "简村，否头，龙仍三条村的米簿，发放数约于个",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "杏头",
+          "relation_text": "施舍于",
+          "relation_group": "人物关联",
+          "evidence": "简村，否头，龙仍三条村的米簿，发放数约于个",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "龙仍",
+          "relation_text": "施舍于",
+          "relation_group": "人物关联",
+          "evidence": "简村，否头，龙仍三条村的米簿，发放数约于个",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "龙仍",
+          "relation_text": "施舍于",
+          "relation_group": "人物关联",
+          "evidence": "简村，否头，龙仍三条村的米簿，发放数约于个",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "巢丝",
+          "relation_text": "主营",
+          "relation_group": "社群组织",
+          "evidence": "在丝厂的工种...主要分巢丝、剥茧皮",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "剥茧皮",
+          "relation_text": "主营",
+          "relation_group": "社群组织",
+          "evidence": "在丝厂的工种...主要分巢丝、剥茧皮",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "挑花勒线",
+          "relation_text": "主营",
+          "relation_group": "社群组织",
+          "evidence": "主要分...派茧、挑花勒线等",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "官山圩",
+          "target": "简村",
+          "relation_text": "并列于",
+          "relation_group": "从属分类",
+          "evidence": "老妇们凭米簿可以到简村或官山圩指定的米店",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0029": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在家乡创办的中国第一家民族资本经营的机器缫丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵一带，为数颇多...继昌隆正式生产之后",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "东莞",
+          "relation_text": "收购于",
+          "relation_group": "空间关联",
+          "evidence": "并派人到东莞、顺德、香山（今中山）等县收购",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "顺德",
+          "relation_text": "收购于",
+          "relation_group": "空间关联",
+          "evidence": "并派人到东莞、顺德、香山（今中山）等县收购",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "香山",
+          "relation_text": "收购于",
+          "relation_group": "空间关联",
+          "evidence": "并派人到东莞、顺德、香山（今中山）等县收购",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "人和茧市",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "宫山圩便有人和董市...在官山圩口鼎足排特",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大公茧市",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "后更有大公茧市、共丰年茧市出现...在官山圩口鼎足排特",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "共丰年茧市",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "后更有大公茧市、共丰年茧市出现...在官山圩口鼎足排特",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "福城茧市",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "宫山圩便有人和董市，福城茧市出现",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "人和茧市",
+          "relation_text": "持股于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沉占有外股，但不多",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0030": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "继昌隆缫丝厂创办者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "蒸汽丝机",
+          "relation_text": "设计制造",
+          "relation_group": "人物关联",
+          "evidence": "对自已设计造出的种单人或二三人用的轻便蒸汽丝机",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "原址位于",
+          "relation_group": "空间关联",
+          "evidence": "原址位于南海简村",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "西樵",
+          "relation_text": "运出地",
+          "relation_group": "空间关联",
+          "evidence": "由西樵运出广州",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "同治十三年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "1874 年，继昌隆开工",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "光绪四年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "当继昌隆的产品刚合外销条件的时候（大约光绪四年初）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "锦笏",
+          "target": "利厚生丝偈",
+          "relation_text": "经营",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅之侄锦笏在简村利用继昌隆原设的厂具，小规模经营了利厚生丝偈",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "利厚生丝偈",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "锦笏在简村...经营了利厚生丝偈",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蒲轩",
+          "target": "昌栈丝庄",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "由第二子蒲轩上持，专营继昌隆的生丝外销",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "昌栈丝庄",
+          "target": "扬仁南街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "自设一昌栈丝庄于广州扬仁南街",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "昌栈丝庄",
+          "target": "继昌隆",
+          "relation_text": "专营",
+          "relation_group": "社群组织",
+          "evidence": "专营继昌隆的生丝外销",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "经纶堂",
+          "target": "继昌隆",
+          "relation_text": "反对",
+          "relation_group": "社群组织",
+          "evidence": "首先引起经纶堂的丝织工人...曾放出要纠众拆褐的空气",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0031": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1874 年陈启沅创办的中国第一家民族资本经营的机器缫丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于南海简村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "鬼红",
+          "target": "继昌隆",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "一般人给继昌隆的丝厂又一个名称日鬼红",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "寿世堂",
+          "relation_text": "开设",
+          "relation_group": "营建创造",
+          "evidence": "斥资开设寿世堂药材店",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "克勤义学",
+          "relation_text": "开办",
+          "relation_group": "营建创造",
+          "evidence": "开办克勤义学，延请本村的秀才为教师",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "吉水窦",
+          "relation_text": "捐资修筑",
+          "relation_group": "营建创造",
+          "evidence": "捐巨资，修筑言水与简村接壤处大路中之吉水窦",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "云泉仙馆",
+          "relation_text": "倡修",
+          "relation_group": "营建创造",
+          "evidence": "倡修简村至官山必经之云泉仙馆",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "桑园围",
+          "relation_text": "参与倡修",
+          "relation_group": "营建创造",
+          "evidence": "倡修桑园围等水利工程，且亲董其事",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈植",
+          "target": "裕厚昌丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "创办人是南海举人陈植、陈植恕等",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈植恕",
+          "target": "裕厚昌丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "创办人是南海举人陈植、陈植恕等",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "裕厚昌丝厂",
+          "target": "学堂村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于学堂村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "经纶堂",
+          "target": "裕厚昌丝厂",
+          "relation_text": "捣毁",
+          "relation_group": "社群组织",
+          "evidence": "被经纶堂中人纠集邻近十多二十里一带的村人...闯入捣乱，很多机位被毁",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "裕厚昌丝厂",
+          "target": "光绪七年",
+          "relation_text": "毁于",
+          "relation_group": "时序归属",
+          "evidence": "1881 年（光绪七年）春夏之间...闯入捣乱，很多机位被毁",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0032": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅与南海县纺织工业史专辑...继昌隆丝厂创办者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "本想再到简村捣乱继昌隆的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "裕厚昌",
+          "target": "学堂村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "闯入捣乱...于捣乱裕厚昌后...未到学堂村之前",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "官山",
+          "relation_text": "求援于",
+          "relation_group": "人物关联",
+          "evidence": "一面报告驻在官山清兵",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐陛",
+          "target": "继昌隆",
+          "relation_text": "下令停办",
+          "relation_group": "人物关联",
+          "evidence": "发出官示...并伤继昌隆亦要停办",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐陛",
+          "target": "裕厚昌",
+          "relation_text": "禁止复工",
+          "relation_group": "人物关联",
+          "evidence": "发出官示，禁止裕厚昌复工",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "经纶堂",
+          "target": "裕厚昌",
+          "relation_text": "纠众捣乱",
+          "relation_group": "社群组织",
+          "evidence": "说有经纶堂工人，纠集土匪千余人，捣乱丝厂",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "澳门",
+          "relation_text": "迁往",
+          "relation_group": "人物关联",
+          "evidence": "乃决定将继昌隆迁往澳门",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "卢九",
+          "relation_text": "合作建厂",
+          "relation_group": "人物关联",
+          "evidence": "物色澳门土著卢九与之商定合作办法之后，即决定正式进广",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《捷报》",
+          "target": "陈启沅",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "当澳门日报（似是《捷报》记忆不清）曾有记载",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0033": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅创办的中国第一家民族资本经营的机器缫丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "原址位于南海简村",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "世昌纶",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "继昌隆迁回简村后改名的丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "世昌纶",
+          "target": "民国十七年",
+          "relation_text": "结束于",
+          "relation_group": "时序归属",
+          "evidence": "继续经营至 1928 年（民国十七年）才结束",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "昌栈丝庄",
+          "relation_text": "开设",
+          "relation_group": "人物关联",
+          "evidence": "在广州开设昌栈丝庄",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈廉伯",
+          "target": "世昌纶",
+          "relation_text": "培养于",
+          "relation_group": "人物关联",
+          "evidence": "由世昌纶培养成为汇丰买办",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "勒流",
+          "relation_text": "招工于",
+          "relation_group": "空间关联",
+          "evidence": "转向顺德之勒流、香山之石岐两处物色",
+          "confidence": 0.89,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "石岐",
+          "relation_text": "招工于",
+          "relation_group": "空间关联",
+          "evidence": "结果在勒流找得七、八人，石岐我得约十人",
+          "confidence": 0.89,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0034": {
+      "relations": [
+        {
+          "source": "经纶堂",
+          "target": "西樵",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "西樵是南海县丝机织业较多（除佛山）的地区……西礁的经纶堂，还延聘有秀才、贡生之类为文案",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "简村",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵是南海县丝机织业较多（除佛山）的地区，据不完全统计，只简村、大岗、民乐市、大素围等几十乡村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大岗",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵是南海县丝机织业较多（除佛山）的地区，据不完全统计，只简村、大岗、民乐市、大素围等几十乡村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "民乐市",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵是南海县丝机织业较多（除佛山）的地区，据不完全统计，只简村、大岗、民乐市、大素围等几十乡村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大素围",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "西樵是南海县丝机织业较多（除佛山）的地区，据不完全统计，只简村、大岗、民乐市、大素围等几十乡村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "继昌隆丝厂的创办者与经营者……它的标志就是我国近代第家机器丝厂一一继昌隆丝厂的创办",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "足踏机",
+          "target": "手摇机",
+          "relation_text": "替代",
+          "relation_group": "传承延续",
+          "evidence": "光绪初年，开始制作了足踏机，俗称踩，代替了手药（即手摇机）",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "七里丝",
+          "target": "辑里丝",
+          "relation_text": "又名",
+          "relation_group": "从属分类",
+          "evidence": "这里所制的土丝，也称七里丝或辑里丝",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "手摇机",
+          "target": "清朝",
+          "relation_text": "盛行于",
+          "relation_group": "时序归属",
+          "evidence": "到了清朝咸丰同治年间，仍然是以这种小农生产方式经营丝业……采用自制的手摇机进行丝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "足踏机",
+          "target": "光绪",
+          "relation_text": "始制于",
+          "relation_group": "时序归属",
+          "evidence": "光绪初年，开始制作了足踏机",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0035": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "西樵乡简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅，字芷馨……是广东南海西樵乡简村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "1873 年，中国第一个民族资本的机器丝厂一一继昌隆缴丝厂……正式创办起来",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "西樵乡简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆缴丝厂，在广州南海县西樵乡简村正式创办起来",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "陈启沅",
+          "relation_text": "资助",
+          "relation_group": "传承延续",
+          "evidence": "其兄陈启枢，因在南洋经商富裕，回家乡把启沅接到南洋",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "怡昌荫号",
+          "relation_text": "开办",
+          "relation_group": "人物关联",
+          "evidence": "启枢、启沉兄弟在南洋开办了怡昌荫号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫号",
+          "relation_text": "开办",
+          "relation_group": "人物关联",
+          "evidence": "启枢、启沉兄弟在南洋开办了怡昌荫号",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "咸丰四年",
+          "relation_text": "赴南洋于",
+          "relation_group": "时序归属",
+          "evidence": "1854 年（咸丰四年），其兄陈启枢……把启沅接到南洋",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "同治十一年",
+          "relation_text": "回国于",
+          "relation_group": "时序归属",
+          "evidence": "1872 年（同治十一年），陈启沅携资从南洋回国",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0036": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "西樵乡简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在筹建继昌隆丝厂时……把厂址设在自已的家乡一一南海西樵乡简村",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在筹建继昌隆丝厂时……正式创办起来",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "西樵乡简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "把厂址设在自已的家乡一一南海西樵乡简村百豫坊陈家本宅",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "百豫坊",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "把厂址设在自已的家乡一一南海西樵乡简村百豫坊陈家本宅",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "百豫坊",
+          "target": "西樵乡简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南海西樵乡简村百豫坊陈家本宅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "昌栈丝庄",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅为了减少广州丝庄的中间抽成，就在广州自设昌栈丝庄",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈蒲轩",
+          "target": "昌栈丝庄",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "由其儿子陈蒲轩直接主持外销工作，独自经营厂丝的出口贸易",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈蒲轩",
+          "target": "陈启沅",
+          "relation_text": "师承",
+          "relation_group": "传承延续",
+          "evidence": "由其儿子陈蒲轩直接主持外销工作",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "广东厂丝",
+          "relation_text": "承载",
+          "relation_group": "文化表征",
+          "evidence": "以继昌隆巢丝广为主的广东广丝，代替了在国际市场上败退下来的土丝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0037": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅创办继昌隆丝厂，曾遇到很大阻力",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县志",
+          "target": "继昌隆丝厂",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《南海县志）记载，继昌隆丝厂开办后，期年而获重利",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐陛",
+          "target": "继昌隆丝厂",
+          "relation_text": "下令禁止",
+          "relation_group": "人物关联",
+          "evidence": "于是下令禁止继昌'隆丝厂开办",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "光绪七年",
+          "target": "南海裕昌厚丝厂",
+          "relation_text": "发生捣毁事件于",
+          "relation_group": "时序归属",
+          "evidence": "1881 年（光绪七年）10 月 5 日，一于多人...先包围了南海裕昌厚丝厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0038": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆巢丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅于 1873 年在南海创办的中国第一家民族资本机器缫丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆巢丝厂",
+          "target": "复和隆丝厂",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "把继昌隆巢丝厂从南海迁移到澳门，并改厂名为复和隆丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "复和隆丝厂",
+          "target": "世昌纶丝厂",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "重新迁回南海简村，又更名为世昌纶丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆巢丝厂",
+          "target": "南海简村",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "丝厂在澳门经营了三年以后重新迁回南海简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "小式丝机",
+          "relation_text": "设计改制",
+          "relation_group": "营建创造",
+          "evidence": "他亲自设计改制成的小式丝机",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "锦纶行",
+          "target": "继昌隆巢丝厂",
+          "relation_text": "反对",
+          "relation_group": "社群组织",
+          "evidence": "手工绑丝业者在其行会锦纶行的鼓动下，说机器·丝厂排挤了手工丝业者的地位",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "复和隆丝厂",
+          "target": "光绪七年",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "于当年（1881 年）把继昌隆巢丝厂从南海迁移到澳门，并改厂名为复和隆丝厂",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0039": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅...十九世纪七十年代创办继昌隆丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "南海",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆丝厂...位于南海",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0040": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆缫丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅...创办近代机器丝工厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅：《蚕桑谱·自序》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "光绪二十九年",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "《蚕桑谱·自序》，光绪二十九年重刊",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "黄逸平",
+          "target": "中国近代经济史论文选集",
+          "relation_text": "编著",
+          "relation_group": "人物关联",
+          "evidence": "转引自黄逸平：《中国近代经济史论文选集》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "孙毓棠",
+          "target": "中国近代工业史资料",
+          "relation_text": "编著",
+          "relation_group": "人物关联",
+          "evidence": "孙毓棠：《中国近代工业史资料》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "汪敬虞",
+          "target": "继昌隆缫丝厂",
+          "relation_text": "研究",
+          "relation_group": "人物关联",
+          "evidence": "汪敬虞：《关于继昌隆缴丝厂的若于史料及值得研究的几个问题》",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "继昌隆缫丝厂",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《继修南海县志》卷 26...关于继昌隆丝厂的若干史料",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0041": {
+      "relations": []
+    },
+    "chunk_0042": {
+      "relations": [
+        {
+          "source": "黄晋荃",
+          "target": "黄佐卿",
+          "relation_text": "是之子",
+          "relation_group": "传承延续",
+          "evidence": "就是前面提到的丝厂主黄佐卿的儿子黄晋荃",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "张之洞",
+          "target": "苏经丝厂",
+          "relation_text": "筹办",
+          "relation_group": "营建创造",
+          "evidence": "一八九五年张之洞一度调任两江总督，又在苏州筹办一个苏经丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陆润",
+          "target": "苏经丝厂",
+          "relation_text": "主持厂务",
+          "relation_group": "社群组织",
+          "evidence": "主持厂务的是一个在籍官僚陆润",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "祝承桂",
+          "target": "苏经丝厂",
+          "relation_text": "接手包办",
+          "relation_group": "社群组织",
+          "evidence": "一年以后即由商人祝承桂接手包办",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "梅启照",
+          "target": "清代",
+          "relation_text": "任职于",
+          "relation_group": "时序归属",
+          "evidence": "这个大官僚在一八七九在任浙江巡抚时",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆巢丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅在广东南海创办的继昌隆巢丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆巢丝厂",
+          "target": "清代",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "这个在一八七三年成立的丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0043": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝偈",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "说到第一个缴丝工厂之在珠江三角洲上南海的出现，就不能不首先说到这个工厂的创办者一陈启沅...办一个名叫继昌隆丝偶的巢丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "南海县",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅是广东南海的一个华侨商人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝偈",
+          "target": "南海县",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "说到第一个缴丝工厂之在珠江三角洲上南海的出现",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县",
+          "target": "顺德",
+          "relation_text": "相邻",
+          "relation_group": "空间关联",
+          "evidence": "当时南海和邻县顺德、三水、新会等地",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县",
+          "target": "三水",
+          "relation_text": "相邻",
+          "relation_group": "空间关联",
+          "evidence": "当时南海和邻县顺德、三水、新会等地",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县",
+          "target": "新会",
+          "relation_text": "相邻",
+          "relation_group": "空间关联",
+          "evidence": "当时南海和邻县顺德、三水、新会等地",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0044": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "办一个名叫继昌隆丝偶的巢丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "机汽大偈",
+          "relation_text": "设计",
+          "relation_group": "人物关联",
+          "evidence": "所用的机器当时叫做机汽大偈...还保存了他所设计的机汽大偶的图样",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "在陈启沅晚年所著的《蚕桑谱》中",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆丝厂设在简村百像坊陈氏本宅",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "百像坊",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆丝厂设在简村百像坊陈氏本宅",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "陈氏本宅",
+          "relation_text": "设立于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆丝厂设在简村百像坊陈氏本宅",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "百像坊",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "继昌隆丝厂设在简村百像坊陈氏本宅",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《蚕桑谱》",
+          "target": "机汽大偈",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "在陈启沅晚年所著的《蚕桑谱》中，还保存了他所设计的机汽大偶的图样",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0045": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅与南海县纺织工业史专辑...创办继昌隆丝偈",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "珠江三角洲",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "新式巢丝工业在珠江三角洲以极其迅速的步伐向前发展...第一个丝偈开始",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广州",
+          "target": "珠江三角洲",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "涵盖广州、顺德、南海等地",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "顺德",
+          "target": "珠江三角洲",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "涵盖广州、顺德、南海等地",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "三水",
+          "target": "顺德",
+          "relation_text": "邻近",
+          "relation_group": "空间关联",
+          "evidence": "在邻近南海顺德的三水",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0046": {
+      "relations": []
+    },
+    "chunk_0047": {
+      "relations": []
+    },
+    "chunk_0048": {
+      "relations": []
+    },
+    "chunk_0049": {
+      "relations": []
+    },
+    "chunk_0050": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅...继昌隆丝厂的创办者",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "南海县第一家机器缫丝厂，位于简村",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "锦纶行",
+          "target": "裕昌厚",
+          "relation_text": "捣毁",
+          "relation_group": "社群组织",
+          "evidence": "组织在手工业行会锦纶行的手织工人...捣毁了裕昌厚丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0051": {
+      "relations": []
+    },
+    "chunk_0052": {
+      "relations": []
+    },
+    "chunk_0053": {
+      "relations": []
+    },
+    "chunk_0054": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅：《蚕桑谱·自序》，光绪 29 年重刊",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "宣统 2 年",
+          "relation_text": "修于",
+          "relation_group": "时序归属",
+          "evidence": "何炳坤等：《续修南海县志》...宣统 2 年修",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0055": {
+      "relations": []
+    },
+    "chunk_0056": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "摘自：陈启沅著《蚕桑谱》卷之二、论巢丝法",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐陛",
+          "target": "一八八一年",
+          "relation_text": "任职于",
+          "relation_group": "时序归属",
+          "evidence": "按：徐在一八八一年曾为南海县令",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "续修南海县志",
+          "target": "陈启沅",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《续修南海县志》卷 26...赞陈启沅引进我县第一套近代机器丝设备",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0057": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "简村人陈启沅",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆汽机巢丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅在简村成立了继昌隆汽机巢丝厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "摘自：陈启沅著《蚕桑谱》",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆汽机巢丝厂",
+          "target": "简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅在简村成立了继昌隆汽机巢丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈联泰",
+          "target": "继昌隆汽机巢丝厂",
+          "relation_text": "修建",
+          "relation_group": "营建创造",
+          "evidence": "由陈联泰负责丝机器的改造和安装工作",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈淡浦",
+          "target": "继昌隆汽机巢丝厂",
+          "relation_text": "参与筹建",
+          "relation_group": "人物关联",
+          "evidence": "就同（陈）淡浦商量，由陈联泰负责丝机器的改造和安装工作",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "癸酉之秋",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "沅遂于癸酉之秋，仿西人缚丝之法（摘自：陈启沅著《蚕桑谱》蚕桑谱自序）",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "葛岸",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "其上等之丝，日龙山、日葛岸（摘自：陈启沅著《蚕桑谱》卷之二、论缴丝法）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "龙山",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "其上等之丝，日龙山、日葛岸（摘自：陈启沅著《蚕桑谱》卷之二、论缴丝法）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "山塘",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "其下等之丝，白山塘、日肇庆（摘自：陈启沅著《蚕桑谱》卷之二、论缴丝法）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "肇庆",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "其下等之丝，白山塘、日肇庆（摘自：陈启沅著《蚕桑谱》卷之二、论缴丝法）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "蚕桑谱",
+          "target": "古镇",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "其次日沙丝、曰古镇（摘自：陈启沅著《蚕桑谱》卷之二、论缴丝法）",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0058": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "《蚕桑谱》",
+          "relation_text": "著有",
+          "relation_group": "人物关联",
+          "evidence": "摘自：陈启沅著《蚕桑谱》蚕桑谱自序",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《续修南海县志》",
+          "target": "陈启沅",
+          "relation_text": "载有",
+          "relation_group": "文献记载",
+          "evidence": "宣统二年、庚戎《续修南海县志》卷二十一、陈启沅列传",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "李长龄",
+          "target": "光绪十三年",
+          "relation_text": "查办于",
+          "relation_group": "人物关联",
+          "evidence": "候补知县李长龄前往各县，逐一确查...摘自：厘务总局详光绪十三年六月详",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《续修南海县志》",
+          "target": "宣统二年",
+          "relation_text": "编修于",
+          "relation_group": "时序归属",
+          "evidence": "宣统二年、庚戎《续修南海县志》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0059": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "教授于",
+          "relation_group": "人物关联",
+          "evidence": "回到简村，才亲自教授给乡人的",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "陈联泰号",
+          "relation_text": "合作制造",
+          "relation_group": "营建创造",
+          "evidence": "回到广州，与陈联泰号合作，器，即他自已所说的新制巢丝之器",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "蚕桑谱",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "借用陈启沅蚕桑谱自序的结语",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "安南",
+          "relation_text": "经商于",
+          "relation_group": "人物关联",
+          "evidence": "到安南（今称越南）西贡之提岸经商",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "怡昌荫号",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "初时是怡昌荫号",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈锦篇",
+          "target": "陈启沅",
+          "relation_text": "协助",
+          "relation_group": "传承延续",
+          "evidence": "乃再与次儿锦篇，变通改制一具",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "迷信恶习",
+          "target": "安南",
+          "relation_text": "流行于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅在堤岸营商期间，见当地土人有一迷信恶习",
+          "confidence": 0.91,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0060": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "广东会馆",
+          "relation_text": "筹款修建",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅有见及此，出于人道同情之心，乃在广东会馆！72 筹出一笔钱，择地建成几间洁净之砖屋",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "万国缔盟红十字会",
+          "relation_text": "邀请主理",
+          "relation_group": "人物关联",
+          "evidence": "其后，又请万国缔盟红十字会（国际红十字会）组织帮助，派出医护人员，在那里主理接生",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "鸡米酒",
+          "relation_text": "带头破除",
+          "relation_group": "人物关联",
+          "evidence": "单表陈启沅毅然带头破除鸡米酒陋俗",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "百豫坊",
+          "target": "鸡米酒",
+          "relation_text": "革除习俗",
+          "relation_group": "社群组织",
+          "evidence": "凡是百豫坊的人...今后 73 不论男婚女嫁，到落家时，一律不搞鸡米酒",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "西樵",
+          "target": "鸡米酒",
+          "relation_text": "存在陋习",
+          "relation_group": "空间关联",
+          "evidence": "清朝时代，西樵附近一带乡村，在婚嫁俗习当中，有不落家、鸡米酒等陋习",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "西樵",
+          "target": "不落家",
+          "relation_text": "存在陋习",
+          "relation_group": "空间关联",
+          "evidence": "清朝时代，西樵附近一带乡村，在婚嫁俗习当中，有不落家、鸡米酒等陋习",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不落家",
+          "target": "清明节",
+          "relation_text": "包含节日",
+          "relation_group": "从属分类",
+          "evidence": "只有逢年（旧历春节）过节（如清明、端午、中秋、重阳、冬至等）...才到夫家居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不落家",
+          "target": "端午节",
+          "relation_text": "包含节日",
+          "relation_group": "从属分类",
+          "evidence": "只有逢年（旧历春节）过节（如清明、端午、中秋、重阳、冬至等）...才到夫家居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不落家",
+          "target": "中秋节",
+          "relation_text": "包含节日",
+          "relation_group": "从属分类",
+          "evidence": "只有逢年（旧历春节）过节（如清明、端午、中秋、重阳、冬至等）...才到夫家居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不落家",
+          "target": "重阳节",
+          "relation_text": "包含节日",
+          "relation_group": "从属分类",
+          "evidence": "只有逢年（旧历春节）过节（如清明、端午、中秋、重阳、冬至等）...才到夫家居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "不落家",
+          "target": "冬至",
+          "relation_text": "包含节日",
+          "relation_group": "从属分类",
+          "evidence": "只有逢年（旧历春节）过节（如清明、端午、中秋、重阳、冬至等）...才到夫家居住",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0061": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "鸡米酒",
+          "relation_text": "带头废除",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅带头废除该陋习",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅和他二哥启枢、三哥启标在家乡简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅和他二哥启枢、三哥启标在家乡简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启标",
+          "target": "简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅和他二哥启枢、三哥启标在家乡简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "安南西贡",
+          "relation_text": "出洋谋生于",
+          "relation_group": "人物关联",
+          "evidence": "启枢自已则出洋谋生去了……陈启枢在安南西贡",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "休书",
+          "relation_text": "撰写",
+          "relation_group": "人物关联",
+          "evidence": "传说当时陈启枢曾经写下休书一纸给其妻子",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "休书",
+          "relation_text": "吞下",
+          "relation_group": "人物关联",
+          "evidence": "把那休书撕碎，往咀里一塞，吞烟下肚",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "麦宪培",
+          "target": "言水村",
+          "relation_text": "居住于",
+          "relation_group": "人物关联",
+          "evidence": "往言水村麦宪培家恭迎二嫂",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启枢",
+          "target": "麦宪培",
+          "relation_text": "岳父是",
+          "relation_group": "人物关联",
+          "evidence": "送到岳父麦宪培家里去",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈作彬",
+          "target": "陈启沅",
+          "relation_text": "孙子是",
+          "relation_group": "传承延续",
+          "evidence": "陈作彬（启沅孙）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈小灯",
+          "target": "陈启枢",
+          "relation_text": "曾孙是",
+          "relation_group": "传承延续",
+          "evidence": "陈小灯（启枢曾孙）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈天杰",
+          "target": "陈启沅",
+          "relation_text": "从孙是",
+          "relation_group": "传承延续",
+          "evidence": "陈天杰（启沅从孙）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0062": {
+      "relations": []
+    },
+    "chunk_0063": {
+      "relations": [
+        {
+          "source": "九江",
+          "target": "乔涌圩",
+          "relation_text": "设有",
+          "relation_group": "空间关联",
+          "evidence": "改在九江设乔涌圩作棉纱交易",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈春泉",
+          "target": "织毛巾技术",
+          "relation_text": "引入",
+          "relation_group": "人物关联",
+          "evidence": "里水人陈春泉于一八九四年由上海引入织毛巾技术",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "西樵",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "建成桑园围，顾名思义，可推断围内西樵、九江、沙头",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "九江",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "建成桑园围，顾名思义，可推断围内西樵、九江、沙头",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "沙头",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "建成桑园围，顾名思义，可推断围内西樵、九江、沙头",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0064": {
+      "relations": [
+        {
+          "source": "桑园围",
+          "target": "西樵",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "可推断围内西樵、九江、沙头、龙江、龙山等地已种植桑树",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "九江",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "可推断围内西樵、九江、沙头、龙江、龙山等地已种植桑树",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "沙头",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "可推断围内西樵、九江、沙头、龙江、龙山等地已种植桑树",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "龙江",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "可推断围内西樵、九江、沙头、龙江、龙山等地已种植桑树",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑园围",
+          "target": "龙山",
+          "relation_text": "涵盖",
+          "relation_group": "空间关联",
+          "evidence": "可推断围内西樵、九江、沙头、龙江、龙山等地已种植桑树",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑基鱼塘",
+          "target": "明代",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "人们在开发珠江三角洲过程中，创造了桑基鱼塘的生产形式",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "西樵",
+          "target": "道光",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "到了道光（一八二一一八五）年间。西樵居民岁食茶业与植桑衣我",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江",
+          "target": "顺治",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "清朝顺治（一六四四一六六一）年间，九江乡桑基鱼塘而积占耕地而积百分之八十",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "海洲",
+          "target": "康熙",
+          "relation_text": "发展于",
+          "relation_group": "时序归属",
+          "evidence": "康熙（一七一四一七二三）年间。西樵附近的海洲、镇涌、金瓯、绿潭、沙头、大同等六乡也相继发展成基塘区",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "镇涌",
+          "target": "康熙",
+          "relation_text": "发展于",
+          "relation_group": "时序归属",
+          "evidence": "康熙（一七一四一七二三）年间。西樵附近的海洲、镇涌、金瓯、绿潭、沙头、大同等六乡也相继发展成基塘区",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "金瓯",
+          "target": "康熙",
+          "relation_text": "发展于",
+          "relation_group": "时序归属",
+          "evidence": "康熙（一七一四一七二三）年间。西樵附近的海洲、镇涌、金瓯、绿潭、沙头、大同等六乡也相继发展成基塘区",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "绿潭",
+          "target": "康熙",
+          "relation_text": "发展于",
+          "relation_group": "时序归属",
+          "evidence": "康熙（一七一四一七二三）年间。西樵附近的海洲、镇涌、金瓯、绿潭、沙头、大同等六乡也相继发展成基塘区",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大同",
+          "target": "康熙",
+          "relation_text": "发展于",
+          "relation_group": "时序归属",
+          "evidence": "康熙（一七一四一七二三）年间。西樵附近的海洲、镇涌、金瓯、绿潭、沙头、大同等六乡也相继发展成基塘区",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "儒林文社丝圩",
+          "target": "嘉庆",
+          "relation_text": "建于",
+          "relation_group": "时序归属",
+          "evidence": "嘉庆四（一七九九）年七月，九江阖堡绅士公设儒林文社丝圩",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大岸",
+          "target": "绿潭",
+          "relation_text": "隶属于",
+          "relation_group": "从属分类",
+          "evidence": "绿潭堡大岸、新村，大峥等各乡出土丝纱",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "新村",
+          "target": "绿潭",
+          "relation_text": "隶属于",
+          "relation_group": "从属分类",
+          "evidence": "绿潭堡大岸、新村，大峥等各乡出土丝纱",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大峥",
+          "target": "绿潭",
+          "relation_text": "隶属于",
+          "relation_group": "从属分类",
+          "evidence": "绿潭堡大岸、新村，大峥等各乡出土丝纱",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0065": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "陈启沅回西樵简村创建继昌隆丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "西樵简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "陈启沅回西樵简村创建继昌隆丝厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "癸酉",
+          "relation_text": "创建于",
+          "relation_group": "时序归属",
+          "evidence": "遂于癸酉（一八七三）之秋...创建继昌隆丝厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "光绪后期",
+          "target": "叠滘土布",
+          "relation_text": "冲击",
+          "relation_group": "时序归属",
+          "evidence": "到了光绪后期...压倒叠滘的土布和平洲的白夏布",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "光绪后期",
+          "target": "平洲白夏布",
+          "relation_text": "冲击",
+          "relation_group": "时序归属",
+          "evidence": "到了光绪后期...压倒叠滘的土布和平洲的白夏布",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "屈大钧",
+          "target": "广州竹枝词",
+          "relation_text": "著述",
+          "relation_group": "人物关联",
+          "evidence": "屈大钧的《广州竹枝词》",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广州竹枝词",
+          "target": "五丝",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "五丝八丝广缎好，银钱堆满十三行",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广州竹枝词",
+          "target": "八丝",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "五丝八丝广缎好，银钱堆满十三行",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘进居",
+          "target": "潘氏家训",
+          "relation_text": "修撰",
+          "relation_group": "人物关联",
+          "evidence": "百溶堡黎村乡人潘进居修《潘氏家训》",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0066": {
+      "relations": []
+    },
+    "chunk_0067": {
+      "relations": []
+    },
+    "chunk_0068": {
+      "relations": []
+    },
+    "chunk_0069": {
+      "relations": [
+        {
+          "source": "手车丝",
+          "target": "清嘉庆年间",
+          "relation_text": "盛行于",
+          "relation_group": "时序归属",
+          "evidence": "十八世纪末清嘉庆年间，这种手工业在南海县已很普遍",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "足踏机",
+          "target": "清同治年间",
+          "relation_text": "盛行于",
+          "relation_group": "时序归属",
+          "evidence": "十九世纪中的清同治年间，更盛行于农村各地",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "足踏机",
+          "target": "手车丝",
+          "relation_text": "替代",
+          "relation_group": "传承延续",
+          "evidence": "八八四年后，逐渐被创新的足踏机所代替",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "土丝",
+          "target": "手车丝",
+          "relation_text": "源自",
+          "relation_group": "从属分类",
+          "evidence": "手车机和足踏机所之丝名土丝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "土丝",
+          "target": "足踏机",
+          "relation_text": "源自",
+          "relation_group": "从属分类",
+          "evidence": "手车机和足踏机所之丝名土丝",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0070": {
+      "relations": []
+    },
+    "chunk_0071": {
+      "relations": []
+    },
+    "chunk_0072": {
+      "relations": [
+        {
+          "source": "民乐三乡",
+          "target": "林村",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "发源地是民乐的三乡（即林村、藻美、云乡）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "民乐三乡",
+          "target": "藻美",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "发源地是民乐的三乡（即林村、藻美、云乡）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "民乐三乡",
+          "target": "云乡",
+          "relation_text": "包含",
+          "relation_group": "从属分类",
+          "evidence": "发源地是民乐的三乡（即林村、藻美、云乡）",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "香云纱",
+          "target": "程家",
+          "relation_text": "首创于",
+          "relation_group": "营建创造",
+          "evidence": "织纱首创的是南海县西樵林村程家...最初新的产品香云纱",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "程家",
+          "target": "林村",
+          "relation_text": "聚居于",
+          "relation_group": "空间关联",
+          "evidence": "单是民乐林村程家全族 600 多人",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘家",
+          "target": "民乐",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "如程家织纱，潘家织罗...民乐各地的丝织品就各具特色",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "西樵",
+          "target": "民乐",
+          "relation_text": "并列为",
+          "relation_group": "空间关联",
+          "evidence": "南海的丝织业，以西樵、民乐一带为最盛",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "民乐",
+          "target": "华夏乡",
+          "relation_text": "涵盖",
+          "relation_group": "从属分类",
+          "evidence": "发源地是民乐的三乡（即林村、藻美、云乡）和华夏乡",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0073": {
+      "relations": [
+        {
+          "source": "民乐林村",
+          "target": "民乐圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "单是民乐林村程家全族 600 多人...每逢二、五，八圩日，整个民乐变成了购销丝织品大型商场",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘星能",
+          "target": "复兴放机铺",
+          "relation_text": "创立",
+          "relation_group": "人物关联",
+          "evidence": "其中以复兴放机铺最大，其创始老板潘星能",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "云赢书院",
+          "target": "官山圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "一九三五年二月十日广东省蚕丝局在官山圩云赢书院举办了一个具有相当规模的蚕丝展览会",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "冯慎常",
+          "target": "民乐圩",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "一九三六年省丝绸局把民乐划为促进丝织业生产实施区。主任冯慎常",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "马淑辉",
+          "target": "南海丝织示范工厂",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "九丝织厂，派马淑辉为主任",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "程建勋",
+          "target": "南海丝织示范工厂",
+          "relation_text": "任职于",
+          "relation_group": "人物关联",
+          "evidence": "程建勋为印染技术员...是间既有丝织又有印染的综合性示范工厂",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘同",
+          "target": "大来厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "一九三八年西樵人潘同首先集资在佛山开设纱绸织造厂...于舍人新街开设大来厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "潘同",
+          "target": "中山厂",
+          "relation_text": "创建",
+          "relation_group": "营建创造",
+          "evidence": "一九四零年在佛山开设的织纱工厂...潘同首先集资在佛山开设纱绸织造厂",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0074": {
+      "relations": [
+        {
+          "source": "大来厂",
+          "target": "舍人新街",
+          "relation_text": "开设于",
+          "relation_group": "空间关联",
+          "evidence": "于舍人新街开设大来厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "中山厂",
+          "target": "西樵",
+          "relation_text": "开设于",
+          "relation_group": "空间关联",
+          "evidence": "一九四四山开设中山厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广泰隆丝织厂",
+          "target": "盐步",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "盐步的广泰隆丝织厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝织业生产自救小组",
+          "target": "西樵",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "一九五二年，西樵民乐三乡的丝织工人...最早成立丝织业生产自救小组",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝织业生产自救小组",
+          "target": "民乐",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "一九五二年，西樵民乐三乡的丝织工人...最早成立丝织业生产自救小组",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝织生产合作社",
+          "target": "西樵",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "本县西樵民乐一带地区成立了十二个丝织生产合作社",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝织生产合作社",
+          "target": "民乐",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "本县西樵民乐一带地区成立了十二个丝织生产合作社",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海丝织厂",
+          "target": "广泰隆丝织厂",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "盐步的广泰隆丝织厂，也进行公私合营...现为全民所有制的南海丝织厂",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海丝织厂",
+          "target": "西樵",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "对西樵一带的 49 户属资本家经营的丝织小厂和作坊，实行公私合营...现为全民所有制的南海丝织厂",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "香云纱",
+          "target": "西樵",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "西樵地区最多...主要产品有纱、孟买绸，丝蚊帐等...还是以香云纱、孟米绸、丝蚊帐等为主要品种",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "孟买绸",
+          "target": "西樵",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "西樵地区最多...主要产品有纱、孟买绸，丝蚊帐等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝蚊帐",
+          "target": "西樵",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "西樵地区最多...主要产品有纱、孟买绸，丝蚊帐等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "香云纱",
+          "target": "盐步",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "盐步次之...主要产品有纱、孟买绸，丝蚊帐等...还是以香云纱、孟米绸、丝蚊帐等为主要品种",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "孟买绸",
+          "target": "盐步",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "盐步次之...主要产品有纱、孟买绸，丝蚊帐等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝蚊帐",
+          "target": "盐步",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "盐步次之...主要产品有纱、孟买绸，丝蚊帐等",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0075": {
+      "relations": [
+        {
+          "source": "云纱",
+          "target": "西樵",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "云纱、孟米绸、丝蚊帐等为主 要品种……南海西樵一带总共更新了 84 台电动铁木丝织机",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "孟米绸",
+          "target": "西樵",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "云纱、孟米绸、丝蚊帐等为主 要品种……南海西樵一带总共更新了 84 台电动铁木丝织机",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "丝蚊帐",
+          "target": "西樵",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "云纱、孟米绸、丝蚊帐等为主 要品种……南海西樵一带总共更新了 84 台电动铁木丝织机",
+          "confidence": 0.85,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "西樵丝织厂",
+          "target": "西樵",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "一九五九年，陈郁省长来西樵丝织厂视察",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈郁",
+          "target": "西樵丝织厂",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "一九五九年，陈郁省长来西樵丝织厂视察",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈郁",
+          "target": "五一织丝社",
+          "relation_text": "视察",
+          "relation_group": "人物关联",
+          "evidence": "一九七一年七月，省长亲临我县五织丝厂视察",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "五一织丝社",
+          "target": "电动铁木丝织机",
+          "relation_text": "使用",
+          "relation_group": "社群组织",
+          "evidence": "到一九六四年五一丝织社开始使用电动铁木丝织机",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "国营南海丝织厂",
+          "target": "电动铁木丝织机",
+          "relation_text": "拥有",
+          "relation_group": "社群组织",
+          "evidence": "国营南海丝织厂有电动丝织机 30 台",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "电动铁木丝织机",
+          "target": "手拉机",
+          "relation_text": "替代",
+          "relation_group": "传承延续",
+          "evidence": "南海丝织业就开始用电动铁木丝织机代替丝织手拉机",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县丝织二厂",
+          "target": "五一织丝社",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "把丝织二厂（即五一织丝厂）和七一丝织厂合并为南海县丝 织二厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0076": {
+      "relations": []
+    },
+    "chunk_0077": {
+      "relations": [
+        {
+          "source": "孟买绸",
+          "target": "土绸",
+          "relation_text": "即",
+          "relation_group": "从属分类",
+          "evidence": "轻度三梭罗土绸（俗称孟买绸）",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广东通志",
+          "target": "明代",
+          "relation_text": "刊于",
+          "relation_group": "时序归属",
+          "evidence": "明嘉靖年（一五五三年）广东通志记载",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "纱圩布市",
+          "target": "清初",
+          "relation_text": "形成于",
+          "relation_group": "时序归属",
+          "evidence": "清初，南海县境内已出现了专门进行棉布棉纱交易的纱圩布市",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "萧水安",
+          "target": "安胜布厂",
+          "relation_text": "开设",
+          "relation_group": "人物关联",
+          "evidence": "兴宁人萧水安在叠滘乡昌平里...开设安胜布厂",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "安胜布厂",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "萧水安在叠滘乡昌平里...开设安胜布厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "致祥新",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有叠滘乡的致祥新",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "福安胜",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有叠滘乡的...福安胜",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广纶昌",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有叠滘乡的...广纶昌",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广兴隆",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有叠滘乡的...广兴隆",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "巧经纶",
+          "target": "平洲乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有...平洲乡的巧经纶",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0078": {
+      "relations": [
+        {
+          "source": "叠滘乡",
+          "target": "致祥新",
+          "relation_text": "拥有",
+          "relation_group": "空间关联",
+          "evidence": "当时颇具规模的布厂有叠滘乡的致祥新",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "平洲乡",
+          "target": "巧经纶",
+          "relation_text": "拥有",
+          "relation_group": "空间关联",
+          "evidence": "平洲乡的巧经纶、纬经纶、公栈",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "官窑乡",
+          "target": "广祥兴",
+          "relation_text": "拥有",
+          "relation_group": "空间关联",
+          "evidence": "官窑乡的广样兴、南京等几十家",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广祥兴",
+          "target": "蒸汽染色",
+          "relation_text": "采用",
+          "relation_group": "文化表征",
+          "evidence": "广祥兴布厂拥有...以及蒸汽染色，蒸汽干布、电动确布等成套染、织、整理设备",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "广祥兴",
+          "target": "一九三五年",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "一九三五年官窑乡广祥兴布厂拥有手烧锅炉一座...成为建国前南海县唯一较具规模的机械化生产布厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "叠滘华通 95 布厂",
+          "target": "叠滘乡",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "最大的叠滘华通 95 布厂也仅有四、五十台机",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "海棉织厂",
+          "target": "一九五六年二月",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "九五六年二月叠落乡 34 户私营布厂公私合营，建立海棉织厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "织布业同业公会",
+          "target": "一九三五年",
+          "relation_text": "成立于",
+          "relation_group": "时序归属",
+          "evidence": "一九五 O 年，政府组织织布手汇业主成立织布业同业公会",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0079": {
+      "relations": []
+    },
+    "chunk_0080": {
+      "relations": []
+    },
+    "chunk_0081": {
+      "relations": []
+    },
+    "chunk_0082": {
+      "relations": []
+    },
+    "chunk_0083": {
+      "relations": [
+        {
+          "source": "陈春泉",
+          "target": "捷兴毛巾厂",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "一八九四年里水商人陈春泉在里水圩的黄泥墩大巷内创办了本县第一家毛中织造厂捷兴毛中厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "捷兴毛巾厂",
+          "target": "里水圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "一八九四年里水商人陈春泉在里水圩的黄泥墩大巷内创办了本县第一家毛中织造厂捷兴毛中厂",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "小塘染整厂",
+          "target": "松岗区",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "一九七九年南海县小塘区筹建小塘染整厂，于一九八年六月投产",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县毛纺织厂",
+          "target": "松岗区",
+          "relation_text": "兴盛于",
+          "relation_group": "时序归属",
+          "evidence": "一九八四年七月起南海县小塘区相继办起三间小型针织漂染厂，一九八四年县毛纺织厂的染整车间投产",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县染整厂",
+          "target": "松岗区",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "为了平衡南海县的织染布局，南海县染整厂于一九八六年九月正式筹建",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "公兴",
+          "target": "里水圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "特别是一九四七年至一九四八年，里水毛巾业发展到了高潮...当时独资经营较具规模的厂家有：公兴、永兴、茂兴、及联艺等于多家",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "永兴",
+          "target": "里水圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "特别是一九四七年至一九四八年，里水毛巾业发展到了高潮...当时独资经营较具规模的厂家有：公兴、永兴、茂兴、及联艺等于多家",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "茂兴",
+          "target": "里水圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "特别是一九四七年至一九四八年，里水毛巾业发展到了高潮...当时独资经营较具规模的厂家有：公兴、永兴、茂兴、及联艺等于多家",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "联艺",
+          "target": "里水圩",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "特别是一九四七年至一九四八年，里水毛巾业发展到了高潮...当时独资经营较具规模的厂家有：公兴、永兴、茂兴、及联艺等于多家",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水圩",
+          "target": "盐步",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "毛市业之兴旺，一直影响到盐步、大沥、松岗、官密等地",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水圩",
+          "target": "大沥",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "毛市业之兴旺，一直影响到盐步、大沥、松岗、官密等地",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水圩",
+          "target": "松岗区",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "毛市业之兴旺，一直影响到盐步、大沥、松岗、官密等地",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水圩",
+          "target": "官窑",
+          "relation_text": "影响",
+          "relation_group": "文化表征",
+          "evidence": "毛市业之兴旺，一直影响到盐步、大沥、松岗、官密等地",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0084": {
+      "relations": [
+        {
+          "source": "里水毛巾厂",
+          "target": "麻奢毛巾联营社",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "一九五六年，里水、丰岗、麻奢、河村毛巾联营社合并为里水毛巾厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水毛巾厂",
+          "target": "盐步毛巾联营社",
+          "relation_text": "并入",
+          "relation_group": "传承延续",
+          "evidence": "一九五八年，里水毛巾生产合作社和盐步毛币联营社并入里水毛巾厂",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "里水美华毛巾社",
+          "target": "里水毛巾厂",
+          "relation_text": "分出",
+          "relation_group": "传承延续",
+          "evidence": "一九六二年，里水毛巾厂分出里水毛巾生产合作社和里水美华毛巾社",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江地区",
+          "target": "西江",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江地处西江沿岸",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "桑基鱼塘",
+          "target": "九江地区",
+          "relation_text": "分布于",
+          "relation_group": "空间关联",
+          "evidence": "桑基鱼塘遍布全区",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "鱼池布",
+          "target": "九江地区",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "九江地区生产的鱼池布等一系列鱼网其",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0085": {
+      "relations": [
+        {
+          "source": "九江鱼花",
+          "target": "九江镇",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "九江地区生产的鱼池布等一系列鱼网其，与著名的九江鱼花齐名",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "鱼池布",
+          "target": "九江镇",
+          "relation_text": "产于",
+          "relation_group": "空间关联",
+          "evidence": "九江地区生产的鱼池布等一系列鱼网其",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "《南海县志》",
+          "target": "鱼池布",
+          "relation_text": "记载",
+          "relation_group": "文献记载",
+          "evidence": "《南海县志》中就有：鱼池布一一用以取鱼花者，产沙头尤良的记载",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "上东",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江镇和镇附近的上东、下东、南方、大谷等乡村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "下东",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江镇和镇附近的上东、下东、南方、大谷等乡村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南方",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江镇和镇附近的上东、下东、南方、大谷等乡村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "大谷",
+          "target": "九江镇",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "九江镇和镇附近的上东、下东、南方、大谷等乡村",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "胡波",
+          "target": "九江炼麻制纱广",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "九江镇的华侨胡波，冯安枝和九江留日学生朱球行曾在九江镇内合资兴办过九江炼麻制纱广",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "冯安枝",
+          "target": "九江炼麻制纱广",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "九江镇的华侨胡波，冯安枝和九江留日学生朱球行曾在九江镇内合资兴办过九江炼麻制纱广",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "朱球行",
+          "target": "九江炼麻制纱广",
+          "relation_text": "创办",
+          "relation_group": "营建创造",
+          "evidence": "九江镇的华侨胡波，冯安枝和九江留日学生朱球行曾在九江镇内合资兴办过九江炼麻制纱广",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江炼麻制纱广",
+          "target": "儒林东街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "厂址设在九江镇儒林东街",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江炼麻制纱广",
+          "target": "民国十三年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "一九二四年间（民国十三年），九江镇的华侨...合资兴办过九江炼麻制纱广",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江镇麻织生产合作社",
+          "target": "九江区综合社",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "一九五八年八月，该社改为九江区综合社",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江区综合社",
+          "target": "太平东街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "社址设在九江镇太平东街",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江区综合社",
+          "target": "九江麻织社",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "一九六一年六月，九江区综合社改名为九江麻织社",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "九江镇麻织站",
+          "target": "儒林东街",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "站址设九江镇儒林东街",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0086": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "继昌隆丝厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅，创办我国第一家民族资本企业继昌隆丝厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆丝厂",
+          "target": "同治十三年",
+          "relation_text": "始建于",
+          "relation_group": "时序归属",
+          "evidence": "一八七三年（同治十三年），南海西樵简村乡陈启沅，创办...继昌隆丝厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "锦纶堂",
+          "target": "裕厚昌丝厂",
+          "relation_text": "捣毁",
+          "relation_group": "社群组织",
+          "evidence": "裕厚昌丝厂被丝织行会锦纶堂的机工捣毁机器",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐隆",
+          "target": "继昌隆丝厂",
+          "relation_text": "查禁",
+          "relation_group": "人物关联",
+          "evidence": "南海知县徐隆查禁西樵一带的裕厚昌、继昌隆...等十家丝厂",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "徐隆",
+          "target": "裕厚昌丝厂",
+          "relation_text": "查禁",
+          "relation_group": "人物关联",
+          "evidence": "南海知县徐隆查禁西樵一带的裕厚昌、继昌隆...等十家丝厂",
+          "confidence": 0.93,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "李长龄",
+          "target": "继昌隆丝厂",
+          "relation_text": "查明",
+          "relation_group": "人物关联",
+          "evidence": "候补知县李长龄到南海、顺德等地查明机器巢丝一事，准予丝厂复业",
+          "confidence": 0.9,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈春泉",
+          "target": "捷兴毛中厂",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "陈春泉，在里水创办本县第一家毛巾厂一捷兴毛中厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "程丙全",
+          "target": "马鞍丝织提花绞综",
+          "relation_text": "发明",
+          "relation_group": "人物关联",
+          "evidence": "程丙全、程绍江、程泽、程周等四人，发明了马鞍丝织提花绞综",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "马慎常",
+          "target": "兴农社",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "办南海蚕业改良实施区，主任马慎常...集资在官山开办兴农社",
+          "confidence": 0.88,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "金曾澄",
+          "target": "兴农社",
+          "relation_text": "集资开办",
+          "relation_group": "人物关联",
+          "evidence": "金曾澄和当地人麦树温等人，集资在官山开办兴农社",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "麦树温",
+          "target": "兴农社",
+          "relation_text": "集资开办",
+          "relation_group": "人物关联",
+          "evidence": "金曾澄和当地人麦树温等人，集资在官山开办兴农社",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0087": {
+      "relations": [
+        {
+          "source": "中绸晒厂",
+          "target": "广泰隆丝织厂",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "一九五八年，中绸晒厂并入广泰隆丝织厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "苏良记晒厂",
+          "target": "广泰隆丝织厂",
+          "relation_text": "合并为",
+          "relation_group": "传承延续",
+          "evidence": "一九五七年，苏良记晒厂并入广泰隆丝织厂",
+          "confidence": 0.97,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "河村毛巾联营社",
+          "target": "毛巾手拉织机",
+          "relation_text": "改革",
+          "relation_group": "营建创造",
+          "evidence": "一九五六年，里水毛巾联营社将毛巾手拉织机（单幅）改革为双幅机",
+          "confidence": 0.94,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0088": {
+      "relations": [
+        {
+          "source": "吴立挺",
+          "target": "西樵丝织厂",
+          "relation_text": "主持",
+          "relation_group": "社群组织",
+          "evidence": "西樵丝织厂评为全国工业交通...先进单位，厂长吴立挺赴京参加全国群英会",
+          "confidence": 0.96,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海晒厂",
+          "target": "广泰隆丝织厂",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "广泰隆丝织厂丝织部分停产并改称南海晒厂",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "地方国营南海丝厂",
+          "target": "西樵官山",
+          "relation_text": "坐落于",
+          "relation_group": "空间关联",
+          "evidence": "地方国营南海丝厂在西樵官山建成投产",
+          "confidence": 0.99,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    },
+    "chunk_0089": {
+      "relations": []
+    },
+    "chunk_0090": {
+      "relations": [
+        {
+          "source": "陈启沅",
+          "target": "西樵简村",
+          "relation_text": "出生于",
+          "relation_group": "人物关联",
+          "evidence": "陈启沅是我县西樵简村人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "陈启沅",
+          "target": "继昌隆",
+          "relation_text": "创办",
+          "relation_group": "人物关联",
+          "evidence": "是我国近代第一家机器丝厂一一继昌隆的创办人",
+          "confidence": 0.98,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "继昌隆",
+          "target": "西樵简村",
+          "relation_text": "位于",
+          "relation_group": "空间关联",
+          "evidence": "位于南海县西樵简村",
+          "confidence": 0.95,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        },
+        {
+          "source": "南海县轻纺机械厂",
+          "target": "南海县纺织工业技术学校",
+          "relation_text": "演变为",
+          "relation_group": "传承延续",
+          "evidence": "利用南海县轻纺机械厂旧址，筹办南海县纺织工业技术学校",
+          "confidence": 0.92,
+          "source_file": "南海文史资料_第10辑_陈启沅与南海县纺织工业史专辑"
+        }
+      ]
+    }
+  }
+}
