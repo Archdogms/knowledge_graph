@@ -1,178 +1,208 @@
+/* 频次分档+强对比色; 排名高=更大节点+更粗描边 | 与 n.color / n.freq_rank / n.viz_diameter 同步 */
 node {
-  diameter: 40px;
   font-size: 12px;
   caption: '{name}';
+  text-color-internal: #FFFFFF;
 }
-
 node.A1 {
-  color: #E74C3C;
-  border-color: #E74C3C;
+  color: #006064;
+  border-color: #003b3e;
+  border-width: 3px;
+  diameter: 42px;
   caption: '{name}';
 }
-
 node.A2 {
-  color: #E67E22;
-  border-color: #E67E22;
+  color: #F9A825;
+  border-color: #9a6816;
+  border-width: 2px;
+  diameter: 40px;
   caption: '{name}';
 }
-
 node.A3 {
-  color: #F39C12;
-  border-color: #F39C12;
+  color: #4A148C;
+  border-color: #2d0c56;
+  border-width: 2px;
+  diameter: 31px;
   caption: '{name}';
 }
-
 node.A4 {
-  color: #D35400;
-  border-color: #D35400;
+  color: #FF3D00;
+  border-color: #9e2500;
+  border-width: 2px;
+  diameter: 36px;
   caption: '{name}';
 }
-
 node.A5 {
-  color: #C0392B;
-  border-color: #C0392B;
+  color: #283593;
+  border-color: #18205b;
+  border-width: 3px;
+  diameter: 43px;
   caption: '{name}';
 }
-
 node.A6 {
-  color: #F1C40F;
-  border-color: #F1C40F;
+  color: #7C4DFF;
+  border-color: #4c2f9e;
+  border-width: 2px;
+  diameter: 32px;
   caption: '{name}';
 }
-
 node.B1 {
-  color: #D4A76A;
-  border-color: #D4A76A;
+  color: #880E4F;
+  border-color: #540830;
+  border-width: 4px;
+  diameter: 48px;
   caption: '{name}';
 }
-
 node.B2 {
-  color: #B8860B;
-  border-color: #B8860B;
+  color: #C2185B;
+  border-color: #780e38;
+  border-width: 2px;
+  diameter: 34px;
   caption: '{name}';
 }
-
 node.B3 {
-  color: #CD853F;
-  border-color: #CD853F;
+  color: #00ACC1;
+  border-color: #006a77;
+  border-width: 1px;
+  diameter: 29px;
   caption: '{name}';
 }
-
 node.B4 {
-  color: #8B6914;
-  border-color: #8B6914;
+  color: #BF360C;
+  border-color: #762107;
+  border-width: 2px;
+  diameter: 39px;
   caption: '{name}';
 }
-
 node.B5 {
-  color: #A0522D;
-  border-color: #A0522D;
+  color: #455A64;
+  border-color: #2a373e;
+  border-width: 1px;
+  diameter: 26px;
   caption: '{name}';
 }
-
 node.B6 {
-  color: #DEB887;
-  border-color: #DEB887;
+  color: #1565C0;
+  border-color: #0d3e77;
+  border-width: 3px;
+  diameter: 45px;
   caption: '{name}';
 }
-
 node.C1 {
-  color: #3498DB;
-  border-color: #3498DB;
+  color: #5D0014;
+  border-color: #39000c;
+  border-width: 4px;
+  diameter: 52px;
   caption: '{name}';
 }
-
 node.C2 {
-  color: #2980B9;
-  border-color: #2980B9;
+  color: #B71C1C;
+  border-color: #711111;
+  border-width: 4px;
+  diameter: 49px;
   caption: '{name}';
 }
-
 node.C3 {
-  color: #2471A3;
-  border-color: #2471A3;
+  color: #311B92;
+  border-color: #1e105a;
+  border-width: 2px;
+  diameter: 35px;
   caption: '{name}';
 }
-
 node.C4 {
-  color: #5DADE2;
-  border-color: #5DADE2;
+  color: #6A1B9A;
+  border-color: #41105f;
+  border-width: 2px;
+  diameter: 33px;
   caption: '{name}';
 }
-
 node.D1 {
-  color: #27AE60;
-  border-color: #27AE60;
+  color: #E65100;
+  border-color: #8e3200;
+  border-width: 2px;
+  diameter: 41px;
   caption: '{name}';
 }
-
 node.D2 {
-  color: #2ECC71;
-  border-color: #2ECC71;
+  color: #0277BD;
+  border-color: #014975;
+  border-width: 3px;
+  diameter: 44px;
   caption: '{name}';
 }
-
 node.D3 {
-  color: #1ABC9C;
-  border-color: #1ABC9C;
+  color: #004D40;
+  border-color: #002f27;
+  border-width: 1px;
+  diameter: 30px;
   caption: '{name}';
 }
-
 node.D4 {
-  color: #16A085;
-  border-color: #16A085;
+  color: #0A1647;
+  border-color: #060d2c;
+  border-width: 3px;
+  diameter: 46px;
   caption: '{name}';
 }
-
 node.E1 {
-  color: #8E44AD;
-  border-color: #8E44AD;
+  color: #00838F;
+  border-color: #005158;
+  border-width: 1px;
+  diameter: 28px;
   caption: '{name}';
 }
-
 node.E2 {
-  color: #9B59B6;
-  border-color: #9B59B6;
+  color: #33691E;
+  border-color: #1f4112;
+  border-width: 1px;
+  diameter: 22px;
   caption: '{name}';
 }
-
 node.E3 {
-  color: #7D3C98;
-  border-color: #7D3C98;
+  color: #0097A7;
+  border-color: #005d67;
+  border-width: 1px;
+  diameter: 25px;
   caption: '{name}';
 }
-
 node.E4 {
-  color: #A569BD;
-  border-color: #A569BD;
+  color: #FF7043;
+  border-color: #9e4529;
+  border-width: 4px;
+  diameter: 50px;
   caption: '{name}';
 }
-
 node.E5 {
-  color: #BB8FCE;
-  border-color: #BB8FCE;
+  color: #00C853;
+  border-color: #007c33;
+  border-width: 1px;
+  diameter: 24px;
   caption: '{name}';
 }
-
 node.F1 {
-  color: #5499C7;
-  border-color: #5499C7;
+  color: #E53935;
+  border-color: #8d2320;
+  border-width: 4px;
+  diameter: 51px;
   caption: '{name}';
 }
-
 node.F2 {
-  color: #48C9B0;
-  border-color: #48C9B0;
+  color: #4E342E;
+  border-color: #30201c;
+  border-width: 2px;
+  diameter: 38px;
   caption: '{name}';
 }
-
 node.F3 {
-  color: #76D7C4;
-  border-color: #76D7C4;
+  color: #1B5E20;
+  border-color: #103a13;
+  border-width: 1px;
+  diameter: 23px;
   caption: '{name}';
 }
-
 relationship {
+  color: #78909C;
+  shaft-width: 2px;
   font-size: 10px;
   caption: '{relation_text}';
 }

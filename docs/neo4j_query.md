@@ -1,6 +1,67 @@
 # Neo4j 查询指令集
 
-适用数据库：`culturegraph`
+适用数据库：`culturegraph`（若你当前库是南海知识图谱工程里的 `nanhaiknowledgegraph`，仅替换库名即可；**查询逻辑不依赖任何可视化客户端**。）
+
+**使用方式说明（与 Browser 无关）**：若你只做 **数据导入 + 执行本文件中的 Cypher**，不必安装或使用 Neo4j Browser，也不必导入 `.grass`。节点上的 `color`、`freq_rank`、`viz_diameter` 等由导入脚本写入后，**直接在查询里 `RETURN` / `WHERE` 使用即可**；`.grass` 仅影响少数客户端里的「图画样式」，**不参与查询结果**。
+
+---
+
+## ★ 全图查询（整库节点 + 关系）
+
+**图结果（标准全图）**：拉出库内**每一个节点**；对每个节点再**可选**匹配其**出边**及目标节点。孤立节点会出现在结果里（此时 `r`、`m` 为 `null`）。
+
+```cypher
+MATCH (n)
+OPTIONAL MATCH (n)-[r]->(m)
+RETURN n, r, m
+```
+
+**无向展开（同一无向边会出现两次，仅在你需要「当作无向图」看时用）**：
+
+```cypher
+MATCH (n)
+OPTIONAL MATCH (n)-[r]-(m)
+RETURN DISTINCT n, r, m
+```
+
+**全库规模一眼看（表，推荐先跑）**：
+
+```cypher
+MATCH (n)
+RETURN count(n) AS 节点总数;
+```
+
+```cypher
+MATCH ()-[r]->()
+RETURN count(r) AS 关系总数;
+```
+
+**全图关系统计（表）**：
+
+```cypher
+MATCH ()-[r]->()
+RETURN type(r) AS 关系类型, count(*) AS 条数
+ORDER BY 条数 DESC;
+```
+
+**全节点属性清单（表，不做图渲染时用这个）**：
+
+```cypher
+MATCH (n)
+RETURN labels(n) AS 标签, n.name AS 名称, n.ai_type AS ai_type,
+       n.color AS color, n.freq_rank AS freq_rank
+ORDER BY n.name;
+```
+
+**说明**：节点、边上万的库，单条 `RETURN n, r, m` 结果行数多、体积大，若查询工具超时或卡顿，请改成分批（例如按标签 `MATCH (n:A1) ...`）或先 `LIMIT` 抽样关系子集再展开；**计数类查询**一般始终可跑。
+
+**Neo4j Desktop 仪表盘卡片 ≠ 全库数据**：若界面底部提示 **`Fetch limit reached at 1,000 records`**，表示该**图卡片**在展示层最多只处理约 **1000 条关系（及牵涉到的节点）**，**不是**库里只有 1000 条。真实规模请用 **`MATCH ()-[r]->() RETURN count(r)`**、**`MATCH (n) RETURN count(n)`** 在 **Query 工具**里执行（不走仪表盘图卡片）。
+
+**重要（避免找错地方）**：当前 Neo4j Desktop 里这类图卡片的 **Settings 面板通常没有「抓取上限」开关**——之前若文档里写「在 Settings 里调 Fetch limit」是误导，以你界面为准即可。
+
+**可尝试的唯一入口**：点开该卡片顶部的 **Query** 标签，看 Cypher 末尾是否自带 **`LIMIT 1000`**（自然语言生成的图查询常会带）。若有，可把数字改大后 **Preview** 再试（**极易卡死或占满内存，慎用**）。若 **Query 里已无 LIMIT 或已改大**，图里仍卡在 1000，则说明 **Desktop 图组件本身还有硬封顶**，产品未提供与 Settings 对应的配置项，此时 **无法在仪表盘图里看全量关系**，只能改用 **Desktop 的 Query**、**cypher-shell** 或 **表/统计类卡片**（聚合 `count`，不画全图）。
+
+---
 
 ## 0. 先看这一条
 
@@ -10,10 +71,31 @@
   - 具体标签：`人物`、`地名`、`建筑遗迹`、`典籍作品`、`非遗技艺`、`朝代年号`、`历史事件`、`物产饮食`、`宗族姓氏`、`其他`
   - 或属性判断：`n.type = '人物'`
 
+### 0.1 南海工程库（`nanhaiknowledgegraph`）只查不写样式
+
+节点上的 `ai_type`、`color`、`freq_rank`、`viz_diameter` 由仓库里的导入/配色脚本写入。**只跑查询时直接用属性即可**，与 `.grass`、Browser 无关。
+
+按频次档汇总：
+
+```cypher
+MATCH (n)
+WHERE n.freq_rank IS NOT NULL
+RETURN n.ai_type AS 小类, n.freq_rank AS 档, n.color AS 颜色, count(*) AS 数量
+ORDER BY 档 ASC
+```
+
+明细（表形式）：
+
+```cypher
+MATCH (n)
+RETURN n.name AS 名称, n.ai_type AS 小类, n.color AS color, n.freq_rank AS freq_rank
+LIMIT 100
+```
+
 ## 1. 图 / 表 / 统计图 的使用规则
 
 ### 1.1 图查询
-用于 Neo4j 图视图。
+用于返回「节点 + 关系」对象（具体是网络图还是表格，取决于你用的查询/可视化工具；**与是否使用 Browser 无关**）。
 
 要求：`RETURN 节点, 关系, 节点`
 
@@ -55,7 +137,7 @@ RETURN n.type AS 类型, count(*) AS 数量
 ORDER BY 数量 DESC
 ```
 
-运行后可在 Neo4j Browser 中切换到 `Table` / `Bar Chart` / `Pie Chart`。
+运行后若以表或统计图展示，在支持该功能的客户端中切换到表/柱状图/饼图视图即可。
 
 ---
 
