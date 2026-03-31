@@ -330,7 +330,8 @@ def crawl_district_boundary():
         return None
 
     nanhai = districts[0]
-    print(f"  南海区: center={nanhai.get('center')}, adcode={nanhai.get('adcode')}")
+    parent_adcode = (nanhai.get("adcode") or "").strip()
+    print(f"  南海区: center={nanhai.get('center')}, adcode={parent_adcode}")
 
     features = []
 
@@ -358,7 +359,7 @@ def crawl_district_boundary():
     for sub in sub_districts:
         name = sub.get("name", "")
         center = sub.get("center", "")
-        adcode = sub.get("adcode", "")
+        adcode = (sub.get("adcode") or "").strip()
         print(f"    {name}: center={center}, adcode={adcode}")
 
         clng, clat = "", ""
@@ -380,22 +381,46 @@ def crawl_district_boundary():
         })
 
         time.sleep(0.3)
+        # 高德 subdistrict 列表里镇街 adcode 常误为父级 440605，用 adcode 二次查询会反复拿到全区同一 polyline
+        if adcode and adcode != parent_adcode:
+            query_kw = adcode
+        else:
+            query_kw = f"佛山市南海区{name}" if name else parent_adcode
+
         sub_params = {
-            "keywords": adcode,
+            "keywords": query_kw,
             "subdistrict": 0,
             "extensions": "all",
         }
         sub_data = amap_request("https://restapi.amap.com/v3/config/district", sub_params)
         if sub_data and sub_data.get("districts"):
             sub_detail = sub_data["districts"][0]
+            real_adcode = (sub_detail.get("adcode") or adcode or "").strip()
             sub_polyline = sub_detail.get("polyline", "")
+            # 若仍与全区相同，再换关键字试一次
+            if sub_polyline and polyline and sub_polyline.strip() == polyline.strip() and name:
+                alt_kw = f"南海区{name}"
+                sub_data2 = amap_request(
+                    "https://restapi.amap.com/v3/config/district",
+                    {"keywords": alt_kw, "subdistrict": 0, "extensions": "all"},
+                )
+                time.sleep(0.3)
+                if sub_data2 and sub_data2.get("districts"):
+                    d2 = sub_data2["districts"][0]
+                    p2 = d2.get("polyline", "")
+                    if p2 and p2.strip() != polyline.strip():
+                        sub_detail = d2
+                        real_adcode = (d2.get("adcode") or real_adcode).strip()
+                        sub_polyline = p2
             if sub_polyline:
                 sub_coords = parse_polyline(sub_polyline)
+                if towns_features:
+                    towns_features[-1]["properties"]["adcode"] = real_adcode
                 features.append({
                     "type": "Feature",
                     "properties": {
                         "name": name,
-                        "adcode": adcode,
+                        "adcode": real_adcode,
                         "center": center,
                         "level": sub.get("level", "street"),
                     },

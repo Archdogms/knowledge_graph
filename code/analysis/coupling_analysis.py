@@ -38,9 +38,19 @@
 """
 
 import os
+import sys
 import json
 import math
 from collections import defaultdict, Counter
+
+_AD_DIR = os.path.dirname(os.path.abspath(__file__))
+if _AD_DIR not in sys.path:
+    sys.path.insert(0, _AD_DIR)
+from analysis_data_sources import (
+    culture_mentions_by_town,
+    load_pois_list,
+    review_total_by_town,
+)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "..", "..", "data")
@@ -272,49 +282,44 @@ def calculate_coupling_coordination():
     """按镇街计算耦合协调度（连续值模型）"""
     towns = ["桂城街道", "西樵镇", "九江镇", "丹灶镇", "狮山镇", "大沥镇", "里水镇"]
 
-    poi_path = os.path.join(DB_DIR, "poi_cleaned.json")
-    entity_path = os.path.join(DB_DIR, "culture_entities.json")
     nh_path = os.path.join(GIS_DIR, "nanhai_nonheritage.json")
 
-    poi_data = {"pois": []}
-    entities_data = {"entities": []}
+    pois = load_pois_list()
     nonheritage = []
-
-    if os.path.exists(poi_path):
-        with open(poi_path, "r", encoding="utf-8") as f:
-            poi_data = json.load(f)
-    if os.path.exists(entity_path):
-        with open(entity_path, "r", encoding="utf-8") as f:
-            entities_data = json.load(f)
     if os.path.exists(nh_path):
         with open(nh_path, "r", encoding="utf-8") as f:
             nonheritage = json.load(f)
 
-    poi_by_town = Counter(p.get("town", "未知") for p in poi_data.get("pois", []))
+    poi_by_town = Counter(p.get("town", "未知") for p in pois)
     nh_by_town = Counter(nh.get("town", "未知") for nh in nonheritage)
 
-    culture_entities = entities_data.get("entities", [])
-    culture_town_map = defaultdict(int)
-    for e in culture_entities:
-        for town in towns:
-            short = town.replace("街道", "").replace("镇", "")
-            for src in e.get("sources", []):
-                if short in src or short in e.get("name", ""):
-                    culture_town_map[town] += e.get("mentions", 1)
-                    break
+    culture_town_map = culture_mentions_by_town(towns)
+    review_by_town = review_total_by_town(pois)
 
     max_poi = max(poi_by_town.values()) if poi_by_town else 1
     max_nh = max(nh_by_town.values()) if nh_by_town else 1
-    max_culture = max(culture_town_map.values()) if culture_town_map else 1
+    max_culture = max(max(culture_town_map.values()) if culture_town_map else 0, 1)
+    max_rev = max(review_by_town.values()) if review_by_town else 0
+    use_rev = max_rev > 0
 
     results = []
     for town in towns:
         poi_count = poi_by_town.get(town, 0)
         nh_count = nh_by_town.get(town, 0)
         culture_mentions = culture_town_map.get(town, 0)
+        rev = review_by_town.get(town, 0)
 
         T = poi_count / max_poi if max_poi > 0 else 0
-        C = (nh_count / max_nh * 0.6 + culture_mentions / max_culture * 0.4) if max_nh > 0 else 0
+        if use_rev:
+            C = (
+                nh_count / max_nh * 0.35
+                + culture_mentions / max_culture * 0.25
+                + rev / max_rev * 0.4
+            )
+        else:
+            C = (
+                nh_count / max_nh * 0.6 + culture_mentions / max_culture * 0.4
+            ) if max_nh > 0 else 0
 
         if C > 0 and T > 0:
             coupling = math.sqrt(C * T) / ((C + T) / 2)
@@ -340,6 +345,8 @@ def calculate_coupling_coordination():
             "poi_count": poi_count,
             "nonheritage_count": nh_count,
             "culture_mentions": culture_mentions,
+            "review_total_merged": rev,
+            "C_weights_note": "0.35nh+0.25culture+0.4review" if use_rev else "0.6nh+0.4culture",
             "T_tourism": round(T, 4),
             "C_culture": round(C, 4),
             "coupling_degree": round(coupling, 4),

@@ -31,7 +31,7 @@
     核心发现：
     - POI热点在中心城区（桂城-大沥-狮山），非遗热点在西南（西樵-九江-丹灶）
     - 两者呈空间错位分布，是文旅融合不足在空间维度的体现
-    - 九江镇=典型"文化富集-旅游洼地"（非遗5项/POI仅47个）
+    - 九江镇=典型"文化富集-旅游洼地"（非遗5项/POI259个，全区占比低）
     
     输出：
     - spatial_analysis_results.json：聚类、镇街统计结果
@@ -39,23 +39,25 @@
 """
 
 import os
+import sys
 import json
 import math
 from collections import defaultdict
 
+_AD_DIR = os.path.dirname(os.path.abspath(__file__))
+if _AD_DIR not in sys.path:
+    sys.path.insert(0, _AD_DIR)
+from analysis_data_sources import load_pois_list
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "..", "..", "data")
-DB_DIR = os.path.join(DATA_DIR, "database")
 GIS_DIR = os.path.join(DATA_DIR, "gis")
 OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "output")
 
 
 def load_all_points():
-    """加载所有空间点数据"""
-    poi_path = os.path.join(DB_DIR, "poi_cleaned.json")
-    with open(poi_path, "r", encoding="utf-8") as f:
-        poi_data = json.load(f)
-    pois = [p for p in poi_data["pois"] if p["lng"] > 0 and p["lat"] > 0]
+    """加载所有空间点数据（POI 优先与耦合分析同源：poi_llm_cleaned.csv）。"""
+    pois = load_pois_list()
 
     nh_path = os.path.join(GIS_DIR, "nanhai_nonheritage.json")
     nonheritage = []
