@@ -68,11 +68,11 @@ poi_data = load_json(os.path.join(DATA, "poi", "poi_cleaned.json"))
 pois = poi_data["pois"]
 print(f"  POI: {len(pois)} 条")
 
-entities_data = load_json(os.path.join(DATA, "entities", "entities.json"))
+entities_data = load_json(os.path.join(OUTPUT, "qwen_extraction", "merged_entities.json"))
 entities = entities_data["entities"]
 print(f"  实体: {len(entities)} 个")
 
-relations_data = load_json(os.path.join(DATA, "entities", "relations.json"))
+relations_data = load_json(os.path.join(OUTPUT, "qwen_extraction", "merged_relations.json"))
 relations = relations_data["relations"]
 print(f"  关系: {len(relations)} 条")
 
@@ -110,8 +110,8 @@ print("\n" + "=" * 60)
 print("任务1：知识图谱实体的空间定位")
 print("=" * 60)
 
-place_types = {"地名", "建筑遗迹"}
-place_entities = [e for e in entities if e["type"] in place_types]
+place_type_prefixes = ("D1", "D2", "D3", "D4", "B1", "B2", "B3", "B4", "B5", "B6")
+place_entities = [e for e in entities if e.get("ai_grade_type", "").startswith(place_type_prefixes)]
 print(f"  地名+建筑遗迹实体: {len(place_entities)} 个")
 
 poi_name_map = {}
@@ -169,7 +169,7 @@ for e in place_entities:
     if lng is not None and lng > 100 and lat > 20:
         located_entities.append({
             "entity_name": e["name"],
-            "entity_type": e["type"],
+            "entity_type": e.get("ai_grade_type", ""),
             "mentions": e.get("mentions", 0),
             "source_count": e.get("source_count", 0),
             "lng": lng,
@@ -213,7 +213,7 @@ SPATIAL_RELATIONS = {"位于", "活动于", "出生于", "创建修建", "始建
 entity_mention_map = {}
 for e in entities:
     entity_mention_map[e["name"]] = {
-        "type": e["type"],
+        "type": e.get("ai_grade_type", ""),
         "mentions": e.get("mentions", 0),
         "source_count": e.get("source_count", 0),
     }
@@ -223,7 +223,7 @@ place_index = defaultdict(lambda: {"related": [], "relation_types": defaultdict(
 for r in relations:
     src_name = r["source"]
     tgt_name = r["target"]
-    rel_type = r["relation"]
+    rel_type = r.get("relation_text", r.get("relation", ""))
 
     if tgt_name in located_name_set:
         place_key = tgt_name
@@ -306,6 +306,8 @@ for spot_name, poi_info in link_spot_to_poi.items():
     if rv is None:
         continue
     pid = poi_info["poi_id"]
+    if not pid or len(pid) < 5:
+        continue
     if pid not in poi_reviews:
         poi_reviews[pid] = {
             "poi_id": pid,
@@ -705,9 +707,29 @@ knowledge_geojson = build_geojson(knowledge_features)
 knowledge_geojson_path = os.path.join(GIS_OUT, "map_knowledge.geojson")
 save_json(knowledge_geojson, knowledge_geojson_path)
 
+# --- 评论密度地图 ---
+density_features = []
+for pl in places:
+    c = pl["layers"].get("cognition")
+    if not c:
+        continue
+    props = {
+        "id": pl["id"],
+        "name": pl["name"],
+        "town": pl["town"],
+        "rev_count": c["review_count"],
+        "avg_rate": round(c["avg_rating"], 2),
+    }
+    density_features.append(point_feature(pl["lng"], pl["lat"], props))
+
+density_geojson = build_geojson(density_features)
+density_geojson_path = os.path.join(GIS_OUT, "map_review_density.geojson")
+save_json(density_geojson, density_geojson_path)
+
 print(f"  旅游点地图要素: {len(tourism_features)}")
 print(f"  认知地图要素: {len(cognition_features)}")
 print(f"  知识地图要素: {len(knowledge_features)}")
+print(f"  评论密度要素: {len(density_features)}")
 
 # --- Shapefile 输出 ---
 if HAS_GPD:
@@ -720,6 +742,7 @@ if HAS_GPD:
     geojson_to_shp(tourism_geojson_path, os.path.join(GIS_OUT, "map_tourism.shp"))
     geojson_to_shp(cognition_geojson_path, os.path.join(GIS_OUT, "map_cognition.shp"))
     geojson_to_shp(knowledge_geojson_path, os.path.join(GIS_OUT, "map_knowledge.shp"))
+    geojson_to_shp(density_geojson_path, os.path.join(GIS_OUT, "map_review_density.shp"))
 
 # --- 简图 ---
 print("\n  生成简图...")
@@ -790,22 +813,30 @@ fig.savefig(os.path.join(FIGURES, "map_tourism_preview.png"), dpi=150, bbox_inch
 plt.close(fig)
 print(f"  -> {os.path.relpath(os.path.join(FIGURES, 'map_tourism_preview.png'), ROOT)}")
 
-# 图2: 认知地图
+# 图2: 认知地图（评分分布）
 fig, ax = plt.subplots(1, 1, figsize=(10, 8))
 draw_basemap(ax)
-cog_lngs = [pl["lng"] for pl in places if pl["layers"].get("cognition")]
-cog_lats = [pl["lat"] for pl in places if pl["layers"].get("cognition")]
-cog_counts = [pl["layers"]["cognition"]["review_count"] for pl in places if pl["layers"].get("cognition")]
+cog_places = [pl for pl in places if pl["layers"].get("cognition")]
+cog_lngs = [pl["lng"] for pl in cog_places]
+cog_lats = [pl["lat"] for pl in cog_places]
+cog_counts = [pl["layers"]["cognition"]["review_count"] for pl in cog_places]
+cog_ratings = [pl["layers"]["cognition"]["avg_rating"] for pl in cog_places]
 
 if cog_counts:
     max_count = max(cog_counts)
-    sizes = [max(5, 80 * (c / max_count)) for c in cog_counts]
-    pos_rates = [pl["layers"]["cognition"]["positive_rate"] for pl in places if pl["layers"].get("cognition")]
-    sc = ax.scatter(cog_lngs, cog_lats, s=sizes, c=pos_rates, cmap="RdYlGn",
-                    vmin=0, vmax=100, alpha=0.7, edgecolors="gray", linewidth=0.3)
-    cbar = plt.colorbar(sc, ax=ax, shrink=0.6, label="好评率 (%)")
+    sizes = [max(18, 180 * (c / max_count)) for c in cog_counts]
+    sc = ax.scatter(cog_lngs, cog_lats, s=sizes, c=cog_ratings, cmap="RdYlGn",
+                    vmin=2.5, vmax=5.0, alpha=0.7, edgecolors="gray", linewidth=0.3)
+    cbar = plt.colorbar(sc, ax=ax, shrink=0.6, label="平台综合评分")
+    size_legend_vals = [10, 100, 500]
+    size_legend_handles = []
+    for v in size_legend_vals:
+        s = max(18, 180 * (v / max_count))
+        size_legend_handles.append(ax.scatter([], [], s=s, c="gray", alpha=0.5, label=f"{v} 条评论"))
+    ax.legend(handles=size_legend_handles, loc="lower right", fontsize=7,
+              title="圆圈大小", title_fontsize=8, framealpha=0.9)
 
-ax.set_title("旅游认知地图（表征性空间）", fontsize=14, fontweight="bold")
+ax.set_title("旅游认知地图 — 评分分布（表征性空间）", fontsize=14, fontweight="bold")
 ax.set_xlabel("经度")
 ax.set_ylabel("纬度")
 ax.set_aspect("equal")
@@ -814,11 +845,64 @@ fig.savefig(os.path.join(FIGURES, "map_cognition_preview.png"), dpi=150, bbox_in
 plt.close(fig)
 print(f"  -> {os.path.relpath(os.path.join(FIGURES, 'map_cognition_preview.png'), ROOT)}")
 
+# 图2b: 评论密度地图
+fig, ax = plt.subplots(1, 1, figsize=(10, 8))
+draw_basemap(ax)
+if cog_counts:
+    p99 = sorted(cog_counts)[int(len(cog_counts) * 0.99)]
+    capped_counts = [min(c, p99 * 2) for c in cog_counts]
+    log_counts = [np.log10(max(c, 1)) for c in capped_counts]
+    max_log = max(log_counts) if max(log_counts) > 0 else 1
+    sizes = [max(18, 160 * (lc / max_log)) for lc in log_counts]
+    sc = ax.scatter(cog_lngs, cog_lats, s=sizes, c=log_counts, cmap="YlOrBr",
+                    alpha=0.7, edgecolors="#8B4513", linewidth=0.3)
+    cbar = plt.colorbar(sc, ax=ax, shrink=0.6, label="评论数量 (log10)")
+    tick_vals = [1, 10, 50, 200]
+    cbar.set_ticks([np.log10(v) for v in tick_vals])
+    cbar.set_ticklabels([str(v) for v in tick_vals])
+
+    sorted_reviews = sorted(zip(cog_lngs, cog_lats, cog_counts,
+                                [pl["name"] for pl in cog_places]),
+                            key=lambda x: x[2], reverse=True)
+    labeled = []
+    offsets = [(6, 6), (-60, 8), (6, -12), (-70, -10), (6, 14), (-60, -14), (8, -18), (-50, 14)]
+    oi = 0
+    for lng, lat, cnt, nm in sorted_reviews:
+        if cnt < 30:
+            break
+        too_close = False
+        for ll, la in labeled:
+            if abs(lng - ll) < 0.015 and abs(lat - la) < 0.01:
+                too_close = True
+                break
+        if too_close:
+            continue
+        label = nm[:8] if len(nm) > 8 else nm
+        ox, oy = offsets[oi % len(offsets)]
+        ax.annotate(f"{label} ({cnt})", (lng, lat), fontsize=6,
+                    xytext=(ox, oy), textcoords="offset points",
+                    arrowprops=dict(arrowstyle="-", color="gray", lw=0.5),
+                    bbox=dict(boxstyle="round,pad=0.2", fc="lightyellow", alpha=0.9))
+        labeled.append((lng, lat))
+        oi += 1
+        if oi >= 8:
+            break
+
+ax.set_title("评论密度地图 — 游客关注度分布", fontsize=14, fontweight="bold")
+ax.set_xlabel("经度")
+ax.set_ylabel("纬度")
+ax.set_aspect("equal")
+fig.tight_layout()
+fig.savefig(os.path.join(FIGURES, "map_review_density.png"), dpi=150, bbox_inches="tight")
+plt.close(fig)
+print(f"  -> {os.path.relpath(os.path.join(FIGURES, 'map_review_density.png'), ROOT)}")
+
 # 图3: 知识地图
 fig, ax = plt.subplots(1, 1, figsize=(10, 8))
 draw_basemap(ax)
 know_data = [(pl["lng"], pl["lat"], pl["layers"]["knowledge"]["mentions"],
-              pl["layers"]["knowledge"]["total_related"])
+              pl["layers"]["knowledge"]["total_related"],
+              pl["layers"]["knowledge"]["entity_name"])
              for pl in places if pl["layers"].get("knowledge")]
 
 if know_data:
@@ -828,24 +912,28 @@ if know_data:
     krelated = [d[3] for d in know_data]
 
     max_m = max(kmentions) if max(kmentions) > 0 else 1
-    sizes = [max(8, 120 * (m / max_m)) for m in kmentions]
+    sizes = [max(15, 220 * (m / max_m)) for m in kmentions]
     sc = ax.scatter(klngs, klats, s=sizes, c=krelated, cmap="YlOrRd",
                     alpha=0.75, edgecolors="darkred", linewidth=0.3)
-    cbar = plt.colorbar(sc, ax=ax, shrink=0.6, label="关联实体数")
+    cbar = plt.colorbar(sc, ax=ax, shrink=0.6, label="关联实体数（人物/事件/技艺等）")
 
-    top_know = sorted(know_data, key=lambda d: d[2], reverse=True)[:8]
+    size_legend_vals = [10, 100, 500]
+    size_handles = []
+    for v in size_legend_vals:
+        s = max(15, 220 * (v / max_m))
+        size_handles.append(ax.scatter([], [], s=s, c="#FF6600", alpha=0.5,
+                                       edgecolors="darkred", linewidth=0.3,
+                                       label=f"典籍提及 {v} 次"))
+    ax.legend(handles=size_handles, loc="lower right", fontsize=7,
+              title="圆圈大小 = 典籍提及频次", title_fontsize=8, framealpha=0.9)
+
+    top_know = sorted(know_data, key=lambda d: d[2], reverse=True)[:12]
     for d in top_know:
-        matched_name = ""
-        for pl in places:
-            if pl["layers"].get("knowledge") and abs(pl["lng"] - d[0]) < 0.0001 and abs(pl["lat"] - d[1]) < 0.0001:
-                matched_name = pl["layers"]["knowledge"]["entity_name"]
-                break
-        if matched_name:
-            ax.annotate(matched_name, (d[0], d[1]), fontsize=6,
-                        xytext=(4, 4), textcoords="offset points",
-                        bbox=dict(boxstyle="round,pad=0.2", fc="white", alpha=0.7))
+        ax.annotate(d[4], (d[0], d[1]), fontsize=6,
+                    xytext=(4, 4), textcoords="offset points",
+                    bbox=dict(boxstyle="round,pad=0.2", fc="white", alpha=0.8))
 
-ax.set_title("知识地图（空间表征）", fontsize=14, fontweight="bold")
+ax.set_title("知识地图 — 典籍文化实体的空间落点（空间表征）", fontsize=13, fontweight="bold")
 ax.set_xlabel("经度")
 ax.set_ylabel("纬度")
 ax.set_aspect("equal")
