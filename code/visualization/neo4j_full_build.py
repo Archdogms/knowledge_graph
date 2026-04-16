@@ -217,13 +217,13 @@ def write_neo4j_grass_file(
     ]
     for ai_type in ALL_AI_GRADE_TYPES:
         color = palette.get(ai_type, DEFAULT_COLOR)
-        code = ai_type_to_label(ai_type)
         bd = _grass_border_color(color)
         r = (rank_by_type or {}).get(ai_type, 99)
         dia = _grass_diameter_for_grass_rank(r)
         bw = _grass_border_width_for_grass_rank(r)
+        safe_label = ai_type.replace("`", "")
         grass_lines.append(
-            f"node.{code} {{\n"
+            f"node.`{safe_label}` {{\n"
             f"  color: {color};\n"
             f"  border-color: {bd};\n"
             f"  border-width: {bw}px;\n"
@@ -266,6 +266,15 @@ def main():
         rel_data = json.load(f)
     relations = rel_data.get("relations", [])
     print(f"  实体: {len(entities)} | 关系: {len(relations)} | 耗时: {time.time()-t0:.1f}s")
+
+    name_to_types: dict[str, set[str]] = {}
+    for e in entities:
+        nm = (e.get("name") or "").strip()
+        at = (e.get("ai_grade_type") or "").strip()
+        if nm and at:
+            name_to_types.setdefault(nm, set()).add(at)
+    multi_type = sum(1 for ts in name_to_types.values() if len(ts) > 1)
+    print(f"  唯一实体名: {len(name_to_types)} | 跨类同名实体: {multi_type}")
 
     stats = ent_data.get("ai_type_stats") or {}
     palette, rank_by_type, diam_by_type = build_frequency_style_maps(stats)
@@ -351,20 +360,25 @@ def main():
                 print(f"  节点: {total_nodes}/{len(entities)}")
     print(f"  done: {total_nodes}\n")
 
-    # ═══ 4. 给节点添加 AI小类代号标签 (A1, B1, ..., F3) ═══
-    print("[4/7] 添加AI小类标签 (用于 Browser 颜色区分)...")
+    # ═══ 4. 给节点添加 AI小类中文标签 (按 name_to_types 赋多标签) ═══
+    print("[4/7] 添加AI小类中文标签 (用于 Browser 分类显示)...")
+    total_label_assignments = 0
     with driver.session(database=DATABASE) as s:
         for ai_type in ALL_AI_GRADE_TYPES:
             color = palette.get(ai_type, DEFAULT_COLOR)
-            code = ai_type_to_label(ai_type)
-            result = s.run(
-                f"MATCH (n:Entity) WHERE n.ai_type = $t SET n:`{code}` RETURN count(n) AS cnt",
-                t=ai_type,
-            )
-            cnt = result.single()["cnt"]
-            if cnt > 0:
-                print(f"  :{code}  {color}  {ai_type}: {cnt}")
-    print("  done.\n")
+            names_with_type = [n for n, ts in name_to_types.items() if ai_type in ts]
+            if not names_with_type:
+                continue
+            safe_label = ai_type.replace("`", "")
+            for j in range(0, len(names_with_type), BATCH_SIZE):
+                batch_names = names_with_type[j : j + BATCH_SIZE]
+                s.run(
+                    f"UNWIND $names AS nm MATCH (n:Entity {{name: nm}}) SET n:`{safe_label}` RETURN count(n)",
+                    names=batch_names,
+                )
+            total_label_assignments += len(names_with_type)
+            print(f"  {color}  {ai_type}: {len(names_with_type)}")
+    print(f"  done. 标签赋值合计: {total_label_assignments} (含跨类重复)\n")
 
     # ═══ 5. 导入关系 (按 relation_group 分类型) ═══
     print("[5/7] 导入关系...")
@@ -449,8 +463,8 @@ def main():
     print(f"\n在 Neo4j Browser 中查看:")
     print(f"  MATCH (n)-[r]->(m) RETURN n, r, m LIMIT 300")
     print(f"\n按AI小类查看:")
-    print(f"  MATCH (n:A1)-[r]->(m) RETURN n, r, m LIMIT 100")
-    print(f"  MATCH (n:C1)-[r]->(m) RETURN n, r, m LIMIT 100")
+    print(f"  MATCH (n:`C1 历史文化人物`)-[r]->(m) RETURN n, r, m LIMIT 100")
+    print(f"  MATCH (n:`A1 表演艺术类非遗`)-[r]->(m) RETURN n, r, m LIMIT 100")
     print(f"\n按关系分组查看:")
     print(f"  MATCH (n)-[r:人物关联]->(m) RETURN n, r, m LIMIT 100")
     print(f"  MATCH (n)-[r:空间关联]->(m) RETURN n, r, m LIMIT 100")
