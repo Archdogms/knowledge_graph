@@ -109,7 +109,11 @@ def grid_of(lng: float, lat: float, lng0: float, lat0: float, step: float) -> tu
 def main():
     print("[1/6] 读取原始数据 ...")
     anchors = load_json(DATA / "anchors" / "cultural_anchors.json")["anchors"]
-    entities = load_json(DATA / "entities" / "entities.json")["entities"]
+    # 老版 data/entities/entities.json 已被 merged_entities.json 取代
+    ent_path = DATA / "entities" / "entities.json"
+    if not ent_path.exists():
+        ent_path = DATA / "entities_relations" / "merged_entities.json"
+    entities = load_json(ent_path)["entities"]
     pois = load_json(DATA / "poi" / "poi_cleaned.json")["pois"]
     reviews = load_json(DATA / "reviews" / "review_summary_merged.json")
     review_idx = {r.get("name"): r for r in reviews}
@@ -276,11 +280,11 @@ def main():
         c["mismatch"] = round(float(M[i]), 2)
 
     def label_of(culture, tourism, mismatch):
-        if culture >= 50 and tourism >= 50 and abs(mismatch) <= 15:
+        if culture >= 50 and tourism >= 50:
             return "核心耦合"
-        if culture >= 50 and mismatch < -15:
+        if culture >= 50:
             return "沉睡潜力"
-        if tourism >= 50 and mismatch > 15:
+        if tourism >= 50:
             return "空心景点"
         if culture < 25 and tourism < 25:
             return "双低空白"

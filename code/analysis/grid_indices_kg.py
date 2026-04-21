@@ -282,11 +282,12 @@ def main():
     M1 = T - C1
 
     def label_of(culture, tourism, mismatch):
-        if culture >= 50 and tourism >= 50 and abs(mismatch) <= 15:
+        # 双高即耦合（去掉 |M|<=15 的强平衡约束）
+        if culture >= 50 and tourism >= 50:
             return "核心耦合"
-        if culture >= 50 and mismatch < -15:
+        if culture >= 50:
             return "沉睡潜力"
-        if tourism >= 50 and mismatch > 15:
+        if tourism >= 50:
             return "空心景点"
         if culture < 25 and tourism < 25:
             return "双低空白"

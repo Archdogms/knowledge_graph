@@ -1,10 +1,9 @@
-"""基于 grid_indices_kg.csv 产出两版错位地图：0 跳 / 1 跳。
-
-风格与 make_figures.py 的 fig1_mismatch_map 完全一致，仅更换 C / M 列和标题。
+"""基于 grid_indices_kg.csv 产出两版错位地图 + 1 跳散点图。
 
 输出：
   output/figures/fig1_mismatch_0hop.png
   output/figures/fig1_mismatch_1hop.png
+  output/figures/fig2_category_scatter.png  （1 跳口径，与简报口径一致）
 """
 from __future__ import annotations
 
@@ -177,6 +176,63 @@ def draw_one(cells, towns, hop: int, out_name: str):
     print(f"  [√] {out_name}")
 
 
+CAT_COLORS = {
+    "沉睡潜力": "#1f77b4",
+    "空心景点": "#d62728",
+    "核心耦合": "#2ca02c",
+    "一般地带": "#c7c7c7",
+    "双低空白": "#ececec",
+}
+
+
+def draw_scatter_1hop(cells, out_name: str = "fig2_category_scatter.png") -> None:
+    """1 跳口径的文化—旅游散点图。风格与原 make_figures.py fig2 一致，仅换为 1 跳数据。"""
+    fig, ax = plt.subplots(figsize=(10, 7.5))
+
+    for c in cells:
+        if c["category_1hop"] == "双低空白":
+            ax.scatter(c["culture_1hop"], c["tourism"],
+                       color=CAT_COLORS["双低空白"], s=5, alpha=0.12,
+                       linewidths=0, zorder=1)
+    for cat in ["一般地带", "核心耦合", "沉睡潜力", "空心景点"]:
+        xs = [c["culture_1hop"] for c in cells if c["category_1hop"] == cat]
+        ys = [c["tourism"] for c in cells if c["category_1hop"] == cat]
+        ax.scatter(xs, ys, color=CAT_COLORS[cat], s=32, alpha=0.65,
+                   label=f"{cat} ({len(xs)})", linewidths=0, zorder=3)
+
+    ax.axhline(50, color="#666", linestyle="--", linewidth=0.8, zorder=2)
+    ax.axvline(50, color="#666", linestyle="--", linewidth=0.8, zorder=2)
+    ax.plot([0, 100], [0, 100], color="#888", linestyle=":", linewidth=0.8, zorder=2)
+
+    dormant = sorted([c for c in cells if c["category_1hop"] == "沉睡潜力"],
+                     key=lambda x: x["mismatch_1hop"])[:6]
+    hollow = sorted([c for c in cells if c["category_1hop"] == "空心景点"],
+                    key=lambda x: -x["mismatch_1hop"])[:5]
+
+    for c in dormant:
+        label = c["anchor_names"].split("|")[0][:10] if c["anchor_names"] else c["town"]
+        ax.annotate(label, (c["culture_1hop"], c["tourism"]),
+                    xytext=(6, -8), textcoords="offset points",
+                    fontsize=8.5, color="#1a5fb4")
+    for c in hollow:
+        ax.annotate(c["town"], (c["culture_1hop"], c["tourism"]),
+                    xytext=(-8, 6), textcoords="offset points",
+                    fontsize=8.5, color="#c92a2a")
+
+    ax.set_xlim(-3, 100)
+    ax.set_ylim(-3, 85)
+    ax.set_xlabel("文化厚度 C（典籍提及 + 官方认证综合得分）", fontsize=11)
+    ax.set_ylabel("旅游热度 T（POI 数量 + 评分 + 评论综合得分）", fontsize=11)
+    ax.set_title(f"图 2  {len(cells):,} 个网格的文化—旅游分布", fontsize=14, pad=12)
+    ax.legend(loc="lower right", fontsize=10, framealpha=0.9)
+    ax.grid(True, alpha=0.2)
+
+    plt.tight_layout()
+    plt.savefig(FIG / out_name, dpi=150, bbox_inches="tight")
+    plt.close()
+    print(f"  [√] {out_name}")
+
+
 def main():
     print("[1/3] 读取 grid_indices_kg.csv ...")
     cells = read_cells_kg()
@@ -185,9 +241,10 @@ def main():
     print("[2/3] 读取 7 个 OSM 镇街边界 ...")
     towns = read_geom()
 
-    print("[3/3] 绘制 0 跳 / 1 跳两版错位地图 ...")
+    print("[3/3] 绘制 0 跳 / 1 跳错位地图 + 1 跳散点 ...")
     draw_one(cells, towns, hop=0, out_name="fig1_mismatch_0hop.png")
     draw_one(cells, towns, hop=1, out_name="fig1_mismatch_1hop.png")
+    draw_scatter_1hop(cells, out_name="fig2_category_scatter.png")
     print("完成")
 
 

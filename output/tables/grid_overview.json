@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-21 19:13:38",
+  "generated_at": "2026-04-21 22:31:45",
   "grid_size_m": 500,
   "n_cells_total": 4662,
-  "n_cells_with_anchor": 102,
+  "n_cells_with_anchor": 160,
   "n_cells_with_poi": 2156,
   "weights": {
     "culture": {
@@ -27,7 +27,7 @@
     "p25": 0.0,
     "p50": 0.0,
     "p75": 0.0,
-    "p100": 85.12
+    "p100": 88.92
   },
   "tourism_quantiles": {
     "p0": 0.0,
@@ -37,17 +37,17 @@
     "p100": 68.25
   },
   "mismatch_quantiles": {
-    "p0": -80.53,
+    "p0": -81.15,
     "p25": 0.0,
     "p50": 0.0,
     "p75": 10.33,
     "p100": 68.25
   },
   "category_counts": {
-    "双低空白": 3942,
-    "一般地带": 645,
-    "空心景点": 39,
-    "沉睡潜力": 34,
+    "双低空白": 3912,
+    "一般地带": 669,
+    "空心景点": 40,
+    "沉睡潜力": 39,
     "核心耦合": 2
   },
   "dormant_top10": [
@@ -57,21 +57,21 @@
       "town": "西樵镇",
       "anchor_count": 2,
       "poi_count": 0,
-      "culture": 80.53,
+      "culture": 81.15,
       "tourism": 0.0,
-      "mismatch": -80.53,
+      "mismatch": -81.15,
       "anchor_names": "西樵山百步云梯|西樵山抗日阵亡将士暨死难同胞纪念碑"
     },
     {
-      "ix": 32,
-      "iy": 27,
-      "town": "西樵镇",
-      "anchor_count": 1,
+      "ix": 35,
+      "iy": 12,
+      "town": "九江镇",
+      "anchor_count": 3,
       "poi_count": 0,
-      "culture": 74.89,
+      "culture": 75.8,
       "tourism": 0.0,
-      "mismatch": -74.89,
-      "anchor_names": "西樵山采石场遗址"
+      "mismatch": -75.8,
+      "anchor_names": "赛龙舟（九江传统龙舟）|九江鱼筛编织技艺|九江鹤装狮头制作技艺"
     },
     {
       "ix": 28,
@@ -79,10 +79,32 @@
       "town": "西樵镇",
       "anchor_count": 2,
       "poi_count": 1,
-      "culture": 78.23,
+      "culture": 80.61,
       "tourism": 5.16,
-      "mismatch": -73.06,
+      "mismatch": -75.45,
       "anchor_names": "九江镇烟桥烟南村|九江镇烟桥村"
+    },
+    {
+      "ix": 32,
+      "iy": 27,
+      "town": "西樵镇",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 75.23,
+      "tourism": 0.0,
+      "mismatch": -75.23,
+      "anchor_names": "西樵山采石场遗址"
+    },
+    {
+      "ix": 35,
+      "iy": 13,
+      "town": "九江镇",
+      "anchor_count": 6,
+      "poi_count": 6,
+      "culture": 88.92,
+      "tourism": 14.5,
+      "mismatch": -74.42,
+      "anchor_names": "九江双蒸酒酿制技艺|糕点制作技艺（九江煎堆制作技艺）|九江鱼花生产习俗|九江灯谜|九江刀制作技艺|酱油酿造技艺（九江酱油酿造技艺）"
     },
     {
       "ix": 17,
@@ -90,21 +112,21 @@
       "town": "丹灶镇",
       "anchor_count": 2,
       "poi_count": 0,
-      "culture": 69.02,
+      "culture": 71.95,
       "tourism": 0.0,
-      "mismatch": -69.02,
+      "mismatch": -71.95,
       "anchor_names": "松塘月池及古祠堂群|西樵镇松塘村"
     },
     {
-      "ix": 16,
-      "iy": 55,
-      "town": "丹灶镇",
-      "anchor_count": 6,
-      "poi_count": 6,
-      "culture": 77.99,
-      "tourism": 14.5,
-      "mismatch": -63.49,
-      "anchor_names": "龙舟说唱（南海）|赤坎盲公话|西联村神诞|传统龙舟（丹灶扒龙舟）|丹灶葛洪炼丹传说|烧番塔(仙岗)"
+      "ix": 23,
+      "iy": 32,
+      "town": "西樵镇",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 63.2,
+      "tourism": 0.0,
+      "mismatch": -63.2,
+      "anchor_names": "西樵山传说"
     },
     {
       "ix": 30,
@@ -112,43 +134,10 @@
       "town": "西樵镇",
       "anchor_count": 3,
       "poi_count": 1,
-      "culture": 82.64,
+      "culture": 83.58,
       "tourism": 22.14,
-      "mismatch": -60.5,
+      "mismatch": -61.44,
       "anchor_names": "四峰书院遗址|霍韬夫人墓|西樵山紫姑井"
-    },
-    {
-      "ix": 25,
-      "iy": 31,
-      "town": "西樵镇",
-      "anchor_count": 3,
-      "poi_count": 10,
-      "culture": 78.26,
-      "tourism": 17.86,
-      "mismatch": -60.39,
-      "anchor_names": "庙会（大仙诞庙会）|西樵山传说|西樵白眉武术"
-    },
-    {
-      "ix": 31,
-      "iy": 28,
-      "town": "西樵镇",
-      "anchor_count": 5,
-      "poi_count": 2,
-      "culture": 85.12,
-      "tourism": 27.56,
-      "mismatch": -57.56,
-      "anchor_names": "傅氏宗祠|傅氏山庄南门|敦义崇礼碉楼|傅老榕旧居|西樵山无叶井"
-    },
-    {
-      "ix": 31,
-      "iy": 8,
-      "town": "九江镇",
-      "anchor_count": 1,
-      "poi_count": 0,
-      "culture": 55.3,
-      "tourism": 0.0,
-      "mismatch": -55.3,
-      "anchor_names": "九江灯谜"
     },
     {
       "ix": 9,
@@ -156,10 +145,21 @@
       "town": "丹灶镇",
       "anchor_count": 1,
       "poi_count": 0,
-      "culture": 54.53,
+      "culture": 61.21,
       "tourism": 0.0,
-      "mismatch": -54.53,
+      "mismatch": -61.21,
       "anchor_names": "丹灶镇仙岗社区"
+    },
+    {
+      "ix": 89,
+      "iy": 42,
+      "town": "桂城街道",
+      "anchor_count": 1,
+      "poi_count": 0,
+      "culture": 60.91,
+      "tourism": 0.0,
+      "mismatch": -60.91,
+      "anchor_names": "十番音乐（佛山十番）"
     }
   ],
   "hollow_top10": [
@@ -172,28 +172,6 @@
       "culture": 0.0,
       "tourism": 68.25,
       "mismatch": 68.25,
-      "anchor_names": ""
-    },
-    {
-      "ix": 69,
-      "iy": 59,
-      "town": "桂城街道",
-      "anchor_count": 0,
-      "poi_count": 334,
-      "culture": 0.0,
-      "tourism": 68.18,
-      "mismatch": 68.18,
-      "anchor_names": ""
-    },
-    {
-      "ix": 76,
-      "iy": 69,
-      "town": "大沥镇",
-      "anchor_count": 0,
-      "poi_count": 256,
-      "culture": 0.0,
-      "tourism": 62.32,
-      "mismatch": 62.32,
       "anchor_names": ""
     },
     {
@@ -241,14 +219,14 @@
       "anchor_names": ""
     },
     {
-      "ix": 67,
-      "iy": 56,
-      "town": "桂城街道",
+      "ix": 29,
+      "iy": 24,
+      "town": "西樵镇",
       "anchor_count": 0,
-      "poi_count": 20,
+      "poi_count": 32,
       "culture": 0.0,
-      "tourism": 59.57,
-      "mismatch": 59.57,
+      "tourism": 58.98,
+      "mismatch": 58.98,
       "anchor_names": ""
     },
     {
@@ -271,6 +249,28 @@
       "culture": 0.0,
       "tourism": 58.77,
       "mismatch": 58.77,
+      "anchor_names": ""
+    },
+    {
+      "ix": 8,
+      "iy": 11,
+      "town": "未标注",
+      "anchor_count": 0,
+      "poi_count": 1,
+      "culture": 0.0,
+      "tourism": 58.16,
+      "mismatch": 58.16,
+      "anchor_names": ""
+    },
+    {
+      "ix": 30,
+      "iy": 29,
+      "town": "西樵镇",
+      "anchor_count": 0,
+      "poi_count": 18,
+      "culture": 0.0,
+      "tourism": 57.61,
+      "mismatch": 57.61,
       "anchor_names": ""
     }
   ]
