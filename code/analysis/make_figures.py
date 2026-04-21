@@ -26,6 +26,7 @@ import matplotlib.patches as mpatches
 from matplotlib.colors import LinearSegmentedColormap, TwoSlopeNorm
 import numpy as np
 from shapely.geometry import shape
+from shapely.ops import unary_union
 
 ROOT = Path(__file__).resolve().parents[2]
 TAB = ROOT / "output" / "tables"
@@ -93,11 +94,10 @@ def read_towns():
 
 
 def read_geom():
+    """读取南海区外边界 + 7 个镇街真实 OSM 边界。"""
     with (ROOT / "data/gis/nanhai_boundary.geojson").open("r", encoding="utf-8") as f:
         b = json.load(f)
-    towns_path = ROOT / "output/gis/towns_from_grid.geojson"
-    if not towns_path.exists():
-        towns_path = ROOT / "data/gis/nanhai_towns_voronoi_approx.geojson"
+    towns_path = ROOT / "data/gis/nanhai_towns_real.geojson"
     with towns_path.open("r", encoding="utf-8") as f:
         t = json.load(f)
     boundary = [shape(feat["geometry"]) for feat in b["features"]]
@@ -127,15 +127,17 @@ def plot_polygon_outline(ax, geom, **kwargs):
 
 
 def fig1_mismatch_map(cells, boundary, towns):
+    """
+    绘图口径：以 OSM 7 个镇街的 union 作为整体轮廓，同一套几何既负责
+    底色填充也负责镇界分割。只绘制 town != "未标注" 的网格，
+    避免底色 / 网格 / 轮廓三者边缘对不上。
+    """
     fig, ax = plt.subplots(figsize=(11, 10))
 
-    for g in boundary:
-        plot_polygon(ax, g, color="#f7f7f7", edgecolor="#888", linewidth=0.6, zorder=1)
-    for name, g in towns:
-        plot_polygon_outline(ax, g, color="#999", linewidth=0.6, linestyle="--", zorder=2)
-        cx, cy = g.centroid.x, g.centroid.y
-        ax.text(cx, cy, name, fontsize=10, color="#444", ha="center", va="center",
-                alpha=0.6, zorder=3)
+    town_union = unary_union([g for _, g in towns])
+    plot_polygon(ax, town_union, color="#f3f3f3", edgecolor="none", zorder=1)
+
+    cells_plot = [c for c in cells if c["town"] != "未标注"]
 
     cmap = LinearSegmentedColormap.from_list(
         "mismatch", ["#1a5fb4", "#74c0fc", "#ffffff", "#ffa8a8", "#c92a2a"], N=256
@@ -143,16 +145,27 @@ def fig1_mismatch_map(cells, boundary, towns):
     vmax = 70
     norm = TwoSlopeNorm(vmin=-vmax, vcenter=0, vmax=vmax)
 
-    active = [c for c in cells if c["category"] not in ("双低空白",)]
+    active = [c for c in cells_plot if c["category"] != "双低空白"]
     xs = [c["clng"] for c in active]
     ys = [c["clat"] for c in active]
     ms = [c["mismatch"] for c in active]
     sc = ax.scatter(xs, ys, c=ms, cmap=cmap, norm=norm, marker="s",
-                    s=36, alpha=0.85, linewidths=0.2, edgecolors="none", zorder=4)
+                    s=36, alpha=0.9, linewidths=0, zorder=3)
 
-    dormant = sorted([c for c in cells if c["category"] == "沉睡潜力"],
+    for name, g in towns:
+        plot_polygon_outline(ax, g, color="#444", linewidth=0.9, zorder=4)
+    plot_polygon_outline(ax, town_union, color="#111", linewidth=1.6, zorder=5)
+
+    for name, g in towns:
+        cx, cy = g.centroid.x, g.centroid.y
+        ax.text(cx, cy, name, fontsize=11, color="#111", ha="center", va="center",
+                fontweight="bold", zorder=6,
+                bbox=dict(boxstyle="round,pad=0.18", facecolor="white",
+                          edgecolor="none", alpha=0.75))
+
+    dormant = sorted([c for c in cells_plot if c["category"] == "沉睡潜力"],
                       key=lambda x: x["mismatch"])[:5]
-    hollow = sorted([c for c in cells if c["category"] == "空心景点"],
+    hollow = sorted([c for c in cells_plot if c["category"] == "空心景点"],
                      key=lambda x: -x["mismatch"])[:5]
 
     for c in dormant:
@@ -161,13 +174,15 @@ def fig1_mismatch_map(cells, boundary, towns):
             ax.annotate(label, (c["clng"], c["clat"]),
                         xytext=(10, 10), textcoords="offset points",
                         fontsize=9, color="#1a5fb4",
-                        arrowprops=dict(arrowstyle="-", color="#1a5fb4", lw=0.6))
+                        arrowprops=dict(arrowstyle="-", color="#1a5fb4", lw=0.6),
+                        zorder=7)
     for c in hollow:
         label = f"{c['town']}·{c['poi_count']}POI"
         ax.annotate(label, (c["clng"], c["clat"]),
                     xytext=(10, -12), textcoords="offset points",
                     fontsize=9, color="#c92a2a",
-                    arrowprops=dict(arrowstyle="-", color="#c92a2a", lw=0.6))
+                    arrowprops=dict(arrowstyle="-", color="#c92a2a", lw=0.6),
+                    zorder=7)
 
     cbar = plt.colorbar(sc, ax=ax, shrink=0.6, pad=0.02)
     cbar.set_label("错位值 M  =  旅游热度 − 文化厚度", fontsize=11)
@@ -176,8 +191,11 @@ def fig1_mismatch_map(cells, boundary, towns):
     cbar.ax.text(0.5, -0.02, "沉睡潜力\n（文化厚·旅游冷）", ha="center", va="top",
                  transform=cbar.ax.transAxes, fontsize=9, color="#1a5fb4")
 
-    ax.set_title("图 1  南海区文化—旅游错位地图（500m 网格，n = 2,187）",
-                 fontsize=14, pad=12)
+    ax.set_title(
+        f"图 1  南海区文化—旅游错位地图（500m 网格，共 {len(cells_plot)} 格，"
+        f"仅绘制非双低空白 {len(active)} 格）",
+        fontsize=13, pad=12,
+    )
     ax.set_xlabel("经度")
     ax.set_ylabel("纬度")
     ax.set_aspect(1.08)
@@ -231,7 +249,7 @@ def fig2_category_scatter(cells):
     ax.set_ylim(-3, 85)
     ax.set_xlabel("文化厚度 C（典籍提及 + 官方认证综合得分）", fontsize=11)
     ax.set_ylabel("旅游热度 T（POI 数量 + 评分 + 评论综合得分）", fontsize=11)
-    ax.set_title("图 2  2,187 个网格的文化—旅游分布", fontsize=14, pad=12)
+    ax.set_title(f"图 2  {len(cells):,} 个网格的文化—旅游分布", fontsize=14, pad=12)
     ax.legend(loc="lower right", fontsize=10, framealpha=0.9)
     ax.grid(True, alpha=0.2)
 
@@ -334,11 +352,12 @@ def fig4_density_overlay(cells, boundary, towns):
             plot_polygon(ax, g, color="#fafafa", edgecolor="#666", linewidth=0.8, zorder=1)
         im = ax.contourf(XX, YY, data, levels=15, cmap=cmap, alpha=0.85, zorder=2)
         for name, g in towns:
-            plot_polygon_outline(ax, g, color="#666", linewidth=0.7,
-                                  linestyle="--", zorder=3)
+            plot_polygon_outline(ax, g, color="#333", linewidth=1.0, zorder=3)
             cx, cy = g.centroid.x, g.centroid.y
-            ax.text(cx, cy, name, fontsize=9, color="#333",
-                    ha="center", va="center", alpha=0.85, zorder=4)
+            ax.text(cx, cy, name, fontsize=9, color="#111",
+                    ha="center", va="center", zorder=4,
+                    bbox=dict(boxstyle="round,pad=0.15", facecolor="white",
+                              edgecolor="none", alpha=0.7))
         ax.set_title(title, fontsize=12)
         ax.set_xlabel("经度")
         ax.set_ylabel("纬度")
@@ -364,35 +383,44 @@ def fig5_jiujiang(cells, towns):
 
     fig, ax = plt.subplots(figsize=(10, 9))
 
-    plot_polygon(ax, jj, color="#f7f7f7", edgecolor="#333", linewidth=1.0, zorder=1)
+    plot_polygon(ax, jj, color="#fafafa", edgecolor="#222", linewidth=1.4, zorder=1)
 
     jj_cells = [c for c in cells if c["town"] == "九江镇"]
 
-    for c in jj_cells:
-        col = CAT_COLORS.get(c["category"], "#cccccc")
-        size = 45 if c["category"] in ("沉睡潜力", "空心景点", "核心耦合") else 22
-        alpha = 0.85 if c["category"] in ("沉睡潜力", "空心景点", "核心耦合") else 0.35
-        ax.scatter(c["clng"], c["clat"], color=col, s=size, alpha=alpha,
-                    marker="s", linewidths=0, zorder=3)
+    cat_order = ["双低空白", "一般地带", "核心耦合", "沉睡潜力", "空心景点"]
+    size_map = {"沉睡潜力": 48, "空心景点": 48, "核心耦合": 48,
+                "一般地带": 32, "双低空白": 32}
+    alpha_map = {"沉睡潜力": 0.9, "空心景点": 0.9, "核心耦合": 0.9,
+                 "一般地带": 0.55, "双低空白": 0.55}
+
+    for cat in cat_order:
+        sub = [c for c in jj_cells if c["category"] == cat]
+        if not sub:
+            continue
+        ax.scatter([c["clng"] for c in sub], [c["clat"] for c in sub],
+                   color=CAT_COLORS[cat], s=size_map[cat],
+                   alpha=alpha_map[cat], marker="s", linewidths=0, zorder=3)
+
+    plot_polygon_outline(ax, jj, color="#222", linewidth=1.6, zorder=4)
 
     for c in jj_cells:
         if c["category"] == "沉睡潜力" and c["anchor_names"]:
             label = c["anchor_names"].split("|")[0]
             ax.annotate(label, (c["clng"], c["clat"]),
                         xytext=(6, 6), textcoords="offset points",
-                        fontsize=9, color="#1a5fb4")
+                        fontsize=9, color="#1a5fb4", zorder=5)
         elif c["category"] == "空心景点":
             label = f"{c['poi_count']} POI"
             ax.annotate(label, (c["clng"], c["clat"]),
                         xytext=(6, -10), textcoords="offset points",
-                        fontsize=9, color="#c92a2a")
+                        fontsize=9, color="#c92a2a", zorder=5)
 
     n_dormant = sum(1 for c in jj_cells if c["category"] == "沉睡潜力")
     n_hollow = sum(1 for c in jj_cells if c["category"] == "空心景点")
     anchor_total = sum(c["anchor_count"] for c in jj_cells)
     poi_total = sum(c["poi_count"] for c in jj_cells)
 
-    text = (f"九江镇统计\n"
+    text = (f"九江镇统计（真实 OSM 行政边界）\n"
             f"  网格数: {len(jj_cells)}\n"
             f"  文化载体: {anchor_total} 条\n"
             f"  POI: {poi_total} 个\n"
@@ -412,7 +440,13 @@ def fig5_jiujiang(cells, towns):
     ]
     ax.legend(handles=handles, loc="lower right", fontsize=10)
 
-    ax.set_title("图 5  九江镇专题：文化高地 vs 旅游数据", fontsize=13, pad=10)
+    minx, miny, maxx, maxy = jj.bounds
+    dx, dy = (maxx - minx) * 0.04, (maxy - miny) * 0.04
+    ax.set_xlim(minx - dx, maxx + dx)
+    ax.set_ylim(miny - dy, maxy + dy)
+
+    ax.set_title("图 5  九江镇专题：真实行政边界 + 500m 网格错位分布",
+                 fontsize=13, pad=10)
     ax.set_xlabel("经度")
     ax.set_ylabel("纬度")
     ax.set_aspect(1.08)

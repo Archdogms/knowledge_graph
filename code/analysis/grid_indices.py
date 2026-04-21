@@ -3,12 +3,13 @@
 动机：
   旧版 build_indices.py 只以 165 条文化载体为样本，样本过少且忽略了 13,512 个 POI
   本身携带的空间分布信息。本脚本把整个南海区切成 500 m 网格，让每一格独立参与
-  文化/旅游/错位三项度量，从而把分析样本量从 165 提升到约 5,000 个有效网格。
+  文化/旅游/错位三项度量，从而把分析样本量从 165 提升到 2,000+ 个有效网格。
 
 三个度量（每一格都会得到一组值）：
   1) 文化厚度 C：格内典籍被提到的总次数 + 格内文化载体的官方认证加权之和，
-     先各自取 log(1+x) 压缩，再加权合并为 0–100 的连续分数。
-  2) 旅游热度 T：格内 POI 数、POI 平均评分、POI 周边评论总数，加权合并为 0–100。
+     先各自取 log(1+x) 压缩，再 Min-Max 归一到 0–100，权重 0.6/0.4 合并。
+  2) 旅游热度 T：格内 POI 数、POI 平均评分、POI 周边评论总数，分别归一后
+     以 0.45/0.20/0.35 权重合并为 0–100。
   3) 错位 M = T − C，区间 [−100, 100]。
      M < 0：文化厚但旅游冷（沉睡）；M > 0：旅游热但文化薄（空心）。
 
@@ -17,13 +18,13 @@
   data/entities/entities.json          (含 mentions 字段)
   data/poi/poi_cleaned.json
   data/reviews/review_summary_merged.json
-  data/gis/nanhai_boundary.geojson     (用于判定网格是否在南海区内)
-  data/gis/nanhai_towns_voronoi_approx.geojson (用于给每个网格打上镇街标签)
+  data/gis/nanhai_boundary.geojson     (南海区外边界，用于区内过滤)
+  data/gis/nanhai_towns_real.geojson   (7 个镇街的 OSM 真实行政边界)
 
 输出：
-  output/tables/grid_indices.csv          网格级三项指标全表（仅保留区内网格）
-  output/tables/grid_town_summary.csv     按镇街汇总（含网格计数、均值）
-  output/tables/grid_overview.json        运行摘要（分位、Top 10 沉睡/空心网格）
+  output/tables/grid_indices.csv          网格级三项指标全表（区内所有网格）
+  output/tables/grid_town_summary.csv     按镇街汇总
+  output/tables/grid_overview.json        运行摘要
 """
 
 from __future__ import annotations
@@ -31,12 +32,11 @@ from __future__ import annotations
 import csv
 import json
 import math
-from collections import Counter, defaultdict
+from collections import defaultdict
 from pathlib import Path
 
 import numpy as np
-from shapely.geometry import MultiPolygon, Point, Polygon, box, mapping, shape
-from shapely.ops import unary_union
+from shapely.geometry import Point, shape
 from shapely.strtree import STRtree
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -66,7 +66,7 @@ def minmax(arr, lo=0.0, hi=100.0):
 
 
 def oai_weight(anchor: dict) -> float:
-    """文化载体的官方认证加权分（用于累加到文化厚度）。"""
+    """文化载体的官方认证加权分（累加进文化厚度的第二项原始值）。"""
     lv = (anchor.get("protection_level") or "") + "|" + (anchor.get("anchor_type") or "")
     if any(k in lv for k in ["全国重点", "国家级", "中国历史文化名镇"]):
         return 4.0
@@ -114,11 +114,11 @@ def main():
     reviews = load_json(DATA / "reviews" / "review_summary_merged.json")
     review_idx = {r.get("name"): r for r in reviews}
     boundary_fc = load_json(DATA / "gis" / "nanhai_boundary.geojson")
-    towns_fc = load_json(DATA / "gis" / "nanhai_towns_voronoi_approx.geojson")
+    towns_fc = load_json(DATA / "gis" / "nanhai_towns_real.geojson")
 
     print(f"     anchors={len(anchors)}  entities={len(entities)}  pois={len(pois)}  reviews={len(reviews)}")
 
-    print("[2/6] 构建南海区边界与镇街几何 ...")
+    print("[2/6] 构建南海区边界与 7 个镇街真实行政边界 ...")
     boundary_geom = None
     for feat in boundary_fc["features"]:
         g = shape(feat["geometry"])
@@ -146,49 +146,6 @@ def main():
         if (i + 1) % 50 == 0:
             print(f"     已处理 {i + 1}/{len(anchors)} 条载体")
 
-    valid_names_set = set(town_names)
-    poi_arr = []
-    poi_twn = []
-    for p in pois:
-        pt = p.get("town")
-        if pt not in valid_names_set:
-            continue
-        try:
-            plng, plat = float(p.get("lng")), float(p.get("lat"))
-        except Exception:
-            continue
-        if not (math.isfinite(plng) and math.isfinite(plat)):
-            continue
-        poi_arr.append((plng, plat))
-        poi_twn.append(pt)
-    poi_arr = np.array(poi_arr) if poi_arr else np.empty((0, 2))
-
-    def nearest_poi_town(lng: float, lat: float) -> str | None:
-        if poi_arr.size == 0:
-            return None
-        d2 = (poi_arr[:, 0] - lng) ** 2 + (poi_arr[:, 1] - lat) ** 2
-        return poi_twn[int(np.argmin(d2))]
-
-    n_anchor_fallback = 0
-    for a in anchors:
-        t = a.get("town")
-        if t in valid_names_set:
-            a["_effective_town"] = t
-            continue
-        try:
-            lngf, latf = float(a.get("lng")), float(a.get("lat"))
-        except Exception:
-            a["_effective_town"] = None
-            continue
-        if not (math.isfinite(lngf) and math.isfinite(latf)):
-            a["_effective_town"] = None
-            continue
-        nt = nearest_poi_town(lngf, latf)
-        a["_effective_town"] = nt
-        if nt is not None:
-            n_anchor_fallback += 1
-    print(f"     载体 town 字段 nan 但经最近 POI 修复：{n_anchor_fallback} 条")
-
     print("[4/6] 切网格并把点落格 ...")
     minx, miny, maxx, maxy = boundary_geom.bounds
     lng0 = math.floor(minx * 1000) / 1000
@@ -198,7 +155,7 @@ def main():
     step = GRID_SIZE_DEG
     nx = int(math.ceil((lng1 - lng0) / step))
     ny = int(math.ceil((lat1 - lat0) / step))
-    print(f"     网格起点 ({lng0:.3f}, {lat0:.3f}) 尺寸 {nx} × {ny} = {nx * ny} 格")
+    print(f"     网格起点 ({lng0:.3f}, {lat0:.3f}) 尺寸 {nx} × {ny} = {nx * ny} 格（外包框）")
 
     grids: dict[tuple[int, int], dict] = defaultdict(lambda: {
         "anchor_count": 0,
@@ -209,10 +166,7 @@ def main():
         "rating_sum": 0.0,
         "rating_n": 0,
         "review_total": 0,
-        "town_votes": Counter(),
     })
-
-    valid_town_names = set(town_names)
 
     for a, m in zip(anchors, anchor_mentions):
         lng, lat = a.get("lng"), a.get("lat")
@@ -233,9 +187,6 @@ def main():
             g["anchor_names"].append(a.get("name") or "")
         g["mentions_sum"] += m
         g["oai_sum"] += oai_weight(a)
-        at = a.get("_effective_town") or a.get("town")
-        if at in valid_town_names:
-            g["town_votes"][at] += 3
 
     for p in pois:
         lng, lat = p.get("lng"), p.get("lat")
@@ -263,44 +214,44 @@ def main():
         rv = review_idx.get(p.get("name", ""))
         if rv:
             g["review_total"] += int(rv.get("total_count", 0) or 0)
-        pt_town = p.get("town")
-        if pt_town in valid_town_names:
-            g["town_votes"][pt_town] += 1
 
-    print(f"     有效网格 {len(grids)} 个（至少含 1 个点）")
+    print(f"     有点网格 {len(grids)} 个（仅此类格的 C/T 可能 > 0）")
 
-    print("[5/6] 计算三项指标并做区内过滤 ...")
+    print("[5/6] 枚举区内所有网格并计算三项指标 ...")
+    empty_tpl = {
+        "anchor_count": 0, "anchor_names": [], "mentions_sum": 0.0,
+        "oai_sum": 0.0, "poi_count": 0, "rating_sum": 0.0,
+        "rating_n": 0, "review_total": 0,
+    }
+
     cells = []
-    n_town_by_vote = 0
-    n_town_by_voronoi = 0
-    for (ix, iy), g in grids.items():
-        clng = lng0 + (ix + 0.5) * step
-        clat = lat0 + (iy + 0.5) * step
-        pt = Point(clng, clat)
-        if not boundary_geom.contains(pt):
-            continue
-        votes = g["town_votes"]
-        if votes:
-            town = votes.most_common(1)[0][0]
-            n_town_by_vote += 1
-        else:
+    for ix in range(nx):
+        for iy in range(ny):
+            clng = lng0 + (ix + 0.5) * step
+            clat = lat0 + (iy + 0.5) * step
+            pt = Point(clng, clat)
+            if not boundary_geom.contains(pt):
+                continue
+            g = grids.get((ix, iy), empty_tpl)
             town = which_town(pt)
-            n_town_by_voronoi += 1
-        cells.append({
-            "ix": ix,
-            "iy": iy,
-            "clng": round(clng, 6),
-            "clat": round(clat, 6),
-            "town": town,
-            "anchor_count": g["anchor_count"],
-            "anchor_names": "|".join(g["anchor_names"]),
-            "mentions_sum": g["mentions_sum"],
-            "oai_sum": g["oai_sum"],
-            "poi_count": g["poi_count"],
-            "avg_rating": round(g["rating_sum"] / g["rating_n"], 2) if g["rating_n"] else 0.0,
-            "review_total": g["review_total"],
-        })
-    print(f"     镇归属：{n_town_by_vote} 个网格由 POI/载体投票确定，{n_town_by_voronoi} 个网格由 Voronoi 兜底")
+            cells.append({
+                "ix": ix,
+                "iy": iy,
+                "clng": round(clng, 6),
+                "clat": round(clat, 6),
+                "town": town,
+                "anchor_count": g["anchor_count"],
+                "anchor_names": "|".join(g["anchor_names"]) if g["anchor_names"] else "",
+                "mentions_sum": g["mentions_sum"],
+                "oai_sum": g["oai_sum"],
+                "poi_count": g["poi_count"],
+                "avg_rating": round(g["rating_sum"] / g["rating_n"], 2) if g["rating_n"] else 0.0,
+                "review_total": g["review_total"],
+            })
+
+    n_with_anchor = sum(1 for c in cells if c["anchor_count"] > 0)
+    n_with_poi = sum(1 for c in cells if c["poi_count"] > 0)
+    print(f"     区内网格共 {len(cells)} 个；含载体 {n_with_anchor} 个；含 POI {n_with_poi} 个")
 
     m_log = np.array([math.log1p(c["mentions_sum"]) for c in cells])
     oai_log = np.array([math.log1p(c["oai_sum"]) for c in cells])
@@ -402,7 +353,7 @@ def main():
     def pct(arr, qs=(0, 25, 50, 75, 100)):
         return {f"p{q}": round(float(np.percentile(arr, q)), 2) for q in qs}
 
-    def brief(c, extra_fields):
+    def brief(c):
         return {k: c[k] for k in ["ix", "iy", "town", "anchor_count", "poi_count",
                                       "culture", "tourism", "mismatch"]} | \
                {"anchor_names": c["anchor_names"]}
@@ -411,53 +362,33 @@ def main():
         "generated_at": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "grid_size_m": 500,
         "n_cells_total": len(cells),
-        "n_cells_with_anchor": sum(1 for c in cells if c["anchor_count"] > 0),
-        "n_cells_with_poi": sum(1 for c in cells if c["poi_count"] > 0),
+        "n_cells_with_anchor": n_with_anchor,
+        "n_cells_with_poi": n_with_poi,
         "weights": {
-            "culture": {"mentions": 0.6, "official": 0.4},
-            "tourism": {"poi_count": 0.45, "rating": 0.20, "review": 0.35},
+            "culture": {"mentions_log1p": 0.6, "oai_log1p": 0.4},
+            "tourism": {"poi_count_log1p": 0.45, "avg_rating": 0.20, "review_total_log1p": 0.35},
+        },
+        "thresholds": {
+            "core_coupling": "culture>=50 AND tourism>=50 AND |M|<=15",
+            "dormant_potential": "culture>=50 AND M<-15",
+            "hollow_attraction": "tourism>=50 AND M>15",
+            "double_low_blank": "culture<25 AND tourism<25",
+            "general": "其余情形",
         },
         "culture_quantiles": pct([c["culture"] for c in cells]),
         "tourism_quantiles": pct([c["tourism"] for c in cells]),
         "mismatch_quantiles": pct([c["mismatch"] for c in cells]),
         "category_counts": dict(cat_count),
-        "dormant_top10": [brief(c, []) for c in dormant_top],
-        "hollow_top10": [brief(c, []) for c in hollow_top],
+        "dormant_top10": [brief(c) for c in dormant_top],
+        "hollow_top10": [brief(c) for c in hollow_top],
     }
     with (OUT / "grid_overview.json").open("w", encoding="utf-8") as f:
         json.dump(overview, f, ensure_ascii=False, indent=2)
 
-    town_boxes: dict[str, list[Polygon]] = defaultdict(list)
-    half = step / 2
-    for c in cells:
-        if c["town"] in ("未标注", ""):
-            continue
-        cx, cy = c["clng"], c["clat"]
-        town_boxes[c["town"]].append(box(cx - half, cy - half, cx + half, cy + half))
-
-    gis_out = ROOT / "output" / "gis"
-    gis_out.mkdir(parents=True, exist_ok=True)
-    features = []
-    for name, boxes in town_boxes.items():
-        merged = unary_union(boxes)
-        if boundary_geom is not None:
-            merged = merged.intersection(boundary_geom)
-        if merged.is_empty:
-            continue
-        if not isinstance(merged, (Polygon, MultiPolygon)):
-            continue
-        features.append({
-            "type": "Feature",
-            "properties": {"name": name, "source": "grid_vote"},
-            "geometry": mapping(merged),
-        })
-    with (ROOT / "output" / "gis" / "towns_from_grid.geojson").open("w", encoding="utf-8") as f:
-        json.dump({"type": "FeatureCollection", "features": features}, f, ensure_ascii=False)
-
     print("\n========= 汇总 =========")
     print(f"区内网格数: {len(cells)}")
-    print(f"含文化载体: {sum(1 for c in cells if c['anchor_count'] > 0)}")
-    print(f"含 POI:     {sum(1 for c in cells if c['poi_count'] > 0)}")
+    print(f"含文化载体: {n_with_anchor}")
+    print(f"含 POI:     {n_with_poi}")
     print(f"分层计数:   {dict(cat_count)}")
     print("已生成：grid_indices.csv, grid_town_summary.csv, grid_overview.json")
 
